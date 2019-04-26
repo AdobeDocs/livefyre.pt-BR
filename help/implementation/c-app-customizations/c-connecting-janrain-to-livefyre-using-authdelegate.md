@@ -7,7 +7,7 @@ seo-title: Conectando Janrain ao Livefyre usando authdelegate
 title: Conectando Janrain ao Livefyre usando authdelegate
 uuid: 9 d 56 e 3 f 4-960 a -4108-aab 5-2795 b 0 e 71 c 88
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

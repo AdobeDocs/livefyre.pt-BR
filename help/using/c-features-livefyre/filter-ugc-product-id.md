@@ -9,7 +9,7 @@ seo-title: Filtrar UGC por ID de produto
 title: Filtrar UGC por ID de produto
 uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 
 ---
 
