@@ -1,7 +1,6 @@
 ---
 description: Altere as opções de tamanho, largura e interação do aplicativo de Sidenotes.
-seo-description: Altere as opções de tamanho, largura e interação do aplicativo de
-  Sidenotes.
+seo-description: Altere as opções de tamanho, largura e interação do aplicativo de Sidenotes.
 seo-title: Personalizações de sidecotes
 solution: Experience Manager
 title: Personalizações de sidecotes

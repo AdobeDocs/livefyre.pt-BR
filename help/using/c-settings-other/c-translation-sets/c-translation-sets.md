@@ -1,8 +1,6 @@
 ---
-description: Os conjuntos de traduções permitem especificar idioma alternativo para
-  aplicativos.
-seo-description: Os conjuntos de traduções permitem especificar idioma alternativo
-  para aplicativos.
+description: Os conjuntos de traduções permitem especificar idioma alternativo para aplicativos.
+seo-description: Os conjuntos de traduções permitem especificar idioma alternativo para aplicativos.
 seo-title: Conjuntos de tradução
 solution: Experience Manager
 title: Conjuntos de tradução
@@ -123,7 +121,7 @@ Strings disponíveis para ações do usuário: sinalizar, compartilhar e marcar 
 |  | Wasreviewhelpfulmobile | Útil? |
 |  | Ownwasreviewhelpous | [Encontrado útil.](https://d.pr/i/Q0mA) |
 |  | Reviewwashelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [& amp; vert;](https://d.pr/i/Q0mA) |
+|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
 |  | Reviewwasnothelpous | [Não](https://d.pr/i/Q0mA) |
 | Voto modal | Expressetitle | Essa revisão foi útil? |
 |  | Votedownvotem | Não |
@@ -247,9 +245,9 @@ As classificações disponíveis para o autor e informações de conteúdo indiv
 |  | Commentvotecount | votos |
 |  | Commentvotecountsing | vote |
 |  | Datetimeminuteprefix | m |
-|  | Datetimemonths | Uma matriz. Padrão =[ ' janeiro ',' fevereiro ',' março ',' abril ',' maio ',' junho ',' julho ',' agosto ',' setembro ',' novembro ',' novembro ',' dezembro ' ] |
+|  | Datetimemonths | Uma matriz. Padrão =[ &#39; janeiro &#39;,&#39; fevereiro &#39;,&#39; março &#39;,&#39; abril &#39;,&#39; maio &#39;,&#39; junho &#39;,&#39; julho &#39;,&#39; agosto &#39;,&#39; setembro &#39;,&#39; novembro &#39;,&#39; novembro &#39;,&#39; dezembro &#39; ] |
 |  | Questionexplanation | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto</span> e clique no <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou clique no <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone ao final de cada parágrafo. |
-|  | Questionmocktext | O que é conhecido como "familiar" não é conhecido corretamente, apenas pelo motivo pelo qual é "familiar". |
+|  | Questionmocktext | O que é conhecido como &quot;familiar&quot; não é conhecido corretamente, apenas pelo motivo pelo qual é &quot;familiar&quot;. |
 |  | Questiontitle | O que é um sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}

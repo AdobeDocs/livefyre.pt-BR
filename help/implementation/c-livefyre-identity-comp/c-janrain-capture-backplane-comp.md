@@ -1,10 +1,6 @@
 ---
-description: Os clientes que usam o Janrain Capture e o Backplano podem usar o Livefyre
-  Auth para logon único (SSO), permitindo que os usuários interajam imediatamente
-  com seus aplicativos do Livefyre quando fizerem logon em seu site.
-seo-description: Os clientes que usam o Janrain Capture e o Backplano podem usar o
-  Livefyre Auth para logon único (SSO), permitindo que os usuários interajam imediatamente
-  com seus aplicativos do Livefyre quando fizerem logon em seu site.
+description: Os clientes que usam o Janrain Capture e o Backplano podem usar o Livefyre Auth para logon único (SSO), permitindo que os usuários interajam imediatamente com seus aplicativos do Livefyre quando fizerem logon em seu site.
+seo-description: Os clientes que usam o Janrain Capture e o Backplano podem usar o Livefyre Auth para logon único (SSO), permitindo que os usuários interajam imediatamente com seus aplicativos do Livefyre quando fizerem logon em seu site.
 seo-title: Janrain Capturar/Plano de Fundo
 solution: Experience Manager
 title: Janrain Capturar/Plano de Fundo

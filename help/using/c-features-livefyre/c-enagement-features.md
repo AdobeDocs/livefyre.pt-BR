@@ -1,8 +1,6 @@
 ---
-description: Envolva os visitantes do site com recursos que os mantêm retornados ao
-  site quando eles descobrirem o conteúdo.
-seo-description: Envolva os visitantes do site com recursos que os mantêm retornados
-  ao site quando eles descobrirem o conteúdo.
+description: Envolva os visitantes do site com recursos que os mantêm retornados ao site quando eles descobrirem o conteúdo.
+seo-description: Envolva os visitantes do site com recursos que os mantêm retornados ao site quando eles descobrirem o conteúdo.
 seo-title: Recursos de aceitação
 solution: Experience Manager
 title: Recursos de aceitação
@@ -31,7 +29,7 @@ Aplicativos que usam este recurso:
 
 ## Curtir {#section_q4j_ycm_d1b}
 
-Adicione a capacidade de "como" um comentário ou resposta.
+Adicione a capacidade de &quot;como&quot; um comentário ou resposta.
 
 Aplicativos que usam este recurso:
 

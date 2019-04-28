@@ -21,7 +21,7 @@ A exibição de Hot Threads exibe os 25 threads mais populares no aplicativo, or
 >
 >Os Hot Threads estão disponíveis em Comentários, mas não em Blog ativo ou Bate-papo.
 
-Para obter mais informações sobre como ativar a exibição de Encadeamentos, consulte Studio > Configurações de rede.
+Para obter mais informações sobre como ativar a exibição de Encadeamentos, consulte Studio &gt; Configurações de rede.
 
 ## Visualizações {#section_xhh_2dl_wy}
 

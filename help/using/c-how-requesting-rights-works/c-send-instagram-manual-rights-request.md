@@ -1,15 +1,11 @@
 ---
-description: É possível solicitar o direito de reutilizar um ativo do Instagram obtido
-  de uma hashtag, URL ou pesquisa do Instagram com base em localização usando um fluxo
-  de trabalho manual.
-seo-description: É possível solicitar o direito de reutilizar um ativo do Instagram
-  obtido de uma hashtag, URL ou pesquisa do Instagram com base em localização usando
-  um fluxo de trabalho manual.
+description: É possível solicitar o direito de reutilizar um ativo do Instagram obtido de uma hashtag, URL ou pesquisa do Instagram com base em localização usando um fluxo de trabalho manual.
+seo-description: É possível solicitar o direito de reutilizar um ativo do Instagram obtido de uma hashtag, URL ou pesquisa do Instagram com base em localização usando um fluxo de trabalho manual.
 seo-title: Enviar solicitação de direitos do Instagram manualmente
 title: Enviar solicitação de direitos do Instagram manualmente
 uuid: c 07 b 3 f 6 f-c 14 c -4 e 62-b 18 b -25934 ebe 45 bf
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 

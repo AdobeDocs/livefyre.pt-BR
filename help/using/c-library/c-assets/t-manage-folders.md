@@ -1,7 +1,6 @@
 ---
 description: O Studio oferece várias opções pelas quais você pode gerenciar suas pastas.
-seo-description: O Studio oferece várias opções pelas quais você pode gerenciar suas
-  pastas.
+seo-description: O Studio oferece várias opções pelas quais você pode gerenciar suas pastas.
 seo-title: Gerenciar pastas de ativos
 solution: Experience Manager
 title: Gerenciar pastas de ativos

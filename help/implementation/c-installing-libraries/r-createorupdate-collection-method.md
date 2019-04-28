@@ -1,8 +1,6 @@
 ---
-description: Tenta criar ou atualizar esta coleção com o Livefyre. Retorna esse objeto
-  Collection.
-seo-description: Tenta criar ou atualizar esta coleção com o Livefyre. Retorna esse
-  objeto Collection.
+description: Tenta criar ou atualizar esta coleção com o Livefyre. Retorna esse objeto Collection.
+seo-description: Tenta criar ou atualizar esta coleção com o Livefyre. Retorna esse objeto Collection.
 seo-title: Método de coleta createorupdate
 solution: Experience Manager
 title: Método de coleta createorupdate

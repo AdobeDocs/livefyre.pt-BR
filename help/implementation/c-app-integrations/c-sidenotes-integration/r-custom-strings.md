@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Vincular strings personalizadas
 title: Vincular strings personalizadas
 uuid: 73745273-d 3 fb -4569-8910-d 149 fb 37 a 7 b 4
@@ -81,8 +81,8 @@ new Livefyre.Sidenotes({
 | Notificationflagged | Sinalizado |
 | Permalinkbackbtn | Todos |
 | Permalinktitle | Permalink |
-| Questionexplanation | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br>Realce o texto e clique no ícone "fycon-write" ou clique no ícone "fycon-action-view" ao final de cada parágrafo. |
-| Questionmocktext | O que é conhecido como "familiar" não é conhecido corretamente, apenas pelo motivo pelo qual é "familiar". |
+| Questionexplanation | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br>Realce o texto e clique no ícone &quot;fycon-write&quot; ou clique no ícone &quot;fycon-action-view&quot; ao final de cada parágrafo. |
+| Questionmocktext | O que é conhecido como &quot;familiar&quot; não é conhecido corretamente, apenas pelo motivo pelo qual é &quot;familiar&quot;. |
 | Questiontitle | O que é um sidenote? |
 | Queuedcommentsplural | {número} Novas seções |
 | Queuedcommentssingular | 1 Novo sidenote |

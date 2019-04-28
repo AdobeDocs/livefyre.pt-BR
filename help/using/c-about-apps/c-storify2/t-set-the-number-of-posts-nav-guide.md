@@ -1,8 +1,6 @@
 ---
-description: Defina quantas publicações os visitantes do site podem ver no Guia de
-  navegação.
-seo-description: Defina quantas publicações os visitantes do site podem ver no Guia
-  de navegação.
+description: Defina quantas publicações os visitantes do site podem ver no Guia de navegação.
+seo-description: Defina quantas publicações os visitantes do site podem ver no Guia de navegação.
 seo-title: Definir o número de publicações no Guia de navegação
 solution: Experience Manager
 title: Definir o número de publicações no Guia de navegação

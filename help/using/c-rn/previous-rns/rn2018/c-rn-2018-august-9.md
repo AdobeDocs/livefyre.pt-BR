@@ -30,7 +30,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 | Bug | Conteúdo do aplicativo | Correção de um problema que impedia os administradores e os gerentes de conteúdo de editar conteúdo no Conteúdo do aplicativo. |
 | Aprimoramento | Aplicativos | As redes sociais fizeram alterações de privacidade que significam que as menções sociais não serão mais suportadas para Facebook ou Twitter. |
 | Aprimoramento | Aplicativos | As redes sociais fizeram alterações de privacidade. O recurso «Postar para» que posta automaticamente o conteúdo em redes sociais (Facebook, linkedin, Twitter) foi removido. |
-| Aprimoramento | RGPD | O modo de detalhes foi removido da página de detalhes da solicitação em Configurações > Privacidade. A alternância do modo de detalhes ainda pode ser acessada adicionando /dbg no final do URL. |
+| Aprimoramento | RGPD | O modo de detalhes foi removido da página de detalhes da solicitação em Configurações &gt; Privacidade. A alternância do modo de detalhes ainda pode ser acessada adicionando /dbg no final do URL. |
 | Bug | Integração: AEM | Correção de um problema em que arrastar e soltar aplicativos do Livefyre no AEM aparecia para criar vários aplicativos. |
 | Bug | Biblioteca | Correção de um problema em que um ativo não salvava corretamente na biblioteca. |
 | Bug | Identidade do Livefyre | Correção de um problema com identidade LF que causava erros 403 ao fazer logon. |

@@ -35,8 +35,8 @@ Você pode personalizar os Cartões de recursos usando:
       >
       >O conteúdo é exibido mesmo se os direitos não forem concedidos para o conteúdo, mas o botão Chamar a ação não será exibido com o conteúdo, a menos que os direitos do conteúdo sejam concedidos.
 
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é "Loja desses produtos: ".
-   * **[!UICONTROL Call-to-action button text]** Personalize o texto no botão Chamar a ação. O texto padrão é "Comprar agora".
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é &quot;Loja desses produtos: &quot;.
+   * **[!UICONTROL Call-to-action button text]** Personalize o texto no botão Chamar a ação. O texto padrão é &quot;Comprar agora&quot;.
    * **[!UICONTROL Product display options]** Escolha se deseja exibir o **[!UICONTROL Photo]** botão **[!UICONTROL Product name]** de ação de chamada e chamada.
    * **[!UICONTROL Product URL referral tracking]** Alterne a alternância para para rastrear as referências deste aplicativo para a página do produto associada.
    * **[!UICONTROL Referral tracking key-value pairs]** Adicione parâmetros para especificar ainda mais o rastreamento de referência do conteúdo do aplicativo para a página do produto associada.

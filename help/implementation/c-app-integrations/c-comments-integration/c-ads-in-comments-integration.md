@@ -81,11 +81,11 @@ Esses itens são passados por meio do objeto convconfig em nosso exemplo e são 
 
 O delegado retorna um objeto que contém:
 
-* **elemento:*****elemento* DOM necessário** - o elemento que contém a publicidade a ser inserida no aplicativo.
+* **elemento:*****elemento*DOM necessário** - o elemento que contém a publicidade a ser inserida no aplicativo.
 
 **Assíncrono**: O delegado retorna um objeto que contém: O delegado retorna um objeto que contém duas propriedades: elemento e retorno de chamada:
 
-* **elemento:*****elemento* DOM necessário** - o elemento que contém a publicidade a ser inserida no aplicativo.
+* **elemento:*****elemento*DOM necessário** - o elemento que contém a publicidade a ser inserida no aplicativo.
 * **retorno de chamada:*****função necessária*** - o retorno de chamada que manipulará a inserção do anúncio no elemento DOM acima.
 
 Para o `Conv` objeto, é possível passar uma sequência de caracteres para indicar o título da seção do anúncio:

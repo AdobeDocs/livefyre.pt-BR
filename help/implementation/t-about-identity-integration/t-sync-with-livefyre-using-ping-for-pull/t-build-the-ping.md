@@ -1,8 +1,6 @@
 ---
-description: Crie o ping para que sua página armazene o Livefyre quando os usuários
-  atualizam o perfil.
-seo-description: Crie o ping para que sua página armazene o Livefyre quando os usuários
-  atualizam o perfil.
+description: Crie o ping para que sua página armazene o Livefyre quando os usuários atualizam o perfil.
+seo-description: Crie o ping para que sua página armazene o Livefyre quando os usuários atualizam o perfil.
 seo-title: Criar o ping
 solution: Experience Manager
 title: Criar o ping

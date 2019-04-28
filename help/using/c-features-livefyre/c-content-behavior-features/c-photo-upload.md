@@ -1,8 +1,6 @@
 ---
-description: Carregue imagens em um fluxo de blog, bate-papo, revisão ou comentários
-  ao vivo.
-seo-description: Carregue imagens em um fluxo de blog, bate-papo, revisão ou comentários
-  ao vivo.
+description: Carregue imagens em um fluxo de blog, bate-papo, revisão ou comentários ao vivo.
+seo-description: Carregue imagens em um fluxo de blog, bate-papo, revisão ou comentários ao vivo.
 seo-title: Carregar foto
 solution: Experience Manager
 title: Carregar foto

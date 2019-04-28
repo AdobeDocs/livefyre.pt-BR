@@ -1,8 +1,6 @@
 ---
-description: O Livefyre usa uma interface de PUSH para enviar informações externas
-  do sistema sobre alterações nas permissões do usuário.
-seo-description: O Livefyre usa uma interface de PUSH para enviar informações externas
-  do sistema sobre alterações nas permissões do usuário.
+description: O Livefyre usa uma interface de PUSH para enviar informações externas do sistema sobre alterações nas permissões do usuário.
+seo-description: O Livefyre usa uma interface de PUSH para enviar informações externas do sistema sobre alterações nas permissões do usuário.
 seo-title: Publicar permissões de usuário para sistemas externos (opcional)
 solution: Experience Manager
 title: Publicar permissões de usuário para sistemas externos (opcional)

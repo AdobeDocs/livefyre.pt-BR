@@ -1,8 +1,6 @@
 ---
-description: Uma lista de navegadores e dispositivos compatíveis com o conjunto de
-  aplicativos Livefyre.
-seo-description: Uma lista de navegadores e dispositivos compatíveis com o conjunto
-  de aplicativos Livefyre.
+description: Uma lista de navegadores e dispositivos compatíveis com o conjunto de aplicativos Livefyre.
+seo-description: Uma lista de navegadores e dispositivos compatíveis com o conjunto de aplicativos Livefyre.
 seo-title: Suporte para dispositivo e navegador
 title: Suporte para dispositivo e navegador
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce

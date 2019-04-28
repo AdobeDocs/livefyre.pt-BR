@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Eventos do Livefyre Analytics
 solution: Experience Manager
 title: Eventos do Livefyre Analytics
@@ -71,13 +71,13 @@ Os seguintes eventos do Livefyre são mapeados para eventos personalizados a ser
 | Flagdiscordisagree | Quando um usuário sinaliza o conteúdo como discordar |
 | Flagofensiva | Quando um usuário sinaliza o conteúdo como ofensivo |
 | Flagofftopic | Quando um usuário sinaliza o conteúdo como fora do tópico |
-| Flagcancel | Quando um usuário clica em X ou "cancelar" ao enviar um sinalizador |
-| Followcollection | Sempre que uma conversa for seguida ("Estou interessado" em Revisões) |
+| Flagcancel | Quando um usuário clica em X ou &quot;cancelar&quot; ao enviar um sinalizador |
+| Followcollection | Sempre que uma conversa for seguida (&quot;Estou interessado&quot; em Revisões) |
 | Unfollowcollection | Quando uma conversa não é seguida |
 | Requestmore | Sempre que um usuário carregou mais conteúdo em um aplicativo (precisa ser para velocidade alta também) |
 | Modalview | Sempre que um usuário clica em para exibir o conteúdo em um modal |
 | Twitterretweetclick | Onde o conteúdo foi compartilhado para: Retweet |
-| Postbuttonclick | Quando um usuário clica na publicação ("Whats em sua mente?"") botão |
+| Postbuttonclick | Quando um usuário clica na publicação (&quot;Whats em sua mente?&quot;&quot;) botão |
 | Logon | Sempre que um usuário conectou-se |
 | Logout | Sempre que um usuário desconectou |
 

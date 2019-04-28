@@ -1,10 +1,6 @@
 ---
-description: Os eventos disponíveis para os quais você pode vincular JavaScript para
-  aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real,
-  Avaliações e Observações).
-seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript
-  para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real,
-  Avaliações e Observações).
+description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
+seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 seo-title: Eventos de Javascript para aplicativos de conversa
 solution: Experience Manager
 title: Eventos de Javascript para aplicativos de conversa

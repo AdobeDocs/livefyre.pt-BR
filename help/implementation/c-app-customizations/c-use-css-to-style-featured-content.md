@@ -1,8 +1,6 @@
 ---
-description: Use Classes CSS disponíveis para estilo de conteúdo em destaque de forma
-  diferente de outro conteúdo no aplicativo.
-seo-description: Use Classes CSS disponíveis para estilo de conteúdo em destaque de
-  forma diferente de outro conteúdo no aplicativo.
+description: Use Classes CSS disponíveis para estilo de conteúdo em destaque de forma diferente de outro conteúdo no aplicativo.
+seo-description: Use Classes CSS disponíveis para estilo de conteúdo em destaque de forma diferente de outro conteúdo no aplicativo.
 seo-title: Usar CSS para o conteúdo em destaque de estilo
 solution: Experience Manager
 title: Usar CSS para o conteúdo em destaque de estilo

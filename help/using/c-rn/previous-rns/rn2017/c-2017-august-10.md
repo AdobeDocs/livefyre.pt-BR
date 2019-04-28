@@ -18,7 +18,7 @@ Notas de versão da versão de August 0 de agosto de 20 17.
 
 | **Tipo de edição** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Biblioteca | Corrigido o bug que impedia a exibição do conteúdo do botão "Mais informações" na Biblioteca. |
+| Bug | Biblioteca | Corrigido o bug que impedia a exibição do conteúdo do botão &quot;Mais informações&quot; na Biblioteca. |
 | Bug | Biblioteca | Foi corrigido um problema em que os produtos eram exibidos incorretamente depois de remover e adicionar novamente um produto a um ativo na biblioteca. |
 
 ## Versão do UAT
@@ -27,6 +27,6 @@ Notas de versão da versão de August 0 de agosto de 20 17.
 |---|---|---|
 | Bug | Studio | Correção de um erro que impedia que atualizações de status dos direitos fossem exibidas imediatamente sem uma atualização de página. |
 | Bug | Comentários | Correção de um bug em Comentários para ativar o upload de. mov ou. mpg com sucesso. |
-| Bug | Studio | Correção de um bug para ativar a classificação por "maioria dos participantes" e por "maioria dos itens". |
+| Bug | Studio | Correção de um bug para ativar a classificação por &quot;maioria dos participantes&quot; e por &quot;maioria dos itens&quot;. |
 | Bug | Studio | Correção de um bug para permitir comentários de bandeja em massa. |
 

@@ -273,7 +273,7 @@ A menos que seja observado, disponível para todos os usuários conectados. Pass
 | Chave | Texto padrão |  |
 |---|---|---|
 | Editar modal | Disponível para administradores do Studio, Gerentes de usuário ou Moderadores |  |
-| @ (@ menção.) | </> (Abre a janela html personalizada). |  |
+| @ (@ menção.) | &lt;/&gt; (Abre a janela html personalizada). |  |
 |  | Customhtmldialogtitle (aparece como o cabeçalho do modal.) | Adicionar HTML personalizado |
 
 ![](assets/strings_moderatoreditmodal-150x49.png)

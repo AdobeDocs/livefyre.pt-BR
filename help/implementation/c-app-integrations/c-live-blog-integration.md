@@ -1,8 +1,6 @@
 ---
-description: O Blog ativo permite que você inclua atualizações em tempo real e imagens
-  dos próprios editores ao cobrir um evento ao vivo.
-seo-description: O Blog ativo permite que você inclua atualizações em tempo real e
-  imagens dos próprios editores ao cobrir um evento ao vivo.
+description: O Blog ativo permite que você inclua atualizações em tempo real e imagens dos próprios editores ao cobrir um evento ao vivo.
+seo-description: O Blog ativo permite que você inclua atualizações em tempo real e imagens dos próprios editores ao cobrir um evento ao vivo.
 seo-title: Blog ao vivo
 solution: Experience Manager
 title: Blog ao vivo
@@ -122,14 +120,14 @@ O `ConvConfig` objeto também pode conter os seguintes parâmetros opcionais:
 | Disableavatars | *optional* boolean | Impede a renderização dos avatars no fluxo do aplicativo e, portanto, reduz o número de itens carregados no navegador. O padrão é false. |
 | disableIE8Shim | *optional* boolean | Desativa o shiv padrão usado pelo Livefyre para preencher o Internet Explorer 8 de forma que os elementos HTML 5 sejam suportados. O Livefyre usa o seguinte projeto: [https://github.com/aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) . O padrão é false. Observação: Se esse valor for falso, o polimento de alguma classificação deverá ser usado antes que o Livefyre Chat seja chamado para suporte ao Internet Explorer 8. |
 | **Disablethirdpartyanalytics** | *optional* boolean | Desativa os sistemas de análise de terceiros (Quantserve e Google Analytics) que o Livefyre pode usar para medições internas. O padrão é false. |
-| **Editorcss** | *optional* object | Usado para personalizar o estilo do editor de comentários. Você pode estilo a cor de fundo do campo do editor, bem como a cor, o tamanho e a família da fonte do texto que aparece dentro do editor. Por exemplo: {background: ' # ccc ', cor: ' red ', font: ' 30 px'Helvetica Neue ", Helvetica, Arial, Geneva, sans-serif '} |
+| **Editorcss** | *optional* object | Usado para personalizar o estilo do editor de comentários. Você pode estilo a cor de fundo do campo do editor, bem como a cor, o tamanho e a família da fonte do texto que aparece dentro do editor. Por exemplo: {background: &#39; # ccc &#39;, cor: &#39; red &#39;, font: &#39; 30 px&#39;Helvetica Neue &quot;, Helvetica, Arial, Geneva, sans-serif &#39;} |
 | **Initialnumvisible** | *optional* integer | Permite definir o número padrão de comentários visíveis no aplicativo após a carga. Pode ser um número inteiro de 1 a 50. |
 | **Initialnumvisiblelegacy** | *optional* integer | Permite definir o número padrão de itens de conteúdo herdados visíveis no aplicativo após a carga. Pode ser um número inteiro de 1 a 50. Se esse parâmetro não for especificado, o padrão será initialnumvisible. Por exemplo: Se a coleção incluir comentários legados 100 ativos e 100, defina initalnumvisible: 10 e initialnumvisiblelegacy: 5, para exibir 10 comentários ativos (com um botão Mostrar mais) + 5 comentários (com um botão Mostrar mais). |
 | **Maxvisible** | *optional* integer | Define o número máximo de partes visíveis de conteúdo de nível superior no aplicativo de bate-papo. Se novas partes do fluxo de conteúdo fizerem parte, o conteúdo na parte inferior do fluxo será removido da página. Se o botão Mostrar mais… for clicado, o parâmetro será ignorado e o usuário será gratuito para mostrar o conteúdo desejado. (Use esse parâmetro para controlar o número de itens que aparecem na página em fluxos altos de velocidade.) |
 | **Posttobuttons** | *optional* array | Usado para configurar quais provedores são exibidos ao incorporar o aplicativo de blog ao vivo. As opções disponíveis são tw (Twitter), fb (Facebook) e li (linkedin). Padrões para [ tw, fb ]. |
 | **Readonly** | *optional* boolean | Desativa toda a interatividade para a Coleção. Quando verdadeiro, os usuários não conseguirão fazer logon no stream e não poderão Publicar, Editar, Responder ou Curtir conteúdo. Quando verdadeiro, os usuários poderão sinalizar e compartilhar conteúdo. O padrão é false. |
 | **stream** | *optional* object | Contém opções para configurar o streaming do aplicativo. |
-| stream. catchup | *optional* integer | Especifica o número de segundos antes do momento atual que o stream deve carregar. Por padrão, o Livefyre carrega 50 partes de conteúdo e carrega todo o conteúdo enviado entre eles e o momento atual. Em casos de uso muito rápido, o conteúdo pode ser postado rapidamente para permitir que o aplicativo "capture" para o presente. Use essa configuração para definir o número de segundos antes para o qual o conteúdo será publicado (após a carga do conteúdo inicial). |
+| stream. catchup | *optional* integer | Especifica o número de segundos antes do momento atual que o stream deve carregar. Por padrão, o Livefyre carrega 50 partes de conteúdo e carrega todo o conteúdo enviado entre eles e o momento atual. Em casos de uso muito rápido, o conteúdo pode ser postado rapidamente para permitir que o aplicativo &quot;capture&quot; para o presente. Use essa configuração para definir o número de segundos antes para o qual o conteúdo será publicado (após a carga do conteúdo inicial). |
 | **stream. delay** | *optional* integer | Especifica o número de segundos entre as solicitações de transmissão. Use esse parâmetro para ajudar a controlar o fluxo de conteúdo e atrasar a frequência com que o DOM é atualizado. Observação: Se definido muito grande, o stream pode ficar inativo. |
 
 

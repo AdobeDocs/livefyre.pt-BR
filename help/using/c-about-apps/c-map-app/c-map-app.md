@@ -1,8 +1,6 @@
 ---
-description: Use o Mapa para gerar mapas interativos de transmissão de conteúdo no
-  aplicativo.
-seo-description: Use o Mapa para gerar mapas interativos de transmissão de conteúdo
-  no aplicativo.
+description: Use o Mapa para gerar mapas interativos de transmissão de conteúdo no aplicativo.
+seo-description: Use o Mapa para gerar mapas interativos de transmissão de conteúdo no aplicativo.
 seo-title: Mapa
 solution: Experience Manager
 title: Mapa

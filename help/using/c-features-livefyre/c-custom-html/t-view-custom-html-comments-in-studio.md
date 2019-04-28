@@ -1,8 +1,6 @@
 ---
-description: Consulte os comentários adicionados pelo HTML personalizado usando este
-  procedimento.
-seo-description: Consulte os comentários adicionados pelo HTML personalizado usando
-  este procedimento.
+description: Consulte os comentários adicionados pelo HTML personalizado usando este procedimento.
+seo-description: Consulte os comentários adicionados pelo HTML personalizado usando este procedimento.
 seo-title: Exibir comentários HTML personalizados no Studio
 solution: Experience Manager
 title: Exibir comentários HTML personalizados no Studio

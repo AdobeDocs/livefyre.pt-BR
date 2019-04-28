@@ -1,8 +1,6 @@
 ---
-description: O Livefyre. requer um plug-plugin que permita a autenticação de um ônibus
-  de Janrain Backflight.
-seo-description: O Livefyre. requer um plug-plugin que permita a autenticação de um
-  ônibus de Janrain Backflight.
+description: O Livefyre. requer um plug-plugin que permita a autenticação de um ônibus de Janrain Backflight.
+seo-description: O Livefyre. requer um plug-plugin que permita a autenticação de um ônibus de Janrain Backflight.
 seo-title: Conectando Janrain ao Livefyre usando authdelegate
 title: Conectando Janrain ao Livefyre usando authdelegate
 uuid: 9 d 56 e 3 f 4-960 a -4108-aab 5-2795 b 0 e 71 c 88

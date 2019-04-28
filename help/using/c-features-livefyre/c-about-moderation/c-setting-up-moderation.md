@@ -1,10 +1,6 @@
 ---
-description: Use a guia Moderação para definir regras de pré-moderação para o conteúdo
-  recebido, incluindo listas de profanidade, regras de sinalização e endereços IP
-  proibidos.
-seo-description: Use a guia Moderação para definir regras de pré-moderação para o
-  conteúdo recebido, incluindo listas de profanidade, regras de sinalização e endereços
-  IP proibidos.
+description: Use a guia Moderação para definir regras de pré-moderação para o conteúdo recebido, incluindo listas de profanidade, regras de sinalização e endereços IP proibidos.
+seo-description: Use a guia Moderação para definir regras de pré-moderação para o conteúdo recebido, incluindo listas de profanidade, regras de sinalização e endereços IP proibidos.
 seo-title: Configuração da moderação
 solution: Experience Manager
 title: Configuração da moderação
@@ -43,7 +39,7 @@ Você pode pré-moderar automaticamente o conteúdo das seguintes maneiras:
 
 Depois de configurar suas listas de profanidade, filtros SAFE e regras, você pode escolher se deseja moderar o conteúdo e aplicar os filtros de SAFE em fluxos. Para obter mais informações, consulte [Opções de regras de fluxo para todas as regras de fluxo](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
-O Livefyre marca o conteúdo como **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!UICONTROL Junk]**etc. de onde o conteúdo veio, onde ele será publicado e quais regras você configurou no sistema. A tabela a seguir descreve as ações do Livefyre, dependendo desses fatores, detalhadamente.
+O Livefyre marca o conteúdo como **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!UICONTROL Junk]** etc. de onde o conteúdo veio, onde ele será publicado e quais regras você configurou no sistema. A tabela a seguir descreve as ações do Livefyre, dependendo desses fatores, detalhadamente.
 
 ## Como a moderação funciona
 
@@ -103,7 +99,7 @@ Ações disponíveis:
 
 * ****[!UICONTROL Trash it:]envia o comentário sinalizado para a lixeira.
 * **[!UICONTROL Bozo it:]** oculta o comentário sinalizado de todos os usuários, exceto seu autor, para quem ele permanece visível.
-* **[!UICONTROL Pending:]** define o conteúdo como pendente. Se você definir a Pré-moderação como Ativado, **[!UICONTROL Settings > ModQ]**então estará na modq. Caso contrário, estará apenas em Conteúdo do aplicativo.
+* **[!UICONTROL Pending:]** define o conteúdo como pendente. Se você definir a Pré-moderação como Ativado, **[!UICONTROL Settings > ModQ]** então estará na modq. Caso contrário, estará apenas em Conteúdo do aplicativo.
 
 >[!NOTE]
 >

@@ -1,8 +1,6 @@
 ---
-description: Retorna um objeto de coleção instanciado como um tipo de Comentários.
-  Execute o createorupdate () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de coleção instanciado como um tipo de Comentários.
-  Execute o createorupdate () do objeto Collection para concluir o processo de criação.
+description: Retorna um objeto de coleção instanciado como um tipo de Comentários. Execute o createorupdate () do objeto Collection para concluir o processo de criação.
+seo-description: Retorna um objeto de coleção instanciado como um tipo de Comentários. Execute o createorupdate () do objeto Collection para concluir o processo de criação.
 seo-title: Método de site do buildcommentscollection
 solution: Experience Manager
 title: Método de site do buildcommentscollection

@@ -1,10 +1,6 @@
 ---
-description: Para o conteúdo de estilo personalizado para Grupos de usuários, você
-  deve primeiro adicionar uma Tag de usuário à conta e, em seguida, estilo do conteúdo
-  usando CSS.
-seo-description: Para o conteúdo de estilo personalizado para Grupos de usuários,
-  você deve primeiro adicionar uma Tag de usuário à conta e, em seguida, estilo do
-  conteúdo usando CSS.
+description: Para o conteúdo de estilo personalizado para Grupos de usuários, você deve primeiro adicionar uma Tag de usuário à conta e, em seguida, estilo do conteúdo usando CSS.
+seo-description: Para o conteúdo de estilo personalizado para Grupos de usuários, você deve primeiro adicionar uma Tag de usuário à conta e, em seguida, estilo do conteúdo usando CSS.
 seo-title: Aplicação de estilos personalizados
 solution: Experience Manager
 title: Aplicação de estilos personalizados
@@ -23,10 +19,10 @@ Para cada tag de usuário adicionada por meio do Studio ou Ping para Puxar, o Li
 
 Ao converter tags de usuário em classes CSS:
 
-* O Livefyre cria duas classes: fyre-author-tag-*** < your_ group >*** e fyre-tag-***-*** < your_ group >***. Ambos podem ser usados para estilo do conteúdo.
+* O Livefyre cria duas classes: fyre-author-tag-*** &lt; your_ group &gt;*** e fyre-tag-***-*** &lt; your_ group &gt;***. Ambos podem ser usados para estilo do conteúdo.
 
 * Quaisquer espaços incluídos na tag serão convertidos em sublinhados. Por exemplo: «Usuário favorito» se tornará favorite_ user.
-* Os caracteres Unicode incluídos em nomes de grupos não serão convertidos e aparecerão como Unicode nos nomes de classe. Por exemplo: O grupo de usuários'modérateur'se tornará fyre-author-tag-tag-modérateur.
+* Os caracteres Unicode incluídos em nomes de grupos não serão convertidos e aparecerão como Unicode nos nomes de classe. Por exemplo: O grupo de usuários&#39;modérateur&#39;se tornará fyre-author-tag-tag-modérateur.
 
 Depois de criar os grupos de usuários, use as classes CSS do Livefyre para aplicar estilo personalizado para o conteúdo.
 
@@ -72,7 +68,7 @@ Crie uma regra de CSS para mostrar ou estilo um selo para o grupo:
 }
 ```
 
-Use a classe CSS fyre-tag-*** < your_ group >*** ou fyre-tag-author-*** < your_ group >*** para estilo da fonte e do plano de fundo para cada item postado de uma conta associada à tag selecionada.
+Use a classe CSS fyre-tag-*** &lt; your_ group &gt;*** ou fyre-tag-author-*** &lt; your_ group &gt;*** para estilo da fonte e do plano de fundo para cada item postado de uma conta associada à tag selecionada.
 
 ```
 .fyre-comment-author-tag-<your_group> .fyre-comment-author-tag { 

@@ -1,8 +1,6 @@
 ---
-description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou
-  Studio.
-seo-description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps
-  ou Studio.
+description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou Studio.
+seo-description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou Studio.
 seo-title: Fluxos
 solution: Experience Manager
 title: Fluxos

@@ -3,7 +3,7 @@ product: livefyre
 audience: usuário final
 user-guide-title: Guia do usuário do Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
@@ -110,7 +110,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Alterar coleção](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
       + [Filtrar pesquisa por coleção ou tag de conteúdo](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
       + [Filtrar pesquisa por tag de conteúdo](c-features-livefyre/c-content-collection-tags/t-filter-search-by-content-tag.md)
-      + [Integração do Embedly](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
+      + [Integração do Embedly ](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
       + [Conteúdo em destaque](c-features-livefyre/c-content-collection-tags/c-featured-content.md)
       + [Conteúdo do recurso](c-features-livefyre/c-content-collection-tags/t-feature-content.md)
       + [Selecione Conteúdo para o recurso do Studio](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature-from-studio.md)

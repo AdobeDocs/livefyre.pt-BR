@@ -1,11 +1,6 @@
 ---
-description: O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50
-  itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada,
-  ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
-seo-description: O Livefyre fornece quatro apis em destaque, permitindo recuperar
-  os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de
-  entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção
-  de entrada.
+description: O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
+seo-description: O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
 seo-title: Conteúdo em destaque agregado usando as apis em destaque
 solution: Experience Manager
 title: Conteúdo em destaque agregado usando as apis em destaque

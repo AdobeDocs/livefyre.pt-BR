@@ -1,10 +1,6 @@
 ---
-description: Quando você implementa aplicativos do Livefyre, o estilo da implementação
-  depende do caso de uso. Esta página explica os recursos das três maneiras de criar
-  um aplicativo.
-seo-description: Quando você implementa aplicativos do Livefyre, o estilo da implementação
-  depende do caso de uso. Esta página explica os recursos das três maneiras de criar
-  um aplicativo.
+description: Quando você implementa aplicativos do Livefyre, o estilo da implementação depende do caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
+seo-description: Quando você implementa aplicativos do Livefyre, o estilo da implementação depende do caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
 seo-title: Integrações de aplicativos CMS
 solution: Experience Manager
 title: Integrações de aplicativos CMS

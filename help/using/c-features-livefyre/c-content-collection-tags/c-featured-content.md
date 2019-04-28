@@ -1,8 +1,6 @@
 ---
-description: Destaque conteúdo importante para os usuários usando CSS para o estilo
-  personalizado em destaque do estilo.
-seo-description: Destaque conteúdo importante para os usuários usando CSS para o estilo
-  personalizado em destaque do estilo.
+description: Destaque conteúdo importante para os usuários usando CSS para o estilo personalizado em destaque do estilo.
+seo-description: Destaque conteúdo importante para os usuários usando CSS para o estilo personalizado em destaque do estilo.
 seo-title: Conteúdo em destaque
 solution: Experience Manager
 title: Conteúdo em destaque

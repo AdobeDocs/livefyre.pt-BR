@@ -1,8 +1,7 @@
 ---
-description: null
-seo-description: null
-seo-title: Usar o Livefyre com o Adobe Analytics e o Gerenciador dinâmico de tags
-  (DTM) lk xavvn vefyre com o Adobe Analytics e o Gerenciador dinâmico de tags (DTM)
+description: 'null'
+seo-description: 'null'
+seo-title: Usar o Livefyre com o Adobe Analytics e o Gerenciador dinâmico de tags (DTM) lk xavvn vefyre com o Adobe Analytics e o Gerenciador dinâmico de tags (DTM)
 uuid: 9 a 1 c 25 c 0-c 474-46 ff -82 ac-e 89357007 c 7 f
 translation-type: tm+mt
 source-git-commit: 55bfc0a545bb4a1093c29bd11e764c9799135324
@@ -23,14 +22,14 @@ Para obter mais informações sobre o Gerenciador de conjunto de relatórios, co
 1. Faça logon no Adobe Analytics como um usuário do administrador.
 1. Abra o Gerenciador de conjunto de relatórios de administração do Adobe Analytics.
 1. Crie um novo conjunto de relatórios ou escolha uma existente.
-1. Edite o conjunto de relatórios clicando no conjunto de relatórios para modificar e navegue **[!UICONTROL Edit Settings > Conversion > Success Events]**até.
+1. Edite o conjunto de relatórios clicando no conjunto de relatórios para modificar e navegue **[!UICONTROL Edit Settings > Conversion > Success Events]** até.
 1. Mapeie os eventos do Livefyre para um ou mais Eventos de sucesso personalizados.
 
 ## Etapa 2: Configurar variáveis de conversão
 
 Mapeie variáveis de conversão do Livefyre (evars) para variáveis de conversão no Gerenciador de conjunto de relatórios de administração do Adobe Analytics. As variáveis de conversão atuam como uma função de classificação para determinar como você planeja identificar os dados coletados dos eventos do Livefyre.
 
-1. No Gerenciador de report suite, clique **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**em.
+1. No Gerenciador de report suite, clique **[!UICONTROL Edit Settings > Conversion > Conversion Variables]** em.
 1. Escolha as variáveis de conversão personalizadas (evars) para usá-las e mapeá-las nas variáveis de conversão do Livefyre. Para mapear uma variável de conversão do Livefyre para uma variável de conversão personalizada:
 * Ativar a variável de conversão
 * Nomear a variável de conversão
@@ -61,12 +60,12 @@ Configure uma Regra de carregamento de página para obter todos os dados. A Regr
 >Não use Regras baseadas em eventos nem Regras de chamada direta.
 
 1. No DTM, selecione **[!UICONTROL Rules]** tab.
-1. Clique **[!UICONTROL Page Load Rules]**em.
+1. Clique **[!UICONTROL Page Load Rules]** em.
 1. Clique no **[!UICONTROL Create New Rule]** botão.
 1. Abra **[!UICONTROL Conditions]** a seção clicando no **[!UICONTROL Plus]** botão.
 1. Acione a regra. Escolha **[!UICONTROL DOM Ready]** ou **[!UICONTROL Onload]** acione tipos se desejar atrasar ou implementar a regra de forma assíncrona.
 1. (Opcional) Adicione outros parâmetros para limitar as páginas que exibem Aplicativos do Livefyre. Para obter mais informações sobre opções adicionais de configuração, consulte [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html).
-1. Em **[!UICONTROL Javascript/ Third Party Tags]**, clique na **[!UICONTROL Non-sequential]** guia e, em seguida, clique **[!UICONTROL Add New Script]**em.
+1. Em **[!UICONTROL Javascript/ Third Party Tags]**, clique na **[!UICONTROL Non-sequential]** guia e, em seguida, clique **[!UICONTROL Add New Script]** em.
 1. Selecione **[!UICONTROL Sequential HTML]** como o tipo de script.
 1. Adicione o seguinte script no editor de códigos e clique **[!UICONTROL Save Code]**em.
 O script a seguir chama a `livefyre_analytics` regra de chamada direta após carregar o Javascript do Livefyre. O exemplo de script a seguir verifica a cada 400 ms para ver se `livefyre.analytics` está na página. Depois que a página é carregada, o livefyre. analytics envia informações de rastreamento.
@@ -88,8 +87,8 @@ function pollForAnalytics() {
 setTimeout(pollForAnalytics, 400);
 ```
 
-1. Clique **[!UICONTROL Save Code]**em.
-1. Clique **[!UICONTROL Save Rule]**em.
+1. Clique **[!UICONTROL Save Code]** em.
+1. Clique **[!UICONTROL Save Rule]** em.
 
 ## Etapa 5: Criar uma regra de chamada direta para criar a configuração de mapeamento do Adobe Analytics para o Livefyre {#section_gvp_b1g_pdb}
 
@@ -206,32 +205,32 @@ The following sample code maps the specific eVars to available Livefyre eVars. T
 ```
 
 var s =_ satellite. gettoolsbytype`('sc')[0]`. getS ();
-var evarmap = {appid: ' Evar 81 ',
-apptype: ' Evar 82 '};
+var evarmap = {appid: &#39; Evar 81 &#39;,
+apptype: &#39; Evar 82 &#39;};
 
 ```
 The following sample code maps the specific events you set up in the Report Suite Manager with available Livefyre events. In this example, `event82` is set up as any user interaction event without differentiating which kind of user interaction event (for example, liking or sharing content). This is an efficient way to record all user interaction information in a block. You can also map the events in the DTM Analytics UI with Data Element referencing.
 ```
 
-var eventmap = {flagcancel: ' event 82 ',\
-Flagclick: ' event 82 ',\
-Flagdiscord: ' event 82 ',\
-Flagofensiva: ' event 82 ',\
-Flagofftopic: ' event 82 ',\
-Flagspam: ' event 82 ',\
-Curtir: ' event 82 ',
-Load: ' event 81 ',\
-Requestmore: ' event 82 ',\
-Sharebuttonclick: ' event 82 ',\
-Sharefacebook: ' event 82 ',\
-Shareonpostclick: ' event 82 ',\
-Sharetwitter: ' event 82 ',\
-Shareurl: ' event 82 ',\
-Sortstream: ' event 82 ',\
-Twitterlikeclick: ' event 82 ',
-twitterreplyclick: ' event 82 ',\
-Twitterretweetclick: ' event 82 ',\
-Twitteruserfollow: ' event 82 '};
+var eventmap = {flagcancel: &#39; event 82 &#39;,\
+Flagclick: &#39; event 82 &#39;,\
+Flagdiscord: &#39; event 82 &#39;,\
+Flagofensiva: &#39; event 82 &#39;,\
+Flagofftopic: &#39; event 82 &#39;,\
+Flagspam: &#39; event 82 &#39;,\
+Curtir: &#39; event 82 &#39;,
+Load: &#39; event 81 &#39;,\
+Requestmore: &#39; event 82 &#39;,\
+Sharebuttonclick: &#39; event 82 &#39;,\
+Sharefacebook: &#39; event 82 &#39;,\
+Shareonpostclick: &#39; event 82 &#39;,\
+Sharetwitter: &#39; event 82 &#39;,\
+Shareurl: &#39; event 82 &#39;,\
+Sortstream: &#39; event 82 &#39;,\
+Twitterlikeclick: &#39; event 82 &#39;,
+twitterreplyclick: &#39; event 82 &#39;,\
+Twitterretweetclick: &#39; event 82 &#39;,\
+Twitteruserfollow: &#39; event 82 &#39;};
 
 ```
 The following sample states that if there isn't an event in this list, don't do anything. You do not need to modify this section of code.
@@ -239,37 +238,37 @@ The following sample states that if there isn't an event in this list, don't do 
 
 function tracklivefyreevent (data) {\
 var event = eventmapdata[. type];
-console. log (' Track: ', data. type, event);
+console. log (&#39; Track: &#39;, data. type, event);
 
 if (! event) {console.
-warn (data. type,' não está mapeado para um evento em AA ');\
+warn (data. type,&#39; não está mapeado para um evento em AA &#39;);\
 return;}
 
 ```
 The following code differentiates the event types that `event82` records. The conversion variable, `eVar83` records the type of user interaction, and the script sets up `eVar83` to separate the user interaction data by type. So `eVar83` allows you to break out the recorded data into specific types of user interactions.
 ```
 
-var vars = [' events '];\
-switch (event) {case'event
-82 ': s. evar 83 = data. type;\
-vars. push (' evar 83 ');\
+var vars = [&#39; events &#39;];\
+switch (event) {case&#39;event
+82 &#39;: s. evar 83 = data. type;\
+vars. push (&#39; evar 83 &#39;);\
 break;
 padrão:}
 
-[' generator ',' evars ']. foreach (function (type) {\
+[&#39; generator &#39;,&#39; evars &#39;]. foreach (function (type) {\
 var obj = datatype[];
 for (var d in obj) {if
-(obj. hasownproperty (d) & & evarmapd[]) {\
+(obj. hasownproperty (d) &amp; &amp; evarmapd[]) {\
 s [evarmapd[]] = objd[];\
 vars. push (evarmapd[]);}}});
 
-s. linktrackvars = vars. join (',');\
+s. linktrackvars = vars. join (&#39;,&#39;);\
 s. linktrackevents = event;\
 s. events = event;
 
-console. log (' linktrackvars: ', s. linktrackvars);\
-console. log (' linktrackevents: ', s. linktrackevents);\
-console. log (' events: ', s. events);
+console. log (&#39; linktrackvars: &#39;, s. linktrackvars);\
+console. log (&#39; linktrackevents: &#39;, s. linktrackevents);\
+console. log (&#39; events: &#39;, s. events);
 
 s. tl ();}
 
@@ -283,7 +282,7 @@ The following code sample adds a handler to listen to all the events that happen
 */function
 addanalyticshandler () {Livefyre.
 analytics. addhandler (função (events) {(events) || []). Foreach (function (data) {console.
-log (' Event handled: ', data. type);
+log (&#39; Event handled: &#39;, data. type);
 Tracklivefyreevent (data);});});}
 
 ```

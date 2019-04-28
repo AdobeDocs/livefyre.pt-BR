@@ -1,8 +1,6 @@
 ---
-description: Muitos recursos acompanham o aplicativo de comentários para incorporar
-  conversas em tempo real em seu site.
-seo-description: Muitos recursos acompanham o aplicativo de comentários para incorporar
-  conversas em tempo real em seu site.
+description: Muitos recursos acompanham o aplicativo de comentários para incorporar conversas em tempo real em seu site.
+seo-description: Muitos recursos acompanham o aplicativo de comentários para incorporar conversas em tempo real em seu site.
 seo-title: Recursos de comentários
 solution: Experience Manager
 title: Recursos de comentários
@@ -27,7 +25,7 @@ Muitos recursos acompanham o aplicativo de comentários para incorporar conversa
 * [Strings de texto personalizadas](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
 * [Data e carimbo de data e hora](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md#c_date_and_timestamp)
 * [Notificações por email](/help/using/c-features-livefyre/c-notifications-features/c-email-notifications.md#c_email_notifications)
-* [Integração do Embedly](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
+* [Integração do Embedly ](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
 * [Conteúdo em destaque](/help/using/c-features-livefyre/c-content-collection-tags/c-featured-content.md#c_featured_content)
 * [Menções do amigo](/help/using/c-features-livefyre/c-enagement-features.md#section_yw5_fdm_d1b)
 * [Seguir conversa](/help/using/c-features-livefyre/c-enagement-features.md#section_bw3_ndm_d1b)

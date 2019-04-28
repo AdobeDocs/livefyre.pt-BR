@@ -1,8 +1,6 @@
 ---
-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro
-  de 25 18.
-seo-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de
-  novembro de 25 18.
+description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 25 18.
+seo-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 25 18.
 seo-title: Anúncios
 solution: Experience Manager
 title: Anúncios

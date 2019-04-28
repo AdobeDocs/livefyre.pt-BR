@@ -1,8 +1,6 @@
 ---
-description: Colete, organize e mantenha o conteúdo selecionado para uso em seus aplicativos
-  do Livefyre.
-seo-description: Colete, organize e mantenha o conteúdo selecionado para uso em seus
-  aplicativos do Livefyre.
+description: Colete, organize e mantenha o conteúdo selecionado para uso em seus aplicativos do Livefyre.
+seo-description: Colete, organize e mantenha o conteúdo selecionado para uso em seus aplicativos do Livefyre.
 seo-title: Assets
 solution: Experience Manager
 title: Assets

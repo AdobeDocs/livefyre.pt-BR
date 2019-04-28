@@ -1,8 +1,6 @@
 ---
-description: Permita que moderadores, proprietários e bloggers adicionem anexos HTML
-  personalizados ao conteúdo publicado por meio de Comentários ou Blog ativo.
-seo-description: Permita que moderadores, proprietários e bloggers adicionem anexos
-  HTML personalizados ao conteúdo publicado por meio de Comentários ou Blog ativo.
+description: Permita que moderadores, proprietários e bloggers adicionem anexos HTML personalizados ao conteúdo publicado por meio de Comentários ou Blog ativo.
+seo-description: Permita que moderadores, proprietários e bloggers adicionem anexos HTML personalizados ao conteúdo publicado por meio de Comentários ou Blog ativo.
 seo-title: HTML personalizado
 solution: Experience Manager
 title: HTML personalizado

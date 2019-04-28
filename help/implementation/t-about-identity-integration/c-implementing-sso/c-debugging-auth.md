@@ -1,8 +1,6 @@
 ---
-description: Você pode registrar um usuário através do console durante a integração
-  e testes para depurar a autorização.
-seo-description: Você pode registrar um usuário através do console durante a integração
-  e testes para depurar a autorização.
+description: Você pode registrar um usuário através do console durante a integração e testes para depurar a autorização.
+seo-description: Você pode registrar um usuário através do console durante a integração e testes para depurar a autorização.
 seo-title: Depurar delegação de autenticação
 solution: Experience Manager
 title: Depurar delegação de autenticação

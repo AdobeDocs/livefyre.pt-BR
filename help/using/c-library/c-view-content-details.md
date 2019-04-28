@@ -1,8 +1,6 @@
 ---
-description: Visualize os detalhes do conteúdo para obter mais informações sobre um
-  pedaço de conteúdo antes de publicá-lo.
-seo-description: Visualize os detalhes do conteúdo para obter mais informações sobre
-  um pedaço de conteúdo antes de publicá-lo.
+description: Visualize os detalhes do conteúdo para obter mais informações sobre um pedaço de conteúdo antes de publicá-lo.
+seo-description: Visualize os detalhes do conteúdo para obter mais informações sobre um pedaço de conteúdo antes de publicá-lo.
 seo-title: Exibir detalhes do conteúdo
 title: Exibir detalhes do conteúdo
 uuid: bca 8 dcb 7-31 d 6-475 c -9898-1 b 6436 d 2457 d

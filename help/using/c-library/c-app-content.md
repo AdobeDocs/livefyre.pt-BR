@@ -45,17 +45,17 @@ O painel Conteúdo do aplicativo permite restringir a pesquisa usando várias op
 
 ![](assets/PublishedState-1024x367.png)
 
-Use o **[!UICONTROL Quick Filters]** pulldown para restringir o conteúdo retornado para **[!UICONTROL All Content]****[!UICONTROL All Sidenotes]****[!UICONTROL Approved]****[!UICONTROL Approved & Flagged]**, **[!UICONTROL Pending]**ou **[!UICONTROL Rights Requests]** status. Em seguida, selecione uma **[!UICONTROL Filter by]** opção e use as caixas de seleção ou campos de entrada disponíveis para restringir sua pesquisa.
+Use o **[!UICONTROL Quick Filters]** pulldown para restringir o conteúdo retornado para **[!UICONTROL All Content]****[!UICONTROL All Sidenotes]****[!UICONTROL Approved]****[!UICONTROL Approved & Flagged]**, **[!UICONTROL Pending]** ou **[!UICONTROL Rights Requests]** status. Em seguida, selecione uma **[!UICONTROL Filter by]** opção e use as caixas de seleção ou campos de entrada disponíveis para restringir sua pesquisa.
 
-Use o menu suspenso para classificar o conteúdo na lista por **[!UICONTROL Newest]****[!UICONTROL Oldest]**, **[!UICONTROL Recently updated]**ou **[!UICONTROL Most flags]****[!UICONTROL Most liked]**.
+Use o menu suspenso para classificar o conteúdo na lista por **[!UICONTROL Newest]****[!UICONTROL Oldest]**, **[!UICONTROL Recently updated]** ou **[!UICONTROL Most flags]****[!UICONTROL Most liked]**.
 
 ## Filtrar por opções {#section_aqn_xqm_zz}
 
 Use **[!UICONTROL Filter by]** a barra para filtrar pelas seguintes opções:
 
-* **Estado** Permite filtrar pelo estado atual de moderação do conteúdo: ** [!UICONTROL All Content]** **[!UICONTROL Approved]**, **[!UICONTROL Pending]**ou **[!UICONTROL Bozo]**.
+* **Estado** Permite filtrar pelo estado atual de moderação do conteúdo: ** [!UICONTROL All Content]** **[!UICONTROL Approved]**, **[!UICONTROL Pending]** ou **[!UICONTROL Bozo]**.
 
-* **Origem** Permite filtrar pela fonte do conteúdo. Selecione **[!UICONTROL Livefyre]** para listar o conteúdo gerado pelo usuário publicado diretamente no stream. Selecione **[!UICONTROL Facebook]**, **[!UICONTROL Twitter]**ou **[!UICONTROL RSS]** inclua conteúdo inserido em seus aplicativos a partir dessas fontes.
+* **Origem** Permite filtrar pela fonte do conteúdo. Selecione **[!UICONTROL Livefyre]** para listar o conteúdo gerado pelo usuário publicado diretamente no stream. Selecione **[!UICONTROL Facebook]**, **[!UICONTROL Twitter]** ou **[!UICONTROL RSS]** inclua conteúdo inserido em seus aplicativos a partir dessas fontes.
 
 * **Sinalizadores** que selecionam Sinalizadores permitem filtrar por **[!UICONTROL User Flags]** (Spam, Desativado, Ofensivo ou Discordar) **[!UICONTROL System Flags]** , aplicado pela SAFE (Profanity, Spam ou Moderado magicamente) ou **[!UICONTROL Moderation Recommendations]**. ![](assets/appcontentfilter.png)
 
@@ -63,17 +63,17 @@ Use **[!UICONTROL Filter by]** a barra para filtrar pelas seguintes opções:
 
 * **Autor** Permite filtrar pelo **[!UICONTROL IP]** endereço do autor, **[!UICONTROL Display Name]** (encontrado no painel Usuários ou de cima do conteúdo postado pelo autor) ou **[!UICONTROL User ID]**(encontrado no painel Usuários).
 
-* **Contém** permite filtrar os 90 dias mais recentes de conteúdo por **[!UICONTROL Keyword]** ou **[!UICONTROL Content Tag]**. Marque **[!UICONTROL Media]** a caixa de seleção para retornar somente o conteúdo que contém Mídia. (Para pesquisar todo o conteúdo, role para baixo todo o conteúdo da lista e clique **[!UICONTROL Search full data]**em.)
+* **Contém** permite filtrar os 90 dias mais recentes de conteúdo por **[!UICONTROL Keyword]** ou **[!UICONTROL Content Tag]**. Marque **[!UICONTROL Media]** a caixa de seleção para retornar somente o conteúdo que contém Mídia. (Para pesquisar todo o conteúdo, role para baixo todo o conteúdo da lista e clique **[!UICONTROL Search full data]** em.)
 
    **Observação:** Não há suporte para várias palavras-chave e pesquisa de tags de conteúdo. Se várias palavras-chave ou tags forem inseridas, a última palavra será usada para a pesquisa.
 
    Ao pesquisar por Tag de conteúdo, as tags sugeridas serão preenchidas automaticamente à medida que você digita no campo de pesquisa. Os resultados da pesquisa retornarão todo o conteúdo que recebeu a tag. (Use este campo para pesquisar conteúdo em destaque ou clique no **[!UICONTROL Featured]** rótulo em qualquer conteúdo em destaque no Studio.)
 
-   **Observação:** Use um sinal de menos (-) antes de um nome de tag para pesquisar o conteúdo que não inclui essa tag. Por exemplo: Pesquise por '-Miley'para pesquisar por todo o conteúdo que não inclui a tag'Miley '.
+   **Observação:** Use um sinal de menos (-) antes de um nome de tag para pesquisar o conteúdo que não inclui essa tag. Por exemplo: Pesquise por &#39;-Miley&#39;para pesquisar por todo o conteúdo que não inclui a tag&#39;Miley &#39;.
 
-* **Aplicativo** Permite filtrar por **[!UICONTROL Collection ID]**, **[!UICONTROL App Tag]**ou ID **pai**. A filtragem por ID pai retorna todo o conteúdo que é uma resposta à ID de conteúdo de entrada. (Filtrar por várias tags inserindo tags separadas por vírgula.)
+* **Aplicativo** Permite filtrar por **[!UICONTROL Collection ID]**, **[!UICONTROL App Tag]** ou ID **pai**. A filtragem por ID pai retorna todo o conteúdo que é uma resposta à ID de conteúdo de entrada. (Filtrar por várias tags inserindo tags separadas por vírgula.)
 
-* **Direitos** Permite filtrar por status de Solicitações de direitos: ** [!UICONTROL Requested]** **[!UICONTROL Granted]**, **[!UICONTROL Replied]**ou **[!UICONTROL Expired]**.
+* **Direitos** Permite filtrar por status de Solicitações de direitos: ** [!UICONTROL Requested]** **[!UICONTROL Granted]**, **[!UICONTROL Replied]** ou **[!UICONTROL Expired]**.
 
 ## Conteúdo Bozo {#section_afl_vqm_zz}
 
@@ -135,7 +135,7 @@ Selecione a tag padrão **[!UICONTROL Featured]** para marcar o conteúdo como d
 
 * Para cancelar o recurso, clique na **[!UICONTROL x]****[!UICONTROL Featured]** tag exibida na parte do conteúdo.
 
-* Em um Comentário, Blog ativo ou Revisão, passe o mouse sobre o conteúdo que deseja adicionar e clique **[!UICONTROL Feature]**em. Para desfazer o recurso, passe o mouse sobre o conteúdo e clique **[!UICONTROL Unfeature]**em.
+* Em um Comentário, Blog ativo ou Revisão, passe o mouse sobre o conteúdo que deseja adicionar e clique **[!UICONTROL Feature]** em. Para desfazer o recurso, passe o mouse sobre o conteúdo e clique **[!UICONTROL Unfeature]** em.
 
 >[!NOTE]
 >

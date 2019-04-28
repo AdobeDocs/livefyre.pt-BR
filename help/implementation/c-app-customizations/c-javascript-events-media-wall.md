@@ -1,8 +1,6 @@
 ---
-description: Use eventos Javascript para acompanhar eventos que ocorrem em um mural
-  de mídia e enviá-los para a ferramenta de análise de sua escolha.
-seo-description: Use eventos Javascript para acompanhar eventos que ocorrem em um
-  mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
+description: Use eventos Javascript para acompanhar eventos que ocorrem em um mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
+seo-description: Use eventos Javascript para acompanhar eventos que ocorrem em um mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
 seo-title: Eventos Javascript para o Media Wall
 solution: Experience Manager
 title: Eventos Javascript para o Media Wall

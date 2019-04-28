@@ -26,9 +26,9 @@ A adição **[!UICONTROL Words]** e a **[!UICONTROL Username]** regra de retorno
 Para criar Regras do Twitter para extrair conteúdo de feeds do Twitter em seu aplicativo ou pasta, você pode filtrar por:
 
 * **[!UICONTROL Keywords]**
-   * Digite **[!UICONTROL Keywords]** a ser incluído ou excluído do seu fluxo do Twitter. Especificar valores para os **[!UICONTROL Contains any of these words]** dois **[!UICONTROL Does not contain any of these words]** campos retornará Tweets que contêm o primeiro e não conterão o segundo. Vários valores de um único campo podem ser inseridos e retornarão resultados que contêm qualquer um dos valores. Para usar o operador Booleano E para pesquisar Tweets com duas ou mais palavras neles, use dois (*& &*) para separar as duas palavras.
+   * Digite **[!UICONTROL Keywords]** a ser incluído ou excluído do seu fluxo do Twitter. Especificar valores para os **[!UICONTROL Contains any of these words]** dois **[!UICONTROL Does not contain any of these words]** campos retornará Tweets que contêm o primeiro e não conterão o segundo. Vários valores de um único campo podem ser inseridos e retornarão resultados que contêm qualquer um dos valores. Para usar o operador Booleano E para pesquisar Tweets com duas ou mais palavras neles, use dois (*&amp; &amp;*) para separar as duas palavras.
    * Por exemplo, inserir **[!UICONTROL Contains any of these words]** palavras-chave Giants, Posey e palavra **[!UICONTROL Does not contain any of these words]** -chave Dodger retornará todos os tweets que incluem a palavra *Giants* ou *Posey* e não incluam a palavra *Dodger*.
-Para pesquisar Tweets que incluem as palavras *Giants* e *Posey*, digite «Giants & & Posey». Esse recurso é suportado apenas para os **[!UICONTROL Contains any of these words]****[!UICONTROL Does not contain any of these words]** campos e as regras do Twitter.
+Para pesquisar Tweets que incluem as palavras *Giants* e *Posey*, digite «Giants &amp; &amp; Posey». Esse recurso é suportado apenas para os **[!UICONTROL Contains any of these words]****[!UICONTROL Does not contain any of these words]** campos e as regras do Twitter.
 
 * **[!UICONTROL Hashtags]**.
    * Digite **[!UICONTROL Hashtags]** a ser incluído ou excluído do seu fluxo do Twitter. Especificar valores para os **[!UICONTROL Contains any of these words]** dois **[!UICONTROL Does not contain any of these words]** campos retornará Tweets que contêm hashtags no primeiro campo e não contêm hashtags no segundo campo. Você pode inserir vários valores para um único campo. O fluxo retorna os resultados que contêm qualquer um dos valores.
@@ -55,7 +55,7 @@ Para pesquisar Tweets que incluem as palavras *Giants* e *Posey*, digite «Giant
    * Use Filtros adicionais para refinar ainda mais sua Regra do Twitter. Defina se você irá:
       * Incluir **[!UICONTROL Replies]** aos tweets direcionados (se o stream se tornar maior velocidade, esse recurso será desativado automaticamente.)
       * Incluir tweets de **[!UICONTROL Verified Twitter accounts only.]**
-      * Incluir **[!UICONTROL All Content]**, **[!UICONTROL Vines Only]**ou **[!UICONTROL Images Only.]**
+      * Incluir **[!UICONTROL All Content]**, **[!UICONTROL Vines Only]** ou **[!UICONTROL Images Only.]**
       * Inclua apenas Tweets que se originam de contas com a selecionada **[!UICONTROL Minimum number of followers]** (qualquer, 100, 500, 1000, 10,000 ou 100,000).
 
 Para opções adicionais de regras de Fluxo para todas as regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

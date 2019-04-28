@@ -30,7 +30,7 @@ Faixas do Livefyre:
 1. Clique em **[!UICONTROL Library]** para acessar a Biblioteca de ativos.
 1. (Opcional) Adicione conteúdo a pastas usando a Pesquisa social.
 1. Abra uma pasta e clique em um conteúdo salvo no Twitter ou no Instagram. É possível ver onde o conteúdo se originou, observando o ícone na parte do conteúdo. Por exemplo, um conteúdo do Twitter tem o logotipo do Twitter nele.
-1. Clique no ícone **[!UICONTROL More Options]**de reticências exibido ao passar o mouse sobre o cartão de conteúdo.
+1. Clique no ícone **[!UICONTROL More Options]** de reticências exibido ao passar o mouse sobre o cartão de conteúdo.
 1. Clique **[!UICONTROL Rights]** em para abrir a **[!UICONTROL Rights options]** janela.
 
 1. Veja o histórico abaixo **[!UICONTROL Activity History]**.

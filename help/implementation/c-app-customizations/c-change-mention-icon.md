@@ -1,8 +1,6 @@
 ---
-description: Altere o ícone que é exibido a usuários do Livefyre no menu suspenso
-  @mention.
-seo-description: Altere o ícone que é exibido a usuários do Livefyre no menu suspenso
-  @menção.
+description: Altere o ícone que é exibido a usuários do Livefyre no menu suspenso @mention.
+seo-description: Altere o ícone que é exibido a usuários do Livefyre no menu suspenso @menção.
 seo-title: Alterar ícone de menção
 solution: Experience Manager
 title: Alterar ícone de @mention
@@ -21,7 +19,7 @@ Altere o ícone do Livefyre usado no menu `@mention` suspenso para um ícone de 
 
 ## Exemplo
 
-Para alterar esse ícone, adicione o seguinte CSS à sua folha de estilo. Substitua <*seu recurso*> url pelo URL da imagem selecionada para substituir o crachá padrão Livefyre.
+Para alterar esse ícone, adicione o seguinte CSS à sua folha de estilo. Substitua &lt;*seu recurso*&gt; url pelo URL da imagem selecionada para substituir o crachá padrão Livefyre.
 
 ```
 .fyre-editor-container .fyre-editor-toolbar > .fyre-mention-menu .fyre-mention-item .fyre-mention-item-livefyre { 

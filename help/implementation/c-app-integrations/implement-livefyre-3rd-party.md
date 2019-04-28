@@ -1,8 +1,6 @@
 ---
-description: Crie aplicativos do Livefyre do zero para criar experiências personalizadas
-  e visualizações de dados.
-seo-description: Crie aplicativos do Livefyre do zero para criar experiências personalizadas
-  e visualizações de dados.
+description: Crie aplicativos do Livefyre do zero para criar experiências personalizadas e visualizações de dados.
+seo-description: Crie aplicativos do Livefyre do zero para criar experiências personalizadas e visualizações de dados.
 seo-title: Integrar Livefyre com integração de terceiros
 solution: Experience Manager
 title: Integrar o Livefyre em um CMS

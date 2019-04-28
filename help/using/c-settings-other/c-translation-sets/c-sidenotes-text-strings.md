@@ -80,7 +80,7 @@ As classificações disponíveis para o autor e informações de conteúdo indiv
 |  | Datetimeminuteprefix | m |
 |  | Datetimemonths | Uma matriz. Padrão =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
 |  | Questionexplanation | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto</span> e clique no <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou clique no <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone ao final de cada parágrafo. |
-|  | Questionmocktext | O que é conhecido como "familiar" não é conhecido corretamente, apenas pelo motivo pelo qual é "familiar". |
+|  | Questionmocktext | O que é conhecido como &quot;familiar&quot; não é conhecido corretamente, apenas pelo motivo pelo qual é &quot;familiar&quot;. |
 |  | Questiontitle | O que é um sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}

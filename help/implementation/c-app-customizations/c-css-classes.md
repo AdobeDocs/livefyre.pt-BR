@@ -77,7 +77,7 @@ Estrutura HTML:
 </div>
 ```
 
-Ocultar o|' separando as opções de classificação.
+Ocultar o|&#39; separando as opções de classificação.
 
 ```
 .fyre-stream-sort .fyre-stream-sort-bar { 

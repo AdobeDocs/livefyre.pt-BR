@@ -1,8 +1,6 @@
 ---
-description: Crie materiais de mídia com imagens, bate-papo, vídeo e outro conteúdo
-  de transmissão.
-seo-description: Crie materiais de mídia com imagens, bate-papo, vídeo e outro conteúdo
-  de transmissão.
+description: Crie materiais de mídia com imagens, bate-papo, vídeo e outro conteúdo de transmissão.
+seo-description: Crie materiais de mídia com imagens, bate-papo, vídeo e outro conteúdo de transmissão.
 seo-title: Media Wall
 solution: Experience Manager
 title: Media Wall

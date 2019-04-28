@@ -1,8 +1,6 @@
 ---
-description: Transforme cada parte de cada página do site em uma tela colaborativa
-  e interativa.
-seo-description: Transforme cada parte de cada página do site em uma tela colaborativa
-  e interativa.
+description: Transforme cada parte de cada página do site em uma tela colaborativa e interativa.
+seo-description: Transforme cada parte de cada página do site em uma tela colaborativa e interativa.
 seo-title: Práticas recomendadas para as soluções
 solution: Experience Manager
 title: Práticas recomendadas para as soluções

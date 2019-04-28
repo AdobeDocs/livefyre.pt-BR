@@ -30,7 +30,7 @@ Os novos recursos a seguir foram lançados na versão de produção desta versã
 
 * [Aprimoramentos de Tags](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags) inteligentes
 
-   * Tags inteligentes para arquivos carregados: Adicionamos a capacidade de imagens inteligentes carregadas na biblioteca por meio da funcionalidade de upload em "Todos os ativos", como arquivos do Google Drive, Drop-Box, Flickr e muito mais.
+   * Tags inteligentes para arquivos carregados: Adicionamos a capacidade de imagens inteligentes carregadas na biblioteca por meio da funcionalidade de upload em &quot;Todos os ativos&quot;, como arquivos do Google Drive, Drop-Box, Flickr e muito mais.
    * Seguro para trabalho (SFW) e não seguro para Tags inteligentes de trabalho (NSFW): Imagens com curadoria do Livefyre agora são marcadas por um sistema de detecção de nuances com tecnologia do AI e proporcionam a flexibilidade de filtrar automaticamente imagens NSFW, melhorando a segurança de seus fluxos e da biblioteca de UGC.
 
       * As imagens preparadas por meio de Pesquisa social ou Fluxos são classificadas por sistema de detecção de nuances ao salvar.

@@ -1,8 +1,6 @@
 ---
-description: Respostas a Perguntas frequentes (faqs) sobre Solicitações de privacidade
-  do RGPD Ready.
-seo-description: Respostas a Perguntas frequentes (faqs) sobre Solicitações de privacidade
-  do RGPD Ready.
+description: Respostas a Perguntas frequentes (faqs) sobre Solicitações de privacidade do RGPD Ready.
+seo-description: Respostas a Perguntas frequentes (faqs) sobre Solicitações de privacidade do RGPD Ready.
 seo-title: Perguntas frequentes sobre solicitação de privacidade
 solution: Experience Manager
 title: Perguntas frequentes sobre solicitação de privacidade

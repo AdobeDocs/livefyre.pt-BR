@@ -1,7 +1,6 @@
 ---
 description: Altere as opções de tamanho, largura e interação do aplicativo de Firewall.
-seo-description: Altere as opções de tamanho, largura e interação do aplicativo de
-  Firewall.
+seo-description: Altere as opções de tamanho, largura e interação do aplicativo de Firewall.
 seo-title: Personalizações de parede de mídia
 solution: Experience Manager
 title: Personalizações de parede de mídia
@@ -37,7 +36,7 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
 
    Permite que os usuários clicem em uma foto no stream para abri-la em uma janela pop-up sobreposta.
 
-* **[!UICONTROL Require rights]**. Habilite essa opção para exibir somente o conteúdo com status de solicitação de direitos de "Concedido".
+* **[!UICONTROL Require rights]**. Habilite essa opção para exibir somente o conteúdo com status de solicitação de direitos de &quot;Concedido&quot;.
 * **[!UICONTROL Hide social branding when rights granted]** Alterne isso para remover o logotipo da rede de mídia social de origem (Twitter ou Instagram) quando os direitos são concedidos para um conteúdo.
 
 * **[!UICONTROL Upload Button]**
@@ -46,9 +45,9 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
    * **[!UICONTROL Require Media]**. Alternar para para exigir que os usuários carreguem apenas conteúdos de fotos ou vídeos usando o botão Carregar.
    * É possível editar o texto padrão para os seguintes campos de Botões de upload:
 
-      * **[!UICONTROL Upload Button Text]**. Texto para o botão Carregar. O texto padrão é "O que está pensando?"
-      * **[!UICONTROL Comment Modal Title]**. O título para os visitantes modal do site usam para postar conteúdo. O texto padrão é "Postar seu comentário".
-      * **[!UICONTROL Comment Modal Button]**. O texto dos visitantes do site do botão clica para publicar conteúdo. O texto padrão é "Postar seu comentário".
+      * **[!UICONTROL Upload Button Text]**. Texto para o botão Carregar. O texto padrão é &quot;O que está pensando?&quot;
+      * **[!UICONTROL Comment Modal Title]**. O título para os visitantes modal do site usam para postar conteúdo. O texto padrão é &quot;Postar seu comentário&quot;.
+      * **[!UICONTROL Comment Modal Button]**. O texto dos visitantes do site do botão clica para publicar conteúdo. O texto padrão é &quot;Postar seu comentário&quot;.
 
 * **[!UICONTROL Call-to-action button]** Você pode usar o botão Chamar a ação com um catálogo de produtos para direcionar os usuários para um produto ou para seu site para obter mais ações.
 
@@ -59,8 +58,8 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
       >
       >O conteúdo é exibido mesmo se os direitos não forem concedidos para o conteúdo, mas o botão Chamar a ação não será exibido com o conteúdo, a menos que os direitos do conteúdo sejam concedidos.
 
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é "Loja desses produtos: ".
-   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada de ação no modal de conteúdo. O texto padrão é "Comprar agora: ".
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é &quot;Loja desses produtos: &quot;.
+   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada de ação no modal de conteúdo. O texto padrão é &quot;Comprar agora: &quot;.
    * **[!UICONTROL Product display options]** Escolha se deseja exibir a foto e o nome do produto com o botão Chamar-to-action.
 
       >[!NOTE]

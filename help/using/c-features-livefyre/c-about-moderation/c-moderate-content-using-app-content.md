@@ -1,8 +1,6 @@
 ---
-description: A guia Conteúdo do aplicativo na Biblioteca permite moderar o conteúdo
-  publicado nos aplicativos.
-seo-description: A guia Conteúdo do aplicativo na Biblioteca permite moderar o conteúdo
-  publicado nos aplicativos.
+description: A guia Conteúdo do aplicativo na Biblioteca permite moderar o conteúdo publicado nos aplicativos.
+seo-description: A guia Conteúdo do aplicativo na Biblioteca permite moderar o conteúdo publicado nos aplicativos.
 seo-title: Moderar conteúdo usando conteúdo do aplicativo
 title: Moderar conteúdo usando conteúdo do aplicativo
 uuid: 1 c 648128-e 7 ef -4836-afe 5-eff 52 de 30 e 7 e
@@ -62,6 +60,6 @@ A moderação de conteúdo de ligação permite alterações em massa e alteraç
 
 ## Moderar usuários do Livefyre {#section_grw_mqm_zz}
 
-Passe o mouse sobre o nome de usuário para um usuário do Livefyre abrir um menu suspenso, permitindo **[!UICONTROL Ban the User]**, obter **[!UICONTROL More Info]**ou exibir uma lista de seus **[!UICONTROL Comments]**. Clicar neste menu abrirá o cartão de informações do usuário na **[!UICONTROL Users]** página do Studio.
+Passe o mouse sobre o nome de usuário para um usuário do Livefyre abrir um menu suspenso, permitindo **[!UICONTROL Ban the User]**, obter **[!UICONTROL More Info]** ou exibir uma lista de seus **[!UICONTROL Comments]**. Clicar neste menu abrirá o cartão de informações do usuário na **[!UICONTROL Users]** página do Studio.
 
 Para obter mais informações sobre como moderar os usuários na **[!UICONTROL Users]** página, consulte [Modq de Moderar usuários](/help/using/c-features-livefyre/c-about-moderation/t-moderate-users-modq.md#t_moderate_users_modq).

@@ -27,7 +27,7 @@ A solicitação de exemplo acima carrega a `init` página que contém Configura�
 
 Solicitação: `https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64articleId}/N.json`
 
-Por exemplo, um aplicativo de exemplo tem 120 partes de conteúdo. O conteúdo "1" é o conteúdo mais antigo e o conteúdo "70" é o conteúdo mais recente.
+Por exemplo, um aplicativo de exemplo tem 120 partes de conteúdo. O conteúdo &quot;1&quot; é o conteúdo mais antigo e o conteúdo &quot;70&quot; é o conteúdo mais recente.
 
 * `Init` carregará ~ 120-70 partes de conteúdo em ordem decrescente: [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
@@ -58,16 +58,16 @@ Observação: A `maxEventId` resposta de API de fluxo é a mais alta ID de event
 
 O exemplo abaixo é baseado em um Aplicativo de comentários:
 
-Comentário "Primeiro comentário" foi publicado primeiro. " Segundo comentário "foi publicado depois.
+Comentário &quot;Primeiro comentário&quot; foi publicado primeiro. &quot; Segundo comentário &quot;foi publicado depois.
 
 Resposta da primeira API de fluxo de comentário:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-A `maxEventId` resposta é "1520289700953369", que será usada como `lastEventId` para fazer pesquisas no endpoint para obter atualizações (ou seja, Segundo comentário) que ocorre após todas as atualizações nessa resposta.
+A `maxEventId` resposta é &quot;1520289700953369&quot;, que será usada como `lastEventId` para fazer pesquisas no endpoint para obter atualizações (ou seja, Segundo comentário) que ocorre após todas as atualizações nessa resposta.
 
 Segunda resposta da API de fluxo de comentário:
 
 `{"timeout":true,"parked":true,"h":"ct239.dsr.livefyre.com"}`
 
-A `maxEventID` mensagem "1520289700953369" na resposta deve ser usada como a `lastEventID` resposta para a resposta da API de fluxo na próxima atualização.
+A `maxEventID` mensagem &quot;1520289700953369&quot; na resposta deve ser usada como a `lastEventID` resposta para a resposta da API de fluxo na próxima atualização.

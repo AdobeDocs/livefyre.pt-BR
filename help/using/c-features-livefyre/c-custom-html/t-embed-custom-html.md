@@ -16,12 +16,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Siga estas etapas para incorporar HTML personalizado ao seu site.
 
 Para incorporar HTML personalizado:
-1. Clique no botão Incorporar HTML (</>) na caixa do editor de comentário para iniciar a caixa do editor HTML.
+1. Clique no botão Incorporar HTML (&lt;/&gt;) na caixa do editor de comentário para iniciar a caixa do editor HTML.
 
    >[!NOTE]
    >
    >Esse botão está visível somente para moderadores e proprietários.
 
-1. Cole seu código HTML no editor e clique **[!UICONTROL OK]**em. (Uma mensagem será exibida para qualquer erro de validação de HTML.)
+1. Cole seu código HTML no editor e clique **[!UICONTROL OK]** em. (Uma mensagem será exibida para qualquer erro de validação de HTML.)
 1. Uma visualização da saída é exibida abaixo do editor de comentário.
 1. Clique em **[!UICONTROL Post Comment]** para exibir a saída no stream.

@@ -74,7 +74,7 @@ As atividades disponíveis variam por tipo de painel e exportação, e podem inc
 * **A postagem tem link:** Exibe os dados da semana passada.
 * **A postagem tem @ menções:** Exibe os dados do mês anterior.
 * **Aprovado:** Exibe os dados do mês anterior.
-* **Bozo'd:** Exibe os dados do mês anterior.
+* **Bozo&#39;d:** Exibe os dados do mês anterior.
 * **Trava:** Exibe os dados do mês anterior.
 * **Total de moderação:** Exibe os dados do mês anterior.
 

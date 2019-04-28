@@ -1,7 +1,6 @@
 ---
 description: O Livefyre fornece vários tipos de usuário com níveis variáveis de permissões.
-seo-description: O Livefyre fornece vários tipos de usuário com níveis variáveis de
-  permissões.
+seo-description: O Livefyre fornece vários tipos de usuário com níveis variáveis de permissões.
 seo-title: Funções e permissões do usuário
 solution: Experience Manager
 title: Funções e permissões do usuário

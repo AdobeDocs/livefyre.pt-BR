@@ -1,7 +1,6 @@
 ---
 description: Você pode criar regras de fluxo que puxam conteúdo de Páginas do Facebook.
-seo-description: Você pode criar regras de fluxo que puxam conteúdo de Páginas do
-  Facebook.
+seo-description: Você pode criar regras de fluxo que puxam conteúdo de Páginas do Facebook.
 seo-title: Regras de página do Facebook
 solution: Experience Manager
 title: Regras de página do Facebook

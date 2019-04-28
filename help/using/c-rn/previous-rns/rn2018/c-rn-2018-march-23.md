@@ -24,7 +24,7 @@ Os seguintes recursos são novos na versão de produção desta versão:
    1. Adicione o seguinte URL ao **[!UICONTROL Valid OAuth redirect URIs]** campo nas Configurações do cliente oauth. Substitua `<networkname>` pelo nome correto da rede:
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
 
-   1. Alternar **[!UICONTROL Use Strict Mode for Redirect URI]****[!UICONTROL Yes]**para.
+   1. Alternar **[!UICONTROL Use Strict Mode for Redirect URI]****[!UICONTROL Yes]** para.
 
 * **Novo no UAT:** Agora é possível escolher o limite de confiança para tags inteligentes em fluxos. Definir a pontuação de precisão (0-100) para tags permite controlar a precisão dos ativos que estamos recuperando.
 

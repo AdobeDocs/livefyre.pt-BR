@@ -1,8 +1,6 @@
 ---
-description: Permite que você ative um pequeno pop-up na página para notificar os
-  usuários quando um comentário foi adicionado.
-seo-description: Permite que você ative um pequeno pop-up na página para notificar
-  os usuários quando um comentário foi adicionado.
+description: Permite que você ative um pequeno pop-up na página para notificar os usuários quando um comentário foi adicionado.
+seo-description: Permite que você ative um pequeno pop-up na página para notificar os usuários quando um comentário foi adicionado.
 seo-title: Notificador do comentário
 solution: Experience Manager
 title: Notificador do comentário

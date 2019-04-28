@@ -1,8 +1,6 @@
 ---
-description: Escolha as opções de configuração de Estilo, Exibição e Envolvimento
-  do usuário para o Storify 2 a partir do Livefyre Studio.
-seo-description: Escolha as opções de configuração de Estilo, Exibição e Envolvimento
-  do usuário para o Storify 2 a partir do Livefyre Studio.
+description: Escolha as opções de configuração de Estilo, Exibição e Envolvimento do usuário para o Storify 2 a partir do Livefyre Studio.
+seo-description: Escolha as opções de configuração de Estilo, Exibição e Envolvimento do usuário para o Storify 2 a partir do Livefyre Studio.
 seo-title: Opções de configuração
 solution: Experience Manager
 title: Opções de configuração
@@ -69,7 +67,7 @@ Escolha as opções de configuração de Estilo, Exibição e Envolvimento do us
 
 * **[!UICONTROL Users may share posts]**
 
-   Se ativado, os usuários podem compartilhar sua história no Twitter ou Facebook. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
+   Se ativado, os usuários podem compartilhar sua história no Twitter ou Facebook. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
 
 * **[!UICONTROL Users may add sidenotes]**
 

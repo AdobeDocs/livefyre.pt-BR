@@ -24,7 +24,7 @@ Notas de versão da versão de February 3 de fevereiro de 23 17.
 | Bug | Mosaico | Correção de um bug que agora serve todas as imagens do Twitter via HTTPS. |
 | Aprimoramento | Pesquisar e fluxos | Foi adicionada a capacidade de pesquisar pelos Posts do Instagram (check-in) nas Regras de pesquisa do Instagram da Biblioteca e nas Regras de fluxo do Instagram. |
 | Bug | Configurações | Correção de um bug que impedia que Contas sociais do Twitter fossem salvas. |
-| Bug | Pesquisa social | Correção de um erro que impedia o funcionamento correto da opção "Ocultar imagens explícitas". |
+| Bug | Pesquisa social | Correção de um erro que impedia o funcionamento correto da opção &quot;Ocultar imagens explícitas&quot;. |
 | Aprimoramento | Storify 2 | O Storify 2 aprimorado para suportar permalinks que abrem um modal (anteriormente, o aplicativo rolaria até o local da publicação na página). No Designer do Storify 2, adicionamos uma configuração para alternar entre o comportamento de rolagem modal e o comportamento de permalink modal. O comportamento de permalink modal será comportamento padrão. |
 | Aprimoramento | Storify 2 | Aprimoramento da integração do Storify 2 Google AMP para produzir um arquivo CSS menor. |
 | Aprimoramento | Fluxos | Correção de um bug com regras do Facebook que fazia com que o conteúdo fosse obtido com metadados incompletos. |
@@ -33,7 +33,7 @@ Notas de versão da versão de February 3 de fevereiro de 23 17.
 | Bug | Fluxos | Correção de um bug com Regras de vapor de página do Facebook e do Facebook para extrair postagens com vários anexos de mídia apropriadamente. |
 | Aprimoramento | Fluxos | Adicionado um novo recurso para permitir que os usuários optem por aplicar ou desativar regras SEGURAS por regra de fluxo. |
 | Aprimoramento | Studio | Correção de um erro que fazia com que o conteúdo não fosse publicado ou salvo corretamente se já existia. |
-| Bug | Studio | Correção de um erro que fazia com que vários & s fossem anexados ao url ao usar filtros no Studio. |
+| Bug | Studio | Correção de um erro que fazia com que vários &amp; s fossem anexados ao url ao usar filtros no Studio. |
 | Bug | Studio | Correção de um bug que impedia que determinadas caixas de seleção nos filtros do Studio permitissem que fosse desmarcada. |
 
 ## Versão do UAT
@@ -42,7 +42,7 @@ Notas de versão da versão de February 3 de fevereiro de 23 17.
 |---|---|---|
 | Bug | Aplicativos | Correção de um bug para mostrar conteúdo em modals de mídia com as proporções corretas. |
 | Bug | Media Wall | Correção de um bug que fazia com que os Dynamic Walls não fossem renderizados se caracteres externos específicos fossem incluídos. |
-| Bug | Pesquisa | Correção de um erro que fazia com que as páginas fossem carregadas incorretamente durante a paginação pelos resultados da pesquisa com o ativado "Ocultar imagens explícitas". |
+| Bug | Pesquisa | Correção de um erro que fazia com que as páginas fossem carregadas incorretamente durante a paginação pelos resultados da pesquisa com o ativado &quot;Ocultar imagens explícitas&quot;. |
 | Aprimoramento | Studio | Aumento do tempo de sessão antes de encerrar as sessões de logon do Usuário do Studio. Quando uma sessão do Studio expirar, o usuário será redirecionado para fazer logon novamente. |
 | Bug | Studio | Corrigido um erro que às vezes impedia usuários de salvar credenciais do Instagram. |
 | Bug | Studio | Correção de um erro que impedia que a «Tag de recurso» fosse salva corretamente quando aplicado. |

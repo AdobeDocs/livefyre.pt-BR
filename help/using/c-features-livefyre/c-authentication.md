@@ -1,8 +1,6 @@
 ---
-description: Você pode escolher se e como os visitantes do site fazem logon nos seus
-  aplicativos.
-seo-description: Você pode escolher se e como os visitantes do site fazem logon nos
-  seus aplicativos.
+description: Você pode escolher se e como os visitantes do site fazem logon nos seus aplicativos.
+seo-description: Você pode escolher se e como os visitantes do site fazem logon nos seus aplicativos.
 seo-title: Recursos de autenticação
 solution: Experience Manager
 title: Recursos de autenticação

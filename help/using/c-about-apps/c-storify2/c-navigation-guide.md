@@ -1,8 +1,6 @@
 ---
-description: O Guia de navegação fornece ao seu público-alvo uma maneira de identificar
-  e localizar rapidamente as principais informações no Storify.
-seo-description: O Guia de navegação fornece ao seu público-alvo uma maneira de identificar
-  e localizar rapidamente as principais informações no Storify.
+description: O Guia de navegação fornece ao seu público-alvo uma maneira de identificar e localizar rapidamente as principais informações no Storify.
+seo-description: O Guia de navegação fornece ao seu público-alvo uma maneira de identificar e localizar rapidamente as principais informações no Storify.
 seo-title: Guia de navegação
 solution: Experience Manager
 title: Guia de navegação

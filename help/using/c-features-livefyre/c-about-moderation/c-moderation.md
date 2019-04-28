@@ -1,10 +1,6 @@
 ---
-description: O Mecanismo de filtragem de spam e abuso do Livefyre (SAFE) é um processo
-  em segundo plano que analisa todo o conteúdo recebido e está ativado para todos
-  os clientes do Livefyre.
-seo-description: O Mecanismo de filtragem de spam e abuso do Livefyre (SAFE) é um
-  processo em segundo plano que analisa todo o conteúdo recebido e está ativado para
-  todos os clientes do Livefyre.
+description: O Mecanismo de filtragem de spam e abuso do Livefyre (SAFE) é um processo em segundo plano que analisa todo o conteúdo recebido e está ativado para todos os clientes do Livefyre.
+seo-description: O Mecanismo de filtragem de spam e abuso do Livefyre (SAFE) é um processo em segundo plano que analisa todo o conteúdo recebido e está ativado para todos os clientes do Livefyre.
 seo-title: Regras SEGURAS
 title: Regras SEGURAS
 uuid: 2 f 91 d 0 d 4-dffe -4651-88 af -79 bbb 96 c 1 b 5 c

@@ -1,8 +1,6 @@
 ---
-description: Associe produtos com conteúdo da Biblioteca a fim de manter o conteúdo
-  e o catálogo de produtos sincronizados em um local fácil de gerenciar.
-seo-description: Associe produtos com conteúdo da Biblioteca a fim de manter o conteúdo
-  e o catálogo de produtos sincronizados em um local fácil de gerenciar.
+description: Associe produtos com conteúdo da Biblioteca a fim de manter o conteúdo e o catálogo de produtos sincronizados em um local fácil de gerenciar.
+seo-description: Associe produtos com conteúdo da Biblioteca a fim de manter o conteúdo e o catálogo de produtos sincronizados em um local fácil de gerenciar.
 seo-title: Associar produtos com conteúdo usando a biblioteca
 title: Associar produtos com conteúdo usando a biblioteca
 uuid: 63520 f 34-c 5 fe -4 cbd -937 a -33 d 707 bbcc 5 f

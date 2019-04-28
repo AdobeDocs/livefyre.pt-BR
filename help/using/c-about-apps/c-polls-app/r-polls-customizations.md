@@ -47,7 +47,7 @@ Altere as opções de tamanho, largura e interação do aplicativo Pesquisas.
 
 * **[!UICONTROL Show poll results]**
 
-   Se ativados, os visualizadores poderão ver os resultados da Pesquisa. Se estiver desativado, os eleitores verão apenas uma tela "Obrigado" depois de concluir a Pesquisa.
+   Se ativados, os visualizadores poderão ver os resultados da Pesquisa. Se estiver desativado, os eleitores verão apenas uma tela &quot;Obrigado&quot; depois de concluir a Pesquisa.
 
 * **[!UICONTROL Disclaimer]***opcional*
 

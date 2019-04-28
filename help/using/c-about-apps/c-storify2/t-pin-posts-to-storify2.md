@@ -1,8 +1,6 @@
 ---
-description: Fixe uma publicação para concentrar a atenção em conteúdo específico
-  quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
-seo-description: Fixe uma publicação para concentrar a atenção em conteúdo específico
-  quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
+description: Fixe uma publicação para concentrar a atenção em conteúdo específico quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
+seo-description: Fixe uma publicação para concentrar a atenção em conteúdo específico quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
 seo-title: Fixar uma postagem no Storify 2
 solution: Experience Manager
 title: Fixar uma postagem no Storify 2

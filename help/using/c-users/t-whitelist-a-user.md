@@ -1,8 +1,6 @@
 ---
-description: Faça a lista de permissões de um usuário para permitir que ele poste
-  diretamente em aplicativos sem ser moderado.
-seo-description: Faça a lista de permissões de um usuário para permitir que ele poste
-  diretamente em aplicativos sem ser moderado.
+description: Faça a lista de permissões de um usuário para permitir que ele poste diretamente em aplicativos sem ser moderado.
+seo-description: Faça a lista de permissões de um usuário para permitir que ele poste diretamente em aplicativos sem ser moderado.
 seo-title: Lista de permissões um usuário
 solution: Experience Manager
 title: Lista de permissões um usuário

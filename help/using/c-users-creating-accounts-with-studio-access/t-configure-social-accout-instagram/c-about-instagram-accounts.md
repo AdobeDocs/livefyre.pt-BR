@@ -1,8 +1,6 @@
 ---
-description: Conheça as regras e requisitos do Instagram que são diferentes de outras
-  contas sociais.
-seo-description: Conheça as regras e requisitos do Instagram que são diferentes de
-  outras contas sociais.
+description: Conheça as regras e requisitos do Instagram que são diferentes de outras contas sociais.
+seo-description: Conheça as regras e requisitos do Instagram que são diferentes de outras contas sociais.
 seo-title: Sobre contas do Instagram
 solution: Experience Manager
 title: Sobre contas do Instagram

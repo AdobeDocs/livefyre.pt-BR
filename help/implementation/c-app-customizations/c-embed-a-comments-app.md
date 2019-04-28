@@ -1,8 +1,6 @@
 ---
-description: Incorporar o aplicativo de comentários segue o processo de incorporação
-  de um aplicativo principal.
-seo-description: Incorporar o aplicativo de comentários segue o processo de incorporação
-  de um aplicativo principal.
+description: Incorporar o aplicativo de comentários segue o processo de incorporação de um aplicativo principal.
+seo-description: Incorporar o aplicativo de comentários segue o processo de incorporação de um aplicativo principal.
 seo-title: Incorporar um aplicativo de comentários
 solution: Experience Manager
 title: Incorporar um aplicativo de comentários

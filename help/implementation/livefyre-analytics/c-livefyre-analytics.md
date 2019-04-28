@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Usar o Livefyre com outra ferramenta do Analytics
 solution: Experience Manager
 title: Usar o Livefyre com outra ferramenta do Analytics

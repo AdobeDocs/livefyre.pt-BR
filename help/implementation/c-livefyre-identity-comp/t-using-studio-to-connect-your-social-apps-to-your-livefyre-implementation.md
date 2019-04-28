@@ -1,10 +1,7 @@
 ---
-description: Para habilitar um login social, use o Studio para adicionar as credenciais
-  de aplicativos sociais à integração do Livefyre e personalize o modal de logon.
-seo-description: Para habilitar um login social, use o Studio para adicionar as credenciais
-  de aplicativos sociais à integração do Livefyre e personalize o modal de logon.
-seo-title: Usando o Studio para conectar seus aplicativos sociais à implementação
-  do Livefyre
+description: Para habilitar um login social, use o Studio para adicionar as credenciais de aplicativos sociais à integração do Livefyre e personalize o modal de logon.
+seo-description: Para habilitar um login social, use o Studio para adicionar as credenciais de aplicativos sociais à integração do Livefyre e personalize o modal de logon.
+seo-title: Usando o Studio para conectar seus aplicativos sociais à implementação do Livefyre
 title: Usando o Studio para conectar seus aplicativos sociais à implementação do Livefyre
 uuid: be 14869 c-e 0 df -48 cd-a 1 f 3-99 eb 953 dd 9 ce
 translation-type: tm+mt
@@ -65,7 +62,7 @@ Para ativar o logon usando uma conta do Google +:
 
 1. Adicione seu aplicativo do Google **[!UICONTROL Client ID]** e **[!UICONTROL Client secret]**.
 
-   Esses valores estão listados na interface do projeto da plataforma do Google Cloud, disponível em [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library). Para recuperar essas informações, vá para **[!UICONTROL API Manager > Credentials]**e clique no nome do projeto.
+   Esses valores estão listados na interface do projeto da plataforma do Google Cloud, disponível em [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library). Para recuperar essas informações, vá para **[!UICONTROL API Manager > Credentials]** e clique no nome do projeto.
 
 ## Ativar um logon usando uma conta do Twitter {#section_iyz_wb5_bbb}
 
@@ -101,7 +98,7 @@ Para ativar o logon usando uma conta do Microsoft Live ID:
 
 1. Insira o **[!UICONTROL Microsoft Live Client ID (Private Key)]** e **[!UICONTROL Microsoft Live Client Secret (Password)]**.
 
-1. Clique **[!UICONTROL Save Settings]**em.
+1. Clique **[!UICONTROL Save Settings]** em.
 
    Os **[!UICONTROL Microsoft Live Client ID (Private Key)]** valores e os **[!UICONTROL Microsoft Live Client Secret (Password)]** valores são listados na página de detalhes do aplicativo Microsoft Live ID.
 
@@ -110,6 +107,6 @@ Para ativar o logon usando uma conta do Microsoft Live ID:
 Permita que os usuários usem sua implementação de identidade do Livefyre para aplicativos em seu site.
 
 1. Criar um aplicativo.
-1. Navegue **[!UICONTROL Studio]** até > **[!UICONTROL Settings]** > **[!UICONTROL Integration Settings]**> **[!UICONTROL Livefyre Identity]**.
+1. Navegue **[!UICONTROL Studio]** até &gt; **[!UICONTROL Settings]** &gt; **[!UICONTROL Integration Settings]**&gt; **[!UICONTROL Livefyre Identity]**.
 
 1. Insira as credenciais do aplicativo necessárias para o aplicativo criado.

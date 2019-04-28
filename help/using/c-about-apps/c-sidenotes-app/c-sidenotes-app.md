@@ -1,8 +1,6 @@
 ---
-description: Use os auxiliares para permitir que os leitores comentem diretamente
-  em consonância com o conteúdo.
-seo-description: Use os auxiliares para permitir que os leitores comentem diretamente
-  em consonância com o conteúdo.
+description: Use os auxiliares para permitir que os leitores comentem diretamente em consonância com o conteúdo.
+seo-description: Use os auxiliares para permitir que os leitores comentem diretamente em consonância com o conteúdo.
 seo-title: Auxiliares
 solution: Experience Manager
 title: Auxiliares

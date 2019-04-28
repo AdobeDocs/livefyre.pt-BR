@@ -1,10 +1,6 @@
 ---
-description: Você pode usar a identidade do Livefyre com o Facebook para permitir
-  que os usuários usem seus logons do Facebook para interagir com Aplicativos no seu
-  site.
-seo-description: Você pode usar a identidade do Livefyre com o Facebook para permitir
-  que os usuários usem seus logons do Facebook para interagir com Aplicativos no seu
-  site.
+description: Você pode usar a identidade do Livefyre com o Facebook para permitir que os usuários usem seus logons do Facebook para interagir com Aplicativos no seu site.
+seo-description: Você pode usar a identidade do Livefyre com o Facebook para permitir que os usuários usem seus logons do Facebook para interagir com Aplicativos no seu site.
 seo-title: Criar um aplicativo do Facebook para usar com a identidade do Livefyre
 solution: Experience Manager
 title: Criar um aplicativo do Facebook para usar com a identidade do Livefyre
@@ -29,7 +25,7 @@ Para criar um aplicativo do Facebook para uso com a identidade do Livefyre:
 1. Acesse [https://developers.facebook.com/apps](https://developers.facebook.com/apps).
 1. Faça logon em sua conta de desenvolvedor do Facebook.
 1. Clique **[!UICONTROL Add New App]** ou selecione um aplicativo existente para usar com a identidade do Livefyre.
-1. Clique **[!UICONTROL Settings]**em, em seguida **[!UICONTROL Basic]**. Insira um **[!UICONTROL Contact Email]** endereço **[!UICONTROL Display Name]**, **[!UICONTROL Privacy Policy URL]**e **[!UICONTROL Terms of Service URL]**.
+1. Clique **[!UICONTROL Settings]** em, em seguida **[!UICONTROL Basic]**. Insira um **[!UICONTROL Contact Email]** endereço **[!UICONTROL Display Name]**, **[!UICONTROL Privacy Policy URL]** e **[!UICONTROL Terms of Service URL]**.
 1. Clique no sinal de mais ( **[!UICONTROL +]**) ao lado **[!UICONTROL Products]**.
 1. Clique em **[!UICONTROL Set Up]** abaixo **[!UICONTROL Facebook Login]**.
 1. Clique **[!UICONTROL Settings]** em e configure o seguinte:

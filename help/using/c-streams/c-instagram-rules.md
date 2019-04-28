@@ -52,6 +52,6 @@ Para criar regras do Instagram para extrair conteúdo de feeds do Instagram no a
 
 * **[!UICONTROL Additional Filters]**
 
-   * Selecione se deseja incluir **[!UICONTROL All Content]**, **[!UICONTROL Videos Only]**ou **[!UICONTROL Photos Only]** em seu stream.
+   * Selecione se deseja incluir **[!UICONTROL All Content]**, **[!UICONTROL Videos Only]** ou **[!UICONTROL Photos Only]** em seu stream.
 
 Para opções adicionais de regras de Fluxo para todas as regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

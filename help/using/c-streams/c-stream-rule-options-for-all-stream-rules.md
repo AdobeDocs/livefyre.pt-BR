@@ -1,8 +1,6 @@
 ---
-description: Essas opções se aplicam a qualquer regra de fluxo de todas as redes sociais
-  ou métodos de postagem.
-seo-description: Essas opções se aplicam a qualquer regra de fluxo de todas as redes
-  sociais ou métodos de postagem.
+description: Essas opções se aplicam a qualquer regra de fluxo de todas as redes sociais ou métodos de postagem.
+seo-description: Essas opções se aplicam a qualquer regra de fluxo de todas as redes sociais ou métodos de postagem.
 seo-title: Opções de regras de fluxo para todas as regras de fluxo
 solution: Experience Manager
 title: Opções de regras de fluxo para todas as regras de fluxo
@@ -21,9 +19,9 @@ Recursos de pesquisa para campos de texto e palavra-chave:
 
 * Quando você insere palavras-chave, o Livefyre usa automaticamente o operador Booleano **OU** quando para palavras individuais. Por exemplo, para pesquisar postagens com *o botão* ou *a fórmula de palavra*, insira *o bolo*e insira *a fórmula* no **[!UICONTROL keyword]** campo.
 
-* Você pode pesquisar frases exatas ao redor do texto da frase exata entre aspas. Por exemplo, para pesquisar a fórmula exata *do bolo de frase*, digite *"recipe de bola"* no **[!UICONTROL keyword]** campo.
+* Você pode pesquisar frases exatas ao redor do texto da frase exata entre aspas. Por exemplo, para pesquisar a fórmula exata *do bolo de frase*, digite *&quot;recipe de bola&quot;* no **[!UICONTROL keyword]** campo.
 
-* É possível combinar a pesquisa Booleana e as pesquisas exatas em uma regra de fluxo. Por exemplo, você pode pesquisar *o bolo*, *a fórmula*e *a "receita do bolo"* inserindo cada frase uma de cada vez.
+* É possível combinar a pesquisa Booleana e as pesquisas exatas em uma regra de fluxo. Por exemplo, você pode pesquisar *o bolo*, *a fórmula*e *a &quot;receita do bolo&quot;* inserindo cada frase uma de cada vez.
 
 **[!UICONTROL Additional Filters]**:
 

@@ -1,7 +1,6 @@
 ---
 description: Use o Livefyre para preparar e exibir o UGC usando uma visualização personalizada.
-seo-description: Use o Livefyre para preparar e exibir o UGC usando uma visualização
-  personalizada.
+seo-description: Use o Livefyre para preparar e exibir o UGC usando uma visualização personalizada.
 seo-title: Preparar e exibir UGC
 solution: Experience Manager
 title: Preparar e exibir UGC

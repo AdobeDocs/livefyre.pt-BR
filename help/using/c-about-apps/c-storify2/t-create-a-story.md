@@ -15,8 +15,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Crie uma nova história do Storify 2.
 
-1. Clique **[!UICONTROL New App]**em.
-1. Clique **[!UICONTROL Storify 2]**em.
-1. Insira **[!UICONTROL App Title]**um.
+1. Clique **[!UICONTROL New App]** em.
+1. Clique **[!UICONTROL Storify 2]** em.
+1. Insira **[!UICONTROL App Title]** um.
 1. Selecione a **[!UICONTROL Site]**.
-1. Clique **[!UICONTROL Create]**em.
+1. Clique **[!UICONTROL Create]** em.

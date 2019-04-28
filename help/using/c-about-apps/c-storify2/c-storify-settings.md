@@ -1,8 +1,6 @@
 ---
-description: Ajuste as configurações para histórias do Storify 2, como tags, moderação
-  e conteúdo permitido.
-seo-description: Ajuste as configurações para histórias do Storify 2, como tags, moderação
-  e conteúdo permitido.
+description: Ajuste as configurações para histórias do Storify 2, como tags, moderação e conteúdo permitido.
+seo-description: Ajuste as configurações para histórias do Storify 2, como tags, moderação e conteúdo permitido.
 seo-title: Configurações do Storify
 solution: Experience Manager
 title: Configurações do Storify

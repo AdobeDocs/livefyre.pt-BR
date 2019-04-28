@@ -1,8 +1,6 @@
 ---
-description: O Storify gerencia vários editores simultâneos, evitando substituição
-  acidental ou permissões perdidas.
-seo-description: O Storify gerencia vários editores simultâneos, evitando substituição
-  acidental ou permissões perdidas.
+description: O Storify gerencia vários editores simultâneos, evitando substituição acidental ou permissões perdidas.
+seo-description: O Storify gerencia vários editores simultâneos, evitando substituição acidental ou permissões perdidas.
 seo-title: Trabalhar com vários editores na mesma história
 solution: Experience Manager
 title: Trabalhar com vários editores na mesma história

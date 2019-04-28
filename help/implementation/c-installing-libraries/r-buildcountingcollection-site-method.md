@@ -1,8 +1,6 @@
 ---
-description: Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute
-  create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de Coleção instanciado como um tipo de Contagem.
-  Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+description: Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+seo-description: Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
 seo-title: Método de site buildcountingcollection
 title: Método de site buildcountingcollection
 uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713

@@ -19,7 +19,7 @@ Notas de versão da versão de April 6 de abril de 26 18.
 
 Os seguintes recursos são novos na versão de produção desta versão:
 
-* Adicionado um novo recurso que permite aos clientes configurar um número específico de colunas para um Mural de mídia. O número de colunas escolhidas forçará o mural de mídia nesse número de colunas, independentemente do tamanho. Caso contrário, o número de colunas de mural de mídia assumirá como padrão "auto" em que as colunas se ajustam a um número que otimiza o Media Wall para o tamanho da tela.
+* Adicionado um novo recurso que permite aos clientes configurar um número específico de colunas para um Mural de mídia. O número de colunas escolhidas forçará o mural de mídia nesse número de colunas, independentemente do tamanho. Caso contrário, o número de colunas de mural de mídia assumirá como padrão &quot;auto&quot; em que as colunas se ajustam a um número que otimiza o Media Wall para o tamanho da tela.
 * No Designer de mural de mídia, há agora uma alternância que permite desativar a animação automática de Firewall que ocorre quando uma página com um mural de mídia é carregada.
 * Agora é possível escolher o limite de confiança para tags inteligentes em fluxos. Definir a pontuação de precisão (0-100) para tags permite controlar a precisão dos ativos que estamos recuperando.
 * Recomendações de moderação adicionadas. O Livefyre agora verifica todas as postagens em comentários e prevê se você vai lixeira ou não com base em dados históricos e aprendizado de máquina. Essas recomendações aparecem em modq.
@@ -37,7 +37,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 | Bug | Gerenciamento de direitos | Correção de um problema em que as solicitações de direitos não funcionavam em Ativos depois de encontrá-las em uma Pesquisa Social. |
 | Aprimoramento | Fluxos | Atualização do mecanismo de transmissão que permite que o conteúdo streaming do Facebook cumpra uma alteração de back-end criada pelo Facebook. |
 | Bug | Comércio UGC | Correção de um problema em que o botão «Loja» CTA não era exibido em um aplicativo Mosaico ou Película fotográfica ou em um modal de produtos ao passar o mouse sobre um cartão com um produto quando o botão CTA estava ativado. |
-| Aprimoramento | Comércio UGC | Correção de um problema em que o sinalizador de Comércio UGC era definido como "desligado" por padrão, em vez de "ativado". |
+| Aprimoramento | Comércio UGC | Correção de um problema em que o sinalizador de Comércio UGC era definido como &quot;desligado&quot; por padrão, em vez de &quot;ativado&quot;. |
 
 ## Versão do UAT
 

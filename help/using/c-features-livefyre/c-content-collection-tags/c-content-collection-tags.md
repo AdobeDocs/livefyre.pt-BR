@@ -1,8 +1,6 @@
 ---
-description: Adicione tags de palavras-chave a coleções e conteúdo, para categorizar
-  e organizar o conteúdo para facilitar a recuperação.
-seo-description: Adicione tags de palavras-chave a coleções e conteúdo, para categorizar
-  e organizar o conteúdo para facilitar a recuperação.
+description: Adicione tags de palavras-chave a coleções e conteúdo, para categorizar e organizar o conteúdo para facilitar a recuperação.
+seo-description: Adicione tags de palavras-chave a coleções e conteúdo, para categorizar e organizar o conteúdo para facilitar a recuperação.
 seo-title: Tags de coleção e conteúdo
 solution: Experience Manager
 title: Tags de coleção e conteúdo

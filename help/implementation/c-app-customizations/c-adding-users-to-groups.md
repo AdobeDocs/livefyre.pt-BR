@@ -1,8 +1,6 @@
 ---
-description: Adicione uma tag de usuário a uma conta para adicionar um usuário a um
-  grupo.
-seo-description: Adicione uma tag de usuário a uma conta para adicionar um usuário
-  a um grupo.
+description: Adicione uma tag de usuário a uma conta para adicionar um usuário a um grupo.
+seo-description: Adicione uma tag de usuário a uma conta para adicionar um usuário a um grupo.
 seo-title: Adicionar usuários a grupos
 solution: Experience Manager
 title: Adicionar usuários a grupos
@@ -19,7 +17,7 @@ Adicione uma tag de usuário a uma conta para adicionar um usuário a um grupo.
 
 As Tags de usuário podem ser implementadas tanto para sistemas de perfil proprietários quanto para empresas, podendo ser adicionadas a contas por vários meios:
 
-* A criação de proprietários e moderadores por meio do Studio atribui a Tag de usuário "Moderador" à conta.
+* A criação de proprietários e moderadores por meio do Studio atribui a Tag de usuário &quot;Moderador&quot; à conta.
 * Criar grupos de usuários e adicionar usuários a eles por meio do Studio aplica automaticamente Tags de usuário com o nome do grupo aos usuários selecionados.
 * As Tags do usuário também podem ser aplicadas diretamente às Contas usando a chamada [Adicionar](https://api.livefyre.com/docs#add-user-tag) tag do usuário ou o Ping para extrair.
 
@@ -46,7 +44,7 @@ curl -XPOST -d 'tag_name=tag&lftoken=eyJhbGciOiAiA_TOKENcGlyZXMiOiAxMzU3OTY3NTAx
 ```
 
 
-Para obter mais informações, consulte Referência de API > [Adicionar tag do usuário](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:author:tags:method=post).
+Para obter mais informações, consulte Referência de API &gt; [Adicionar tag do usuário](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:author:tags:method=post).
 
 ## Adicionar um usuário a um Grupo usando Ping para Extrair {#section_kyj_11w_xz}
 

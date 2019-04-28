@@ -1,8 +1,6 @@
 ---
-description: As revisões oferecem uma ampla variedade de personalizações, permitindo
-  que você crie um Aplicativo de revisão que corresponda às suas necessidades e marca.
-seo-description: As revisões oferecem uma ampla variedade de personalizações, permitindo
-  que você crie um Aplicativo de revisão que corresponda às suas necessidades e marca.
+description: As revisões oferecem uma ampla variedade de personalizações, permitindo que você crie um Aplicativo de revisão que corresponda às suas necessidades e marca.
+seo-description: As revisões oferecem uma ampla variedade de personalizações, permitindo que você crie um Aplicativo de revisão que corresponda às suas necessidades e marca.
 seo-title: Criar um aplicativo de revisão
 solution: Experience Manager
 title: Criar um aplicativo de revisão
@@ -38,7 +36,7 @@ Para obter mais informações, consulte **[!UICONTROL Configure Star Ratings]** 
 
 As dimensões de classificação são as categorias sobre as quais seus revisores classificam seu produto ou serviço. Exemplos de dimensões de classificação são «desempenho», «design», «custo», «geral» ou qualquer outra categoria escolhida.
 
-O padrão é exibir uma dimensão de classificação "geral", no entanto, você pode definir e implementar várias dimensões de classificação, como mostrado no exemplo abaixo.
+O padrão é exibir uma dimensão de classificação &quot;geral&quot;, no entanto, você pode definir e implementar várias dimensões de classificação, como mostrado no exemplo abaixo.
 
 Para obter mais informações, consulte o campo ratingdimensões em Analisar metadados de coleção.
 

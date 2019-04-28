@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Personalizações de película fotográfica
 solution: Experience Manager
 title: Personalizações de película fotográfica
@@ -20,7 +20,7 @@ Você pode personalizar Película fotográfica usando as seguintes opções adic
 * **[!UICONTROL Content fit]**. Opte **[!UICONTROL crop]** por cortar o conteúdo para preencher o cartão ou **[!UICONTROL Aspect Ratio]** para exibir uma imagem inteira no cartão, se ela preenche o cartão inteiro ou não.
 * **[!UICONTROL Tile Size]**. Digite o tamanho dos blocos em pixels.
 * **[!UICONTROL Show Notifications]**. Escolha se deseja exibir uma notificação para novo conteúdo à medida que ele flui para o aplicativo Película fotográfica.
-* **[!UICONTROL Require rights]**. Habilite essa opção para exibir somente o conteúdo com status de solicitação de direitos de "Concedido".
+* **[!UICONTROL Require rights]**. Habilite essa opção para exibir somente o conteúdo com status de solicitação de direitos de &quot;Concedido&quot;.
 * **[!UICONTROL Hide social branding when rights granted]** Alterne isso para remover o logotipo da rede de mídia social de origem (Twitter ou Instagram) quando os direitos são concedidos para um conteúdo.
 * **[!UICONTROL Call-to-action button]** Você pode usar o botão de chamada de ação com um catálogo de produtos para direcionar os usuários para um produto ou para seu site para obter mais ações.
 
@@ -33,8 +33,8 @@ Você pode personalizar Película fotográfica usando as seguintes opções adic
 
    * **[!UICONTROL Show call-to-action in tile]**. Escolha se o botão de chamada de ação deve ser exibido em um bloco Película fotográfica, em vez de exibir o botão de chamada de ação somente quando o visitante do site clica em um cartão e abre o conteúdo em uma janela maior.
    * **[!UICONTROL Call-to-action indication text]** O texto a ser exibido para solicitar que o usuário clique no cartão para abrir o modal de chamada de ação.
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão de chamada para ação no modal de conteúdo. O texto padrão é "Loja desses produtos: ".
-   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão de chamada de ação no modal de conteúdo. O texto padrão é "Comprar agora: ".
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão de chamada para ação no modal de conteúdo. O texto padrão é &quot;Loja desses produtos: &quot;.
+   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão de chamada de ação no modal de conteúdo. O texto padrão é &quot;Comprar agora: &quot;.
    * **[!UICONTROL Product display options]** Escolha se deseja exibir o **[!UICONTROL Photo]** botão **[!UICONTROL Product name]** de chamada e de chamada.
 
       >[!NOTE]

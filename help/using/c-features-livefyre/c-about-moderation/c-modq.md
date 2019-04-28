@@ -144,7 +144,7 @@ Depois que o conteúdo for moderado, ele será removido da modq do moderador, e 
 
 Use a seção de configurações para selecionar opções disponíveis quando o conteúdo estiver marcado como Traço.
 
-* ****[!UICONTROL Confirm Trash]**** Ative essa opção para exigir que os Moderadores confirme sua ação ao configurar o conteúdo para a Lixeira. Quando ativado, a seleção **[!UICONTROL Trash]** de conteúdo exibirá uma caixa de diálogo solicitando a um **[!UICONTROL Reason for Moderation]**e oferecendo um campo no qual a entrada **[!UICONTROL Note]** pode ser inserida.
+* ****[!UICONTROL Confirm Trash]**** Ative essa opção para exigir que os Moderadores confirme sua ação ao configurar o conteúdo para a Lixeira. Quando ativado, a seleção **[!UICONTROL Trash]** de conteúdo exibirá uma caixa de diálogo solicitando a um **[!UICONTROL Reason for Moderation]** e oferecendo um campo no qual a entrada **[!UICONTROL Note]** pode ser inserida.
 
    (Esta configuração está disponível **[!UICONTROL only]** no nível da rede e será aplicada a todos os sites na rede.)
 

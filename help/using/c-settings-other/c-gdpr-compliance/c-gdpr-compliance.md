@@ -1,10 +1,6 @@
 ---
-description: Saiba mais sobre o Regulamento geral de proteção de dados (RGPD) e como
-  concluir as solicitações de acesso e exclusão permitidas em RGPRE para dados coletados
-  no uso do Livefyre, bem como outros controles de privacidade relacionados.
-seo-description: Saiba mais sobre o Regulamento geral de proteção de dados (RGPD)
-  e como concluir as solicitações de acesso e exclusão permitidas em RGPRE para dados
-  coletados no uso do Livefyre, bem como outros controles de privacidade relacionados.
+description: Saiba mais sobre o Regulamento geral de proteção de dados (RGPD) e como concluir as solicitações de acesso e exclusão permitidas em RGPRE para dados coletados no uso do Livefyre, bem como outros controles de privacidade relacionados.
+seo-description: Saiba mais sobre o Regulamento geral de proteção de dados (RGPD) e como concluir as solicitações de acesso e exclusão permitidas em RGPRE para dados coletados no uso do Livefyre, bem como outros controles de privacidade relacionados.
 seo-title: Solicitações de privacidade (RGPD)
 solution: Experience Manager
 title: Solicitações de privacidade (RGPD)

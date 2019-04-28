@@ -1,8 +1,6 @@
 ---
-description: Retorna um objeto de Coleção instanciado como um tipo de Revisão. Execute
-  create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de Coleção instanciado como um tipo de Revisão.
-  Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+description: Retorna um objeto de Coleção instanciado como um tipo de Revisão. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+seo-description: Retorna um objeto de Coleção instanciado como um tipo de Revisão. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
 seo-title: Método do site buildreviewscollection
 solution: Experience Manager
 title: Método do site buildreviewscollection

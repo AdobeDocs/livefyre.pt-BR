@@ -1,8 +1,6 @@
 ---
-description: O Storify permite que você adicione conteúdo em qualquer posição na sua
-  história.
-seo-description: O Storify permite que você adicione conteúdo em qualquer posição
-  na sua história.
+description: O Storify permite que você adicione conteúdo em qualquer posição na sua história.
+seo-description: O Storify permite que você adicione conteúdo em qualquer posição na sua história.
 seo-title: Adicionar texto
 solution: Experience Manager
 title: Adicionar texto

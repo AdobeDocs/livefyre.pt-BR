@@ -1,8 +1,6 @@
 ---
-description: Os Gerentes e administradores do Studio podem convidar usuários novos
-  ou existentes para criar uma conta do Studio.
-seo-description: Os Gerentes e administradores do Studio podem convidar usuários novos
-  ou existentes para criar uma conta do Studio.
+description: Os Gerentes e administradores do Studio podem convidar usuários novos ou existentes para criar uma conta do Studio.
+seo-description: Os Gerentes e administradores do Studio podem convidar usuários novos ou existentes para criar uma conta do Studio.
 seo-title: Convidar um usuário para criar uma conta do Studio
 solution: Experience Manager
 title: Convidar um usuário para criar uma conta do Studio
@@ -29,6 +27,6 @@ O Gerente de conta técnico do Livefyre para a sua rede envia o primeiro convite
 
 1. Na **[!UICONTROL Users]** página, clique em **[!UICONTROL Invite to Studio.]**
 1. Na **[!UICONTROL Invite user]** caixa de diálogo que é aberta, selecionada **[!UICONTROL Existing User]** ou **[!UICONTROL New User]**.
-1. Para convidar um usuário existente, digite a **[!UICONTROL Username]**, **[!UICONTROL User ID]**ou **[!UICONTROL Email Address]** nos campos fornecidos. Para convidar um novo usuário, insira um **[!UICONTROL Email address]**.
+1. Para convidar um usuário existente, digite a **[!UICONTROL Username]**, **[!UICONTROL User ID]** ou **[!UICONTROL Email Address]** nos campos fornecidos. Para convidar um novo usuário, insira um **[!UICONTROL Email address]**.
 1. Clique **[!UICONTROL Add message]** em para inserir um convite personalizado, se desejado.
 1. Selecione o nível de acesso da nova conta e clique **[!UICONTROL Invite]** para emitir o convite.

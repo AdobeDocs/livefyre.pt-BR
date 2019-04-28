@@ -1,8 +1,6 @@
 ---
-description: O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo
-  social.
-seo-description: O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo
-  social.
+description: O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo social.
+seo-description: O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo social.
 seo-title: Adicionar conteúdo social
 solution: Experience Manager
 title: Adicionar conteúdo social

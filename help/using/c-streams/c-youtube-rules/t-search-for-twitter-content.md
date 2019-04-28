@@ -1,8 +1,6 @@
 ---
-description: Use a Pesquisa social para pesquisar o conteúdo do Twitter a ser incluído
-  na sua Biblioteca de ativos ou publicar em Aplicativos.
-seo-description: Use a Pesquisa social para pesquisar o conteúdo do Twitter a ser
-  incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
+description: Use a Pesquisa social para pesquisar o conteúdo do Twitter a ser incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
+seo-description: Use a Pesquisa social para pesquisar o conteúdo do Twitter a ser incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
 seo-title: Pesquisar conteúdo do Twitter
 title: Pesquisar conteúdo do Twitter
 uuid: 7 e 36 cc 1 f -7 dce -446 b -84 b 6-22939 e 8 dcaf 5
@@ -20,7 +18,7 @@ Você pode salvar e reutilizar pesquisas. Clique na barra de pesquisa para ver u
 
 Quando você adiciona novos ativos à biblioteca, os ativos que já estão incluídos na biblioteca são marcados com uma marca de seleção.
 
-1. Navegue **[!UICONTROL Social Search]**até.
+1. Navegue **[!UICONTROL Social Search]** até.
 1. Selecione **[!UICONTROL Twitter]** para pesquisar o conteúdo do Twitter.
 1. Insira uma palavra-chave, # hashtag ou @ pessoa. É possível selecionar um tipo de pesquisa no menu suspenso direito na barra de pesquisa para refinar a pesquisa.
 
@@ -44,4 +42,4 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 
 >= Os resultados retornados serão listados da mais recente ao menos.
 
-Os itens que correspondem à pesquisa são exibidos em uma exibição de grade. Passe o mouse sobre um item para **[!UICONTROL View Details]**adicioná-lo à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.
+Os itens que correspondem à pesquisa são exibidos em uma exibição de grade. Passe o mouse sobre um item para **[!UICONTROL View Details]** adicioná-lo à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.

@@ -1,8 +1,6 @@
 ---
-description: Os eventos disponíveis para os quais você pode vincular JavaScript para
-  aplicativos de Visualização (por exemplo, Mural de mídia).
-seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript
-  para aplicativos de Visualização (por exemplo, Mural de mídia).
+description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Visualização (por exemplo, Mural de mídia).
+seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Visualização (por exemplo, Mural de mídia).
 seo-title: Eventos de Javascript para aplicativos de visualização
 solution: Experience Manager
 title: Eventos de Javascript para aplicativos de visualização

@@ -119,14 +119,14 @@ As funções de formatação Datetime seguem a especificação de padrão, confo
   ''       single quote            (Literal)           'o''clock'
 ```
 
-Os itens marcados com ' *' ainda não são suportados.
+Os itens marcados com &#39; *&#39; ainda não são suportados.
 
-Os itens marcados com ' #' funcionam de forma diferente do Java.
+Os itens marcados com &#39; #&#39; funcionam de forma diferente do Java.
 
 A contagem de letras padrão determina o formato.
 
 * **Texto:** 4 ou mais, use formulário completo. Menos que 4, use formulário abreviado ou abreviado se ele existir. (Por exemplo: «EEEE» produz «Segunda-feira», «EEE» produz «Mon».
-* **Número:** o número mínimo de dígitos. Números mais curtos são adicionados a zero a esta quantia (por exemplo: Se «m» produzir «6», «mm» produz «06». O ano é manipulado especialmente; ou seja, se a contagem de "y" for 2, o ano será truncado para 2 dígitos. (Por exemplo: se «yyyy» produzir «1997», «yy» produz «97».) Diferentemente de outros campos, os segundos fracionais são padicionados à direita com zero.
+* **Número:** o número mínimo de dígitos. Números mais curtos são adicionados a zero a esta quantia (por exemplo: Se «m» produzir «6», «mm» produz «06». O ano é manipulado especialmente; ou seja, se a contagem de &quot;y&quot; for 2, o ano será truncado para 2 dígitos. (Por exemplo: se «yyyy» produzir «1997», «yy» produz «97».) Diferentemente de outros campos, os segundos fracionais são padicionados à direita com zero.
 * **Texto e número:** 3 ou mais, use texto. Menos que 3, use o número. (Por exemplo: «M» produz «1», «MM» produz «01», «MMM» produz «Jan» e «MMMM» produz «janeiro».
 
-Qualquer caractere no padrão que não esteja nos intervalos [de «a». 'z'] e ['A '. 'Z'] será tratado como texto como citação. Por exemplo, caracteres como ": ','. ',',' #' e ' @' aparecerão no texto de tempo resultante mesmo que não sejam incorporados em aspas simples.
+Qualquer caractere no padrão que não esteja nos intervalos [de «a». &#39;z&#39;] e [&#39;A &#39;. &#39;Z&#39;] será tratado como texto como citação. Por exemplo, caracteres como &quot;: &#39;,&#39;. &#39;,&#39;,&#39; #&#39; e &#39; @&#39; aparecerão no texto de tempo resultante mesmo que não sejam incorporados em aspas simples.

@@ -1,8 +1,6 @@
 ---
-description: O Studio salvará automaticamente todas as alterações feitas por todos
-  os editores e gere uma nova versão para cada alteração que você pode ver.
-seo-description: O Studio salvará automaticamente todas as alterações feitas por todos
-  os editores e gere uma nova versão para cada alteração que você pode ver.
+description: O Studio salvará automaticamente todas as alterações feitas por todos os editores e gere uma nova versão para cada alteração que você pode ver.
+seo-description: O Studio salvará automaticamente todas as alterações feitas por todos os editores e gere uma nova versão para cada alteração que você pode ver.
 seo-title: Histórico de revisões
 solution: Experience Manager
 title: Histórico de revisões

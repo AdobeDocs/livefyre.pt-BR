@@ -1,10 +1,6 @@
 ---
-description: A identidade e os aplicativos do Livefyre contêm recursos de acessibilidade
-  para permitir que todos os visitantes do site interajam com conteúdo, incluindo
-  aqueles que podem usar leitores de tela e outros dispositivos assistentes.
-seo-description: A identidade e os aplicativos do Livefyre contêm recursos de acessibilidade
-  para permitir que todos os visitantes do site interajam com conteúdo, incluindo
-  aqueles que podem usar leitores de tela e outros dispositivos assistentes.
+description: A identidade e os aplicativos do Livefyre contêm recursos de acessibilidade para permitir que todos os visitantes do site interajam com conteúdo, incluindo aqueles que podem usar leitores de tela e outros dispositivos assistentes.
+seo-description: A identidade e os aplicativos do Livefyre contêm recursos de acessibilidade para permitir que todos os visitantes do site interajam com conteúdo, incluindo aqueles que podem usar leitores de tela e outros dispositivos assistentes.
 seo-title: Recursos de acessibilidade
 solution: Experience Manager
 title: Recursos de acessibilidade

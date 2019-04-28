@@ -1,8 +1,6 @@
 ---
-description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos
-  de usuários.
-seo-description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos
-  de usuários.
+description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos de usuários.
+seo-description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos de usuários.
 seo-title: Realçar conteúdo
 solution: Experience Manager
 title: Realçar conteúdo

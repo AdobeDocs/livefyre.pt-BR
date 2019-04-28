@@ -1,10 +1,6 @@
 ---
-description: Permita que os usuários postem, editem, sinalizem, excluam, respondam
-  e curtem conteúdo em suas coleções, com uma ampla variedade de opções de formatação
-  Rich Text.
-seo-description: Permita que os usuários postem, editem, sinalizem, excluam, respondam
-  e curtem conteúdo em suas coleções, com uma ampla variedade de opções de formatação
-  Rich Text.
+description: Permita que os usuários postem, editem, sinalizem, excluam, respondam e curtem conteúdo em suas coleções, com uma ampla variedade de opções de formatação Rich Text.
+seo-description: Permita que os usuários postem, editem, sinalizem, excluam, respondam e curtem conteúdo em suas coleções, com uma ampla variedade de opções de formatação Rich Text.
 seo-title: Publicações do usuário
 solution: Experience Manager
 title: Publicações do usuário
@@ -23,9 +19,9 @@ Os aplicativos do Livefyre permitem que os usuários postem e interajam com cont
 
 ## Postagem {#section_bty_ww2_wy}
 
-Os usuários podem publicar conteúdo quando fizer logon inserindo um comentário ou um link de mídia na caixa do editor e clicando **[!UICONTROL Post comment]**em.
+Os usuários podem publicar conteúdo quando fizer logon inserindo um comentário ou um link de mídia na caixa do editor e clicando **[!UICONTROL Post comment]** em.
 
-Para publicar conteúdo quando não conectado, os usuários inserem um comentário ou um link de mídia no editor e clicam **[!UICONTROL Post comment as…]**em. A janela de logon será exibida para solicitar um logon.
+Para publicar conteúdo quando não conectado, os usuários inserem um comentário ou um link de mídia no editor e clicam **[!UICONTROL Post comment as…]** em. A janela de logon será exibida para solicitar um logon.
 
 (A maioria dos navegadores permite comentários de character,00character caracteres; O Internet Explorer permite 1,50characters caracteres.)
 
@@ -71,7 +67,7 @@ Os usuários podem excluir seu próprio conteúdo a qualquer momento clicando **
 
 Os usuários podem sinalizar o conteúdo de outro usuário clicando no **[!UICONTROL Flag]** link exibido ao passar o mouse sobre o conteúdo.
 
-Clicar nesse link exibirá o modal do Sinalizador, permitindo que os usuários sinalizem o conteúdo como **[!UICONTROL Offensive]****[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]**ou **[!UICONTROL Spam]**. Uma nota opcional e um endereço de email podem ser adicionados com o sinalizador.
+Clicar nesse link exibirá o modal do Sinalizador, permitindo que os usuários sinalizem o conteúdo como **[!UICONTROL Offensive]****[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** ou **[!UICONTROL Spam]**. Uma nota opcional e um endereço de email podem ser adicionados com o sinalizador.
 
 Os usuários não precisam fazer logon para sinalizar um comentário, permitindo que qualquer pessoa sinalize um comentário para moderação, sem precisar criar uma conta.
 

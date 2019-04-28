@@ -30,7 +30,7 @@ Os problemas nas tabelas a seguir foram resolvidos na versão de produção dest
 | **Tipo de edição** | **Componente** | **Nota de versão** |
 |---|---|---|
 | Bug | AEM | Correção de um problema em que tweets importados para AEM Assets via Livefyre possuíam links quebrados. |
-| Aprimoramento | Apis | Adicionada a etiqueta "áudio" para arquivos de áudio salvos em uma coleção. |
+| Aprimoramento | Apis | Adicionada a etiqueta &quot;áudio&quot; para arquivos de áudio salvos em uma coleção. |
 | Bug | Biblioteca/Pesquisa | Correção de um problema em que os ativos do Twitter não eram salvos em uma pasta específica quando arrastados e soltos da Pesquisa social. |
 | Bug | Biblioteca/Pesquisa | Correção de um problema em que uma imagem não era exibida ao usar contas de negócios IG válidas para Detalhes do ativo, Biblioteca e aplicativos publicados. |
 | Bug | Fluxos | Correção de um problema que impedia que as regras de fluxo do youtube fossem salvas. |

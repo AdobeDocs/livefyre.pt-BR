@@ -1,9 +1,9 @@
 ---
-description: Saiba como gerar tokens do Livefyre usando o idioma «C
-seo-description: Saiba como gerar tokens do Livefyre usando o idioma «C
-seo-title: Criar Tokens do Livefyre'C
+description: 'Saiba como gerar tokens do Livefyre usando o idioma «C #».'
+seo-description: 'Saiba como gerar tokens do Livefyre usando o idioma «C #».'
+seo-title: 'Criar Tokens do Livefyre''C #'''
 solution: Experience Manager
-title: Criar Tokens do Livefyre'C
+title: 'Criar Tokens do Livefyre''C #'''
 uuid: c 5 e 05625-8550-4 b 51-9211-134600 e 20 ec 7
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
@@ -55,7 +55,7 @@ Consulte também:
    ```
 
    * **título** *necessário*: O título da coleção, normalmente o título do artigo. O comprimento máximo é de 255 caracteres. Não suporta entidades html. Codifice caracteres especiais usando UTF -8.
-   * **url** *obrigatório*: O url canônico do artigo. Isso é usado pelos recursos de compartilhamento de comentário e sincronização social, e links para seu artigo a partir do painel de administração. Se estiver testando localmente, observe que o Livefyre não aceitará "localhost" como um domínio.
+   * **url** *obrigatório*: O url canônico do artigo. Isso é usado pelos recursos de compartilhamento de comentário e sincronização social, e links para seu artigo a partir do painel de administração. Se estiver testando localmente, observe que o Livefyre não aceitará &quot;localhost&quot; como um domínio.
    * *****opcionais*: Uma lista de tags separada por vírgulas que você deseja adicionar à coleção no painel do Livefyre. As tags não podem conter espaços. Use sublinhados se desejar que um espaço apareça no painel de administração.
    * **type** *optional*:  A string indicating what type of collection to create. Os valores válidos são:
 

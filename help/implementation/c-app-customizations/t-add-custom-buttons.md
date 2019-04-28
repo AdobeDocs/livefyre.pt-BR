@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Adicione ações personalizadas aos seus aplicativos do Livefyre.
 
-O Livefyre permite adicionar botões personalizados ao lado dos botões de ação existentes (como **[!UICONTROL Share]**e **[!UICONTROL Flag]**) em um conteúdo.
+O Livefyre permite adicionar botões personalizados ao lado dos botões de ação existentes (como **[!UICONTROL Share]** e **[!UICONTROL Flag]**) em um conteúdo.
 
 Use o argumento móvel para definir se o botão será exibido em dispositivos móveis.
 

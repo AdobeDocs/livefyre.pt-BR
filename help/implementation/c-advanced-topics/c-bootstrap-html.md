@@ -1,8 +1,6 @@
 ---
-description: Disponibilizar o conteúdo da comunidade para rastreadores de mecanismo
-  de pesquisa.
-seo-description: Disponibilizar o conteúdo da comunidade para rastreadores de mecanismo
-  de pesquisa.
+description: Disponibilizar o conteúdo da comunidade para rastreadores de mecanismo de pesquisa.
+seo-description: Disponibilizar o conteúdo da comunidade para rastreadores de mecanismo de pesquisa.
 seo-title: Bootstrap HTML
 solution: Experience Manager
 title: Bootstrap HTML

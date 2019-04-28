@@ -1,8 +1,6 @@
 ---
-description: Use CSS com Tags do usuário para criar símbolos do usuário para membros
-  de sua comunidade.
-seo-description: Use CSS com Tags do usuário para criar símbolos do usuário para membros
-  de sua comunidade.
+description: Use CSS com Tags do usuário para criar símbolos do usuário para membros de sua comunidade.
+seo-description: Use CSS com Tags do usuário para criar símbolos do usuário para membros de sua comunidade.
 seo-title: Símbolos do usuário
 title: Símbolos do usuário
 uuid: ff 1451 e 1-7 eb 3-45 dc -8 c 5 a -1 a 6 d 1d 1313 e 344

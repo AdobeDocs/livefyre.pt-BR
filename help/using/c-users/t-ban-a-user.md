@@ -1,10 +1,6 @@
 ---
-description: É possível proibir usuários em linha de seus aplicativos Livefyre, e
-  os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca Biblioteca
-  > Conteúdo do aplicativo.
-seo-description: É possível proibir usuários em linha de seus aplicativos Livefyre,
-  e os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca
-  Biblioteca > Conteúdo do aplicativo.
+description: É possível proibir usuários em linha de seus aplicativos Livefyre, e os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca Biblioteca > Conteúdo do aplicativo.
+seo-description: É possível proibir usuários em linha de seus aplicativos Livefyre, e os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca Biblioteca > Conteúdo do aplicativo.
 seo-title: Proibir um usuário
 solution: Experience Manager
 title: Proibir um usuário
@@ -17,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Proibir um usuário{#ban-a-user}
 
-É possível proibir usuários em linha de seus aplicativos Livefyre, e os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca Biblioteca > Conteúdo do aplicativo.
+É possível proibir usuários em linha de seus aplicativos Livefyre, e os usuários conectados por meio do Livefyre podem ser proibidos da Biblioteca Biblioteca &gt; Conteúdo do aplicativo.
 
 ![](assets/UsersBan2-1024x409.png)
 

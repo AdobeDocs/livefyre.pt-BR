@@ -43,7 +43,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 | Tipo de edição | Componente | Nota de versão |
 |--- |--- |--- |
-| Problema | Appservice: Identidade do Livefyre | Correção de um problema em que clicar [em! Redefinir o UICONTROL para o padrão] não redefine o logotipo em Modal de logon em Studio > Configurações de integração > Identidade do Livefyre para a imagem padrão. |
+| Problema | Appservice: Identidade do Livefyre | Correção de um problema em que clicar [em! Redefinir o UICONTROL para o padrão] não redefine o logotipo em Modal de logon em Studio &gt; Configurações de integração &gt; Identidade do Livefyre para a imagem padrão. |
 | Problema | Biblioteca | Correção de um problema em que um vídeo carregado na Biblioteca e exibido no detalhe do ativo não era exibido corretamente. |
 | Problema | Fluxos | Correção de um problema que impedia que os produtos fossem exibidos em uma regra de fluxo. |
 | Problema | Fluxos | Correção de um problema em que tags de produto não estavam disponíveis para uma regra de fluxo. |

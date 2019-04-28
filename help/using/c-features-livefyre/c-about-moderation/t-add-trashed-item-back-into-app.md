@@ -1,8 +1,6 @@
 ---
-description: Se você lixar um item em modq, poderá adicioná-lo de volta ao aplicativo
-  usando uma Pesquisa social.
-seo-description: Se você lixar um item em modq, poderá adicioná-lo de volta ao aplicativo
-  usando uma Pesquisa social.
+description: Se você lixar um item em modq, poderá adicioná-lo de volta ao aplicativo usando uma Pesquisa social.
+seo-description: Se você lixar um item em modq, poderá adicioná-lo de volta ao aplicativo usando uma Pesquisa social.
 seo-title: Adicionar um item com tendência de volta em um aplicativo
 title: Adicionar um item com tendência de volta em um aplicativo
 uuid: 96 c 5 db 19-999 f -476 f-a 96 c-ad 101028 d 484
@@ -16,7 +14,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Se você lixar um item em modq, poderá adicioná-lo de volta ao aplicativo usando uma Pesquisa social.
 
-1. Navegue **[!UICONTROL Library]**até o.
+1. Navegue **[!UICONTROL Library]** até o.
 1. Selecione **[!UICONTROL Social Search]**.
 1. Selecione um **[!UICONTROL Social Source]** (por exemplo, Twitter ou Instagram).
 1. Insira uma Hashtag.

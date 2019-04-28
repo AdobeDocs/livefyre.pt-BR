@@ -1,8 +1,6 @@
 ---
-description: A contagem de ouvinte é um contador que acompanha o número de visitantes
-  do site para um aplicativo em uma página e exibe esse número.
-seo-description: A contagem de ouvinte é um contador que acompanha o número de visitantes
-  do site para um aplicativo em uma página e exibe esse número.
+description: A contagem de ouvinte é um contador que acompanha o número de visitantes do site para um aplicativo em uma página e exibe esse número.
+seo-description: A contagem de ouvinte é um contador que acompanha o número de visitantes do site para um aplicativo em uma página e exibe esse número.
 seo-title: Contagem de ouvinte
 solution: Experience Manager
 title: Contagem de ouvinte
@@ -37,9 +35,9 @@ A contagem de ouvinte exibe um máximo de 10 avatars e exibe avatars somente par
 
 >[!NOTE]
 >
->Devido a restrições de espaço, a interface móvel exibe somente o número de ouvintes e um ícone de "pessoas" pequeno.
+>Devido a restrições de espaço, a interface móvel exibe somente o número de ouvintes e um ícone de &quot;pessoas&quot; pequeno.
 
-A Contagem de escuta do Livefyre exibe o número de pessoas ativamente na página a qualquer momento, além do número de pessoas após a conversa. Se alguém estiver na página e seguir a conversa, o usuário não será contado duas vezes. Por exemplo, se um usuário estiver em uma página e cliques **[!UICONTROL Follow]**, a contagem do ouvinte não aumentará; se esse usuário clicar **[!UICONTROL Unfollow]**em, a contagem não diminuirá.
+A Contagem de escuta do Livefyre exibe o número de pessoas ativamente na página a qualquer momento, além do número de pessoas após a conversa. Se alguém estiver na página e seguir a conversa, o usuário não será contado duas vezes. Por exemplo, se um usuário estiver em uma página e cliques **[!UICONTROL Follow]**, a contagem do ouvinte não aumentará; se esse usuário clicar **[!UICONTROL Unfollow]** em, a contagem não diminuirá.
 
 Aplicativos que usam este recurso:
 

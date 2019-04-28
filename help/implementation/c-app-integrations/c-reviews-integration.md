@@ -86,7 +86,7 @@ Se você já tiver completado a seção Introdução, familiarize-se com o objet
 
 * **Matriz** *opcional* de ratingdimensões: Uma matriz de sequências de caracteres para cada tipo de dimensão que essa coleção usará. Se isso não for especificado, apenas 1 dimensão será permitida.
 
-   Por exemplo, para permitir que os usuários classifiquem seu produto em "design", "recursos" e "desempenho", defina a matriz como: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
+   Por exemplo, para permitir que os usuários classifiquem seu produto em &quot;design&quot;, &quot;recursos&quot; e &quot;desempenho&quot;, defina a matriz como: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
 
 * **Número inteiro** *opcional* de ratingsubpartes: Número de partições a serem exibidas na caixa de texto da revisão. As etiquetas de subpartes são passadas com o parâmetro conforme ilustrado abaixo.
 

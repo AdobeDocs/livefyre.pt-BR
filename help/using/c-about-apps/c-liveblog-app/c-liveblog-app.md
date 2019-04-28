@@ -1,8 +1,6 @@
 ---
-description: O Blog ativo permite que seus autores e editores postem atualizações
-  em tempo real, transformando o site em uma fonte de notícias ativa envolvente.
-seo-description: O Blog ativo permite que seus autores e editores postem atualizações
-  em tempo real, transformando o site em uma fonte de notícias ativa envolvente.
+description: O Blog ativo permite que seus autores e editores postem atualizações em tempo real, transformando o site em uma fonte de notícias ativa envolvente.
+seo-description: O Blog ativo permite que seus autores e editores postem atualizações em tempo real, transformando o site em uma fonte de notícias ativa envolvente.
 seo-title: Blog ao vivo
 solution: Experience Manager
 title: Blog ao vivo

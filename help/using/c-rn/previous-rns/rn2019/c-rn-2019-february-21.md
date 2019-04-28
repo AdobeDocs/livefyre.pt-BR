@@ -18,7 +18,7 @@ source-git-commit: 4051e0d55c7fa1cf02d8b01c239d040c0a3baf14
 
 ## Correções de erros
 
-* Corrigido um problema no qual atualizar o token da Conta do Instagram Business resultava em um erro de "conta duplicada".
+* Corrigido um problema no qual atualizar o token da Conta do Instagram Business resultava em um erro de &quot;conta duplicada&quot;.
 * Corrigido um problema no qual a atualização de aplicativos usando um script personalizado criava aplicativos duplicados por erro.
-* Correção de um problema em que o conteúdo do Instagram exibido na pesquisa de URL mostrava a miniatura corretamente nos resultados da pesquisa, mas não em "Visualizar detalhes" ou publicado em um aplicativo.
+* Correção de um problema em que o conteúdo do Instagram exibido na pesquisa de URL mostrava a miniatura corretamente nos resultados da pesquisa, mas não em &quot;Visualizar detalhes&quot; ou publicado em um aplicativo.
 * Correção de um problema em que clicar em Carregar mais resultava em um erro para algumas IDs de produto.

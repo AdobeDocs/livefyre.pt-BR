@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Criar e modificar conjuntos de traduções
 solution: Experience Manager
 title: Criar e modificar conjuntos de traduções

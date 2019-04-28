@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Método do site do buildcollection
 solution: Experience Manager
 title: Método do site do buildcollection

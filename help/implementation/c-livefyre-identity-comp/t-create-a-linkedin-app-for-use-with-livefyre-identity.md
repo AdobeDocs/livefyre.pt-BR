@@ -1,10 +1,6 @@
 ---
-description: Você pode usar a identidade do Livefyre com o linkedin para permitir
-  que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu
-  site.
-seo-description: Você pode usar a identidade do Livefyre com o linkedin para permitir
-  que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu
-  site.
+description: Você pode usar a identidade do Livefyre com o linkedin para permitir que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu site.
+seo-description: Você pode usar a identidade do Livefyre com o linkedin para permitir que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu site.
 seo-title: Criar um aplicativo do linkedin para uso com a identidade do Livefyre
 solution: Experience Manager
 title: Criar um aplicativo do linkedin para uso com a identidade do Livefyre
@@ -27,13 +23,13 @@ Para ativar o logon do linkedin, o Livefyre exige as seguintes informações do 
 Para criar um aplicativo do linkedin para uso com a identidade do Livefyre:
 
 1. Acesse https://www.linkedin.com/secure/developer e faça logon na conta do linkedin para criar um novo aplicativo ou selecione um aplicativo existente para usar com a identidade do Livefyre.
-1. Clique **[!UICONTROL Create Application]**em.
+1. Clique **[!UICONTROL Create Application]** em.
 1. Preencha o formulário para criar o Aplicativo.
 1. No **[!UICONTROL Default Application Permissions]**, ative as permissões **[!UICONTROL r_basicprofile]** e **[!UICONTROL r_emailaddress]** o aplicativo.
 1. Insira o **[!UICONTROL OAuth 2.0 Authorized Redirect URL]** como `https://identity.livefyre.com/{network-name}.fyre.co/api/v1.0/public/profile/social/complete/linkedin_fyre`.
 1. Salve o aplicativo.
 1. Em **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]**, altere a **[!UICONTROL Enable LinkedIn Login]** alternância para **[!UICONTROL On]**.
 1. Insira a ID do cliente do linkedin e o segredo do cliente do linkedin.
-1. Clique **[!UICONTROL Save Settings]**em.
+1. Clique **[!UICONTROL Save Settings]** em.
 
 Ao concluir, a página de detalhes do aplicativo do linkedin listará a chave de API do aplicativo (chave do consumidor) e o segredo da API (segredo do consumidor) para uso na página Configurações de integração do Studio.

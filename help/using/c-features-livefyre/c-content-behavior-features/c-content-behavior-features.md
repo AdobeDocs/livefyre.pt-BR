@@ -1,8 +1,6 @@
 ---
-description: O Livefyre oferece recursos em Aplicativos que permitem escolher como
-  os visitantes do site visualizam o conteúdo do aplicativo.
-seo-description: O Livefyre oferece recursos em Aplicativos que permitem escolher
-  como os visitantes do site visualizam o conteúdo do aplicativo.
+description: O Livefyre oferece recursos em Aplicativos que permitem escolher como os visitantes do site visualizam o conteúdo do aplicativo.
+seo-description: O Livefyre oferece recursos em Aplicativos que permitem escolher como os visitantes do site visualizam o conteúdo do aplicativo.
 seo-title: Recursos de comportamento de conteúdo
 solution: Experience Manager
 title: Recursos de comportamento de conteúdo
@@ -35,7 +33,7 @@ Aplicativos que usam este recurso:
 
 ## Paginação {#section_mb5_lzl_d1b}
 
-Escolha o número de partes do conteúdo a serem exibidas no aplicativo. Para alguns aplicativos, você pode escolher se deseja usar um botão "mostrar mais" ou permitir rolagem contínua pelo conteúdo.
+Escolha o número de partes do conteúdo a serem exibidas no aplicativo. Para alguns aplicativos, você pode escolher se deseja usar um botão &quot;mostrar mais&quot; ou permitir rolagem contínua pelo conteúdo.
 
 Aplicativos que usam este recurso:
 

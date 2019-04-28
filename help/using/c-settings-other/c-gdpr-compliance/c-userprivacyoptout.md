@@ -1,13 +1,11 @@
 ---
-description: Adicione o sinalizador userprivacyoptout à página para permitir que um
-  visitante do site opte por não participar desse rastreamento.
-seo-description: Adicione o sinalizador userprivacyoptout à página para permitir que
-  um visitante do site opte por não participar desse rastreamento.
+description: Adicione o sinalizador userprivacyoptout à página para permitir que um visitante do site opte por não participar desse rastreamento.
+seo-description: Adicione o sinalizador userprivacyoptout à página para permitir que um visitante do site opte por não participar desse rastreamento.
 seo-title: Userprivacyoptout
 title: Userprivacyoptout
 uuid: a 043 c 50 e -0 a 02-4 c 83-bbce -54 b 9 b 51316 a 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 

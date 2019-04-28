@@ -1,8 +1,6 @@
 ---
-description: A plataforma líder em profundidade social com as ferramentas necessárias
-  para envolver públicos com vozes que eles configurem mais suas próprias.
-seo-description: A plataforma líder em profundidade social com as ferramentas necessárias
-  para envolver públicos com vozes que eles configurem mais suas próprias.
+description: A plataforma líder em profundidade social com as ferramentas necessárias para envolver públicos com vozes que eles configurem mais suas próprias.
+seo-description: A plataforma líder em profundidade social com as ferramentas necessárias para envolver públicos com vozes que eles configurem mais suas próprias.
 seo-title: Sobre o Livefyre
 solution: Experience Manager
 title: Sobre o Livefyre

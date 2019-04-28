@@ -1,8 +1,6 @@
 ---
-description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo
-  ou pasta.
-seo-description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo
-  ou pasta.
+description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
+seo-description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
 seo-title: Criar um novo fluxo
 solution: Experience Manager
 title: Criar um novo fluxo

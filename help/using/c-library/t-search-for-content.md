@@ -1,8 +1,6 @@
 ---
-description: Use a Pesquisa social para pesquisar o conteúdo do Instagram a ser incluído
-  na sua Biblioteca de ativos ou publicar em Aplicativos.
-seo-description: Use a Pesquisa social para pesquisar o conteúdo do Instagram a ser
-  incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
+description: Use a Pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
+seo-description: Use a Pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na sua Biblioteca de ativos ou publicar em Aplicativos.
 seo-title: Pesquisar conteúdo do Instagram
 solution: Experience Manager
 title: Pesquisar conteúdo do Instagram
@@ -26,7 +24,7 @@ Você pode salvar e reutilizar pesquisas. Clique na barra de pesquisa para ver u
 Quando você adiciona novos ativos à biblioteca, os ativos que já estão incluídos na biblioteca são marcados com uma marca de seleção.
 
 1. Configure uma conta de negócios do Instagram.
-1. Navegue **[!UICONTROL Library]** até > **[!UICONTROL Social Search]**.
+1. Navegue **[!UICONTROL Library]** até &gt; **[!UICONTROL Social Search]**.
 1. Selecione **[!UICONTROL Instagram]** para pesquisar o conteúdo do Instagram.
 1. Digite seus critérios de pesquisa, clique em **[!UICONTROL Show Filter]** para refinar sua pesquisa.
 
@@ -40,5 +38,5 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 
    * **[!UICONTROL Recent Tags Search]**: Pesquise as postagens mais recentes com a hashtag.
 
->Os itens são exibidos que correspondem à pesquisa. Passe o mouse sobre um item para **[!UICONTROL View Details]**adicioná-lo à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.
+>Os itens são exibidos que correspondem à pesquisa. Passe o mouse sobre um item para **[!UICONTROL View Details]** adicioná-lo à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.
 

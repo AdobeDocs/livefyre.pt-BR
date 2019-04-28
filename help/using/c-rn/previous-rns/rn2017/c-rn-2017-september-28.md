@@ -25,5 +25,5 @@ Notas de versão da versão de September 8 de setembro de 28 17.
 
 | **Tipo de edição** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | Biblioteca | Os arquivos carregados na biblioteca por um cliente serão concedidos automaticamente. Esse recurso é útil quando os usuários ativaram o filtro "exigir direitos concedidos" em seus aplicativos. |
+| Aprimoramento | Biblioteca | Os arquivos carregados na biblioteca por um cliente serão concedidos automaticamente. Esse recurso é útil quando os usuários ativaram o filtro &quot;exigir direitos concedidos&quot; em seus aplicativos. |
 

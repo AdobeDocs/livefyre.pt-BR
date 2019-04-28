@@ -26,7 +26,7 @@ Notas de versão da versão de June 5 de junho de 25 17.
 | Bug | Modq | Correção de um problema de desaceleração na guia modq Streams Premod quando o conteúdo do Instagram Carousel era obtido. |
 | Bug | Auxiliares | Notas de sidesanotação aprimoradas para suportar a moderação front-end. Isso significa que os moderadores conectados no aplicativo no front-end poderão aprovar ou excluir conteúdo. |
 | Bug | Pesquisa social | Correção de um erro que impedia que os locais do mapa fossem salvos ao executar Pesquisas sociais do Twitter. |
-| Aprimoramento | Storify 2 | Correção de um bug no Storify 2 que fazia com que a página pulasse se um usuário tivesse classificado por "Mais antigo ao mais novo" ou "Mais recente ao mais antigo". |
+| Aprimoramento | Storify 2 | Correção de um bug no Storify 2 que fazia com que a página pulasse se um usuário tivesse classificado por &quot;Mais antigo ao mais novo&quot; ou &quot;Mais recente ao mais antigo&quot;. |
 | Aprimoramento | Regras de fluxo | Foi adicionada a capacidade de filtrar Tweets por idioma nas Regras de fluxo. |
 | Aprimoramento | Regras de fluxo | Foi adicionada a capacidade de filtrar vários locais de mapa nas regras do Twitter e do Instagram Stream. |
 | Aprimoramento | Regras de fluxo | Melhorias de validação adicionadas ao salvar Regras de fluxo do Twitter. |

@@ -1,8 +1,6 @@
 ---
-description: Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente
-  um Aplicativo ou Pasta com base nessas regras.
-seo-description: Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente
-  um Aplicativo ou Pasta com base nessas regras.
+description: Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente um Aplicativo ou Pasta com base nessas regras.
+seo-description: Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente um Aplicativo ou Pasta com base nessas regras.
 seo-title: Adicionar regras para seu fluxo
 solution: Experience Manager
 title: Adicionar regras para seu fluxo

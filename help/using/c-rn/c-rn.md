@@ -24,4 +24,4 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 ## Correções de erros
 
-* Correção de um problema em que postagens do Instagram "Undefined" não podiam ser removidas.
+* Correção de um problema em que postagens do Instagram &quot;Undefined&quot; não podiam ser removidas.

@@ -1,8 +1,6 @@
 ---
-description: Salve o conteúdo na guia Pesquisa social para salvar conteúdo para uso
-  em Aplicativos.
-seo-description: Salve o conteúdo na guia Pesquisa social para salvar conteúdo para
-  uso em Aplicativos.
+description: Salve o conteúdo na guia Pesquisa social para salvar conteúdo para uso em Aplicativos.
+seo-description: Salve o conteúdo na guia Pesquisa social para salvar conteúdo para uso em Aplicativos.
 seo-title: Salvar conteúdo na biblioteca de ativos
 title: Salvar conteúdo na biblioteca de ativos
 uuid: 5 f 076 a 55-4358-4 ee 5-866 e -5 b 6 c 0199 b 580

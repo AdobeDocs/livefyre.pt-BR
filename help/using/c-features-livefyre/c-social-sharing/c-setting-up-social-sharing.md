@@ -1,8 +1,6 @@
 ---
-description: O painel de Compartilhamento em redes sociais permite que você adicione
-  suas credenciais do aplicativo de rede social.
-seo-description: O painel de Compartilhamento em redes sociais permite que você adicione
-  suas credenciais do aplicativo de rede social.
+description: O painel de Compartilhamento em redes sociais permite que você adicione suas credenciais do aplicativo de rede social.
+seo-description: O painel de Compartilhamento em redes sociais permite que você adicione suas credenciais do aplicativo de rede social.
 seo-title: Configuração do compartilhamento em redes sociais
 title: Configuração do compartilhamento em redes sociais
 uuid: e 1940 e 30-9 fbb -41 e 8-b 5 bb -497 a 5 b 06643 f

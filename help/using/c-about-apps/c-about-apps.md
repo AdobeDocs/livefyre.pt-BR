@@ -1,8 +1,6 @@
 ---
-description: O Studio fornece acesso fácil aos seus aplicativos, permitindo pesquisar,
-  editar e gerenciar aplicativos personalizados de uma única página.
-seo-description: O Studio fornece acesso fácil aos seus aplicativos, permitindo pesquisar,
-  editar e gerenciar aplicativos personalizados de uma única página.
+description: O Studio fornece acesso fácil aos seus aplicativos, permitindo pesquisar, editar e gerenciar aplicativos personalizados de uma única página.
+seo-description: O Studio fornece acesso fácil aos seus aplicativos, permitindo pesquisar, editar e gerenciar aplicativos personalizados de uma única página.
 seo-title: Aplicativos
 solution: Experience Manager
 title: Aplicativos

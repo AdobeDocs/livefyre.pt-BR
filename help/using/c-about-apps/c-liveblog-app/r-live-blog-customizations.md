@@ -1,8 +1,6 @@
 ---
-description: Personalize o estilo e a forma como os comentários são exibidos em seu
-  blog ativo.
-seo-description: Personalize o estilo e a forma como os comentários são exibidos em
-  seu blog ativo.
+description: Personalize o estilo e a forma como os comentários são exibidos em seu blog ativo.
+seo-description: Personalize o estilo e a forma como os comentários são exibidos em seu blog ativo.
 seo-title: Personalizações do blog online
 solution: Experience Manager
 title: Personalizações do blog online
@@ -59,7 +57,7 @@ Use o Blog ativo para publicar atualizações em tempo real em histórias contí
 
 * **[!UICONTROL Users may share comments]**
 
-   Se ativado, os usuários podem compartilhar conteúdo postado no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
+   Se ativado, os usuários podem compartilhar conteúdo postado no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
 
 Você pode personalizar o Blog ao vivo usando:
 

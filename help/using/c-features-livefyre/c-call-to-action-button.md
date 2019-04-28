@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Botão de chamada personalizada de chamada
 title: Botão de chamada personalizada de chamada
 uuid: 8 c 653799-1602-4 e 38-a 2 bc -6 de 0 f 99 c 40 ff
@@ -27,15 +27,15 @@ Com o ctas personalizado, você pode:
 
 Contexto da tarefa
 
-1. No Livefyre Studio, clique **[!UICONTROL Settings]**em.
-1. No trilho à esquerda, clique **[!UICONTROL CTAs]**em.
+1. No Livefyre Studio, clique **[!UICONTROL Settings]** em.
+1. No trilho à esquerda, clique **[!UICONTROL CTAs]** em.
 
-   A biblioteca CTA será exibida, onde ctas podem ser criados e organizados dentro de pastas. 1. Clique **[!UICONTROL Create CTA]**em.
+   A biblioteca CTA será exibida, onde ctas podem ser criados e organizados dentro de pastas. 1. Clique **[!UICONTROL Create CTA]** em.
 1. Preencha os campos com as personalizações desejadas e uma visualização de botão será renderizada na parte inferior da tela Criar CTA.
 
    ![](assets/cta-button-create.png)
 
-1. Clique **[!UICONTROL Create]**em.
+1. Clique **[!UICONTROL Create]** em.
 
    O botão CTA agora está disponível para ser adicionado a qualquer ativo.
 
@@ -43,13 +43,13 @@ Contexto da tarefa
 
 Adicione um botão CTA a qualquer conteúdo no Livefyre Studio.
 
-1. No Livefyre studio, navegue **[!UICONTROL Library]** até > **[!UICONTROL All Assets]**.
+1. No Livefyre studio, navegue **[!UICONTROL Library]** até &gt; **[!UICONTROL All Assets]**.
 1. Selecione em um ou mais ativos para adicionar um botão CTA.
-1. Clique **[!UICONTROL CTAs]**em.
+1. Clique **[!UICONTROL CTAs]** em.
 
    ![](assets/cta-button-create2.png)
 
-1. Selecione o botão CTA desejado na lista e clique **[!UICONTROL Add]**em.
+1. Selecione o botão CTA desejado na lista e clique **[!UICONTROL Add]** em.
 
    O botão CTA agora aparecerá no ativo selecionado.
 

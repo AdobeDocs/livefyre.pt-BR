@@ -1,8 +1,6 @@
 ---
-description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar
-  uma lista de publicações permalinadas em um local proeminente ao lado da sua história.
-seo-description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar
-  uma lista de publicações permalinadas em um local proeminente ao lado da sua história.
+description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações permalinadas em um local proeminente ao lado da sua história.
+seo-description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações permalinadas em um local proeminente ao lado da sua história.
 seo-title: Adicionar um Guia de navegação a um Storify 2
 solution: Experience Manager
 title: Adicionar um Guia de navegação a um Storify 2

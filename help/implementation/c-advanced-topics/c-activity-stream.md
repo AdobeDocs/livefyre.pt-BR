@@ -1,8 +1,6 @@
 ---
-description: Saiba como monitorar e armazenar o conteúdo gerado pelo usuário por meio
-  do sistema Livefyre.
-seo-description: Saiba como monitorar e armazenar o conteúdo gerado pelo usuário por
-  meio do sistema Livefyre.
+description: Saiba como monitorar e armazenar o conteúdo gerado pelo usuário por meio do sistema Livefyre.
+seo-description: Saiba como monitorar e armazenar o conteúdo gerado pelo usuário por meio do sistema Livefyre.
 seo-title: Fluxo de atividade
 solution: Experience Manager
 title: Fluxo de atividade
@@ -70,7 +68,7 @@ As etapas para criar um Token de Bearer oauth incluem:
 
 * Crie um mapa/dicionário contendo o emissor, o público-alvo, o assunto, a expiração e o escopo.
 * Use a biblioteca JWT, com seu segredo, para codificar um token JWT.
-* Adicionar «Autenticação: Bearer "para sua solicitação HTTP.
+* Adicionar «Autenticação: Bearer &quot;para sua solicitação HTTP.
 
 A amostra de código abaixo demonstra as etapas acima no Python:
 
@@ -101,7 +99,7 @@ Onde as teclas do token do bearer são definidas da seguinte maneira:
 * **aud** *(Público)* A pessoa para a qual este token foi gerado. Se você estiver criando o próprio token, é o site ou rede.
 * **sub** *(Assunto)* O assunto para o qual permissões devem ser concedidas. Por exemplo, se você estiver operando em uma coleção, o assunto deve ser o identificador da coleção. (Na nota do exemplo escolar, é você.)
 * **exp** *(Expiração)* Um ponto no tempo em que o token não é mais válido.
-* **escopo** *(Escopo)* É uma lista das permissões concedidas ao assunto. " Fim para escola "é um exemplo. O nome de uma API é outro exemplo.
+* **escopo** *(Escopo)* É uma lista das permissões concedidas ao assunto. &quot; Fim para escola &quot;é um exemplo. O nome de uma API é outro exemplo.
 
 ## Exemplo {#section_dhl_ytj_11b}
 

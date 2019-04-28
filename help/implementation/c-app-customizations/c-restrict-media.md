@@ -19,7 +19,7 @@ Por padrão, todos os anexos de mídia podem ser incorporados em Aplicativos. O 
 
 >[!NOTE]
 >
->Parceiros do Livefyre com integração de mídia. Para obter mais informações, consulte Integração de conteúdo > Integração de integração. Entre em contato com seu Gerente de conta técnico para obter perguntas sobre expansão de links ou fontes.
+>Parceiros do Livefyre com integração de mídia. Para obter mais informações, consulte Integração de conteúdo &gt; Integração de integração. Entre em contato com seu Gerente de conta técnico para obter perguntas sobre expansão de links ou fontes.
 
 Este exemplo bloqueia a incorporação do youtube e do Vimeo a partir do seu fluxo de comentário:
 

@@ -1,7 +1,6 @@
 ---
 description: Rastrear os cliques de volta para a página a partir do tráfego de referência.
-seo-description: Rastrear os cliques de volta para a página a partir do tráfego de
-  referência.
+seo-description: Rastrear os cliques de volta para a página a partir do tráfego de referência.
 seo-title: Rastreamento de referências
 solution: Experience Manager
 title: Rastreamento de referências

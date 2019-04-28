@@ -1,8 +1,6 @@
 ---
-description: Crie o terminal de extração para receber e responder a solicitações de
-  acesso ao seu sistema de identidade do usuário.
-seo-description: Crie o terminal de extração para receber e responder a solicitações
-  de acesso ao seu sistema de identidade do usuário.
+description: Crie o terminal de extração para receber e responder a solicitações de acesso ao seu sistema de identidade do usuário.
+seo-description: Crie o terminal de extração para receber e responder a solicitações de acesso ao seu sistema de identidade do usuário.
 seo-title: Criar o endpoint de extração
 solution: Experience Manager
 title: Criar o endpoint de extração

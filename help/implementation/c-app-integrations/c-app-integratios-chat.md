@@ -21,7 +21,7 @@ Versão atual: Uso do bate-papo `fyre.conv v3.0.0.`
 
 ## Integração {#concept_0A99792A7E89403F95D082D52D600F17}
 
-A incorporação do aplicativo de bate-papo segue o processo de incorporação de um aplicativo principal descrito em Introdução > [Incorporar um aplicativo](../c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md#using-livefyre-js-create-customize-apps).
+A incorporação do aplicativo de bate-papo segue o processo de incorporação de um aplicativo principal descrito em Introdução &gt; [Incorporar um aplicativo](../c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md#using-livefyre-js-create-customize-apps).
 
 Exemplo:
 
@@ -125,7 +125,7 @@ O `ConvConfig` objeto também pode conter os seguintes parâmetros opcionais:
 | Posttobuttons | *optional* array | Usado para configurar quais provedores são exibidos ao incorporar o aplicativo de blog ao vivo. As opções disponíveis são tw (Twitter), fb (Facebook) e li (linkedin). Padrões para [ tw, fb ]. |
 | Readonly | *optional* boolean | Desativa toda a interatividade para a Coleção. Quando verdadeiro, os usuários não conseguirão fazer logon no stream e não poderão Publicar, Editar, Responder ou Curtir conteúdo. Quando verdadeiro, os usuários poderão sinalizar e compartilhar conteúdo. O padrão é false. |
 | stream | *optional* object | Contém opções para configurar o streaming do aplicativo. |
-| stream. catchup | *optional* integer | Especifica o número de segundos antes do momento atual que o stream deve carregar. Por padrão, o Livefyre carrega 50 partes de conteúdo e carrega todo o conteúdo enviado entre eles e o momento atual. Em casos de uso muito rápido, o conteúdo pode ser postado rapidamente para permitir que o aplicativo "capture" para o presente. Use essa configuração para definir o número de segundos antes para o qual o conteúdo será publicado (após a carga do conteúdo inicial). |
+| stream. catchup | *optional* integer | Especifica o número de segundos antes do momento atual que o stream deve carregar. Por padrão, o Livefyre carrega 50 partes de conteúdo e carrega todo o conteúdo enviado entre eles e o momento atual. Em casos de uso muito rápido, o conteúdo pode ser postado rapidamente para permitir que o aplicativo &quot;capture&quot; para o presente. Use essa configuração para definir o número de segundos antes para o qual o conteúdo será publicado (após a carga do conteúdo inicial). |
 | stream. delay | *optional* integer | Especifica o número de segundos entre as solicitações de transmissão. Use esse parâmetro para ajudar a controlar o fluxo de conteúdo e atrasar a frequência com que o DOM é atualizado. Observação: Se definido muito grande, o stream pode ficar inativo. |
 
 

@@ -1,8 +1,6 @@
 ---
-description: Esse método retorna o URN desta coleção. Você deve executar createorupdate
-  () antes de executar este método.
-seo-description: Esse método retorna o URN desta coleção. Você deve executar createorupdate
-  () antes de executar este método.
+description: Esse método retorna o URN desta coleção. Você deve executar createorupdate () antes de executar este método.
+seo-description: Esse método retorna o URN desta coleção. Você deve executar createorupdate () antes de executar este método.
 seo-title: Método de coleta geturn
 solution: Experience Manager
 title: Método de coleta geturn

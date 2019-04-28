@@ -1,8 +1,6 @@
 ---
-description: O App Designer permite visualizar o aplicativo em vários formatos de
-  entrega e com seus próprios dados ou dados de amostra exibidos.
-seo-description: O App Designer permite visualizar o aplicativo em vários formatos
-  de entrega e com seus próprios dados ou dados de amostra exibidos.
+description: O App Designer permite visualizar o aplicativo em vários formatos de entrega e com seus próprios dados ou dados de amostra exibidos.
+seo-description: O App Designer permite visualizar o aplicativo em vários formatos de entrega e com seus próprios dados ou dados de amostra exibidos.
 seo-title: Visualizar uma história
 solution: Experience Manager
 title: Visualizar uma história

@@ -1,8 +1,6 @@
 ---
-description: O painel Resumo do usuário fornece informações de usuário para ajudar
-  a moderação.
-seo-description: O painel Resumo do usuário fornece informações de usuário para ajudar
-  a moderação.
+description: O painel Resumo do usuário fornece informações de usuário para ajudar a moderação.
+seo-description: O painel Resumo do usuário fornece informações de usuário para ajudar a moderação.
 seo-title: Moderar usuários
 solution: Experience Manager
 title: Moderar usuários
@@ -34,7 +32,7 @@ As seguintes informações são exibidas (se disponível) para cada um dos usuá
 * **[!UICONTROL Email]**: seu endereço de email listado.
 * **[!UICONTROL IP Address]**: seu endereço IP, conforme determinado pelo Livefyre.
 * **[!UICONTROL Bio]**: descrição do usuário.
-* **[!UICONTROL Bans]**: lista sites para os quais o usuário foi proibido ou Bozo'd.
+* **[!UICONTROL Bans]**: lista sites para os quais o usuário foi proibido ou Bozo&#39;d.
 * **[!UICONTROL Whitelists]**: lista sites para os quais o usuário foi listado.
 
 Para saber mais sobre como moderar os usuários na guia Conteúdo do aplicativo, consulte [Moderar usando conteúdo do aplicativo](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).

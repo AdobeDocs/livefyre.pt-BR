@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Configurar credenciais
 solution: Experience Manager
 title: Configurar credenciais
@@ -14,7 +14,7 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 # Configurar credenciais{#set-up-credentials}
 
 **Credenciais** O painel Credenciais exibe suas Credenciais do Livefyre Network e do Site. Esses campos serão preenchidos pelo Livefyre durante o processo de integração e estão disponíveis aqui para sua referência. Os Novos sites adicionados por meio do Studio também serão incluídos nesta página. Esses valores são somente leitura.
-**Observação** **de rede:** Sua Chave de rede é usada **apenas** para gerar tokens userauth e não é usada para outras chamadas de API. Ao construir collectionmeta tokens, a Chave do site é usada. Para obter mais informações, consulte [Desenvolvedores > Introdução > Criação de um token](https://answers.livefyre.com/developers/getting-started/tokens/auth/)de autenticação do usuário.
+**Observação** **de rede:** Sua Chave de rede é usada **apenas** para gerar tokens userauth e não é usada para outras chamadas de API. Ao construir collectionmeta tokens, a Chave do site é usada. Para obter mais informações, consulte [Desenvolvedores &gt; Introdução &gt; Criação de um token](https://answers.livefyre.com/developers/getting-started/tokens/auth/)de autenticação do usuário.
 
 * Domínio de rede
 * Chave de rede

@@ -1,8 +1,6 @@
 ---
-description: Vincule sua conta do Studio à sua conta do Livefyre para moderar ou gerenciar
-  todos os sites ou redes do Livefyre de um único local.
-seo-description: Vincule sua conta do Studio à sua conta do Livefyre para moderar
-  ou gerenciar todos os sites ou redes do Livefyre de um único local.
+description: Vincule sua conta do Studio à sua conta do Livefyre para moderar ou gerenciar todos os sites ou redes do Livefyre de um único local.
+seo-description: Vincule sua conta do Studio à sua conta do Livefyre para moderar ou gerenciar todos os sites ou redes do Livefyre de um único local.
 seo-title: Vincular contas de usuário
 solution: Experience Manager
 title: Vincular contas de usuário
@@ -25,7 +23,7 @@ Para vincular contas:
 
 1. Faça logon no Studio depois de criar um perfil de usuário do Livefyre na rede.
 1. Vá para **[!UICONTROL Users]**, localize o Perfil do usuário e clique duas vezes para visualizar os detalhes.
-1. Clique **[!UICONTROL Connect account]**em.
+1. Clique **[!UICONTROL Connect account]** em.
 1. Na janela aberta, selecione a conta de usuário a ser vinculada a esta conta.
-1. Confirme as **[!UICONTROL Link Profile]** informações e clique **[!UICONTROL Link]**em. ![](assets/UsersConnectAccount-1024x311.png)
+1. Confirme as **[!UICONTROL Link Profile]** informações e clique **[!UICONTROL Link]** em. ![](assets/UsersConnectAccount-1024x311.png)
 

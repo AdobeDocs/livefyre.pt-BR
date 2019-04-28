@@ -1,8 +1,6 @@
 ---
-description: Crie a estrutura de solicitação de extração para receber e responder
-  a solicitações de acesso ao seu sistema de identidade do usuário.
-seo-description: Crie a estrutura de solicitação de extração para receber e responder
-  a solicitações de acesso ao seu sistema de identidade do usuário.
+description: Crie a estrutura de solicitação de extração para receber e responder a solicitações de acesso ao seu sistema de identidade do usuário.
+seo-description: Crie a estrutura de solicitação de extração para receber e responder a solicitações de acesso ao seu sistema de identidade do usuário.
 seo-title: Estrutura de solicitação de extração
 solution: Experience Manager
 title: Estrutura de solicitação de extração

@@ -1,9 +1,6 @@
 ---
-description: Quando sua conta de rede estiver conectada à sua conta do Studio, você
-  poderá acessar o Studio por meio dos links marcados ou por qualquer aplicativo Livefyre.
-seo-description: Quando sua conta de rede estiver conectada à sua conta do Studio,
-  você poderá acessar o Studio por meio dos links marcados ou por qualquer aplicativo
-  Livefyre.
+description: Quando sua conta de rede estiver conectada à sua conta do Studio, você poderá acessar o Studio por meio dos links marcados ou por qualquer aplicativo Livefyre.
+seo-description: Quando sua conta de rede estiver conectada à sua conta do Studio, você poderá acessar o Studio por meio dos links marcados ou por qualquer aplicativo Livefyre.
 seo-title: Fazer logon no Studio
 solution: Experience Manager
 title: Fazer logon no Studio

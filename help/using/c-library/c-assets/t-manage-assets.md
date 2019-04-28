@@ -1,8 +1,6 @@
 ---
-description: A Biblioteca permite que você adicione informações ao conteúdo salvo
-  para que você possa organizar seus ativos com base na estratégia de marca.
-seo-description: A Biblioteca permite que você adicione informações ao conteúdo salvo
-  para que você possa organizar seus ativos com base na estratégia de marca.
+description: A Biblioteca permite que você adicione informações ao conteúdo salvo para que você possa organizar seus ativos com base na estratégia de marca.
+seo-description: A Biblioteca permite que você adicione informações ao conteúdo salvo para que você possa organizar seus ativos com base na estratégia de marca.
 seo-title: Exibir detalhes do ativo
 solution: Experience Manager
 title: Exibir detalhes do ativo

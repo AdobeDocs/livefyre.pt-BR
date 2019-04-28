@@ -103,7 +103,7 @@ Strings disponíveis para ações do usuário: sinalizar, compartilhar e marcar 
 |  | Wasreviewhelpfulmobile | Útil? |
 |  | Ownwasreviewhelpous | [Encontrado útil.](https://d.pr/i/Q0mA) |
 |  | Reviewwashelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [& amp; vert;](https://d.pr/i/Q0mA) |
+|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
 |  | Reviewwasnothelpous | [Não](https://d.pr/i/Q0mA) |
 | Voto modal | Expressetitle | Essa revisão foi útil? |
 |  | Votedownvotem | Não |

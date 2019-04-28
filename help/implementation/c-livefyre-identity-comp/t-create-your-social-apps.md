@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Criar aplicativos sociais
 solution: Experience Manager
 title: Criar aplicativos sociais

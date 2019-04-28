@@ -1,8 +1,6 @@
 ---
-description: Siga as etapas na lista de verificação para garantir que você converta
-  de HTTP para HTTPS.
-seo-description: Siga as etapas na lista de verificação para garantir que você converta
-  de HTTP para HTTPS.
+description: Siga as etapas na lista de verificação para garantir que você converta de HTTP para HTTPS.
+seo-description: Siga as etapas na lista de verificação para garantir que você converta de HTTP para HTTPS.
 seo-title: Lista de verificação SSL
 title: Lista de verificação SSL
 uuid: 2 b 176 c 73-8 a 6 a -4835-88 b 3-047 c 6661 cba 9

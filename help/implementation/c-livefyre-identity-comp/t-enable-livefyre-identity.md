@@ -1,10 +1,6 @@
 ---
-description: Ative o pacote de identidade do Livefyre para permitir que os usuários
-  façam logon nos seus aplicativos do Livefyre usando um email, Twitter, Facebook,
-  Yahoo! ou login do Google.
-seo-description: Ative o pacote de identidade do Livefyre para permitir que os usuários
-  façam logon nos seus aplicativos do Livefyre usando um email, Twitter, Facebook,
-  Yahoo! ou login do Google.
+description: Ative o pacote de identidade do Livefyre para permitir que os usuários façam logon nos seus aplicativos do Livefyre usando um email, Twitter, Facebook, Yahoo! ou login do Google.
+seo-description: Ative o pacote de identidade do Livefyre para permitir que os usuários façam logon nos seus aplicativos do Livefyre usando um email, Twitter, Facebook, Yahoo! ou login do Google.
 seo-title: Habilitar identidade do Livefyre
 solution: Experience Manager
 title: Habilitar identidade do Livefyre

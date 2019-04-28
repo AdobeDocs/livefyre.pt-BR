@@ -1,8 +1,6 @@
 ---
-description: Ao preparar o conteúdo do Instagram, você deve seguir suas diretrizes
-  e práticas recomendadas.
-seo-description: Ao preparar o conteúdo do Instagram, você deve seguir suas diretrizes
-  e práticas recomendadas.
+description: Ao preparar o conteúdo do Instagram, você deve seguir suas diretrizes e práticas recomendadas.
+seo-description: Ao preparar o conteúdo do Instagram, você deve seguir suas diretrizes e práticas recomendadas.
 seo-title: Diretrizes de conteúdo do Instagram
 solution: Experience Manager
 title: Diretrizes de conteúdo do Instagram
@@ -28,7 +26,7 @@ O Instagram aplica as seguintes regras para obter conteúdo de sua plataforma:
 
 O Livefyre recomenda seguir as seguintes diretrizes para maximizar a funcionalidade e a eficiência de pesquisa:
 
-* Promova e selecione hashtags exclusivas para a sua marca, de forma que os usuários sejam "explicitamente" ingressando na campanha.
+* Promova e selecione hashtags exclusivas para a sua marca, de forma que os usuários sejam &quot;explicitamente&quot; ingressando na campanha.
 * Use uma hashtag (1) em vez de vários para uma campanha ou promoção específica, permitindo que você rastreie por um filtro único e específico.
 * Use palavras específicas em vez de palavras genéricas na pesquisa de hashtag. O uso de palavras genéricas pode gerar resultados inesperados e pode incluir usuários que não pretendia que sua foto fosse usada em relação à sua campanha.
 * Conecte várias contas comerciais para que você possa pesquisar por mais tags exclusivas.

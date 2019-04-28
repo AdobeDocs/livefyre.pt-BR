@@ -1,8 +1,6 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo de Sidenotes. Execute
-  create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto Collection instanciado como um tipo de Sidenotes.
-  Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+description: Retorna um objeto Collection instanciado como um tipo de Sidenotes. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+seo-description: Retorna um objeto Collection instanciado como um tipo de Sidenotes. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
 seo-title: Método do site buildsitenotbarbarlection
 solution: Experience Manager
 title: Método do site buildsitenotbarbarlection

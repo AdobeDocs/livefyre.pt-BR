@@ -27,7 +27,7 @@ Os usuários e os moderadores podem participar de uma notificação por e-mail e
 * Sincronização de dados com o Livefyre: manter preferências de sincronização com o Livefyre.
 * Personalização de emails: personalizações de e-mail disponíveis.
 
-Use as **opções Configurações > Configurações de integração > Enviar** notificações por email para personalizar notificações por e-mail para sua rede.
+Use as **opções Configurações &gt; Configurações de integração &gt; Enviar** notificações por email para personalizar notificações por e-mail para sua rede.
 
 >[!NOTE]
 >
@@ -75,13 +75,13 @@ Os emails enviados em um resumo por hora exibem todo o conteúdo, respostas ao c
 
 Os moderadores podem aceitar receber emails para conteúdo publicado em um aplicativo que estão seguindo e para comentários sinalizados ou ofensivos em um aplicativo que estão moderando. **Observação:** Nenhum email será enviado quando os usuários sinalizarem um comentário com Discordar ou Desligado, já que essas categorias não são consideradas importantes para a notificação do moderador.
 
-Os campos moderador_ comentários e moderadores_ flag também devem ser adicionados ao esquema de banco de dados da página de usuário do moderador de moderador para permitir que os moderadores atualizem a frequência de suas notificações por e-mail e recusem se desejarem. O Livefyre recomenda que você defina esses dois campos de notificação por email para **nunca**. As opções incluem **nunca** (padrão), **imediatamente**e **frequentemente**.
+Os campos moderador_ comentários e moderadores_ flag também devem ser adicionados ao esquema de banco de dados da página de usuário do moderador de moderador para permitir que os moderadores atualizem a frequência de suas notificações por e-mail e recusem se desejarem. O Livefyre recomenda que você defina esses dois campos de notificação por email para **nunca**. As opções incluem **nunca** (padrão), **imediatamente** e **frequentemente**.
 
 **Email do moderador (conteúdo sinalizado):**
 
 Quando o conteúdo é sinalizado em um aplicativo moderado, o e-mail enviado para o moderador exibe o conteúdo sinalizado, o nome do usuário que sinalizou o conteúdo e um link de volta para a página de conteúdo.
 
-Quando um usuário alterar suas preferências de notificação por email no seu site, sincronize a atualização com o sistema de perfil remoto do Livefyre usando o Livefyre's Ping for Pull.
+Quando um usuário alterar suas preferências de notificação por email no seu site, sincronize a atualização com o sistema de perfil remoto do Livefyre usando o Livefyre&#39;s Ping for Pull.
 
 **Sincronização de dados com o Livefyre**
 
@@ -91,7 +91,7 @@ Vários campos nos modelos de notificação por email podem ser alterados para a
 
 * **[!UICONTROL From Email Address]**
 
-   O «endereço de email» para todas as notificações por email pode ser personalizado para ser consistente com sua marca. O Livefyre recomenda **noreply@customerdomain.com**, substituindo **customerdomainwith**seu nome de domínio. O padrão é **noreply@livefyre.com**. Passe seu «endereço de email» para o seu Gerente de integração técnico para obter a configuração no banco de dados do Livefyre para sua rede.
+   O «endereço de email» para todas as notificações por email pode ser personalizado para ser consistente com sua marca. O Livefyre recomenda **noreply@customerdomain.com**, substituindo **customerdomainwith** seu nome de domínio. O padrão é **noreply@livefyre.com**. Passe seu «endereço de email» para o seu Gerente de integração técnico para obter a configuração no banco de dados do Livefyre para sua rede.
 
    >[!NOTE]
    >

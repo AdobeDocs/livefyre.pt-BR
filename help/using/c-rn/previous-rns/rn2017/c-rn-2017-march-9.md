@@ -31,10 +31,10 @@ Notas de versão da versão de March de março de 2017.
 |---|---|---|
 | Bug | Media Wall | Correção de um bug que fazia com que os Dynamic Walls não fossem renderizados se caracteres externos específicos fossem incluídos. |
 | Bug | Pesquisa social | Correção de um erro que impedia os ativos salvos do Youtube na Pesquisa do Social de publicar. |
-| Bug | Pesquisa social | Correção de um erro que fazia com que o ícone "Ocultar imagens explícitas" nos ativos alterasse para fora de um ativo ao passar o mouse. |
+| Bug | Pesquisa social | Correção de um erro que fazia com que o ícone &quot;Ocultar imagens explícitas&quot; nos ativos alterasse para fora de um ativo ao passar o mouse. |
 | Aprimoramento | Storify 2 | Foi adicionado um aprimoramento para exibir a mensagem «Nenhum resultado encontrado» na pesquisa de tópico do Facebook quando nenhum resultado é encontrado. |
 | Aprimoramento | Fluxos | Regras de resumo adicionadas para Regras de segurança na parte inferior de uma página Fluxo do Twitter. |
 | Bug | Fluxos | Foi adicionado um aprimoramento para desativar visivelmente a caixa de seleção «usuário verificado» nas Regras de fluxo do Twitter quando autores excluídos são fornecidos. |
 | Bug | Studio | Correção de um erro que impedia que a «Tag de recurso» fosse salva corretamente quando aplicado. |
-| Bug | Usuários | Correção de um erro que fazia com que o filtro de classificação "Atividade recente" fosse exibido em Usuários. |
+| Bug | Usuários | Correção de um erro que fazia com que o filtro de classificação &quot;Atividade recente&quot; fosse exibido em Usuários. |
 

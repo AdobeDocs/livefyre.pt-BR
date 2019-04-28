@@ -28,8 +28,8 @@ Quando um token expira, o Livefyre notifica você das seguintes maneiras:
 * Quando você pesquisa o conteúdo do Instagram, uma janela é exibida no lado inferior esquerdo, informando que o token do Instagram expira. Se você configurar outras contas do Instagram, o Livefyre pesquisará automaticamente o Instagram usando a próxima conta do Instagram na lista.
 * Ao solicitar direitos com uma conta específica do Instagram expirada, um erro é exibido e você deve selecionar outra conta do Instagram ou atualizar o token da conta expirada e clicar em direitos de solicitação novamente.
 * Os fluxos que usam uma conta expirada do Instagram não funcionarão.
-* Contas com tokens expirados em **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** exibir um ícone de aviso de erro ( ![](assets/warningError.png)
+* Contas com tokens expirados em **[!UICONTROL Network Settings]** &gt; **[!UICONTROL Social Accounts]** exibir um ícone de aviso de erro ( ![](assets/warningError.png)
 
    ).
 
-Você pode atualizar o token clicando em Atualizar token ao lado da conta em **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > **[!UICONTROL Instagram Accounts]**.
+Você pode atualizar o token clicando em Atualizar token ao lado da conta em **[!UICONTROL Network Settings]** &gt; **[!UICONTROL Social Accounts]** &gt; **[!UICONTROL Instagram Accounts]**.

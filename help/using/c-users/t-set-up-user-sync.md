@@ -1,8 +1,6 @@
 ---
-description: A sincronização do usuário permite inserir o terminal usado para buscar
-  dados de perfil do usuário do seu sistema de gerenciamento de usuários.
-seo-description: A sincronização do usuário permite inserir o terminal usado para
-  buscar dados de perfil do usuário do seu sistema de gerenciamento de usuários.
+description: A sincronização do usuário permite inserir o terminal usado para buscar dados de perfil do usuário do seu sistema de gerenciamento de usuários.
+seo-description: A sincronização do usuário permite inserir o terminal usado para buscar dados de perfil do usuário do seu sistema de gerenciamento de usuários.
 seo-title: Sincronização do usuário
 solution: Experience Manager
 title: Sincronização do usuário

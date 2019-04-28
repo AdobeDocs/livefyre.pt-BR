@@ -1,8 +1,6 @@
 ---
-description: Defina as fontes a partir das quais os usuários podem publicar mídia
-  e aqueles com os quais as publicações de mídia serão proibidas.
-seo-description: Defina as fontes a partir das quais os usuários podem publicar mídia
-  e aqueles com os quais as publicações de mídia serão proibidas.
+description: Defina as fontes a partir das quais os usuários podem publicar mídia e aqueles com os quais as publicações de mídia serão proibidas.
+seo-description: Defina as fontes a partir das quais os usuários podem publicar mídia e aqueles com os quais as publicações de mídia serão proibidas.
 seo-title: Gerenciar mídia incorporada
 title: Gerenciar mídia incorporada
 uuid: d 8621 be 1-dcfb -429 f -954 e-b 21 fdcf 02715

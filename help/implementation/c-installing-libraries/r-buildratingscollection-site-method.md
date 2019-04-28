@@ -1,8 +1,6 @@
 ---
-description: Retorna um objeto de Coleção instanciado como um tipo de Classificação.
-  Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de Coleção instanciado como um tipo de Classificação.
-  Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+description: Retorna um objeto de Coleção instanciado como um tipo de Classificação. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+seo-description: Retorna um objeto de Coleção instanciado como um tipo de Classificação. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
 seo-title: Método de site do buildratingscollection
 title: Método de site do buildratingscollection
 uuid: 5 eea 2 ba 3-48 e 1-4 cd 2-aa 73-ea 81788 af 1 df

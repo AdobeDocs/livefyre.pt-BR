@@ -1,8 +1,6 @@
 ---
-description: O pacote do Livefyre. js garante que todos os componentes sociais na
-  sua página possam descobrir uma única integração de autenticação.
-seo-description: O pacote do Livefyre. js garante que todos os componentes sociais
-  na sua página possam descobrir uma única integração de autenticação.
+description: O pacote do Livefyre. js garante que todos os componentes sociais na sua página possam descobrir uma única integração de autenticação.
+seo-description: O pacote do Livefyre. js garante que todos os componentes sociais na sua página possam descobrir uma única integração de autenticação.
 seo-title: Inicializar identidade do Livefyre
 title: Inicializar identidade do Livefyre
 uuid: 9365 d 827-2734-4 a 84-bfe 7-9 be 573 b 2 b 03 e

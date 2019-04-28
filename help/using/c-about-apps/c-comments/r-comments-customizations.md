@@ -1,8 +1,6 @@
 ---
-description: Personalize comentários para incorporar conversas em tempo real em seu
-  site.
-seo-description: Personalize comentários para incorporar conversas em tempo real em
-  seu site.
+description: Personalize comentários para incorporar conversas em tempo real em seu site.
+seo-description: Personalize comentários para incorporar conversas em tempo real em seu site.
 seo-title: Personalizações de comentários
 solution: Experience Manager
 title: Personalizações de comentários
@@ -59,7 +57,7 @@ Use as opções disponíveis para permitir que os usuários compartilhem conteú
 
 * **[!UICONTROL Users may share posts]**
 
-   Se os usuários ativados puderem compartilhar postagens. Se ativado, os usuários podem compartilhar conteúdo postado no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
+   Se os usuários ativados puderem compartilhar postagens. Se ativado, os usuários podem compartilhar conteúdo postado no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
 
 * **[!UICONTROL Featured content at top of stream]**
 

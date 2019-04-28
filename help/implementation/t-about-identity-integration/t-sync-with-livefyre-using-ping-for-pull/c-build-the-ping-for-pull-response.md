@@ -1,8 +1,6 @@
 ---
-description: Crie a resposta Ping para extrair para transmitir informações atualizadas
-  do usuário para o Livefyre.
-seo-description: Crie a resposta Ping para extrair para transmitir informações atualizadas
-  do usuário para o Livefyre.
+description: Crie a resposta Ping para extrair para transmitir informações atualizadas do usuário para o Livefyre.
+seo-description: Crie a resposta Ping para extrair para transmitir informações atualizadas do usuário para o Livefyre.
 seo-title: Criar o ping para resposta extraída
 solution: Experience Manager
 title: Criar o ping para resposta extraída

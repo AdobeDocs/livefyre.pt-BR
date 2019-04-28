@@ -1,10 +1,6 @@
 ---
-description: As contas do Studio permitem acessar todos os componentes do Studio para
-  os quais você tem permissões, incluindo criação de aplicativos, moderação de conteúdo
-  e gerenciamento de usuários.
-seo-description: As contas do Studio permitem acessar todos os componentes do Studio
-  para os quais você tem permissões, incluindo criação de aplicativos, moderação de
-  conteúdo e gerenciamento de usuários.
+description: As contas do Studio permitem acessar todos os componentes do Studio para os quais você tem permissões, incluindo criação de aplicativos, moderação de conteúdo e gerenciamento de usuários.
+seo-description: As contas do Studio permitem acessar todos os componentes do Studio para os quais você tem permissões, incluindo criação de aplicativos, moderação de conteúdo e gerenciamento de usuários.
 seo-title: Usuários que criam contas de usuário
 solution: Experience Manager
 title: Usuários que criam contas de usuário

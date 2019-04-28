@@ -32,7 +32,7 @@ O socialsync para Twitter faz parte da nossa funcionalidade principal há vário
 | Bug | Fluxos | Correção de um bug que gerava Ids incorretas do Generator na Coleção JSON para Feeds RSS. |
 | Aprimoramento | Fluxos | Foi ajustado o ajuste da opção «Apenas contas verificadas» para serem desativadas por padrão. |
 | Aprimoramento | Fluxos | Adicionado um novo recurso para permitir que categorias de conteúdo (por meio de uma Regra de fluxo) sejam listadas e ignoradas a moderação. |
-| Bug | Fluxos | Correção de um erro que fazia com que as configurações "Pré-moderação" e "Pré-moderação de mídia" continuassem a uma regra de fluxo recém-criada. |
+| Bug | Fluxos | Correção de um erro que fazia com que as configurações &quot;Pré-moderação&quot; e &quot;Pré-moderação de mídia&quot; continuassem a uma regra de fluxo recém-criada. |
 
 ## Versão do UAT {#section_dyx_yl2_wy}
 
@@ -40,13 +40,13 @@ O socialsync para Twitter faz parte da nossa funcionalidade principal há vário
 |--- |--- |--- |
 | Bug | Aplicativos de conversa | Aplicativos de conversa aprimorados para sempre vincular a perfis de usuários, mesmo sem uma integração completa. |
 | Bug | Mosaico | Correção de um bug que agora serve todas as imagens do Twitter via HTTPS. |
-| Bug | Pesquisa social | Correção de um erro que fazia com que a marca de seleção "salva" não fosse exibida ao salvar ativos na Pesquisa Social e exibir ativos na Biblioteca. |
-| Bug | Pesquisa social | Correção de um erro que impedia o funcionamento correto da opção "Ocultar imagens explícitas". |
+| Bug | Pesquisa social | Correção de um erro que fazia com que a marca de seleção &quot;salva&quot; não fosse exibida ao salvar ativos na Pesquisa Social e exibir ativos na Biblioteca. |
+| Bug | Pesquisa social | Correção de um erro que impedia o funcionamento correto da opção &quot;Ocultar imagens explícitas&quot;. |
 | Aprimoramento | Storify 2 | O Storify 2 aprimorado para suportar permalinks que abrem um modal (anteriormente, o aplicativo rolaria até o local da publicação na página). No Designer do Storify 2, adicionamos uma configuração para alternar entre o comportamento de rolagem modal e o comportamento de permalink modal. O comportamento de permalink modal será comportamento padrão. |
 | Aprimoramento | Storify 2 | Aprimoramento da integração do Storify 2 Google AMP para produzir um arquivo CSS menor. |
 | Bug | Fluxos | Conteúdo aprimorado (imagens e vídeos) de Regras de fluxo de email para estar disponível via HTTPS. |
 | Bug | Fluxos | Adicionada uma etiqueta para o Valor de raio de quilômetros em mapas nas Regras de fluxo do Twitter. |
 | Bug | Fluxos | Correção de um bug com Regras de vapor de página do Facebook e do Facebook para extrair postagens com vários anexos de mídia apropriadamente. |
-| Bug | Studio | Correção de um erro que fazia com que vários & s fossem anexados ao URL ao usar filtros no Studio. |
+| Bug | Studio | Correção de um erro que fazia com que vários &amp; s fossem anexados ao URL ao usar filtros no Studio. |
 | Bug | Studio | Correção de um bug que impedia que determinadas caixas de seleção nos filtros do Studio permitissem que fosse desmarcada. |
 

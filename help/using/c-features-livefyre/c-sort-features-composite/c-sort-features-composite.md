@@ -1,8 +1,6 @@
 ---
-description: Você pode escolher várias opções de classificação dependendo do aplicativo
-  e do que deseja que os visitantes do site façam.
-seo-description: Você pode escolher várias opções de classificação dependendo do aplicativo
-  e do que deseja que os visitantes do site façam.
+description: Você pode escolher várias opções de classificação dependendo do aplicativo e do que deseja que os visitantes do site façam.
+seo-description: Você pode escolher várias opções de classificação dependendo do aplicativo e do que deseja que os visitantes do site façam.
 seo-title: Classificar recursos
 solution: Experience Manager
 title: Classificar recursos

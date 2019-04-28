@@ -1,8 +1,6 @@
 ---
-description: Você pode adicionar novos sites à sua rede para domínios e subdomínios
-  que compartilham os mesmos perfis de usuário.
-seo-description: Você pode adicionar novos sites à sua rede para domínios e subdomínios
-  que compartilham os mesmos perfis de usuário.
+description: Você pode adicionar novos sites à sua rede para domínios e subdomínios que compartilham os mesmos perfis de usuário.
+seo-description: Você pode adicionar novos sites à sua rede para domínios e subdomínios que compartilham os mesmos perfis de usuário.
 seo-title: Adicionar um site a uma rede
 solution: Experience Manager
 title: Adicionar um site a uma rede
@@ -26,4 +24,4 @@ Para adicionar um novo site à sua rede:
 
    Este painel lista todos os sites incluídos na rede selecionada.
 
-1. Insira a **[!UICONTROL Name]** e **[!UICONTROL URL]** nos campos fornecidos e clique **[!UICONTROL Add Site]**em.
+1. Insira a **[!UICONTROL Name]** e **[!UICONTROL URL]** nos campos fornecidos e clique **[!UICONTROL Add Site]** em.

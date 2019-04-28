@@ -1,8 +1,6 @@
 ---
-description: Registre o endpoint de URL para que o Livefyre possa usar o URL para
-  obter informações atualizadas do perfil.
-seo-description: Registre o endpoint de URL para que o Livefyre possa usar o URL para
-  obter informações atualizadas do perfil.
+description: Registre o endpoint de URL para que o Livefyre possa usar o URL para obter informações atualizadas do perfil.
+seo-description: Registre o endpoint de URL para que o Livefyre possa usar o URL para obter informações atualizadas do perfil.
 seo-title: Registre o Endpoint com o Studio
 solution: Experience Manager
 title: Registre o Endpoint com o Studio
@@ -20,7 +18,7 @@ Registre o endpoint de URL para que o Livefyre possa usar o URL para obter infor
 Registre o Ping para URL de extração apenas uma vez por rede. Depois de definido, esse valor não deve ser alterado, a menos que o terminal obtenha os dados do perfil do usuário de seu sistema de gerenciamento de usuários.
 
 1. Use o Studio para registrar este terminal de URL com o Livefyre.
-1. Registre o URL no qual o Livefyre obterá informações atualizadas do perfil do usuário, vá para **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]**e insira-o no **[!UICONTROL Ping for Pull URL]** campo.
+1. Registre o URL no qual o Livefyre obterá informações atualizadas do perfil do usuário, vá para **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]** e insira-o no **[!UICONTROL Ping for Pull URL]** campo.
 
    Por exemplo, a URL pode ser: `https://example.yoursite.com/some_path/?id={id}`
 

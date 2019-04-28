@@ -1,8 +1,6 @@
 ---
-description: Você pode usar a identidade do Livefyre com Yahoo! para permitir que
-  os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
-seo-description: Você pode usar a identidade do Livefyre com Yahoo! para permitir
-  que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
+description: Você pode usar a identidade do Livefyre com Yahoo! para permitir que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
+seo-description: Você pode usar a identidade do Livefyre com Yahoo! para permitir que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
 seo-title: Crie um Yahoo! Aplicativo para uso com a identidade do Livefyre
 solution: Experience Manager
 title: Crie um Yahoo! Aplicativo para uso com a identidade do Livefyre

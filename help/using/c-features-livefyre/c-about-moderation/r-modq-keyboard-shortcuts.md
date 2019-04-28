@@ -1,8 +1,6 @@
 ---
-description: Os seguintes atalhos do teclado estão disponíveis para moderadores em
-  modq.
-seo-description: Os seguintes atalhos do teclado estão disponíveis para moderadores
-  em modq.
+description: Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
+seo-description: Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
 seo-title: Atalhos de teclado modq
 title: Atalhos de teclado modq
 uuid: fc 4 e 7796-b 6 b 5-4782-a 0 fc-b 2326 ca 56 d 66
@@ -22,7 +20,7 @@ Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
 | Próximo item | Selecionar o item abaixo do item selecionado no momento | Seta para baixo | J |
 | Aprovar conteúdo | Marcar conteúdo como aprovado | a |  |
 | Conteúdo da lixeira | Marcar conteúdo como traço | x |  |
-| Conteúdo Bozo | Marcar conteúdo como Bozo'd | b |  |
+| Conteúdo Bozo | Marcar conteúdo como Bozo&#39;d | b |  |
 | Parte superior da fila | Ir para o primeiro item na parte superior da fila | l |  |
 | Silenciar ou desativar sinalizadores | Silenciar ou ativar sinalizadores do usuário selecionado | Shift + M |  |
 | Excluir usuário | Proibir apenas o usuário selecionado desse site | Shift + B |  |

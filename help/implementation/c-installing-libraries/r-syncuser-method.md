@@ -1,8 +1,6 @@
 ---
-description: Informa ao Livefyre para extrair informações do usuário de um URL de
-  sincronização de usuário definido anteriormente. Retorna um Booliano.
-seo-description: Informa ao Livefyre para extrair informações do usuário de um URL
-  de sincronização de usuário definido anteriormente. Retorna um Booliano.
+description: Informa ao Livefyre para extrair informações do usuário de um URL de sincronização de usuário definido anteriormente. Retorna um Booliano.
+seo-description: Informa ao Livefyre para extrair informações do usuário de um URL de sincronização de usuário definido anteriormente. Retorna um Booliano.
 seo-title: Método de rede syncuser
 solution: Experience Manager
 title: Método de rede syncuser

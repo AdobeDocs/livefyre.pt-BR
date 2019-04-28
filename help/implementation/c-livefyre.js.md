@@ -1,8 +1,6 @@
 ---
-description: A biblioteca principal do Livefyre usada para potencializar o Livefyre
-  em seu site.
-seo-description: A biblioteca principal do Livefyre usada para potencializar o Livefyre
-  em seu site.
+description: A biblioteca principal do Livefyre usada para potencializar o Livefyre em seu site.
+seo-description: A biblioteca principal do Livefyre usada para potencializar o Livefyre em seu site.
 seo-title: Livefyre. js
 solution: Experience Manager
 title: Livefyre. js

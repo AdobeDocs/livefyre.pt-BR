@@ -1,7 +1,6 @@
 ---
 description: É possível alterar o formato de data e hora para atender às suas necessidades.
-seo-description: É possível alterar o formato de data e hora para atender às suas
-  necessidades.
+seo-description: É possível alterar o formato de data e hora para atender às suas necessidades.
 seo-title: Data e carimbo de data e hora
 title: Data e carimbo de data e hora
 uuid: 3022059 f-cfdc -4 e 13-aa 3 d -7537875 ef 431

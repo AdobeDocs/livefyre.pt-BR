@@ -1,8 +1,6 @@
 ---
-description: As tags de exibição adicionadas automaticamente a imagens pelo software
-  de reconhecimento de imagem direcionado por Senware.
-seo-description: As tags de exibição adicionadas automaticamente a imagens pelo software
-  de reconhecimento de imagem direcionado por Senware.
+description: As tags de exibição adicionadas automaticamente a imagens pelo software de reconhecimento de imagem direcionado por Senware.
+seo-description: As tags de exibição adicionadas automaticamente a imagens pelo software de reconhecimento de imagem direcionado por Senware.
 seo-title: Exibir tags inteligentes
 title: Exibir tags inteligentes
 uuid: 787 c 7 d 86-2 c 68-4 c 4 c-b 687-cf 2390 bcf 233

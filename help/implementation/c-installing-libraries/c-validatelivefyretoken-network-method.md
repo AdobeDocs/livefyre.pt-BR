@@ -1,8 +1,6 @@
 ---
-description: Verifica se um token do Livefyre ainda é válido para essa rede. Retorna
-  um Booliano.
-seo-description: Verifica se um token do Livefyre ainda é válido para essa rede. Retorna
-  um Booliano.
+description: Verifica se um token do Livefyre ainda é válido para essa rede. Retorna um Booliano.
+seo-description: Verifica se um token do Livefyre ainda é válido para essa rede. Retorna um Booliano.
 seo-title: Método de rede validatelivefyretoken
 solution: Experience Manager
 title: Método de rede validatelivefyretoken

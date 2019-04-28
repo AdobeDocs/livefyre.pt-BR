@@ -1,8 +1,6 @@
 ---
-description: Classifique e reveja qualquer parte do conteúdo em seu site, em tempo
-  real.
-seo-description: Classifique e reveja qualquer parte do conteúdo em seu site, em tempo
-  real.
+description: Classifique e reveja qualquer parte do conteúdo em seu site, em tempo real.
+seo-description: Classifique e reveja qualquer parte do conteúdo em seu site, em tempo real.
 seo-title: Revisões
 solution: Experience Manager
 title: Revisões

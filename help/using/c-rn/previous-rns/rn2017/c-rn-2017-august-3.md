@@ -33,5 +33,5 @@ Notas de versão da versão de August de agosto de 2017.
 
 | **Tipo de edição** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Biblioteca | Corrigido o bug que impedia a exibição do conteúdo do botão "Mais informações" na Biblioteca. |
+| Bug | Biblioteca | Corrigido o bug que impedia a exibição do conteúdo do botão &quot;Mais informações&quot; na Biblioteca. |
 

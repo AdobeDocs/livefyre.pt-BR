@@ -1,10 +1,6 @@
 ---
-description: Personalize os aplicativos de bate-papo para exibir conteúdo como um
-  fluxo contínuo de bate-papo ininterrupto, permitindo que seu público-alvo se envolva
-  em conversas em tempo real em eventos ao vivo ou anúncios.
-seo-description: Personalize os aplicativos de bate-papo para exibir conteúdo como
-  um fluxo contínuo de bate-papo ininterrupto, permitindo que seu público-alvo se
-  envolva em conversas em tempo real em eventos ao vivo ou anúncios.
+description: Personalize os aplicativos de bate-papo para exibir conteúdo como um fluxo contínuo de bate-papo ininterrupto, permitindo que seu público-alvo se envolva em conversas em tempo real em eventos ao vivo ou anúncios.
+seo-description: Personalize os aplicativos de bate-papo para exibir conteúdo como um fluxo contínuo de bate-papo ininterrupto, permitindo que seu público-alvo se envolva em conversas em tempo real em eventos ao vivo ou anúncios.
 seo-title: Personalizações de bate-papo
 solution: Experience Manager
 title: Personalizações de bate-papo
@@ -49,7 +45,7 @@ Essas opções estão disponíveis no aplicativo de bate-papo:
 
 * **[!UICONTROL Users may share comments]**
 
-   Se ativado, os usuários podem compartilhar comentários postados no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
+   Se ativado, os usuários podem compartilhar comentários postados no Twitter, Facebook ou linkedin. Para obter mais informações sobre como habilitar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
 
 * **[!UICONTROL Additional sort option]**
 

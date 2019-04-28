@@ -34,7 +34,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 | Aprimoramento | Comentários | Correção de um problema em que três rótulos de perfil apontavam para um perfil de usuário, mas não eram identificados como apontando para o mesmo perfil. |
 | Bug | Cartão de recursos | Corrigido um problema no qual o aplicativo de cartão de recursos não era exibido no navegador Microsoft Edge. |
 | Bug | Película fotográfica | Correção de um problema em que as fontes Película fotográfica exibiam um erro. |
-| Bug | Película fotográfica | Correção de um problema em Filmstrip em que o botão "Próximo" era clicável, mesmo que não houvesse mais conteúdo para carregar. |
+| Bug | Película fotográfica | Correção de um problema em Filmstrip em que o botão &quot;Próximo&quot; era clicável, mesmo que não houvesse mais conteúdo para carregar. |
 | Bug | Película fotográfica | Correção de um problema em que Tweets sem imagens não eram exibidos na exibição padrão Película fotográfica. |
 | Aprimoramento | Película fotográfica | Correção de alguns problemas para tornar a Película fotográfica mais acessível. |
 | Aprimoramento | Biblioteca, Aplicativos | Correção de um problema em que vídeos do Instagram que eram mais antigos que três meses não eram renderizados corretamente na Biblioteca e nos Aplicativos. |
@@ -54,6 +54,6 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 | **Tipo de edição** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | UGC | Correção de um problema em que o sinalizador de Comércio UGC era definido como "desligado" por padrão, em vez de "ativado". |
+| Aprimoramento | UGC | Correção de um problema em que o sinalizador de Comércio UGC era definido como &quot;desligado&quot; por padrão, em vez de &quot;ativado&quot;. |
 | Aprimoramento | Fluxos |  |
 

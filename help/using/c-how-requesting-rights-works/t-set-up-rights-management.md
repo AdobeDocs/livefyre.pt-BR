@@ -1,8 +1,6 @@
 ---
-description: Defina as configurações para solicitar direitos para postagens do Instagram
-  e do Twitter.
-seo-description: Defina as configurações para solicitar direitos para postagens do
-  Instagram e do Twitter.
+description: Defina as configurações para solicitar direitos para postagens do Instagram e do Twitter.
+seo-description: Defina as configurações para solicitar direitos para postagens do Instagram e do Twitter.
 seo-title: Configurar o Gerenciamento de direitos
 solution: Experience Manager
 title: Configurar o Gerenciamento de direitos
@@ -23,7 +21,7 @@ Antes de definir as Configurações de solicitação de direitos, você deve con
 >
 >Você pode configurar o gerenciamento de direitos somente no nível de rede. Não é possível configurar o gerenciamento de direitos específico do site.
 
-1. No Livefyre Studio, navegue **[!UICONTROL Network]****[!UICONTROL Settings > Rights Management]**até.
+1. No Livefyre Studio, navegue **[!UICONTROL Network]****[!UICONTROL Settings > Rights Management]** até.
 
    >[!NOTE]
    >

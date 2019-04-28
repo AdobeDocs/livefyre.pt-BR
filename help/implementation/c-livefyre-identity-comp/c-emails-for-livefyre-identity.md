@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: E-mails para identidade do Livefyre
 solution: Experience Manager
 title: E-mails para identidade do Livefyre
@@ -34,17 +34,17 @@ O e-mail de redefinição de senha tem a seguinte aparência:
 
 **Corpo:**
 
-Ei lá *< username >*,
+Ei lá *&lt; username &gt;*,
 
-Houve uma solicitação para alterar a senha do seu perfil em *< nome da rede >*.
+Houve uma solicitação para alterar a senha do seu perfil em *&lt; nome da rede &gt;*.
 
-Se solicitado, clique no link a seguir para escolher uma nova senha: *< URL de redefinição de senha >*.
+Se solicitado, clique no link a seguir para escolher uma nova senha: *&lt; URL de redefinição de senha &gt;*.
 
-*< Nome_ usuário >*, *< nome da rede >*e *< URL de redefinição de senha >* são gerados dinamicamente com base no visitante do site e na rede.
+*&lt; Nome_ usuário &gt;*, *&lt; nome da rede &gt;*e *&lt; URL de redefinição de senha &gt;* são gerados dinamicamente com base no visitante do site e na rede.
 
 ## Email de verificação {#section_ak5_xhs_p1b}
 
-Você pode enviar um e-mail verificação do endereço de e-mail de um usuário. Para enviar emails de verificação, ative a opção Configurações **de integração > Identidade do Livefyre**.
+Você pode enviar um e-mail verificação do endereço de e-mail de um usuário. Para enviar emails de verificação, ative a opção Configurações **de integração &gt; Identidade do Livefyre**.
 
 O e-mail de verificação tem a seguinte aparência:
 
@@ -52,24 +52,24 @@ O e-mail de verificação tem a seguinte aparência:
 
 **Corpo:**
 
-Hello *< username >*,
+Hello *&lt; username &gt;*,
 
-Clique no link a seguir (ou cole no navegador) para verificar sua conta: *< URL de verificação >*.
+Clique no link a seguir (ou cole no navegador) para verificar sua conta: *&lt; URL de verificação &gt;*.
 
 Esse link expirará em 24 horas.
 
 Obrigado,
 
-A equipe *< nome do cliente >* equipe
+A equipe *&lt; nome do cliente &gt;* equipe
 
-*< Nome de usuário >*, *< nome da rede >*e *< URL de verificação >* são gerados dinamicamente com base no visitante do site e na rede.
+*&lt; Nome de usuário &gt;*, *&lt; nome da rede &gt;*e *&lt; URL de verificação &gt;* são gerados dinamicamente com base no visitante do site e na rede.
 
 ## Enviar uma verificação por email para usuários {#section_vyv_yhs_p1b}
 
 Você pode enviar um email para um usuário para verificar o endereço de email utilizado para cadastrar-se em uma conta. Para enviar um e-mail de verificação:
 
 1. No Studio, clique no ícone de engrenagem para modificar as configurações de rede.
-1. Clique **em Configurações de integração > Identidade do Livefyre.**
+1. Clique **em Configurações de integração &gt; Identidade do Livefyre.**
 
 1. Navegue até **Tipos de logon**.
 1. Clique **em Exigir verificação por e-mail** para enviar um e-mail aos usuários que verifica o endereço de e-mail usado para cadastrar-se para uma conta.
@@ -77,19 +77,19 @@ Você pode enviar um email para um usuário para verificar o endereço de email 
 
 ## Email de boas-vindas {#section_z2v_zhs_p1b}
 
-Você pode enviar um email de boas-vindas para os usuários. Para enviar emails de boas-vindas, ative a opção Configurações **de integração** > **Identidade do Livefyre**.
+Você pode enviar um email de boas-vindas para os usuários. Para enviar emails de boas-vindas, ative a opção Configurações **de integração** &gt; **Identidade do Livefyre**.
 
 O email de boas-vindas é desta forma:
 
-**Assunto:** Bem-vindo ao *< nome do cliente >*
+**Assunto:** Bem-vindo ao *&lt; nome do cliente &gt;*
 
 **Corpo:**
 
-Hello *< username >*,
+Hello *&lt; username &gt;*,
 
-Uma conta foi criada para você em *< nome do cliente >*.
+Uma conta foi criada para você em *&lt; nome do cliente &gt;*.
 
-Esta conta foi criada em *< URL de referência >* de endereço IP *< Endereço IP >*.
+Esta conta foi criada em *&lt; URL de referência &gt;* de endereço IP *&lt; Endereço IP &gt;*.
 
 Caso isso tenha acontecido, você pode ignorar com segurança esse email.
 
@@ -97,9 +97,9 @@ Caso não tenha feito isso, entre em contato com o `support@livefyre.com`
 
 Agradecimentos
 
-The *"customer name"* Team
+The *&quot;customer name&quot;* Team
 
-*" Nome de usuário "," nome do cliente "," URL de referência "e* " Endereço IP "são gerados dinamicamente com base no visitante do site e na rede.
+*&quot; Nome de usuário &quot;,&quot; nome do cliente &quot;,&quot; URL de referência &quot;e* &quot; Endereço IP &quot;são gerados dinamicamente com base no visitante do site e na rede.
 
 ## Enviar um email de boas-vindas para um usuário {#section_kjp_c3s_p1b}
 
@@ -108,7 +108,7 @@ Você pode enviar um email de boas-vindas para um usuário depois de cadastrar-s
 1. No Studio, clique no ícone de engrenagem para modificar as configurações de rede.
 1. Clique em **[!UICONTROL Integration Settings > Livefyre Identity]**
 
-1. Navegue **[!UICONTROL Email Settings]**até.
+1. Navegue **[!UICONTROL Email Settings]** até.
 
 1. Clique **[!UICONTROL Send Welcome Emails To New Users]** em para ativar o envio e-mails.
 1. Navegue até **[!UICONTROL Network Email]** Configurar *o logotipo para e-mail*, o endereço de e-mail para usar como o endereço do endereço (**Email de**) e o nome de exibição para usar no endereço de email (**Nome de exibição por email**).

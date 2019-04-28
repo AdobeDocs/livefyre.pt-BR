@@ -23,6 +23,6 @@ Você pode publicar vários itens ou vários itens na guia Pesquisa social e na 
 
 1. Pesquise ativos na biblioteca.
 1. Selecione os Ativos que deseja publicar no site.
-1. Clique **[!UICONTROL Publish]**em.
+1. Clique **[!UICONTROL Publish]** em.
 
    A **[!UICONTROL Publish to App]** caixa de diálogo abre .1. Selecione o aplicativo para o qual publicar os ativos selecionados.

@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Gerenciamento de solicitações de direitos
 solution: Experience Manager
 title: Gerenciamento de solicitações de direitos

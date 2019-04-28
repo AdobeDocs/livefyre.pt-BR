@@ -41,9 +41,9 @@ Você pode personalizar Mosaico usando as seguintes opções adicionais no App D
    * **[!UICONTROL Show call-to-action in tile]**. Escolha se o botão de chamada de ação deve ser exibido em um bloco Película fotográfica, em vez de exibir o botão de chamada de ação somente quando o visitante do site clica em um cartão e abre o conteúdo em uma janela maior.
    * **[!UICONTROL Call-to-action indication text]** O texto a ser exibido para solicitar que o usuário clique no cartão para abrir o modal de chamada de ação.
 
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é "Loja desses produtos: ".
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. A letra padrão é &quot;Loja desses produtos: &quot;.
 
-   * **[!UICONTROL Call-to-action button text]** Personalize o texto no botão Chamar a ação. O texto padrão é "Comprar agora".
+   * **[!UICONTROL Call-to-action button text]** Personalize o texto no botão Chamar a ação. O texto padrão é &quot;Comprar agora&quot;.
 
    * **[!UICONTROL Product display options]** Escolha se deseja exibir o **[!UICONTROL Photo]** botão **[!UICONTROL Product name]** de ação de chamada e chamada.
 

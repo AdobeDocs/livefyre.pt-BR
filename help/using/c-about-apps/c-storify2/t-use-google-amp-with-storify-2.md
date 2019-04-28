@@ -1,8 +1,6 @@
 ---
-description: Use apis do Livefyre para adicionar a funcionalidade do Google AMP à
-  página do Storify 2 para manter o conteúdo interativo e compatível com a SEO.
-seo-description: Use apis do Livefyre para adicionar a funcionalidade do Google AMP
-  à página do Storify 2 para manter o conteúdo interativo e compatível com a SEO.
+description: Use apis do Livefyre para adicionar a funcionalidade do Google AMP à página do Storify 2 para manter o conteúdo interativo e compatível com a SEO.
+seo-description: Use apis do Livefyre para adicionar a funcionalidade do Google AMP à página do Storify 2 para manter o conteúdo interativo e compatível com a SEO.
 seo-title: Usar o Google AMP com o Storify 2
 solution: Experience Manager
 title: Usar o Google AMP com o Storify 2

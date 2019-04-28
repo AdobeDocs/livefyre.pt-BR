@@ -27,7 +27,7 @@ Se o conteúdo permalinado for excluído, uma mensagem para esse efeito será ex
 
 Se quiser criar permalinks personalizados para comentários ao compartilhar conversas, você pode usar sua conta Bitly, em vez do URL encurtado do Livefyre (fyre. it). Usar sua conta Bitly ajudará a lembrar os usuários de que eles visitarão o conteúdo no site ao clicar em um permalink.
 
-Para implementar este recurso, vá até **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]**e insira sua chave de API Bitly e nome de usuário.
+Para implementar este recurso, vá até **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** e insira sua chave de API Bitly e nome de usuário.
 
 >[!NOTE]
 >

@@ -1,10 +1,6 @@
 ---
-description: Saiba como começar criando um Aplicativo Livefyre totalmente funcionando.
-  Desative esse aplicativo para lidar com autenticação básica, compartilhamento em
-  redes sociais e rastreamento de eventos.
-seo-description: Saiba como começar criando um Aplicativo Livefyre totalmente funcionando.
-  Desative esse aplicativo para lidar com autenticação básica, compartilhamento em
-  redes sociais e rastreamento de eventos.
+description: Saiba como começar criando um Aplicativo Livefyre totalmente funcionando. Desative esse aplicativo para lidar com autenticação básica, compartilhamento em redes sociais e rastreamento de eventos.
+seo-description: Saiba como começar criando um Aplicativo Livefyre totalmente funcionando. Desative esse aplicativo para lidar com autenticação básica, compartilhamento em redes sociais e rastreamento de eventos.
 seo-title: Introdução à integração do Livefyre
 solution: Experience Manager
 title: Introdução à integração do Livefyre

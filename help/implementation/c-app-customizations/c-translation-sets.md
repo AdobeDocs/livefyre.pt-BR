@@ -1,8 +1,6 @@
 ---
-description: Os conjuntos de traduções permitem especificar idioma alternativo para
-  aplicativos.
-seo-description: Os conjuntos de traduções permitem especificar idioma alternativo
-  para aplicativos.
+description: Os conjuntos de traduções permitem especificar idioma alternativo para aplicativos.
+seo-description: Os conjuntos de traduções permitem especificar idioma alternativo para aplicativos.
 seo-title: Conjuntos de tradução
 solution: Experience Manager
 title: Conjuntos de tradução
@@ -80,7 +78,7 @@ Strings disponíveis para a interface de usuário Revisar e Classificação.
 |  | follow | Estou interessado |
 |  | Sharetext | Acabei de escrever uma revisão. Confira! |
 | Dicas de ferramentas de classificação |  |  |
-|  | Ratingvalues | Uma matriz. Default =[' Bad ',' Low ',' Fair ',' Fair ',' Average ',' Média ',' Good ',' Good ',' Good ',' Excelente ']; |
+|  | Ratingvalues | Uma matriz. Default =[&#39; Bad &#39;,&#39; Low &#39;,&#39; Fair &#39;,&#39; Fair &#39;,&#39; Average &#39;,&#39; Média &#39;,&#39; Good &#39;,&#39; Good &#39;,&#39; Good &#39;,&#39; Excelente &#39;]; |
 |  |  | Observação: Os valores na matriz devem ser duplicados para atribuir à metade esquerda e à direita de cada estrela o mesmo nome. |
 | Subpartes de classificação |  |  |
 |  | Ratingsubpartplaceholders | Uma matriz. Padrão =[] |
@@ -141,7 +139,7 @@ Strings disponíveis para ações do usuário: sinalizar, compartilhar e marcar 
 |  | Wasreviewhelpfulmobile | Útil? |
 |  | Ownwasreviewhelpous | [Encontrado útil.](https://d.pr/i/Q0mA) |
 |  | Reviewwashelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | Helpfuldivider | [& amp; vert;](https://d.pr/i/Q0mA) |
+|  | Helpfuldivider | [&amp; amp; vert;](https://d.pr/i/Q0mA) |
 |  | Reviewwasnothelpous | [Não](https://d.pr/i/Q0mA) |
 | *Voto modal* |  |  |
 |  | Expressetitle | Essa revisão foi útil? |
@@ -283,9 +281,9 @@ As classificações disponíveis para o autor e informações de conteúdo indiv
 |  | Commentvotecount | votos |
 |  | Commentvotecountsing | vote |
 |  | Datetimeminuteprefix | m |
-|  | Datetimemonths | * Uma matriz. Padrão = *[ ' janeiro ',' fevereiro ',' março ',' abril ',' maio ',' junho ',' julho ',' agosto ',' setembro ',' de outubro ',' novembro ',' dezembro ' ] |
+|  | Datetimemonths | * Uma matriz. Padrão = *[ &#39; janeiro &#39;,&#39; fevereiro &#39;,&#39; março &#39;,&#39; abril &#39;,&#39; maio &#39;,&#39; junho &#39;,&#39; julho &#39;,&#39; agosto &#39;,&#39; setembro &#39;,&#39; de outubro &#39;,&#39; novembro &#39;,&#39; dezembro &#39; ] |
 |  | Questionexplanation | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas. <br>Realce o texto e clique no ícone ou clique no ícone ao final de cada parágrafo. |
-|  | Questionmocktext | O que é conhecido como "familiar" não é conhecido corretamente, apenas pelo motivo pelo qual é "familiar". |
+|  | Questionmocktext | O que é conhecido como &quot;familiar&quot; não é conhecido corretamente, apenas pelo motivo pelo qual é &quot;familiar&quot;. |
 |  | Questiontitle | O que é um sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}

@@ -1,12 +1,6 @@
 ---
-description: Saiba como as solicitações de direitos funcionam. Quando você traz conteúdo
-  gerado pelo usuário (UGC) para um aplicativo do Livefyre, o conteúdo inclui permissão
-  de tacionário para reutilização. Você deve ter permissão para usar o conteúdo do
-  Twitter ou Instagram.
-seo-description: Saiba como as solicitações de direitos funcionam. Quando você traz
-  conteúdo gerado pelo usuário (UGC) para um aplicativo do Livefyre, o conteúdo inclui
-  permissão de tacionário para reutilização. Você deve ter permissão para usar o conteúdo
-  do Twitter ou Instagram.
+description: Saiba como as solicitações de direitos funcionam. Quando você traz conteúdo gerado pelo usuário (UGC) para um aplicativo do Livefyre, o conteúdo inclui permissão de tacionário para reutilização. Você deve ter permissão para usar o conteúdo do Twitter ou Instagram.
+seo-description: Saiba como as solicitações de direitos funcionam. Quando você traz conteúdo gerado pelo usuário (UGC) para um aplicativo do Livefyre, o conteúdo inclui permissão de tacionário para reutilização. Você deve ter permissão para usar o conteúdo do Twitter ou Instagram.
 seo-title: Solicitar direitos
 title: Solicitar direitos
 uuid: d 3194 afa-f 3 c 6-44 ed-b 03 f -9 b 1 bce 50 c 1 d 3
@@ -22,9 +16,9 @@ Saiba como as solicitações de direitos funcionam. Quando você traz conteúdo 
 
 Os seguintes status de direitos estão disponíveis na Biblioteca, Conteúdo do aplicativo, modq e Comércio AEM:
 
-* **[!UICONTROL Granted]**. Quando o autor concede a você o direito de reutilizar seu conteúdo, o status do ativo muda **[!UICONTROL Granted]**para.
+* **[!UICONTROL Granted]**. Quando o autor concede a você o direito de reutilizar seu conteúdo, o status do ativo muda **[!UICONTROL Granted]** para.
 
-* **[!UICONTROL Expired]**. O Livefyre monitora o fluxo do Instagram e do Twitter para a resposta do autor por 14 dias. Após 14 dias, a solicitação expira, o status da solicitação de direitos muda **[!UICONTROL Expired]**e você pode enviar uma segunda solicitação ou remover o item da Biblioteca.
+* **[!UICONTROL Expired]**. O Livefyre monitora o fluxo do Instagram e do Twitter para a resposta do autor por 14 dias. Após 14 dias, a solicitação expira, o status da solicitação de direitos muda **[!UICONTROL Expired]** e você pode enviar uma segunda solicitação ou remover o item da Biblioteca.
 * **[!UICONTROL Requested]**. Solicitar permissão para conteúdo da biblioteca. Você pode fazer isso para um ou mais ativos de cada vez. Após solicitar permissão, o Livefyre define o status do ativo para **[!UICONTROL Requested]**.
 * **[!UICONTROL Needs Review]**. Se o autor responder com uma nota que não inclui sua # approvemarashtag, o status do ativo será alterado **[!UICONTROL Needs Review]**.
 

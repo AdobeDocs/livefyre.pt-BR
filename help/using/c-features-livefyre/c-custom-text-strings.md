@@ -1,8 +1,6 @@
 ---
-description: Personalize as strings de texto no aplicativo para internacionalização
-  ou marca.
-seo-description: Personalize as strings de texto no aplicativo para internacionalização
-  ou marca.
+description: Personalize as strings de texto no aplicativo para internacionalização ou marca.
+seo-description: Personalize as strings de texto no aplicativo para internacionalização ou marca.
 seo-title: Sequência de caracteres de tradução e texto personalizado
 solution: Experience Manager
 title: Sequência de caracteres de tradução e texto personalizado

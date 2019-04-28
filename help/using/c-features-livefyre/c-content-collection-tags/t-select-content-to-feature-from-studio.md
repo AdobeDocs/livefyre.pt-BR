@@ -1,7 +1,6 @@
 ---
 description: Você pode selecionar conteúdo para recurso no Studio em vez de um Aplicativo.
-seo-description: Você pode selecionar conteúdo para recurso no Studio em vez de um
-  Aplicativo.
+seo-description: Você pode selecionar conteúdo para recurso no Studio em vez de um Aplicativo.
 seo-title: Selecione Conteúdo para o recurso do Studio
 solution: Experience Manager
 title: Selecione Conteúdo para o recurso do Studio

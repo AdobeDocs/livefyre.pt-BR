@@ -36,7 +36,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 | Tipo de edição | Componente | Nota de versão |
 |--- |--- |--- |
-| Aprimoramento | Película fotográfica | Os seguintes recursos de acessibilidade foram atualizados para Película fotográfica: <br><ul><li>Setas para a esquerda/direita foram corrigidas de < div > para < botão > </li><li>O elemento da imagem de visualização foi alterado de uma etiqueta RA menos descritiva de, "Abrir foto anexada" para uma etiqueta que lê o nome da plataforma e do texto da postagem.</li></ul> |
+| Aprimoramento | Película fotográfica | Os seguintes recursos de acessibilidade foram atualizados para Película fotográfica: <br><ul><li>Setas para a esquerda/direita foram corrigidas de &lt; div &gt; para &lt; botão &gt; </li><li>O elemento da imagem de visualização foi alterado de uma etiqueta RA menos descritiva de, &quot;Abrir foto anexada&quot; para uma etiqueta que lê o nome da plataforma e do texto da postagem.</li></ul> |
 | Bug | Media Wall | Correção de um problema no Media Wall em que tags não eram clicadas quando uma postagem do Instagram era adicionada a partir de uma regra de fluxo. |
 | Aprimoramento | Media Wall | Acessibilidade aprimorada do Media Wall das seguintes maneiras: <br><ul><li>Abrir e fechar modais por meio de comandos do teclado não alterará mais o foco de volta para a parte superior da página. O foco em vez disso permanece no elemento focado pela última vez antes do pop-up modal.</li><li>Carregar mais pode ser pressionado e acionado usando a tecla Enter do teclado.</li></ul> |
 | Bug | Gerenciamento de direitos | Foi corrigido um erro em que a solicitação de direitos não era exibida após os direitos de um ativo do Instagram serem concedidos. |

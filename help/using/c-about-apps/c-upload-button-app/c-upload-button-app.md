@@ -1,8 +1,6 @@
 ---
-description: O botão Upload oferece uma maneira para visitantes do site fazerem upload
-  de conteúdo.
-seo-description: O botão Upload oferece uma maneira para visitantes do site fazerem
-  upload de conteúdo.
+description: O botão Upload oferece uma maneira para visitantes do site fazerem upload de conteúdo.
+seo-description: O botão Upload oferece uma maneira para visitantes do site fazerem upload de conteúdo.
 seo-title: Botão Upload
 solution: Experience Manager
 title: Botão Upload

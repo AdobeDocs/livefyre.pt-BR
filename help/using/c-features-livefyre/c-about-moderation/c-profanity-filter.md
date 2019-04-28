@@ -1,6 +1,6 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: Uso do Filtro de profanidade
 solution: Experience Manager
 title: Uso do Filtro de profanidade
@@ -29,13 +29,13 @@ Ative e configure o filtro de profanidade em nível de rede e site. Desative o f
 
 >[!NOTE]
 >
->Todo o conteúdo transmitido pelo Livefyre é verificado para profanidade. Se o conteúdo for encontrado, incluindo palavras contidas na lista de profanidade SEGURA padrão ou na lista personalizada de Profanity, ela será sinalizada como "Profanity". » Para configurar o Livefyre para executar ações automaticamente nesses itens, **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]**acesse.
+>Todo o conteúdo transmitido pelo Livefyre é verificado para profanidade. Se o conteúdo for encontrado, incluindo palavras contidas na lista de profanidade SEGURA padrão ou na lista personalizada de Profanity, ela será sinalizada como &quot;Profanity&quot;. » Para configurar o Livefyre para executar ações automaticamente nesses itens, **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]** acesse.
 
 ## Ativar o Filtro de perfil para uma rede {#section_twd_ssk_f1b}
 
 1. Selecione **[!UICONTROL Network]** no menu suspenso de rede.
-1. Ir **[!UICONTROL Settings > Network Settings > Moderation]**para.
-1. Role para baixo até o **[!UICONTROL Profanity List]**e defina **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]**como.
+1. Ir **[!UICONTROL Settings > Network Settings > Moderation]** para.
+1. Role para baixo até o **[!UICONTROL Profanity List]** e defina **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]** como.
 
 1. Use **[!UICONTROL Update Network Profanity List]** o campo para adicionar palavras à lista ou clique em uma palavra para removê-la da lista.
 
@@ -46,8 +46,8 @@ Ative e configure o filtro de profanidade em nível de rede e site. Desative o f
 ## Ativar o Filtro de perfis para um site {#section_fld_wsk_f1b}
 
 1. Selecione o site no menu suspenso de rede.
-1. Ir **[!UICONTROL Settings > Site Settings > Moderation]**para.
-1. Role para baixo até **[!UICONTROL Profanity List]** o e defina **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]**como.
+1. Ir **[!UICONTROL Settings > Site Settings > Moderation]** para.
+1. Role para baixo até **[!UICONTROL Profanity List]** o e defina **[!UICONTROL Enable Profanity Checking]****[!UICONTROL ON]** como.
 
 1. Escolha uma das seguintes opções:
 
@@ -59,15 +59,15 @@ Ative e configure o filtro de profanidade em nível de rede e site. Desative o f
       * Para adicionar uma palavra, digite a palavra na **[!UICONTROL Add new word]** caixa e na ocorrência **[!UICONTROL Return]**.
 
       * Para ver se uma palavra está incluída na lista, digite a palavra na **[!UICONTROL Test profanity filter]** caixa.
-   * Para reimportar a lista de perfis de rede e aplicá-la ao site, clique **[!UICONTROL Restore Network List]**em.
-   * Para limpar todo o conteúdo da lista e começar do zero, clique **[!UICONTROL Clear List]**em.
+   * Para reimportar a lista de perfis de rede e aplicá-la ao site, clique **[!UICONTROL Restore Network List]** em.
+   * Para limpar todo o conteúdo da lista e começar do zero, clique **[!UICONTROL Clear List]** em.
 
 
 ## Trabalhar com conteúdo que contém profanity {#section_epy_dtk_f1b}
 
 Use a Lista de perfis para ajudar a filtrar suas pesquisas de conteúdo e criar Regras de pré-moderação para modq.
 
-Para pesquisar o conteúdo que contém a profanidade, vá para **[!UICONTROL Library > App Content]**e **[!UICONTROL Filter by Flags]** marque a **[!UICONTROL Profanity]** caixa de seleção. Todo o conteúdo que foi capturado pelo Filtro de perfil para o site ou rede selecionada será exibido. Esta lista incluirá conteúdo inserido no aplicativo usando o socialsync e Fluxos.
+Para pesquisar o conteúdo que contém a profanidade, vá para **[!UICONTROL Library > App Content]** e **[!UICONTROL Filter by Flags]** marque a **[!UICONTROL Profanity]** caixa de seleção. Todo o conteúdo que foi capturado pelo Filtro de perfil para o site ou rede selecionada será exibido. Esta lista incluirá conteúdo inserido no aplicativo usando o socialsync e Fluxos.
 
 Para criar regras de pré-moderação, a partir do Studio selecione **[!UICONTROL Settings > Network Settings > Moderation]**. Uma vez que o filtro de profanidade estiver ativado, uma nova regra será exibida, permitindo o sinalizador ou o conteúdo pré-moderado com profanidade. Por padrão, essa regra ativa **[!UICONTROL Premoderate]** automaticamente o conteúdo profane, que pode ser alterado **[!UICONTROL Trash it]** para ou **[!UICONTROL Bozo it]**.
 
@@ -77,7 +77,7 @@ Para criar regras de pré-moderação, a partir do Studio selecione **[!UICONTRO
 
 ## Exibir e atualizar a lista de perfis de uma rede {#section_qdb_btk_f1b}
 
-1. Ir **[!UICONTROL Settings > Network Settings > Moderation]**para.
+1. Ir **[!UICONTROL Settings > Network Settings > Moderation]** para.
 1. Role para baixo até **[!UICONTROL Profanity List]** a seção.
 1. Defina **[!UICONTROL Enable Profanity Checking]** para **[!UICONTROL On]** exibir a lista habilitada para sua rede (padrão do Livefyre ou sua lista personalizada carregada) e editá-la. Você pode editar a lista das seguintes maneiras:
    * Para remover uma palavra, clique na palavra.

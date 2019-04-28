@@ -1,8 +1,6 @@
 ---
-description: Quando um usuário é convidado para acessar o Livefyre, o usuário usa
-  o link no email para criar seu login e sua conta.
-seo-description: Quando um usuário é convidado para acessar o Livefyre, o usuário
-  usa o link no email para criar seu login e sua conta.
+description: Quando um usuário é convidado para acessar o Livefyre, o usuário usa o link no email para criar seu login e sua conta.
+seo-description: Quando um usuário é convidado para acessar o Livefyre, o usuário usa o link no email para criar seu login e sua conta.
 seo-title: Aceitar um convite para criar uma conta do Studio
 solution: Experience Manager
 title: Aceitar um convite para criar uma conta do Studio

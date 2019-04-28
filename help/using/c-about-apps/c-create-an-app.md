@@ -1,8 +1,6 @@
 ---
-description: Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo
-  no Livefyre Studio.
-seo-description: Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo
-  no Livefyre Studio.
+description: Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo no Livefyre Studio.
+seo-description: Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo no Livefyre Studio.
 seo-title: Criar um aplicativo
 solution: Experience Manager
 title: Criar um aplicativo
@@ -20,7 +18,7 @@ Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo no Livefyr
 Para criar um novo aplicativo:
 
 1. Clique **[!UICONTROL +New App]** na página Aplicativos e selecione um tipo de aplicativo no menu suspenso.
-1. A caixa **[!UICONTROL New App]** de diálogo é exibida. Digite um **[!UICONTROL App Title]**, selecione a **[!UICONTROL Site]**e clique **[!UICONTROL Create]** para abrir a página Visão geral do aplicativo.
+1. A caixa **[!UICONTROL New App]** de diálogo é exibida. Digite um **[!UICONTROL App Title]**, selecione a **[!UICONTROL Site]** e clique **[!UICONTROL Create]** para abrir a página Visão geral do aplicativo.
 
 A página Resumo do aplicativo fornece 4 guias:
 
@@ -74,7 +72,7 @@ Para adicionar um botão de chamada a um aplicativo:
    Para obter informações sobre as personalizações disponíveis em um mural de Mosaico ou Mídia, consulte [Personalizações de mosaico](/help/using/c-about-apps/c-mosaic-app/c-mosaic-customizations.md) ou [Personalizações de mural de mídia](../c-about-apps/c-media-wall-app/r-media-wall-customizations.md#r_media_wall_customizations).
 1. Abra o Designer para o aplicativo.
 1. Role até a **[!UICONTROL Call-to-Action Button]** seção no Designer.
-1. Alternar **[!UICONTROL Call-to-Action Button]****[!UICONTROL on]**para.
+1. Alternar **[!UICONTROL Call-to-Action Button]****[!UICONTROL on]** para.
 
 1. Configure as opções de botão de chamada para ação.
 
@@ -92,7 +90,7 @@ O Modo de visualização oferece as seguintes opções:
 
 >[!NOTE]
 >
->Se você desmarcar **[!UICONTROL Sample Data]**e nenhum Fluxo estiver ativado para o Aplicativo, nenhum conteúdo será exibido no Modo de visualização.
+>Se você desmarcar **[!UICONTROL Sample Data]** e nenhum Fluxo estiver ativado para o Aplicativo, nenhum conteúdo será exibido no Modo de visualização.
 
 * **[!UICONTROL Share]**: Abre o aplicativo em uma nova guia do navegador e gera um URL, que pode ser usado para permitir que os usuários, colegas ou usuários não do Studio revisem seu aplicativo e tiram tags em navegadores e dispositivos diferentes.
 
@@ -143,7 +141,7 @@ A guia Resumo do aplicativo permite:
 
    >[!NOTE]
    >
-   >Use este código incorporado para adicionar Pesquisas a seus Comentários ou Aplicativo de blog live. Para obter mais informações, consulte Interações personalizadas > HTML personalizado.
+   >Use este código incorporado para adicionar Pesquisas a seus Comentários ou Aplicativo de blog live. Para obter mais informações, consulte Interações personalizadas &gt; HTML personalizado.
 
 * **[!UICONTROL View Content]**: Abre a página Conteúdo, que lista todo o conteúdo publicado no aplicativo.
 * **[!UICONTROL Moderate]**: Abre modq, listando todo o conteúdo aguardando moderação para o aplicativo.
@@ -170,7 +168,7 @@ Você pode excluir um aplicativo da lista Aplicativos no Livefyre Studio. Quando
 
 Para excluir um aplicativo:
 
-1. Clique **[!UICONTROL Apps]**em.
+1. Clique **[!UICONTROL Apps]** em.
 1. Clique nas reticências à direita do nome do aplicativo a ser excluído.
 1. Clique em **[!UICONTROL Delete App]** para excluir o aplicativo.
 

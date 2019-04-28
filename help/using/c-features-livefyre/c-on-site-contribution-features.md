@@ -1,8 +1,6 @@
 ---
-description: Escolha como os visitantes do site interagem com Aplicativos e de que
-  maneiras eles podem interagir com o conteúdo.
-seo-description: Escolha como os visitantes do site interagem com Aplicativos e de
-  que maneiras eles podem interagir com o conteúdo.
+description: Escolha como os visitantes do site interagem com Aplicativos e de que maneiras eles podem interagir com o conteúdo.
+seo-description: Escolha como os visitantes do site interagem com Aplicativos e de que maneiras eles podem interagir com o conteúdo.
 seo-title: Recursos de contribuição no site
 solution: Experience Manager
 title: Recursos de contribuição no site

@@ -1,12 +1,6 @@
 ---
-description: O Instagram alterou o número de solicitações que qualquer empresa que
-  usa a API do Instagram, incluindo o Livefyre, pode fazer de 5,00requests solicitações
-  por hora por token para 200 solicitações por token. Isso é conhecido como limitação
-  de taxa.
-seo-description: O Instagram alterou o número de solicitações que qualquer empresa
-  que usa a API do Instagram, incluindo o Livefyre, pode fazer de 5,00requests solicitações
-  por hora por token para 200 solicitações por token. Isso é conhecido como limitação
-  de taxa.
+description: O Instagram alterou o número de solicitações que qualquer empresa que usa a API do Instagram, incluindo o Livefyre, pode fazer de 5,00requests solicitações por hora por token para 200 solicitações por token. Isso é conhecido como limitação de taxa.
+seo-description: O Instagram alterou o número de solicitações que qualquer empresa que usa a API do Instagram, incluindo o Livefyre, pode fazer de 5,00requests solicitações por hora por token para 200 solicitações por token. Isso é conhecido como limitação de taxa.
 seo-title: Limitação de taxa do Instagram
 title: Limitação de taxa do Instagram
 uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059

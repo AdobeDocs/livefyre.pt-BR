@@ -1,8 +1,6 @@
 ---
-description: Pegue as postagens de postagem e comentário para que determinadas coleções
-  sejam exibidas em suas páginas de índice.
-seo-description: Pegue as postagens de postagem e comentário para que determinadas
-  coleções sejam exibidas em suas páginas de índice.
+description: Pegue as postagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
+seo-description: Pegue as postagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
 seo-title: Exibir contagem de comentário
 solution: Experience Manager
 title: Exibir contagem de comentário
@@ -43,7 +41,7 @@ O Livefyre `CommentCount.js` permite que você busque as contagens de conteúdo 
    </span>
    ```
 
-   >[!NOTE] {importance = "high"}
+   >[!NOTE] {importance = &quot;high&quot;}
    >
    >`CommentCount.js` O código verifica se um valor numérico foi atualizado com a contagem real. Assegure-se de incluir um valor numérico entre as tags.
 

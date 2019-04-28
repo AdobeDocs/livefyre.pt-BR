@@ -1,8 +1,6 @@
 ---
-description: Exclua um conjunto de traduções a qualquer momento clicando no ícone
-  de lixeira ao lado do conjunto de traduções que deseja excluir.
-seo-description: Exclua um conjunto de traduções a qualquer momento clicando no ícone
-  de lixeira ao lado do conjunto de traduções que deseja excluir.
+description: Exclua um conjunto de traduções a qualquer momento clicando no ícone de lixeira ao lado do conjunto de traduções que deseja excluir.
+seo-description: Exclua um conjunto de traduções a qualquer momento clicando no ícone de lixeira ao lado do conjunto de traduções que deseja excluir.
 seo-title: Excluir um conjunto de traduções
 solution: Experience Manager
 title: Excluir um conjunto de traduções

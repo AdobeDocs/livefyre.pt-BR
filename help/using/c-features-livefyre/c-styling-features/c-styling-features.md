@@ -1,8 +1,6 @@
 ---
-description: Você pode fazer com que seus aplicativos do Livefyre se comportem de
-  várias maneiras ou mude de forma semelhante ao restante da sua campanha de marca.
-seo-description: Você pode fazer com que seus aplicativos do Livefyre se comportem
-  de várias maneiras ou mude de forma semelhante ao restante da sua campanha de marca.
+description: Você pode fazer com que seus aplicativos do Livefyre se comportem de várias maneiras ou mude de forma semelhante ao restante da sua campanha de marca.
+seo-description: Você pode fazer com que seus aplicativos do Livefyre se comportem de várias maneiras ou mude de forma semelhante ao restante da sua campanha de marca.
 seo-title: Recursos de estilo
 title: Recursos de estilo
 uuid: 72 a 3843 d -692 a -43 ff-b 72 b -6 bd 840 de 87 d 6

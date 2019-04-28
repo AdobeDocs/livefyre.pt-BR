@@ -18,13 +18,13 @@ Se um usuário posta um comentário no editor de comentário enquanto visualiza 
 
 Para otimizar o desempenho, o Livefyre armazena dados em cache por até 2 minutos. Pode haver um pequeno atraso nas curtidas mais recentes que aparecem.
 
-Se não houver comentários na coleção com curtidas, os usuários verão a mensagem **[!UICONTROL There are not enough likes yet]**e um link para **[!UICONTROL See what’s new]**.
+Se não houver comentários na coleção com curtidas, os usuários verão a mensagem **[!UICONTROL There are not enough likes yet]** e um link para **[!UICONTROL See what’s new]**.
 
 >[!NOTE]
 >
 >Os Comentários e os Threads principais podem não ser incluídos na mesma coleção.
 
-Para obter informações sobre como ativar a exibição Principais comentários, **[!UICONTROL Studio > Network Settings]**consulte.
+Para obter informações sobre como ativar a exibição Principais comentários, **[!UICONTROL Studio > Network Settings]** consulte.
 
 Aplicativos que usam este recurso:
 

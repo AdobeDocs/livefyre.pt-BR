@@ -1,10 +1,6 @@
 ---
-description: Forneça UGC específico do produto em pontos específicos da jornada do
-  cliente para aumentar o propósito de compra e a conversão com o recurso de Comércio
-  UGC.
-seo-description: Forneça UGC específico do produto em pontos específicos da jornada
-  do cliente para aumentar o propósito de compra e a conversão com o recurso de Comércio
-  UGC.
+description: Forneça UGC específico do produto em pontos específicos da jornada do cliente para aumentar o propósito de compra e a conversão com o recurso de Comércio UGC.
+seo-description: Forneça UGC específico do produto em pontos específicos da jornada do cliente para aumentar o propósito de compra e a conversão com o recurso de Comércio UGC.
 seo-title: Comércio UGC
 solution: Experience Manager
 title: Comércio UGC
@@ -71,7 +67,7 @@ Carregue produtos para usar com seu botão de chamada de ação para adicionar p
 >Carregar um arquivo em uma pasta com arquivos existentes excluirá todos os arquivos dessa pasta e substituirá-os pelo novo arquivo.
 
 1. Navegue até **[!UICONTROL Network Settings > Products.]**
-1. Crie **[!UICONTROL Product Folder]** um ou use um **[!UICONTROL Product Folder]**existente.
+1. Crie **[!UICONTROL Product Folder]** um ou use um **[!UICONTROL Product Folder]** existente.
 
 1. Clique em para **[!UICONTROL Product Folder]** selecioná-lo.
 1. Clique no **[!UICONTROL Upload Products]** botão.

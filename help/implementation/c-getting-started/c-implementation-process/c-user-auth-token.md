@@ -1,8 +1,6 @@
 ---
-description: Esta seção descreve como gerar o objeto userauth JSON que cria o token
-  de Autenticação do usuário necessário para registrar usuários em seus aplicativos.
-seo-description: Esta seção descreve como gerar o objeto userauth JSON que cria o
-  token de Autenticação do usuário necessário para registrar usuários em seus aplicativos.
+description: Esta seção descreve como gerar o objeto userauth JSON que cria o token de Autenticação do usuário necessário para registrar usuários em seus aplicativos.
+seo-description: Esta seção descreve como gerar o objeto userauth JSON que cria o token de Autenticação do usuário necessário para registrar usuários em seus aplicativos.
 seo-title: Token de autenticação do usuário
 solution: Experience Manager
 title: Token de autenticação do usuário

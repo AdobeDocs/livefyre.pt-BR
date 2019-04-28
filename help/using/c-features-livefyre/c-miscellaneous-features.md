@@ -1,8 +1,6 @@
 ---
-description: Livefyre oferece recursos adicionais para rastrear dados de visitantes
-  e sincronização com redes de redes sociais.
-seo-description: Livefyre oferece recursos adicionais para rastrear dados de visitantes
-  e sincronização com redes de redes sociais.
+description: Livefyre oferece recursos adicionais para rastrear dados de visitantes e sincronização com redes de redes sociais.
+seo-description: Livefyre oferece recursos adicionais para rastrear dados de visitantes e sincronização com redes de redes sociais.
 seo-title: Recursos diversos
 solution: Experience Manager
 title: Recursos diversos

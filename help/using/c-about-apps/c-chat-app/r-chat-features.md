@@ -1,8 +1,6 @@
 ---
-description: O bate-papo oferece vários recursos para incentivar uma caixa de diálogo
-  rápida e envolvente.
-seo-description: O bate-papo oferece vários recursos para incentivar uma caixa de
-  diálogo rápida e envolvente.
+description: O bate-papo oferece vários recursos para incentivar uma caixa de diálogo rápida e envolvente.
+seo-description: O bate-papo oferece vários recursos para incentivar uma caixa de diálogo rápida e envolvente.
 seo-title: Recursos do bate-papo
 solution: Experience Manager
 title: Recursos do bate-papo

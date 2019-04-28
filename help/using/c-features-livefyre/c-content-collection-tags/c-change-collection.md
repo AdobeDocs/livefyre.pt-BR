@@ -1,8 +1,6 @@
 ---
-description: Permita que os usuários cliquem em Coleções a partir de um único layout
-  de página e URL.
-seo-description: Permita que os usuários cliquem em Coleções a partir de um único
-  layout de página e URL.
+description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
+seo-description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
 seo-title: Alterar coleção
 solution: Experience Manager
 title: Alterar coleção

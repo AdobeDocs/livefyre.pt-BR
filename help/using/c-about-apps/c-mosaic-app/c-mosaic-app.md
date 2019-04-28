@@ -1,8 +1,6 @@
 ---
-description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site
-  com um aplicativo Mosaico.
-seo-description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu
-  site com um aplicativo Mosaico.
+description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site com um aplicativo Mosaico.
+seo-description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site com um aplicativo Mosaico.
 seo-title: Mosaico
 solution: Experience Manager
 title: Mosaico
@@ -88,7 +86,7 @@ O mosaico exibe conteúdo em uma grade perfeita. Se você tiver 25 partes de con
 
 Se a largura do contêiner se encaixar apenas em quatro para fazer uma grade perfeita, mas você tem 25 partes de conteúdo, o Mosaic classifica o conteúdo extra como um conteúdo atípico e não a exibe no aplicativo. O conteúdo único não gira porque tecnicamente está no aplicativo, mas não é exibido. Se a largura do contêiner couber sete, apenas 21 será exibida, já que quatro são discrepantes e não formam a grade perfeita.
 
-Às vezes, o conteúdo não é exibido porque você ativou **[!UICONTROL Require rights]**. Se você ativar isso, será necessário ter direitos atribuídos para todo o conteúdo no aplicativo. Se o status de direitos não for "concedido" para um conteúdo, ele não será exibido no aplicativo.
+Às vezes, o conteúdo não é exibido porque você ativou **[!UICONTROL Require rights]**. Se você ativar isso, será necessário ter direitos atribuídos para todo o conteúdo no aplicativo. Se o status de direitos não for &quot;concedido&quot; para um conteúdo, ele não será exibido no aplicativo.
 
 ## Criar mosaico usando o Studio {#section_dwb_glj_yy}
 

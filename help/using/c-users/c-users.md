@@ -1,8 +1,6 @@
 ---
-description: Adicione e gerencie usuários e visitantes do site com a rede Studio e
-  Livefyre.
-seo-description: Adicione e gerencie usuários e visitantes do site com a rede Studio
-  e Livefyre.
+description: Adicione e gerencie usuários e visitantes do site com a rede Studio e Livefyre.
+seo-description: Adicione e gerencie usuários e visitantes do site com a rede Studio e Livefyre.
 seo-title: Usuários gerenciando Estúdio e Usuários do Livefyre Network
 solution: Experience Manager
 title: Usuários gerenciando Estúdio e Usuários do Livefyre Network

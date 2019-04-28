@@ -1,8 +1,6 @@
 ---
-description: Altere a permissão de vários níveis de usuários, incluindo administradores,
-  moderadores e visitantes do site.
-seo-description: Altere a permissão de vários níveis de usuários, incluindo administradores,
-  moderadores e visitantes do site.
+description: Altere a permissão de vários níveis de usuários, incluindo administradores, moderadores e visitantes do site.
+seo-description: Altere a permissão de vários níveis de usuários, incluindo administradores, moderadores e visitantes do site.
 seo-title: Gerenciar permissões do Studio para usuários
 solution: Experience Manager
 title: Gerenciar permissões do Studio para usuários

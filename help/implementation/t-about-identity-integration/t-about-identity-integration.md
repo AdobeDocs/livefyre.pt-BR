@@ -1,8 +1,6 @@
 ---
-description: Descreve opções para adicionar autenticação de usuário aos aplicativos
-  do Livefyre, incluindo Janelas de Janelas ou seu próprio serviço de identidade.
-seo-description: Descreve opções para adicionar autenticação de usuário aos aplicativos
-  do Livefyre, incluindo Janelas de Janelas ou seu próprio serviço de identidade.
+description: Descreve opções para adicionar autenticação de usuário aos aplicativos do Livefyre, incluindo Janelas de Janelas ou seu próprio serviço de identidade.
+seo-description: Descreve opções para adicionar autenticação de usuário aos aplicativos do Livefyre, incluindo Janelas de Janelas ou seu próprio serviço de identidade.
 seo-title: Integração de identidade
 solution: Experience Manager
 title: Integração de identidade

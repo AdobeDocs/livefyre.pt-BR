@@ -23,7 +23,7 @@ Este SDK do Livefyre Android pode ser usado no Eclipse e no Android Studio.
 
 >[!NOTE]
 >
->Antes de instalar o SDK do Livefyre Android, é necessário ter o [Android SDK](https://developer.android.com/sdk/index.html) instalado em seu ambiente. Você também deve incluir alguns pacotes adicionais do Android SDK, conforme descrito nos documentos do desenvolvedor do Android >.
+>Antes de instalar o SDK do Livefyre Android, é necessário ter o [Android SDK](https://developer.android.com/sdk/index.html) instalado em seu ambiente. Você também deve incluir alguns pacotes adicionais do Android SDK, conforme descrito nos documentos do desenvolvedor do Android &gt;.
 >[Adição de pacotes SDK](https://developer.android.com/sdk/installing/adding-packages.html)
 
 Use o Android SDK Manager (disponível na barra de ferramentas do Android Studio ou Eclipse) para instalar todos os pacotes recomendados. Certifique-se de incluir também o Repositório de suporte para Android.
@@ -54,13 +54,13 @@ Para adicionar o SDK do Livefyre Android ao projeto no Android Studio:
 
 O Android Studio pode solicitar que você converta o SDK para a versão gradle; se isso ocorrer, selecione **[!UICONTROL next]** -o em seguida **[!UICONTROL finish]**.
 
-Vá para **pasta do projeto > pasta do aplicativo > build. gradle** em dependências para adicionar a seguinte dependência:
+Vá para **pasta do projeto &gt; pasta do aplicativo &gt; build. gradle** em dependências para adicionar a seguinte dependência:
 
 ```
 dependencies {   compile project(':streamHubAndroidSDK') } 
 ```
 
-Verifique se a linha a seguir está **no** arquivo pastas > configurações. gradle:
+Verifique se a linha a seguir está **no** arquivo pastas &gt; configurações. gradle:
 
 ```
 include ':streamHubAndroidSDK' 

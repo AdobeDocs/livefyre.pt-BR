@@ -1,8 +1,6 @@
 ---
-description: Crie uma nova coleção criando um collcollectionmeta que é passado para
-  o Livefyre.
-seo-description: Crie uma nova coleção criando um collcollectionmeta que é passado
-  para o Livefyre.
+description: Crie uma nova coleção criando um collcollectionmeta que é passado para o Livefyre.
+seo-description: Crie uma nova coleção criando um collcollectionmeta que é passado para o Livefyre.
 seo-title: Criar uma coleção usando o collectionmeta token
 solution: Experience Manager
 title: Criar uma coleção usando o collectionmeta token

@@ -1,8 +1,6 @@
 ---
-description: Configure credenciais que permitem aos usuários compartilhar conteúdo
-  em várias redes sociais.
-seo-description: Configure credenciais que permitem aos usuários compartilhar conteúdo
-  em várias redes sociais.
+description: Configure credenciais que permitem aos usuários compartilhar conteúdo em várias redes sociais.
+seo-description: Configure credenciais que permitem aos usuários compartilhar conteúdo em várias redes sociais.
 seo-title: Ativar compartilhamento em redes sociais
 solution: Experience Manager
 title: Ativar compartilhamento em redes sociais

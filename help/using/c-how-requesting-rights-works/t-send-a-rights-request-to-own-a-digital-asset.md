@@ -1,8 +1,6 @@
 ---
-description: É possível solicitar o direito de reutilizar o item para seus fins comerciais
-  da Biblioteca, Conteúdo do aplicativo ou modq.
-seo-description: É possível solicitar o direito de reutilizar o item para seus fins
-  comerciais da Biblioteca, Conteúdo do aplicativo ou modq.
+description: É possível solicitar o direito de reutilizar o item para seus fins comerciais da Biblioteca, Conteúdo do aplicativo ou modq.
+seo-description: É possível solicitar o direito de reutilizar o item para seus fins comerciais da Biblioteca, Conteúdo do aplicativo ou modq.
 seo-title: Enviar uma solicitação de direitos do Twitter
 solution: Experience Manager
 title: Enviar uma solicitação de direitos do Twitter
