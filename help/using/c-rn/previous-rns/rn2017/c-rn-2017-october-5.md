@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de October de outubro de 2017.
-seo-description: Notas de versão da versão de October de outubro de 2017.
+description: Notas de versão de 5 de outubro de 2017.
+seo-description: Notas de versão de 5 de outubro de 2017.
 seo-title: 5 de outubro de 2017
 title: 5 de outubro de 2017
 uuid: 62 e 9 e 4 ee -1644-4 d 22-9589-2 e 208 a 68 aaeb
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 5 de outubro de 2017{#october}
 
-Notas de versão da versão de October de outubro de 2017.
+Notas de versão de 5 de outubro de 2017.
 
 ## Versão de produção
 

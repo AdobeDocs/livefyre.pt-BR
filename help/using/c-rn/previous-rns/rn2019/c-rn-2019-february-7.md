@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão 7 de fevereiro de 2019 do Livefyre.
-seo-description: Notas de versão da versão 7 de fevereiro de 2019 do Livefyre.
+description: Notas de versão 7 de fevereiro de 2019 do Livefyre.
+seo-description: Notas de versão 7 de fevereiro de 2019 do Livefyre.
 seo-title: Notas de versão
 solution: Experience Manager
 title: Notas de versão
@@ -11,9 +11,9 @@ source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
 ---
 
 
-# Notas de versão - Fede fevereiro de 2019 {#rn020719}
+# Notas de versão - 7 de fevereiro de 2019 {#rn020719}
 
-**Notas de versão da atualização de February de fevereiro de 2019.**
+**Notas de versão da atualização de 7 de fevereiro de 2019.**
 
 ## Aprimoramento
 

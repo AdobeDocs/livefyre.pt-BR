@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de April 3 de abril de 23 17.
-seo-description: Notas de versão da versão de April 3 de abril de 23 17.
-seo-title: April 3 de abril de 23 17
-title: April 3 de abril de 23 17
+description: Notas de versão de April 3 de abril de 2017.
+seo-description: Notas de versão de April 3 de abril de 2017.
+seo-title: April 3 de abril de 2017
+title: April 3 de abril de 2017
 uuid: abc 591 bd -3385-40 f 5-99 a 5-3 f 4 c 8 ee 4 dc 6 b
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# April 3 de abril de 23 17{#april}
+# 13 de abril de 2017{#april}
 
-Notas de versão da versão de April 3 de abril de 23 17.
+Notas de versão de 13 de abril de 2017.
 
 ## Versão de produção
 

@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de March de março de 2018.
-seo-description: Notas de versão da versão de March de março de 2018.
+description: Notas de versão de 8 de março de 2018.
+seo-description: Notas de versão de 8 de março de 2018.
 seo-title: 8 de março de 2018
 solution: Experience Manager
 title: 8 de março de 2018
@@ -13,7 +13,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 8 de março de 2018{#march}
 
-Notas de versão da versão de March de março de 2018.
+Notas de versão de 8 de março de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

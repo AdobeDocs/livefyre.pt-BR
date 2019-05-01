@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de July 0 de julho de 20 17.
-seo-description: Notas de versão da versão de July 0 de julho de 20 17.
-seo-title: July 0 de julho de 20 17
-title: July 0 de julho de 20 17
+description: Notas de versão de 20 de julho de 2017.
+seo-description: Notas de versão de 20 de julho de 2017.
+seo-title: 20 de julho de 2017
+title: 20 de julho de 2017
 uuid: 550815 a 9-a 6 e 2-4 e 98-b 5 d 6-7 f 4897373716
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# July 0 de julho de 20 17{#july}
+# 20 de julho de 2017{#july}
 
-Notas de versão da versão de July 0 de julho de 20 17.
+Notas de versão de 20 de julho de 2017.
 
 ## Novo recurso {#section_swl_jsm_p1b}
 
@@ -20,7 +20,7 @@ O Comércio UGC permite que você adicione um botão de chamada a ação diretam
 
 ## Notas de versão {#section_bjq_3sm_p1b}
 
-As tabelas a seguir listam as Notas de versão de Produção e UAT da versão de July 0 de julho de 20 17.
+As tabelas a seguir listam as Notas de versão de Produção e UAT da versão de 20 de julho de 2017.
 
 ## Versão de produção
 

@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de January 6 de janeiro de 26 17.
-seo-description: Notas de versão da versão de January 6 de janeiro de 26 17.
-seo-title: January 6 de janeiro de 26 17
-title: January 6 de janeiro de 26 17
+description: Notas de versão de 26 de janeiro de 2017.
+seo-description: Notas de versão de 26 de janeiro de 2017.
+seo-title: 26 de janeiro de 2017
+title: 26 de janeiro de 2017
 uuid: 5 a 04 d 31 d-a 26 d -4369-8 deb-adc 3 e 28 dfece
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# January 6 de janeiro de 26 17{#january}
+# 26 de janeiro de 2017{#january}
 
-Notas de versão da versão de January 6 de janeiro de 26 17.
+Notas de versão de 26 de janeiro de 2017.
 
 ## Versão de produção {#section_r24_1m2_wy}
 

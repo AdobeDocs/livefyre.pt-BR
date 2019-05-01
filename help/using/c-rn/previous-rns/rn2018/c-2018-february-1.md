@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de February de fevereiro de 2018.
-seo-description: Notas de versão da versão de February de fevereiro de 2018.
+description: Notas de versão de 1 de fevereiro de 2018.
+seo-description: Notas de versão de 1 de fevereiro de 2018.
 seo-title: 1 de fevereiro de 2018
 solution: Experience Manager
 title: 1 de fevereiro de 2018
@@ -13,7 +13,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 1 de fevereiro de 2018 {#february}
 
-Notas de versão da versão de February de fevereiro de 2018.
+Notas de versão de 1 de fevereiro de 2018.
 
 ## Versão de produção
 

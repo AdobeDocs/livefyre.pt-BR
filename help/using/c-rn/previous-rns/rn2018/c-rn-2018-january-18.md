@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão de January 8 de janeiro de 28 18.
-seo-description: Notas de versão da versão de January 8 de janeiro de 28 18.
-seo-title: January 8 de janeiro de 28 18
+description: Notas de versão de 18 de janeiro de 2018.
+seo-description: Notas de versão de 18 de janeiro de 2018.
+seo-title: 18 de janeiro de 2018
 solution: Experience Manager
-title: January 8 de janeiro de 28 18
+title: 18 de janeiro de 2018
 uuid: 8141 f 431-c 154-4 c 8 f-bbcd-b 7 c 712 fe 5 f 7 d
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -11,9 +11,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# January 8 de janeiro de 28 18{#january}
+# 18 de janeiro de 2018{#january}
 
-Notas de versão da versão de January 8 de janeiro de 28 18.
+Notas de versão de 18 de janeiro de 2018.
 
 ## Versão de produção
 

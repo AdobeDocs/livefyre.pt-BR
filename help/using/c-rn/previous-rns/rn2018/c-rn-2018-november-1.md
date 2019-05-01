@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de November de novembro de 2018.
-seo-description: Notas de versão da versão de November de novembro de 2018.
+description: Notas de versão de 1 de novembro de 2018.
+seo-description: Notas de versão de 1 de novembro de 2018.
 seo-title: 1 de novembro de 2018
 solution: Experience Manager
 title: 1 de novembro de 2018
@@ -13,7 +13,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # 1 de novembro de 2018{#november}
 
-Notas de versão da versão de November de novembro de 2018.
+Notas de versão de 1 de novembro de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

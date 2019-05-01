@@ -1,6 +1,6 @@
 ---
-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 25 18.
-seo-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 25 18.
+description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 2018.
+seo-description: Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 2018.
 seo-title: Anúncios
 solution: Experience Manager
 title: Anúncios
@@ -13,11 +13,11 @@ source-git-commit: 2e2c1a018e5ec58a3649bc27679d53390ffcc8ca
 
 # Anúncios{#announcements}
 
-Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 25 18.
+Anúncios para Livefyre e Livefyre Studio. Atual a partir de 15 de novembro de 2018.
 
-## 15 de novembro de 25 18 {#section_yx3_hnp_5fb}
+## 15 de novembro de 2018 {#section_yx3_hnp_5fb}
 
-Dois recursos adicionais que tratam da desaprovação do Instagram API desde maio de May May early:
+Dois recursos adicionais que tratam da desaprovação do Instagram API desde maio estão disponíveis agora:
 
 * **Pesquisar e transmitir conteúdo de contas comerciais**
 
@@ -45,11 +45,11 @@ Leia as últimas atualizações sobre o status da funcionalidade relacionada às
 
 ## 24 de maio de 2018 {#section_xbk_wvd_ydb}
 
-Uma de duas atualizações do fluxo de trabalho de solicitação de direito de utilização para o conteúdo do Instagram agora está disponível. Em Conteúdo do aplicativo e na Biblioteca, agora você pode copiar a mensagem de direitos de solicitação do Livefyre Studio e colá-la na postagem exata do Instagram que você está solicitando para usar. A capacidade de fazer isso em modq será entregue em uma versão futura. Até 14 de junho de 24 18, restauraremos a funcionalidade que monitora automaticamente a resposta à solicitação de direitos e atualizaremos o histórico de atividades.
+Uma de duas atualizações do fluxo de trabalho de solicitação de direito de utilização para o conteúdo do Instagram agora está disponível. Em Conteúdo do aplicativo e na Biblioteca, agora você pode copiar a mensagem de direitos de solicitação do Livefyre Studio e colá-la na postagem exata do Instagram que você está solicitando para usar. A capacidade de fazer isso em modq será entregue em uma versão futura. Até 14 de junho de 2018, restauraremos a funcionalidade que monitora automaticamente a resposta à solicitação de direitos e atualizaremos o histórico de atividades.
 
-Leia as notes 4 de [maio de 24 May 8, as notas](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) de versão para obter mais informações e instruções sobre como usar esse recurso.
+Leia as notas de versão de [24 de maio de 2018](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) para obter mais informações e instruções sobre como usar esse recurso.
 
-## May 7 de maio de 2018 {#section_hwb_1qz_wdb}
+## 17 de maio de 2018 {#section_hwb_1qz_wdb}
 
 Estamos felizes em informá-lo que a capacidade de executar os seguintes recursos do Instagram no Livefyre está novamente disponível:
 
@@ -57,11 +57,11 @@ Estamos felizes em informá-lo que a capacidade de executar os seguintes recurso
 * Exibir detalhes de cada parte do conteúdo
 * Realizar ações de moderação em novo conteúdo do Instagram em modq
 
-## May de maio de 2018 {#section_dms_ypz_wdb}
+## 7 de maio de 2018 {#section_dms_ypz_wdb}
 
 Para todos os clientes do Livefyre,
 
-Na quinta-feira, May de maio de 2may May 8, o Facebook substituiu uma série de apis do Instagram usadas por parceiros terceirizados para acessar diferentes aspectos do conteúdo do Instagram para proteger a privacidade pessoal e os dados dos usuários.
+Na quinta-feira, 3 de maio de 2018, o Facebook substituiu uma série de apis do Instagram usadas por parceiros terceirizados para acessar diferentes aspectos do conteúdo do Instagram para proteger a privacidade pessoal e os dados dos usuários.
 
 Agradecemos sua paciência à medida que analisamos o impacto no sistema do Livefyre. A visão geral a seguir esclarece quais recursos do Livefyre continuam a funcionar perfeitamente e quais recursos a substituição da API afetou, e como e quando abordaremos as alterações.
 
@@ -69,7 +69,7 @@ Primeiro, tenha certeza de que a maioria dos recursos do Instagram do Livefyre p
 
 Após uma análise completa do sistema, veja a seguir os recursos afetados pela desaprovação da API e datas pelas quais pretendemos que elas sejam abordadas.
 
-**As funções a seguir estão indisponíveis e estão disponíveis até 17 de maio de 27 18:**
+**As funções a seguir estão indisponíveis e estão disponíveis até 17 de maio de 2018:**
 
 * Exiba detalhes, salve e publique conteúdo do Instagram em pastas e aplicativos na Pesquisa social.
 * Execute ações no conteúdo do Instagram em modq.
@@ -80,7 +80,7 @@ Após uma análise completa do sistema, veja a seguir os recursos afetados pela 
 
    O Livefyre não pode enviar mensagens em nome de uma conta de usuário. Solicitar direitos de uso para conteúdo do Instagram agora deve ser feito manualmente. O Livefyre fornecerá um fluxo de trabalho de cortar e colar simples para ajudar os clientes a rastrear aprovações e manter registros de auditoria.
 
-* **Fluxos de trabalho de pesquisa e fluxos de usuários— 14 de junho de 24 18**
+* **Fluxos de trabalho de pesquisa e fluxos de usuários— 14 de junho de 2018**
 
    Embora ainda seja possível pesquisar por hashtag e palavra-chave, a capacidade de pesquisar contas pessoal do Instagram foi eliminada. Como alternativa, o Livefyre criará funcionalidade que permite pesquisar e transmitir conteúdo de contas comerciais. Se você usar o Livefyre para pesquisar e transmitir o conteúdo do Instagram de sua própria empresa, [certifique-se de atualizar](https://help.instagram.com/502981923235522?helpref=search&sr=2&query=change%20personal%20account%20to%20business%20account) para uma conta de negócios para aproveitar essa funcionalidade.
 

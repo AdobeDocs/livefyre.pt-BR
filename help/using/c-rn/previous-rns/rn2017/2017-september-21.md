@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de September 1 de setembro de 21 17.
-seo-description: Notas de versão da versão de September 1 de setembro de 21 17.
-seo-title: 21 de setembro de 21 17
-title: 21 de setembro de 21 17
+description: Notas de versão de 21 de setembro de 2017.
+seo-description: Notas de versão de 21 de setembro de 2017.
+seo-title: 21 de setembro de 2017
+title: 21 de setembro de 2017
 uuid: 1132 b 48 a-f 85 c -4 e 05-b 312-0093 db 9 ebc 8 f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# 21 de setembro de 21 17{#september}
+# 21 de setembro de 2017{#september}
 
-Notas de versão da versão de September 1 de setembro de 21 17.
+Notas de versão de 21 de setembro de 2017.
 
 ## Versão de produção
 

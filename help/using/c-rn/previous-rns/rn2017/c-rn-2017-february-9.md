@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de February de fevereiro de 2017.
-seo-description: Notas de versão da versão de February de fevereiro de 2017.
+description: Notas de versão de February de fevereiro de 2017.
+seo-description: Notas de versão de February de fevereiro de 2017.
 seo-title: 9 de fevereiro de 2017
 title: 9 de fevereiro de 2017
 uuid: cbbf 10 f 3-d 8 ca -4 c 10-849 e-fa 7208 f 987 be
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 9 de fevereiro de 2017{#february}
 
-Notas de versão da versão de February de fevereiro de 2017.
+Notas de versão de February de fevereiro de 2017.
 
 ## Socialsync para Twitter {#section_nv4_yry_wy}
 

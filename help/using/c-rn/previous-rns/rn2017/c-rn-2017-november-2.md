@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de November de novembro de 2017.
-seo-description: Notas de versão da versão de November de novembro de 2017.
+description: Notas de versão de 2 de novembro de 2017.
+seo-description: Notas de versão de 2 de novembro de 2017.
 seo-title: 2 de novembro de 2017
 title: 2 de novembro de 2017
 uuid: 496 fdc 55-3386-48 f 2-a 491-26 dc 2 bc 8 aa 72
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 2 de novembro de 2017{#november}
 
-Notas de versão da versão de November de novembro de 2017.
+Notas de versão de 2 de novembro de 2017.
 
 ## Versão de produção
 

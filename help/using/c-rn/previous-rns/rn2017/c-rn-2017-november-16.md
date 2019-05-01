@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão de November 6 de novembro de 26 17.
-seo-description: Notas de versão da versão de November 6 de novembro de 26 17.
-seo-title: 16 de novembro de 26 17
+description: Notas de versão de 16 de novembro de 2017.
+seo-description: Notas de versão de 16 de novembro de 2017.
+seo-title: 16 de novembro de 2017
 solution: Experience Manager
-title: 16 de novembro de 26 17
+title: 16 de novembro de 2017
 uuid: e 7 d 09640-d 2 c 1-4 d 23-8 fa 6-ecc 90 d 0 b 2 daa
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -11,9 +11,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# 16 de novembro de 26 17{#november}
+# 16 de novembro de 2017{#november}
 
-Notas de versão da versão de November 6 de novembro de 26 17.
+Notas de versão de 16 de novembro de 2017.
 
 ## Versão de produção
 

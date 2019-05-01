@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão de December 3 de dezembro de 23 18.
-seo-description: Notas de versão da versão de December 3 de dezembro de 23 18.
+description: Notas de versão de 13 de dezembro de 2018.
+seo-description: Notas de versão de 13 de dezembro de 2018.
 seo-title: Notas de versão
 solution: Experience Manager
-title: Notas de versão do Livefyre Dec 3 de dezembro de 2018
+title: Notas de versão do Livefyre 13 de dezembro de 2018
 uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
 translation-type: tm+mt
 source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
@@ -11,9 +11,9 @@ source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
 ---
 
 
-# Notas de versão - Dec 3 de dezembro de 23 18
+# Notas de versão - 13 de dezembro de 2018
 
-Notas de versão da versão de December 3 de dezembro de 23 18.
+Notas de versão de 13 de dezembro de 2018.
 
 ## Novos recursos
 

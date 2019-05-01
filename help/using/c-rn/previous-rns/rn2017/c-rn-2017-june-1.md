@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de June de junho de 2017.
-seo-description: Notas de versão da versão de June de junho de 2017.
+description: Notas de versão de 1 de junho de 2017.
+seo-description: Notas de versão de 1 de junho de 2017.
 seo-title: 1 de junho de 2017
 title: 1 de junho de 2017
 uuid: 70 c 39 b 30-896 d -437 a -9852-80 eb 47 c 08892
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 1 de junho de 2017{#june}
 
-Notas de versão da versão de June de junho de 2017.
+Notas de versão de 1 de junho de 2017.
 
 ## Versão de produção
 

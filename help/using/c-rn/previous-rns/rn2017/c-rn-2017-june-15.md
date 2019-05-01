@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de June 5 de junho de 25 17.
-seo-description: Notas de versão da versão de June 5 de junho de 25 17.
+description: Notas de versão de 15 de junho de 2017.
+seo-description: Notas de versão de 15 de junho de 2017.
 seo-title: 15 de junho de 2017
 title: 15 de junho de 2017
 uuid: 19262 de 2-72 b 7-4 df 8-b 041-1 c 4171381158
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 15 de junho de 2017{#june}
 
-Notas de versão da versão de June 5 de junho de 25 17.
+Notas de versão de 15 de junho de 2017.
 
 ## Versão de produção
 

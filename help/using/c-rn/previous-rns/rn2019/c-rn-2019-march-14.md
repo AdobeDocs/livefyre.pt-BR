@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão do Livefyre March 4 de março de 2019.
-seo-description: Notas de versão da versão do Livefyre March 4 de março de 2019.
+description: Notas de versão do Livefyre 14 de março de 2019.
+seo-description: Notas de versão do Livefyre 14 de março de 2019.
 seo-title: Notas de versão
 solution: Experience Manager
-title: Notas de versão do Livefyre para March 4 de março de 24 19
+title: Notas de versão do Livefyre para 14 de março de 2019
 uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
 translation-type: tm+mt
 source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
@@ -11,7 +11,7 @@ source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 ---
 
 
-# Notas de versão - 14 de março de 24 19
+# Notas de versão - 14 de março de 2019
 
 >[!NOTE]
 >

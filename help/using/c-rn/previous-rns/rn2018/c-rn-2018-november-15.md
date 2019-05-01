@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de November 5 de novembro de 25 18.
-seo-description: Notas de versão da versão de November 5 de novembro de 25 18.
+description: Notas de versão de 15 de novembro de 2018.
+seo-description: Notas de versão de 15 de novembro de 2018.
 seo-title: Notas de versão
 solution: Experience Manager
 title: Notas de versão
@@ -13,7 +13,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # Notas de versão{#release-notes}
 
-Notas de versão da versão de November 5 de novembro de 25 18.
+Notas de versão de 15 de novembro de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

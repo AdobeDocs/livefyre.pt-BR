@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de January 2 de janeiro de 22 17.
-seo-description: Notas de versão da versão de January 2 de janeiro de 22 17.
-seo-title: January 2 de janeiro de 22 17
-title: January 2 de janeiro de 22 17
+description: Notas de versão de 12 de janeiro de 2017.
+seo-description: Notas de versão de 12 de janeiro de 2017.
+seo-title: 12 de janeiro de 2017
+title: 12 de janeiro de 2017
 uuid: fb 92 ea 52-7184-4 f 08-814 c -15 e 45 d 684371
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# January 2 de janeiro de 22 17{#january}
+# 12 de janeiro de 2017{#january}
 
-Notas de versão da versão de January 2 de janeiro de 22 17.
+Notas de versão de 12 de janeiro de 2017.
 
 ## Versão de produção {#section_y3h_z42_wy}
 

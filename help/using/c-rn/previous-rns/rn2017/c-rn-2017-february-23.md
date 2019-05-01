@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de February 3 de fevereiro de 23 17.
-seo-description: Notas de versão da versão de February 3 de fevereiro de 23 17.
-seo-title: 23 de fevereiro de 23 17
-title: 23 de fevereiro de 23 17
+description: Notas de versão de February 3 de fevereiro de 2017.
+seo-description: Notas de versão de February 3 de fevereiro de 2017.
+seo-title: 23 de fevereiro de 2017
+title: 23 de fevereiro de 2017
 uuid: 9 b 08 acf 4-15 e 9-43 b 7-8 abc-c 0 d 720 b 156 e 6
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# 23 de fevereiro de 23 17{#february}
+# 23 de fevereiro de 2017{#february}
 
-Notas de versão da versão de February 3 de fevereiro de 23 17.
+Notas de versão de 23 de fevereiro de 2017.
 
 ## Versão de produção
 

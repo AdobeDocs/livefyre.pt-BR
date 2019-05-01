@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de August 3 de agosto de 23 18.
-seo-description: Notas de versão da versão de August 3 de agosto de 23 18.
+description: Notas de versão de 23 de agosto de 2018.
+seo-description: Notas de versão de 23 de agosto de 2018.
 seo-title: 23 de agosto de 2018
 solution: Experience Manager
 title: 23 de agosto de 2018
@@ -11,9 +11,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# 23 de agosto de 23 18{#august}
+# 23 de agosto de 2018{#august}
 
-Notas de versão da versão de August 3 de agosto de 23 18.
+Notas de versão de 23 de agosto de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

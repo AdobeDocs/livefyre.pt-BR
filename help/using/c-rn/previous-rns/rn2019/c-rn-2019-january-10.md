@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão do Livefyre Jan 10, 2019.
-seo-description: Notas de versão da versão do Livefyre Jan 10, 2019.
+description: Notas de versão do Livefyre 10 de janeiro de 2019.
+seo-description: Notas de versão do Livefyre 10 de janeiro de 2019.
 seo-title: Notas de versão
 solution: Experience Manager
 title: Notas de versão
@@ -11,9 +11,9 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 ---
 
 
-# Notas de versão - 10 de janeiro de 20 19 {#rn011019}
+# Notas de versão - 10 de janeiro de 2019 {#rn011019}
 
-**Notas de versão da atualização de January 0 de janeiro de 20 19.**
+**Notas de versão da atualização de 10 de janeiro de 2019.**
 
 ## Correções de erros
 

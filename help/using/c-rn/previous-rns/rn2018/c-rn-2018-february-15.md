@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão de February 5 de fevereiro de 25 18.
-seo-description: Notas de versão da versão de February 5 de fevereiro de 25 18.
-seo-title: 15 de fevereiro de 25 18
+description: Notas de versão de 15 de fevereiro de 2018.
+seo-description: Notas de versão de 15 de fevereiro de 2018.
+seo-title: 15 de fevereiro de 2018
 solution: Experience Manager
-title: 15 de fevereiro de 25 18
+title: 15 de fevereiro de 2018
 uuid: ee 46 f 088-9 fb 7-49 e 2-a 42 c-e 0 d 4 b 2 f 24 a 32
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
@@ -11,9 +11,9 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 ---
 
 
-# 15 de fevereiro de 25 18{#february}
+# 15 de fevereiro de 2018{#february}
 
-Notas de versão da versão de February 5 de fevereiro de 25 18.
+Notas de versão de 15 de fevereiro de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

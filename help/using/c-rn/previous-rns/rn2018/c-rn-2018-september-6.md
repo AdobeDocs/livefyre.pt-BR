@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de September de setembro de 2018.
-seo-description: Notas de versão da versão de September de setembro de 2018.
+description: Notas de versão de 6 de setembro de 2018.
+seo-description: Notas de versão de 6 de setembro de 2018.
 seo-title: 6 de setembro de 2018
 solution: Experience Manager
 title: 6 de setembro de 2018
@@ -13,7 +13,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # 6 de setembro de 2018{#september}
 
-Notas de versão da versão de September de setembro de 2018.
+Notas de versão de 6 de setembro de 2018.
 
 ## Novos recursos {#section_syx_mdt_wcb}
 

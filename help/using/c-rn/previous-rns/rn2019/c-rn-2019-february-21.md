@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão Liv1 de fevereiro de 2019 do Livefyre.
-seo-description: Notas de versão da versão Liv1 de fevereiro de 2019 do Livefyre.
+description: Notas de versão 21 de fevereiro de 2019 do Livefyre.
+seo-description: Notas de versão 21 de fevereiro de 2019 do Livefyre.
 seo-title: Notas de versão
 solution: Experience Manager
 title: Notas de versão
@@ -11,9 +11,9 @@ source-git-commit: 4051e0d55c7fa1cf02d8b01c239d040c0a3baf14
 ---
 
 
-# Notas de versão - 21 de fevereiro de 21 19 {#rn022119}
+# Notas de versão - 21 de fevereiro de 2019 {#rn022119}
 
-**Notas de versão da atualização de February 1 de fevereiro de 21 19.**
+**Notas de versão da atualização de 21 de fevereiro de 2019.**
 
 
 ## Correções de erros

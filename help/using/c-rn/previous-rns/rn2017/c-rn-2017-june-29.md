@@ -1,6 +1,6 @@
 ---
-description: Notas de versão da versão de June 9 de junho de 29 17.
-seo-description: Notas de versão da versão de June 9 de junho de 29 17.
+description: Notas de versão de 29 de junho de 2017.
+seo-description: Notas de versão de 29 de junho de 2017.
 seo-title: 29 de junho de 2017
 title: 29 de junho de 2017
 uuid: f 7 d 901 fc-fe 5 a -463 c -92 ac-b 77 cda 3 bff 1 b
@@ -12,7 +12,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 29 de junho de 2017{#june}
 
-Notas de versão da versão de June 9 de junho de 29 17.
+Notas de versão de 29 de junho de 2017.
 
 ## Versão de produção
 

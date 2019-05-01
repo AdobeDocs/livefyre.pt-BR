@@ -1,8 +1,8 @@
 ---
-description: Notas de versão da versão de April 7 de abril de 27 17.
-seo-description: Notas de versão da versão de April 7 de abril de 27 17.
-seo-title: April 7 de abril de 27 17
-title: April 7 de abril de 27 17
+description: Notas de versão de April 7 de abril de 2017.
+seo-description: Notas de versão de April 7 de abril de 2017.
+seo-title: April 7 de abril de 2017
+title: April 7 de abril de 2017
 uuid: 30284115-92 c 0-4 a 85-acdb-adc 70605 ed 5 f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -10,9 +10,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# April 7 de abril de 27 17{#april}
+# 27 de abril de 2017{#april}
 
-Notas de versão da versão de April 7 de abril de 27 17.
+Notas de versão de 27 de abril de 2017.
 
 ## Versão de produção
 

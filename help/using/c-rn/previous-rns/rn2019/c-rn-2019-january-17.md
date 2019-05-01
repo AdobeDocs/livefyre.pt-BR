@@ -1,9 +1,9 @@
 ---
-description: Notas de versão da versão do Livefyre Jan 17, 2019.
-seo-description: Notas de versão da versão do Livefyre Jan 17, 2019.
+description: Notas de versão do Livefyre 17 de janeiro de 2019.
+seo-description: Notas de versão do Livefyre 17 de janeiro de 2019.
 seo-title: Notas de versão
 solution: Experience Manager
-title: Notas de versão do Livefyre Jan 17 2019
+title: Notas de versão do Livefyre 17 de janeiro de 2019
 uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
@@ -11,9 +11,9 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 ---
 
 
-# Notas de versão - 17 de janeiro de 27 19
+# Notas de versão - 17 de janeiro de 2019
 
-Notas de versão da versão de January 7 de janeiro de 27 19.
+Notas de versão de 17 de janeiro de 2019.
 
 ## Correções de erros
 
