@@ -4,18 +4,18 @@ seo-description: Notas de versão mais recentes do Adobe Livefyre.
 seo-title: Notas de versão mais recentes do Adobe Livefyre
 title: Notas de versão mais recentes do Livefyre
 translation-type: tm+mt
-source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
+source-git-commit: 9500a4ac5d3cdaeb5909c06d406b006108d39fee
 
 ---
 
 
 # Notas de versão atuais {#current-release-notes}
 
-**Notas de versão da atualização de 21 de março de 2019.**
+**Notas de versão da atualização de March 1 de março de 21 19.**
 
 >[!NOTE]
 >
->O Livefyre encerrará o suporte do TLS 1.1 (e versões anteriores) em conformidade com os Padrões de segurança da Adobe em 11 de abril de 2019. Entre em contato com prioritysupport@livefyre.com caso tenha problemas com a integração. Consulte as notas de versão futuras para a data de substituição final http.
+>O Livefyre interromperá o HTTP (porta 80) em nosso ambiente de Produção na quinta-feira, Thursday 3 de maio. Isso concluirá as atualizações de segurança em conformidade com os Padrões de segurança da Adobe. Entre em contato [com prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) caso tenha problemas com a integração.
 
 ## Melhorias
 
