@@ -1,11 +1,12 @@
 ---
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 9bcc55b92463eb9d71076f2349d5756ba94fad13
 translation-type: tm+mt
 
 ---
 # Contribuir com o artigo
 
-Nós recebemos as contribuições de nossa comunidade e de funcionários da Adobe de fora das equipes de documentação.
+Aceitamos contribuições de nossa comunidade e de funcionários da Adobe que estão fora das equipes de documentação.
+
 
 ## Código de conduta aberto da Adobe
 
@@ -19,13 +20,13 @@ A maneira como você contribui depende de quem você é e do tipo de alteraçõe
 
 ### Pequenas alterações
 
-Se você estiver contribuindo pequenas atualizações fora do seu coração, visite o artigo e clique no **link Editar** no artigo que vai para a origem github do artigo. Em seguida, use a interface do usuário github para fazer suas atualizações. Consulte o Guia de Colaborador Geral [do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se você estiver contribuindo com pequenas atualizações de boa vontade, visite o artigo e clique no link **Editar** do artigo, que vai para a origem GitHub do artigo. Em seguida, use a interface do usuário do GitHub para fazer as atualizações. Consulte o Guia de Colaborador Geral [do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
 
 As pequenas correções ou esclarecimentos que você envia para a documentação e os exemplos de código deste repositório são abrangidos pelos termos de uso da Adobe.
 
 ### Grandes alterações ou novos artigos de membros da comunidade
 
-Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema para iniciar uma conversa com a equipe de documentação. Após concordar com um plano, você precisará trabalhar com um funcionário para ajudar a trazer o novo conteúdo por uma combinação de trabalho em repositórios públicos e privados.
+Se você fizer parte da comunidade da Adobe e quiser criar um novo artigo ou enviar grandes alterações, use a guia Problemas no repositório Git para enviar um problema e iniciar uma conversa com a equipe de documentação. Após concordar com um plano, você precisará trabalhar com um funcionário para ajudar a trazer o novo conteúdo por uma combinação de trabalho em repositórios públicos e privados.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
