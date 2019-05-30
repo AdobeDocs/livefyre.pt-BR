@@ -5,7 +5,7 @@ seo-title: Suporte para dispositivo e navegador
 title: Suporte para dispositivo e navegador
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
 translation-type: tm+mt
-source-git-commit: 28a7b0c1d5d71635941ecbd7693ad0427dac9893
+source-git-commit: 97ec4a7dcafdce7551a86f443d50be918daea3ce
 
 ---
 
@@ -22,14 +22,14 @@ O Livefyre é compatível com os seguintes dispositivos, sistemas operacionais e
 | Chrome | ✓ | ✓ | ✓ | ✓ |
 | Edge | ✓ | ✓ | ✓ | ✓ |
 | IE 11 | Limitado | Limitado | Limitado | Limitado |
-| Firefox 14 + | ✓ | ✓ | ✓ | ✓ |
-| Safari 7. x | ✓ | ✓ | ✓ | ✓ |
+| Firefox | ✓ | ✓ | ✓ | ✓ |
+| Safari | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
 | **Dispositivos** |  |  |  |  |
 | Android Browser 2.3 + | Limitado | Limitado | N/D | Limitado |
 | Google Chrome no Android 4.1 + | Limitado | Limitado | N/D | Limitado |
-| Versões anteriores do iOS (iphone 4 S +/ipad 2 +) | Limitado | Limitado | N/D | Limitado |
-| Versão atual do iOS (iphone 4 S +/ipad 2 +) | ✓ | ✓ | N/D | ✓ |
+| Versões anteriores do iOS | Limitado | Limitado | N/D | Limitado |
+| Versão atual do iOS | Limitado | Limitado | N/D | Limitado |
 
 >[!NOTE]
 >
