@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Aplicação de SSL
 uuid: e 64 af 8 c 2-3 ab 6-4034-b 385-0 e 552 d 828 c 6 e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -19,7 +19,7 @@ Para garantir que seus dados permaneçam protegidos, estamos obsoletos em HTTP, 
 
 Isso pode afetar os clientes do Livefyre que têm:
 
-* Chamadas de servidor a servidor de seu CRM, CMS, Wordpress ou outro cliente.
+* Chamadas de servidor a servidor de seu CRM, CMS, wordpress ou outro cliente.
 * Integrações móveis (aplicativos Android e iOS)
 * Aplicativos personalizados ou código personalizado
 
@@ -27,7 +27,7 @@ Isso pode afetar os clientes do Livefyre que têm:
 
 1. Todos os clientes do Livefyre devem se comunicar com todas as apis por HTTPS para todo o tráfego, incluindo:
 
-   * Servidor para Integrações do servidor (CRM, CMS, Wordpress etc.)
+   * Servidor para Integrações do servidor (CRM, CMS, wordpress etc.)
    * Integrações móveis (aplicativos Android e iOS)
    * Aplicativos personalizados (SDK simplificado ou codificada diretamente).
 
