@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Anúncios
 uuid: c 05963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: df47087c69f2bdc8d97226d2013db80703f2e091
+source-git-commit: 0a9327777b309fd2153487061b6258938357c62d
 
 ---
 
@@ -17,7 +17,7 @@ Anúncios para Livefyre e Livefyre Studio. Atual a partir de 5 de junho de 2019.
 
 ## 5 de junho de 2019
 
-Embora o Facebook geralmente forneça um aviso avançado das alterações sempre que possível, eles tomaram uma decisão rápida ontem para desativar o acesso ao conteúdo do Facebook e do Instagram no Livefyre. Devido a essa alteração, você não poderá transmitir, pesquisar ou compartilhar conteúdo do Facebook ou Instagram. Pedimos desculpas por não conseguir fornecer um aviso sobre essa alteração.
+Embora o Facebook geralmente forneça um aviso avançado das alterações sempre que possível, eles tomaram uma decisão rápida ontem para desativar o acesso ao conteúdo do Facebook e do Instagram no Livefyre. Devido a essa alteração, você não poderá transmitir, pesquisar ou compartilhar conteúdo do Facebook ou Instagram. Pedimos desculpas por não ser capaz de fornecer um aviso sobre essa alteração.
 
 Lembre-se de que ainda há maneiras de acessar o conteúdo do Facebook e do Instagram neste momento:
 
