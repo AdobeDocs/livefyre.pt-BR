@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Anúncios
 uuid: c 05963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
+source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
 
 ---
 
@@ -14,6 +14,18 @@ source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
 # Anúncios{#announcements}
 
 Anúncios para Livefyre e Livefyre Studio. Atual a partir de 5 de junho de 2019.
+
+## 7 de junho de 2019
+
+Estamos felizes em informar que os fluxos e a pesquisa do Instagram foram restaurados no Livefyre. Você pode retomar usando o conteúdo do Social Search for Instagram e retomar o streaming do conteúdo do Instagram em pastas e aplicativos. Para iniciar o streaming de conteúdo novamente, você precisará realizar as seguintes etapas:
+* Logon no Livefyre
+* Configurações de visita para autorizar e atualizar os tokens de acesso vinculados à sua Conta do Instagram Business
+* Aguarde até duas horas para que o conteúdo inicie o streaming de novo
+* Entrar em contato com o suporte Caso encontre problemas
+
+Os fluxos do Facebook ainda não foram restaurados, mas estamos trabalhando ativamente com o Facebook para reinstalar esse recurso e atualizaremos você assim que souber mais.
+
+Agradecemos sua paciência contínua com esta interrupção inesperada no serviço.
 
 ## 5 de junho de 2019
 
