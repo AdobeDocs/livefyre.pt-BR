@@ -4,24 +4,25 @@ seo-description: Notas de versão mais recentes do Adobe Livefyre.
 seo-title: Notas de versão mais recentes do Adobe Livefyre
 title: Notas de versão mais recentes do Livefyre
 translation-type: tm+mt
-source-git-commit: 9500a4ac5d3cdaeb5909c06d406b006108d39fee
+source-git-commit: 0efc365d4496bd44142ad1513f51163f24676084
 
 ---
 
 
-# Notas de versão atuais {#current-release-notes}
+# Current Release Notes {#current-release-notes}
 
-**Notas de versão da atualização de March 1 de março de 21 19.**
+**Notas de versão da atualização de July 1 de julho de 21 19.**
 
->[!NOTE]
->
->O Livefyre interromperá o HTTP (porta 80) em nosso ambiente de Produção na quinta-feira, Thursday 3 de maio. Isso concluirá as atualizações de segurança em conformidade com os Padrões de segurança da Adobe. Entre em contato [com prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) caso tenha problemas com a integração.
+## Aprimoramentos
 
-## Melhorias
-
-* Implementação do botão Ativação da Ação por padrão.
-
+* Modelo automático atualizado da v 7 para v 7.1.
 
 ## Correções de erros
 
-* Correção de um problema em que postagens do Instagram &quot;Undefined&quot; não podiam ser removidas.
+* Corrigido um problema no qual o usuário encontra um erro &quot;401 Unauthorized&quot; ao pesquisar por conteúdo do Instagram além do limite de pesquisa de h0 hashtag por 7 dias.
+* Correção de um problema em que &quot;Carregar mais&quot; nos caminhos de mídia com conteúdo filtrado por produto colocava conteúdo no topo em vez de abaixo do conteúdo existente conforme esperado.
+* Correção de um problema em que postagens do Instagram estavam sendo removidas devido a links de CDN expirados.
+* Correção de um problema em que o Aplicativo de Pesquisas exibia as opções de pesquisa e as opções de resposta usando formatação incorreta.
+* Remoção da documentação para importação de conteúdo do Facebook, que não é mais compatível.
+* Correção de um problema em que os usuários não conseguiam aprovar conteúdo premod de streams do Twitter.
+* Correção de um problema em que os vídeos carregados por meio de Upload de mídia de upload eram convertidos de. mp 4 para. undefined.
