@@ -3,7 +3,7 @@ product: livefyre
 audience: usuário final
 user-guide-title: Guia de implementação do Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
+source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
 
 ---
 
@@ -99,7 +99,6 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
    + [Bate-papo](c-app-integrations/c-app-integratios-chat.md)
    + Comentários {#comments}
       + [Comentários](c-app-integrations/c-comments-integration/c-comments-integration.md)
-      + [Anúncios em comentários](c-app-integrations/c-comments-integration/c-ads-in-comments-integration.md)
    + [Blog ao vivo](c-app-integrations/c-live-blog-integration.md)
    + [Revisões](c-app-integrations/c-reviews-integration.md)
    + Auxiliares {#sidenotes}
