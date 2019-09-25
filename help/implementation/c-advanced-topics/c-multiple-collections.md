@@ -4,7 +4,7 @@ seo-description: Mostre várias coleções em uma única página.
 seo-title: Várias coleções
 solution: Experience Manager
 title: Várias coleções
-uuid: 9675 ffd 7-1 a 59-42 a 1-b 3 ba -40 af 1744 cfd 1
+uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
@@ -15,9 +15,9 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 Mostre várias coleções em uma única página.
 
-Você pode incluir várias Coleções em uma única página do site. Por exemplo, para publicar um evento, você pode ter uma discussão do Live Blog ou Bate-papo durante o evento, com um Aplicativo separado na lateral da página, exibindo Conteúdo preparado relacionado em torno da Web social. Ou você pode incluir um Aplicativo de comentários abaixo de um artigo, com um bate-papo para a lateral.
+Você pode incluir várias coleções em uma única página do site. Por exemplo, para publicar um evento, é possível que você tenha uma discussão de Blog ao vivo ou Bate-papo durante o evento, com um aplicativo separado na lateral da página, exibindo o Conteúdo curado relacionado na Web social. Ou você pode incluir um aplicativo de comentários abaixo de um artigo, com um bate-papo ao lado.
 
-Para obter várias conversas em uma página, adicione uma ou mais configurações em uma matriz e passe a matriz para a chamada de carregamento. Por exemplo.
+Para obter várias conversas em uma página, adicione uma ou mais configurações em um storage e passe o storage para a chamada de carregamento. Por exemplo.
 
 ```
 <html> 
