@@ -1,10 +1,10 @@
 ---
-description: Incorporar comentários em tempo real em seu aplicativo.
-seo-description: Incorporar comentários em tempo real em seu aplicativo.
+description: Incorpore comentários em tempo real ao seu aplicativo.
+seo-description: Incorpore comentários em tempo real ao seu aplicativo.
 seo-title: Comentários
 solution: Experience Manager
 title: Comentários
-uuid: f 409 d 04 a -2 ecc -42 fd -9 d 45-c 723 aafad 116
+uuid: f409d04a-2ecc-42fd-9d45-c723aafad116
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Comentários{#comments}
 
-Incorporar comentários em tempo real em seu aplicativo.
+Incorpore comentários em tempo real ao seu aplicativo.
 
-Comentários substituem seus comentários padrão por conversas em tempo real. Nossos recursos de integração social facilitam a captura de todas as conversas em relação às publicações no Twitter e Facebook, e puxam os amigos do usuário para a conversa.
+Os comentários substituem seus comentários padrão por conversas em tempo real. Nossos recursos de integração social facilitam a captura de todas as conversas que ocorrem sobre suas postagens no Twitter e Facebook, além de atrair os amigos do usuário para a conversa.
 
-Mashable usa Comentários para aumentar a participação do usuário em suas discussões. Recursos incluindo upload de mídia avançada, compartilhamento em redes sociais, contagem de ouvinte e ajuda de logon único para facilitar o acesso à conversa.
+O Mashable usa Comentários para aumentar a participação do usuário em suas discussões. Recursos como upload de mídia avançada, compartilhamento em redes sociais, contagem de ouvintes e logon único ajudam a contribuir para a conversa de forma fácil e divertida.
 
 ![](assets/CommentsMashable.png)
 
