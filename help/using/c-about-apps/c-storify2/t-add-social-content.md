@@ -4,7 +4,7 @@ seo-description: O Storify 2 oferece várias fontes de conteúdo para adicionar 
 seo-title: Adicionar conteúdo social
 solution: Experience Manager
 title: Adicionar conteúdo social
-uuid: 0 bd 6579 e-ac 55-4201-a 403-4 fcb 19 e 8684 b
+uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,19 +15,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo social.
 
-A guia Pesquisar permite pesquisar redes de mídia social, oferecer pesquisas na Web e pesquisas de imagens.
+A guia Pesquisar permite que você pesquise redes sociais, ofereça Web geral e pesquisas de imagem.
 
 >[!NOTE]
 >
->O conteúdo usado de provedores listados deve aderir às suas diretrizes.
+>O conteúdo usado de provedores listados deve seguir suas diretrizes.
 
 >[!NOTE]
 >
->A API de pesquisa do Twitter retornará apenas o conteúdo de 7 dias mais recentes.
+>A API de pesquisa do Twitter retornará somente o conteúdo mais recente de 7 dias.
 
 Para adicionar conteúdo à sua história:
 
-1. Na **[!UICONTROL Search]** guia, clique em um ícone para selecionar sua fonte.
-1. O Storify exibirá as opções de pesquisa específicas para a fonte.
-1. Insira seus parâmetros de pesquisa e clique no ícone de pesquisa (lupa) ou em retornar para pesquisar.
-1. Depois de encontrar os elementos que você deseja incluir, arraste-os da lista para qualquer seção da sua história.
+1. Na **[!UICONTROL Search]** guia, clique em um ícone para selecionar sua origem.
+1. O Storify exibirá opções de pesquisa específicas da origem.
+1. Insira seus parâmetros de pesquisa e clique no ícone de pesquisa (lupa) ou clique em retornar para pesquisar.
+1. Depois de encontrar os elementos que deseja incluir, basta arrastá-los da lista para qualquer seção da história.
