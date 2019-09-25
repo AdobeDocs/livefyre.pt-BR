@@ -1,20 +1,20 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Criar aplicativos sociais
+seo-title: Criar seus aplicativos sociais
 solution: Experience Manager
-title: Criar aplicativos sociais
-uuid: b 3698 e 44-19 ba -489 f-a 4 d 2-072 ba 5430974
+title: Criar seus aplicativos sociais
+uuid: b3698e44-19ba-489f-a4d2-072ba5430974
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Criar aplicativos sociais{#create-your-social-apps}
+# Criar seus aplicativos sociais{#create-your-social-apps}
 
 Para permitir que os usuários façam logon usando suas credenciais para esses provedores sociais:
 
 1. Crie aplicativos para uso com o Livefyre.
-1. Faça logon no site do desenvolvedor para os provedores selecionados.
+1. Faça logon no site do desenvolvedor para seus provedores selecionados.
 1. Crie os aplicativos necessários para permitir que os usuários façam logon usando suas credenciais sociais.
