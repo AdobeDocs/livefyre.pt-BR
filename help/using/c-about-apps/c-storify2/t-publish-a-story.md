@@ -4,7 +4,7 @@ seo-description: Publique um Storify 2 em seu site.
 seo-title: Publicar uma história
 solution: Experience Manager
 title: Publicar uma história
-uuid: 2 fbf 0 ab 3-ae 59-4 dac -8 a 4 d-e 076 bb 5 e 477 a
+uuid: 2fbf0ab3-ae59-4dell-8a4d-e076bb5e477a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,11 +15,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Publique um Storify 2 em seu site.
 
-O Studio salvará automaticamente seu aplicativo depois que qualquer alteração é feita nas opções de configuração.
+O Studio salvará automaticamente seu aplicativo depois que qualquer alteração for feita em suas opções de configuração.
 
 >[!NOTE]
 >
->Clicar **[!UICONTROL Publish]** em gera um código incorporado para o aplicativo e atualiza todas as instâncias existentes do Aplicativo, se já publicadas.
+>Clicar **[!UICONTROL Publish]** gera um código incorporado para o aplicativo e atualiza todas as instâncias existentes do aplicativo, se publicadas anteriormente.
 
-1. Clique **[!UICONTROL Publish]** em para gerar um código incorporado ou atualizar versões publicadas anteriormente deste aplicativo com a versão atual.
-1. Adicione o código incorporado à página para adicionar o aplicativo e exibir qualquer conteúdo publicado anteriormente.
+1. Clique em **[!UICONTROL Publish]** para gerar um código incorporado ou para atualizar quaisquer versões publicadas anteriormente deste aplicativo com a versão atual.
+1. Adicione o código incorporado à sua página para adicionar o aplicativo e exibir qualquer conteúdo publicado anteriormente.
