@@ -1,23 +1,23 @@
 ---
-description: Altere as opções de tamanho, largura e interação do aplicativo de Sidenotes.
-seo-description: Altere as opções de tamanho, largura e interação do aplicativo de Sidenotes.
-seo-title: Personalizações de sidecotes
+description: Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
+seo-description: Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
+seo-title: Personalizações de Sidenotes
 solution: Experience Manager
-title: Personalizações de sidecotes
-uuid: fb 50285 a -3 b 2 d -497 d-bfda -7 e 89 c 485 b 65 c
+title: Personalizações de Sidenotes
+uuid: fb50285a-3b2d-497d-bfda-7e89c485b65c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Personalizações de sidecotes{#sidenotes-customizations}
+# Personalizações de Sidenotes{#sidenotes-customizations}
 
-Altere as opções de tamanho, largura e interação do aplicativo de Sidenotes.
+Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
 
-Você pode personalizar as Sidenotes usando:
+Você pode personalizar Sidenotes usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre o padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** as opções para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
 
-* Ferramentas de integração. Consulte Pesquisas para saber mais sobre como personalizar Aplicativos usando Ferramentas de integração.
+* Ferramentas de integração. Consulte Pesquisas para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
 
