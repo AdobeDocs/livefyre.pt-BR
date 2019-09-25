@@ -4,7 +4,7 @@ seo-description: 'null'
 seo-title: Eventos do Livefyre Analytics
 solution: Experience Manager
 title: Eventos do Livefyre Analytics
-uuid: 4 eb 5 a 196-ca 33-40 f 8-a 96 d-ed 46469223 de
+uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Eventos do Livefyre Analytics {#livefyre-analytics-events}
 
-## Definição do objeto de evento {#section_dh1_yhn_pdb}
+## Definição de objeto de evento {#section_dh1_yhn_pdb}
 
-O código a seguir define os campos no objeto de evento que são recebidos pelo manipulador de análises em uma página.
+O código a seguir define os campos no objeto de evento que são recebidos pelo manipulador do Analytics em uma página.
 
 ```
 {
@@ -42,62 +42,62 @@ O código a seguir define os campos no objeto de evento que são recebidos pelo 
 }
 ```
 
-## Eventos e evars do Livefyre Analytics {#section_u3k_tft_mcb}
+## Eventos e eVars do Livefyre Analytics {#section_u3k_tft_mcb}
 
-Os seguintes eventos do Livefyre são mapeados para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Conjuntos de relatórios no Adobe Analytics, consulte [Gerenciador](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)de conjunto de relatórios. Para saber mais sobre como usar eventos do Livefyre com o Gerenciador de report suite, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+Os seguintes eventos do Livefyre para mapear para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Report Suites no Adobe Analytics, consulte Gerenciador [](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)de report suite. Para obter mais informações sobre como usar eventos do Livefyre com o Gerenciador de conjunto de relatórios, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
 
 ## Eventos do Livefyre Analytics
 
 | Evento | Descrição |
 |---|---|
-| Init | Quando uma página que inclui pelo menos um aplicativo Livefyre é carregada |
-| Carregar | Sempre que um aplicativo foi carregado em uma página independentemente da exibição do usuário |
+| Inicializar | Quando uma página que inclui pelo menos um aplicativo Livefyre é carregada |
+| Load | Sempre que um aplicativo for carregado em uma página, independentemente da exibição do usuário |
 | Exibir | Quando um aplicativo entrou no visor pela primeira vez. |
-| Postagem | Sempre que um usuário posta um comentário ou um pedaço de conteúdo, incluindo ex: postagem de nível superior, respostas, revisões, uploads de mural de mídia |
-| Postado | Quando uma publicação é bem-sucedida. |
-| Twitter_ Response | Sempre que um usuário respondeu no Twitter |
-| Twitter_ Like | Onde o conteúdo foi compartilhado para: Retweet |
-| Livefyre_ Like | Sempre que o recurso de livefyre como o recurso é usado em um aplicativo |
-| Livefyre_ Unlike | Quando um usuário desgosta de um livefyre, |
-| Shareonpost | Sempre que um usuário posta o conteúdo e usa o compartilhamento no recurso de publicação |
-| Sharebuttonclick | Sempre que um usuário clica no botão Compartilhar em um comentário |
-| Sharetwitter | Quando Compartilhar no Twitter é clicado |
-| Sharefacebook | Quando Compartilhar no Facebook é clicado |
-| Shareurl | Quando a área de texto Compartilhar com URL é selecionada/copiada. |
-| Expandreplies | Quando um usuário clica no link + ou Expandir para exibir todas as respostas em uma postagem de nível superior |
-| Collapsereplies | Quando um usuário clica no link - ou Contrair para exibir todas as respostas em uma postagem de nível superior |
-| Flagclick | Sempre que um usuário abrir o Sinalizador modal |
-| Flagspam | Quando um usuário sinaliza o conteúdo como spam |
-| Flagdiscordisagree | Quando um usuário sinaliza o conteúdo como discordar |
-| Flagofensiva | Quando um usuário sinaliza o conteúdo como ofensivo |
-| Flagofftopic | Quando um usuário sinaliza o conteúdo como fora do tópico |
-| Flagcancel | Quando um usuário clica em X ou &quot;cancelar&quot; ao enviar um sinalizador |
-| Followcollection | Sempre que uma conversa for seguida (&quot;Estou interessado&quot; em Revisões) |
-| Unfollowcollection | Quando uma conversa não é seguida |
-| Requestmore | Sempre que um usuário carregou mais conteúdo em um aplicativo (precisa ser para velocidade alta também) |
-| Modalview | Sempre que um usuário clica em para exibir o conteúdo em um modal |
-| Twitterretweetclick | Onde o conteúdo foi compartilhado para: Retweet |
-| Postbuttonclick | Quando um usuário clica na publicação (&quot;Whats em sua mente?&quot;&quot;) botão |
-| Logon | Sempre que um usuário conectou-se |
+| Publicar | Sempre que um usuário postar um comentário ou um conteúdo, incluindo ex: publicação de nível superior, respostas, revisões, uploads de mural de mídia |
+| Postado | Quando uma postagem foi bem-sucedida. |
+| Twitter_Reply | Sempre que um usuário responde no Twitter |
+| Twitter_Like | Onde o conteúdo foi compartilhado: Retweet |
+| Livefyre_Like | Sempre que o recurso como livefyre for usado em um aplicativo |
+| Livefyre_Unlike | Sempre que um usuário descurtir uma vida como uma |
+| ShareOnPost | Sempre que um usuário postar conteúdo e usar o recurso Compartilhar no post |
+| ShareButtonClick | Sempre que um usuário clicar no botão Compartilhar em um comentário |
+| ShareTwitter | Ao clicar em Compartilhar no Twitter |
+| ShareFacebook | Ao clicar em Compartilhar no Facebook |
+| ShareURL | Quando a área de texto Compartilhar para URL é selecionada/copiada. |
+| ExpandirRespostas | Quando um usuário clica no link + ou Expandir para exibir todas as respostas em uma publicação de nível superior |
+| RecolherRespostas | Quando um usuário clica no link - ou Recolher para exibir todas as respostas em uma publicação de nível superior |
+| FlagClick | Sempre que um usuário abrir o modo Sinalizar |
+| SinalizarSpam | Quando um usuário sinaliza o conteúdo como spam |
+| SinalizarDiscordar | Quando um usuário sinaliza o conteúdo como discordante |
+| FlagOffensive | Quando um usuário sinaliza o conteúdo como ofensivo |
+| FlagOffTopic | Quando um usuário sinaliza o conteúdo como tópico fora |
+| SinalizarCancelar | Sempre que um usuário clicar em X ou "cancelar" ao enviar um sinalizador |
+| followCollection | Sempre que uma conversa for seguida ("Estou interessado" em Revisões) |
+| UnfollowCollection | Quando uma conversa não é seguida |
+| RequestMore | Sempre que um usuário carregava mais conteúdo em um aplicativo (também precisa estar em alta velocidade) |
+| ModalView | Sempre que um usuário clicar para exibir o conteúdo em um modal |
+| TwitterRetweetClick | Onde o conteúdo foi compartilhado: Retweet |
+| PostButtonClick | Quando um usuário clica na publicação ("O que você acha?") botão |
+| Logon | Sempre que um usuário fizer logon |
 | Logout | Sempre que um usuário desconectou |
 
-A seguir está uma lista de variáveis de conversão (evars) fornecidas pelo Livefyre.
+A seguir está uma lista de variáveis de conversão (eVars) fornecida pelo Livefyre.
 
-## Variáveis de conversão - evars
+## Variáveis de conversão - eVars
 
 | Evento | Descrição |
 |--- |--- |
-| ID da rede | ID de rede/nome no Livefyre |
-| ID do aplicativo | O URN do aplicativo |
+| ID de rede | ID/nome de rede no Livefyre |
+| ID do aplicativo | A URN do aplicativo |
 | ID de contexto | ID de conteúdo no Livefyre |
-| Tipo de aplicativo | Tipo de aplicativo Livefyre. Opções: <br><ul><li>Blog ao vivo  </li><li> Cartão de recursos</li><li>Carrossel</li><li>Bate-papo </li><li>Comentários</li><li>Película fotográfica</li><li>Mapa</li><li>Mosaico</li><li>Media Wall</li><li>Tendência</li><li>Botão Upload</li></ul> |
-| Tipo de conteúdo | Instagram, Twitter, Facebook, livefyre, youtube etc. |
+| Tipo de aplicativo | Tipo de aplicativo Livefyre. Opções: <br><ul><li>Blog ao vivo  </li><li> Placa de recurso</li><li>Carrossel</li><li>Bate-papo </li><li>Comentários</li><li>Película fotográfica</li><li>Mapa</li><li>Mosaico</li><li>Mídia</li><li>Tendência</li><li>Botão Upload</li></ul> |
+| Tipo de conteúdo | Instagram, Twitter, Facebook, LiveFyre, YouTube etc |
 
 ## Mais informações {#section_b3d_4yl_pdb}
 
 Para obter mais informações sobre os tópicos discutidos nesta página, consulte:
 
-* [Report Suite managerdtm](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)[](https://marketing.adobe.com/resources/help/en_US/livefyre/c_filmstrip_app.html)
+* [Report Suite](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)[ManagerDTM](https://marketing.adobe.com/resources/help/en_US/livefyre/c_filmstrip_app.html)
 
 * [Regras](https://marketing.adobe.com/resources/help/en_US/dtm/rules.html)
-* [Livefyre. js](/help/implementation/c-livefyre.js.md)
+* [Livefyre.js](/help/implementation/c-livefyre.js.md)
