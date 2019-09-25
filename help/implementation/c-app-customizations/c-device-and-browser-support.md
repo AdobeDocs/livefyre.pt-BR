@@ -1,22 +1,22 @@
 ---
-description: Uma lista de navegadores e dispositivos compatíveis com o conjunto de aplicativos Livefyre.
-seo-description: Uma lista de navegadores e dispositivos compatíveis com o conjunto de aplicativos Livefyre.
-seo-title: Suporte para dispositivo e navegador
-title: Suporte para dispositivo e navegador
-uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
+description: Uma lista de navegadores e dispositivos compatíveis com o Livefyre App suite.
+seo-description: Uma lista de navegadores e dispositivos compatíveis com o Livefyre App suite.
+seo-title: Suporte a dispositivos e navegadores
+title: Suporte a dispositivos e navegadores
+uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
-source-git-commit: 97ec4a7dcafdce7551a86f443d50be918daea3ce
+source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
 
 ---
 
 
-# Suporte para dispositivo e navegador{#device-and-browser-support}
+# Suporte a dispositivos e navegadores{#device-and-browser-support}
 
-Uma lista de navegadores e dispositivos compatíveis com o conjunto de aplicativos Livefyre.
+Uma lista de navegadores e dispositivos compatíveis com o Livefyre App suite.
 
-O Livefyre é compatível com os seguintes dispositivos, sistemas operacionais e navegadores.
+O Livefyre suporta os seguintes dispositivos, sistemas operacionais e navegadores.
 
-|  | Principais aplicativos | Storify 2 | Studio | Modq |
+|  | Principais aplicativos | Storify 2 | Studio | ModQ |
 |---|---|---|---|---|
 | **Navegadores de desktop** |  |  |  |  |
 | Chrome | ✓ | ✓ | ✓ | ✓ |
@@ -26,16 +26,16 @@ O Livefyre é compatível com os seguintes dispositivos, sistemas operacionais e
 | Safari | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
 | **Dispositivos** |  |  |  |  |
-| Android Browser 2.3 + | Limitado | Limitado | N/D | Limitado |
-| Google Chrome no Android 4.1 + | Limitado | Limitado | N/D | Limitado |
-| Versões anteriores do iOS | Limitado | Limitado | N/D | Limitado |
-| Versão atual do iOS | Limitado | Limitado | N/D | Limitado |
+| Android Browser 2.3+ | Limitado | Limitado | N/A | Limitado |
+| Google Chrome no Android 4.1+ | Limitado | Limitado | N/A | Limitado |
+| Versões anteriores do iOS | Limitado | Limitado | N/A | Limitado |
+| Versão atual do iOS | Limitado | Limitado | N/A | Limitado |
 
 >[!NOTE]
 >
->Embora o Livefyre se esforçará para manter a funcionalidade existente, os novos produtos e recursos podem não ser totalmente compatíveis nos navegadores listados aqui com suporte limitado.
+>Embora o Livefyre se esforce para manter a funcionalidade existente, os novos produtos e recursos podem não ser totalmente suportados nos navegadores listados aqui com suporte limitado.
 
 >[!NOTE]
 >
->Devido ao fim do suporte da Microsoft, o Livefyre não é compatível com versões do Internet Explorer anteriores à Internet Explorer 11.
+>Devido ao fim do suporte da Microsoft, o Livefyre não é suportado nas versões do Internet Explorer anteriores ao Internet Explorer 11.
 
