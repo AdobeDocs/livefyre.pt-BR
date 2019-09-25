@@ -1,21 +1,21 @@
 ---
 description: Implementar observações usando a implementação .js.
 seo-description: Implementar observações usando a implementação .js.
-seo-title: Implementação de sidecotes
+seo-title: Implementação de Sidenotes
 solution: Experience Manager
-title: Implementação de sidecotes
-uuid: aa 13852 e-e 2 b 0-4 a 86-97 cd-d 08 ab 5 e 2 cfab
+title: Implementação de Sidenotes
+uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Implementação de sidecotes{#sidenotes-implementation}
+# Implementação de Sidenotes{#sidenotes-implementation}
 
 ## Implementar observações usando a implementação .js
 
-Para implementar esse recurso, passe um mapeamento de objeto 1-1 das sequências de caracteres que deseja substituir para o objeto de configuração Javascript. Se você não fornecer um campo, o texto padrão será usado.
+Para implementar esse recurso, passe um mapeamento de objeto 1-1 das strings que você deseja substituir para o objeto de configuração Javascript. Se você não fornecer um campo, o texto padrão será usado.
 
 ### Exemplo
 
