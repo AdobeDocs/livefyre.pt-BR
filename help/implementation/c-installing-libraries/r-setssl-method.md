@@ -1,37 +1,37 @@
 ---
-description: Define o SSL para ligar ou desligar chamadas de API.
-seo-description: Define o SSL para ligar ou desligar chamadas de API.
-seo-title: Método de rede setssl
+description: Define o SSL para chamadas de API como ativado ou desativado.
+seo-description: Define o SSL para chamadas de API como ativado ou desativado.
+seo-title: método de rede setSSL
 solution: Experience Manager
-title: Método de rede setssl
-uuid: 8 d 989 e 63-c 859-456 a -99 ca -8 d 87933913 ba
+title: método de rede setSSL
+uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de rede setssl{#setssl-network-method}
+# método de rede setSSL{#setssl-network-method}
 
-Define o SSL para ligar ou desligar chamadas de API.
+Define o SSL para chamadas de API como ativado ou desativado.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| ssl | Booliano | O padrão é verdadeiro. se desejar SSL, senão falso. <br><ul><li>Verdadeiro - SSL em </li><li>False - SSL off</li></ul> |
+| ssl | Booleano | O padrão é verdadeiro. se você quiser SSL ativado, caso contrário, falso. <br><ul><li>True - SSL ativado </li><li>Falso - SSL desativado</li></ul> |
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 network.setSsl(ssl); 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 network.ssl = false; 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $network->setSsl(false); 
@@ -43,7 +43,7 @@ $network->setSsl(false);
 network.ssl = False 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 network.ssl = false 
