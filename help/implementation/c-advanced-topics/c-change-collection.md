@@ -1,10 +1,10 @@
 ---
-description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
-seo-description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
+description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
+seo-description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 seo-title: Alterar coleção
 solution: Experience Manager
 title: Alterar coleção
-uuid: 81 c 8 a 554-375 f -4659-9 e 25-5 b 3618824633
+uuid: 81c8a554-375f-4659-9e25-5b3618824633
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
@@ -13,13 +13,13 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 # Alterar coleção {#change-collection}
 
-Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
+Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 
-Use a opção Alterar delegação de coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já está carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos em que a coleção exibida deve mudar após uma ação do usuário.
+Use o delegado Alterar coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já estiver carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos nos quais a coleção exibida deve mudar após uma ação do usuário.
 
-Por exemplo, clicar em um vídeo ou uma foto em uma galeria carregará uma coleção específica para essa seleção, enquanto a URL da página não mudará.
+Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma coleção específica para essa seleção, enquanto o URL da página não será alterado.
 
-[Para carregar uma de três coleções de uma única página](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
+Para [carregar uma das três coleções de uma única página](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
 
 ```
 <html> 
