@@ -1,10 +1,10 @@
 ---
-description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
-seo-description: Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
+description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
+seo-description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 seo-title: Alterar coleção
 solution: Experience Manager
 title: Alterar coleção
-uuid: 69 bafcc 7-c 55 e -47 d 6-bc 79-b 0 db 80 fdf 138
+uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Alterar coleção{#change-collection}
 
-Permita que os usuários cliquem em Coleções a partir de um único layout de página e URL.
+Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 
-Use a opção Alterar delegação de coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já está carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos em que a coleção exibida deve mudar após uma ação do usuário.
+Use o delegado Alterar coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já estiver carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos nos quais a coleção exibida deve mudar após uma ação do usuário.
 
-Por exemplo, clicar em um vídeo ou uma foto em uma galeria carregará uma coleção específica para essa seleção, enquanto a URL da página não mudará.
+Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma coleção específica para essa seleção, enquanto o URL da página não será alterado.
 
-Para carregar uma de três coleções de uma única [página de contagem](/help/implementation/c-advanced-topics/t-display-comment-count.md) de comentário:
+Para carregar uma das três coleções de uma única página de contagem [de](/help/implementation/c-advanced-topics/t-display-comment-count.md) comentários:
 
 ```
 <html> 
