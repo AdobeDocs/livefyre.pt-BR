@@ -1,21 +1,21 @@
 ---
-description: Reposicione o logotipo do Livefyre na sua página.
-seo-description: Reposicione o logotipo do Livefyre na sua página.
-seo-title: Mover o logotipo do Livefyre
+description: Reposicione o logotipo do Livefyre em sua página.
+seo-description: Reposicione o logotipo do Livefyre em sua página.
+seo-title: Mova o logotipo Livefyre
 solution: Experience Manager
-title: Mover o logotipo do Livefyre
-uuid: 807304 ae -6070-4505-87 db -169 a 925 f 714 c
+title: Mova o logotipo Livefyre
+uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Mover o logotipo do Livefyre{#move-the-livefyre-logo}
+# Mova o logotipo Livefyre{#move-the-livefyre-logo}
 
-Reposicione o logotipo do Livefyre na sua página.
+Reposicione o logotipo do Livefyre em sua página.
 
-Se o seu contrato com o Livefyre permitir, você pode mover o logotipo do Livefyre da parte superior do fluxo de conteúdo para a inferior.
+Se o seu acordo com o Livefyre permitir, você poderá mover o logotipo do Livefyre da parte superior do fluxo de conteúdo para a parte inferior.
 
 Por exemplo, adicione o seguinte HTML à sua página imediatamente após o elemento que contém o aplicativo Livefyre:
 
@@ -23,7 +23,7 @@ Por exemplo, adicione o seguinte HTML à sua página imediatamente após o eleme
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>
 ```
 
-Em seguida, adicione o seguinte à folha de estilo de sua página:
+Em seguida, adicione o seguinte à folha de estilos da sua página:
 
 ```
 /* Hide the top logo */ 
