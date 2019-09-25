@@ -4,7 +4,7 @@ seo-description: Altere o ícone que é exibido a usuários do Livefyre no menu 
 seo-title: Alterar ícone de menção
 solution: Experience Manager
 title: Alterar ícone de @mention
-uuid: a 395 f 4 ff-a 774-454 a -8 d 94-4 a 3371 d 8 cc 2 c
+uuid: a395f4ff-a774-454a-8d94-4a3371d8cc2c
 translation-type: tm+mt
 source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
@@ -13,13 +13,13 @@ source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
 # Alterar `@mention` ícone {#change-mention-icon}
 
-Altere o ícone exibido para usuários do Livefyre no menu `@mention` suspenso.
+Change the icon displayed for Livefyre users in the `@mention` pulldown menu.
 
-Altere o ícone do Livefyre usado no menu `@mention` suspenso para um ícone de sua escolha, permitindo indicar os membros da comunidade com seu próprio ícone.
+Altere o ícone Livefyre usado no menu suspenso para `@mention` um ícone de sua escolha, permitindo que você indique os membros da sua comunidade com seu próprio ícone.
 
 ## Exemplo
 
-Para alterar esse ícone, adicione o seguinte CSS à sua folha de estilo. Substitua &lt;*seu recurso*&gt; url pelo URL da imagem selecionada para substituir o crachá padrão Livefyre.
+Para alterar esse ícone, adicione o seguinte CSS à sua folha de estilos. Substitua o url &lt;*seu recurso*&gt; pelo URL da imagem selecionada para substituir o selo padrão do Livefyre.
 
 ```
 .fyre-editor-container .fyre-editor-toolbar > .fyre-mention-menu .fyre-mention-item .fyre-mention-item-livefyre { 
