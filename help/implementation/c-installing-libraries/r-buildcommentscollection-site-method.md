@@ -1,39 +1,39 @@
 ---
-description: Retorna um objeto de coleção instanciado como um tipo de Comentários. Execute o createorupdate () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de coleção instanciado como um tipo de Comentários. Execute o createorupdate () do objeto Collection para concluir o processo de criação.
-seo-title: Método de site do buildcommentscollection
+description: Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
+seo-description: Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
+seo-title: método de site buildCommentsCollection
 solution: Experience Manager
-title: Método de site do buildcommentscollection
-uuid: 0 e 5 c 062 e -960 d -4 ab 0-ba 32-0965731 a 1571
+title: método de site buildCommentsCollection
+uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de site do buildcommentscollection{#buildcommentscollection-site-method}
+# método de site buildCommentsCollection{#buildcommentscollection-site-method}
 
-Retorna um objeto de coleção instanciado como um tipo de Comentários. Execute o createorupdate () do objeto Collection para concluir o processo de criação.
+Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| title | String | O título da Coleção. |
-| Articleid | String | Uma ID de artigo exclusiva escolhida para identificar uma coleção dentro do site. |
-| url | String | O URL canônico canônico desta coleção. |
+| title | String   | O título da coleção. |
+| articleId | String   | Uma ID de artigo exclusiva que você escolheu para identificar uma Coleção no site. |
+| url | String | O URL absoluto canônico para esta coleção. |
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 Collection collection = site.buildCommentsCollection(title, articleId, url);
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCommentsCollection(title, articleId, url); 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $collection = site->buildCommentsCollection(title, articleId, url); 
@@ -45,7 +45,7 @@ $collection = site->buildCommentsCollection(title, articleId, url);
 collection = site.build_comments_collection(title, articleId, url) 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 collection = site.build_comments_collection(title, articleId, url) 
