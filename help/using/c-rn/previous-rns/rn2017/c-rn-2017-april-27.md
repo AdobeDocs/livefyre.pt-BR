@@ -1,39 +1,39 @@
 ---
-description: Notas de versão de April 7 de abril de 2017.
-seo-description: Notas de versão de April 7 de abril de 2017.
-seo-title: April 7 de abril de 2017
-title: April 7 de abril de 2017
-uuid: 30284115-92 c 0-4 a 85-acdb-adc 70605 ed 5 f
+description: Notas de versão para a versão de 27 de abril de 2017.
+seo-description: Notas de versão para a versão de 27 de abril de 2017.
+seo-title: 27 de abril de 2017
+title: 27 de abril de 2017
+uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 27 de abril de 2017{#april}
+# April 27, 2017{#april}
 
-Notas de versão de 27 de abril de 2017.
+Notas de versão para a versão de 27 de abril de 2017.
 
 ## Versão de produção
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | App Designer | Correção de um erro que impedia a capacidade de salvar novos nomes de Título do aplicativo em vários aplicativos no Designer. |
-| Bug | Gerenciador de aplicativos | Os resultados da pesquisa foram aprimorados ao pesquisar por ID de artigo no Gerenciador de aplicativos. |
-| Bug | Biblioteca de ativos | Correção de um erro que fazia com que o conteúdo unicode não fosse renderizado ao visualizar mais detalhes sobre um ativo na Biblioteca. |
-| Aprimoramento | Mosaico | Foi adicionada a capacidade de configurar aplicativos Mosaic configurados no Designer ou instanciados por meio do SDK para clicar em qualquer lugar em um cartão de conteúdo para abrir o modal. Agora há 3 tipos de animação para Mosaico: Virar, desaparecer e clicar. |
-| Aprimoramento | Revisões | Foi adicionado um recurso em Revisões para separar «Gravar uma revisão» e «Mostrar minha revisão» para permitir aos clientes mais flexibilidade ao personalizar o aplicativo. |
-| Bug | Revisões | Correção de alguns erros de usabilidade ao ativar o parâmetro alwaysshoweditor no aplicativo Revisões. |
-| Bug | Regras de coleta S 1 | Correção de um bug que permitia a edição de palavras-chave após salvar uma regra. |
-| Bug | Storify 2 | Corrigido um erro que evitava que o Storify 2 fosse renderizado durante a utilização da biblioteca requirejs na página. |
-| Bug | Fluxos | Correção de um erro que impedia a cópia de regras para um novo fluxo ao clonar um fluxo existente. |
-| Bug | Usuários | Correção de um erro que não exibia usuários proibidos. Agora os usuários proibidos aparecerão como esperado com uma indicação de que são proibidos. |
+| Bug | App Designer | Correção de um bug que impedia a capacidade de salvar novos nomes de Título do aplicativo em vários aplicativos no Designer. |
+| Bug | Gerenciador de aplicativos | Os resultados da pesquisa foram aprimorados ao pesquisar pela ID do artigo no App Manager. |
+| Bug | Biblioteca de ativos | Correção de um erro que fazia com que o conteúdo unicode não fosse renderizado ao exibir mais detalhes em um ativo na Biblioteca. |
+| Aprimoramento | Mosaico | Foi adicionada a capacidade de configurar aplicativos Mosaicos configurados no Designer ou instanciados pelo SDK para clicar em qualquer lugar em um cartão de conteúdo para abrir o modal. Existem agora 3 tipos de animação para o mosaico: Inverter, Esmaecer e Clicar. |
+| Aprimoramento | Resenhas | Foi adicionado um recurso em Revisões para separar "Escrever uma revisão" e "Mostrar minha revisão" para permitir que os clientes tenham mais flexibilidade ao personalizar o aplicativo. |
+| Bug | Resenhas | Correção de alguns erros de usabilidade ao ativar o parâmetro alwaysShowEditor no aplicativo Revisões. |
+| Bug | Regras de coleta S1 | Correção de um erro que permitia a edição de palavras-chave após salvar uma regra. |
+| Bug | Storify 2 | Correção de um bug que impedia a renderização de incorporações do Storify 2 ao usar a biblioteca do requestJS na página. |
+| Bug | Fluxos | Correção de um bug que impedia que regras fossem copiadas para um novo fluxo ao clonar um fluxo existente. |
+| Bug | Usuários | Correção de um erro que não exibia usuários proibidos. Agora, os usuários proibidos aparecerão como esperado com uma indicação de que estão proibidos. |
 
-## Versão do UAT
+## Versão UAT
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | API | Uma nova API foi lançada para recuperar códigos incorporados do aplicativo. Mais informações podem ser encontradas em https://api.livefyre.com/docs/apis/by-category/apps. |
-| Bug | Biblioteca de ativos | Correção de um bug que direcionava a primeira página dos resultados da Biblioteca para 10 ativos. |
-| Aprimoramento | Studio | O contraste foi aprimorado na alternância de componentes por meio do Studio para facilitar a visibilidade. |
+| Aprimoramento | API | Lançada uma nova API para recuperar códigos incorporados do aplicativo. Mais informações podem ser encontradas em https://api.livefyre.com/docs/apis/by-category/apps. |
+| Bug | Biblioteca de ativos | Correção de um bug que limitava a primeira página dos resultados da Biblioteca a 10 ativos. |
+| Aprimoramento | Studio | O contraste em alternar componentes no Studio foi aprimorado para facilitar a visibilidade. |
 
