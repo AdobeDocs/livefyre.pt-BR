@@ -1,33 +1,33 @@
 ---
-description: Recupera informações da coleção do Livefyre como um jsonobject.
-seo-description: Recupera informações da coleção do Livefyre como um jsonobject.
-seo-title: Método de coleção getcollectioncontent
+description: Recupera informações da coleção do Livefyre como um objeto JSONO.
+seo-description: Recupera informações da coleção do Livefyre como um objeto JSONO.
+seo-title: Método de coleta getCollectionContent
 solution: Experience Manager
-title: Método de coleção getcollectioncontent
-uuid: 270 dcea 5-4 de 5-4 d 3 b-a 751-79 e 6 b 9 c 4 fd 93
+title: Método de coleta getCollectionContent
+uuid: 270dcea5-4de5-4d3b-a751-79e6b9c4fd93
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de coleção getcollectioncontent{#getcollectioncontent-collection-method}
+# Método de coleta getCollectionContent{#getcollectioncontent-collection-method}
 
-Recupera informações da coleção do Livefyre como um jsonobject.
+Recupera informações da coleção do Livefyre como um objeto JSONO.
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 collection.getCollectionContent(); 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 collection.getCollectionContent(callback); 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $collection->getCollectionContent(); 
@@ -39,7 +39,7 @@ $collection->getCollectionContent();
 collection.get_collection_content() 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 collection.get_collection_content 
