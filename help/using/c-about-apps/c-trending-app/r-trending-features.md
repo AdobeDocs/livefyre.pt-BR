@@ -1,10 +1,10 @@
 ---
-description: O Aplicativo de tendência oferece esses recursos para o seu site.
-seo-description: O Aplicativo de tendência oferece esses recursos para o seu site.
+description: O aplicativo de tendência oferece esses recursos para seu site.
+seo-description: O aplicativo de tendência oferece esses recursos para seu site.
 seo-title: Recursos de tendência
 solution: Experience Manager
 title: Recursos de tendência
-uuid: 7 e 7 b 1 d 05-2154-43 d 8-92 e 7-63152934 c 785
+uuid: 7e7b1d05-2154-43d8-92e7-63152934c785
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,10 +13,10 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Recursos de tendência{#trending-features}
 
-O Aplicativo de tendência oferece esses recursos para o seu site.
+O aplicativo de tendência oferece esses recursos para seu site.
 
 
 
-* A Tendência mostra informações em tempo real sobre quais Coleções são mais ativas.
-* As conversas são listadas da maioria para menos popular.
+* A tendência mostra informações em tempo real sobre quais coleções são mais ativas.
+* As conversas são listadas da mais para a menos popular.
 
