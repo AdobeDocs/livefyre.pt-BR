@@ -1,9 +1,9 @@
 ---
-description: A filtragem de UGC por ID de produto permite que você incorpore exatamente o mesmo aplicativo em várias páginas ao mostrar um UGC específico do produto para cada página.
-seo-description: A filtragem de UGC por ID de produto permite que você incorpore exatamente o mesmo aplicativo em várias páginas ao mostrar um UGC específico do produto para cada página.
+description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
+seo-description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
 seo-title: Filtrar UGC por ID de produto
 title: Filtrar UGC por ID de produto
-uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
+uuid: 98108db-5710-4331-891b-7e1bb106059
 translation-type: tm+mt
 source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 
@@ -12,35 +12,35 @@ source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 
 # Filtrar UGC por ID de produto {#filter-ugc-product-id}
 
-A filtragem de UGC por ID de produto permite que você incorpore exatamente o mesmo aplicativo em várias páginas ao mostrar um UGC específico do produto para cada página.
+Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
 
 Para filtrar o UGC por ID de produto, siga estas etapas:
 
-1. No Livefyre Studio, navegue até **[!UICONTROL Apps]** a guia.
+1. No Livefyre Studio, navegue até a **[!UICONTROL Apps]** guia.
 
 1. Selecione o aplicativo que deseja modificar.
 
 1. Selecione a guia Designer no painel esquerdo.
 
-1. Ativar **[!UICONTROL Filter UGC by Product ID]**.
+1. Enable **[!UICONTROL Filter UGC by Product ID]**.
 
 ![](assets/filter-ugc-product-id.png)
 
-1. Selecione as pastas de produto de nível superior que contêm o produto ou produtos que você deseja filtrar para UGC.
+1. Selecione as pastas de produtos de nível superior que contêm o produto ou produtos pelo qual deseja filtrar o UGC.
 Use CTRL/Command + clique para selecionar várias pastas.
 
 1. Disable **[!UICONTROL Show related content]**.
-Quando ativado, o conteúdo filtrado usando o `data-lf-attr-product` atributo será exibido primeiro, seguido por todos os outros conteúdos no aplicativo.
+Quando ativado, o conteúdo filtrado usando o `data-lf-attr-product` atributo será exibido primeiro, seguido por todo o outro conteúdo no aplicativo.
 
-1. Clique **[!UICONTROL Publish]** em.
+1. Clique em **[!UICONTROL Publish]**.
 
 1. Insira as IDs de produto que deseja filtrar no código resultante.
 
 >[!NOTE]
 >
->Para localizar IDs de produtos, navegue **[!UICONTROL Settings > Products]** até. Localize o produto desejado e selecione-o e a ID será exibida.
+>Para localizar IDs de produto, navegue até **[!UICONTROL Settings > Products]**. Localize o produto desejado e selecione-o e a ID será exibida.
 
-Por exemplo, o código a seguir é gerado para um Aplicativo de firewall:
+Por exemplo, o código a seguir é gerado para um aplicativo Media Wall:
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -53,7 +53,7 @@ env="prod" data-lf-read-only="" data-lf-attr-product="<product
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Para marcar um produto, substitua `<product 1>` no `data-lf-attr-product` atributo pela ID de produto desejada. Você pode marcar um produto ou mais por meio da adição de IDs de produto separadas por vírgulas. Os produtos devem estar contidos na pasta de produto ou pastas de nível superior selecionados na Etapa 5.
+Para marcar um produto, substitua `<product 1>` `data-lf-attr-product` o atributo pela ID de produto desejada. Você pode marcar um ou mais produtos adicionando IDs de produtos separados por vírgula adicionais. Os produtos devem estar contidos na pasta ou pastas de produto de nível superior selecionadas na Etapa 5.
 
 O segmento de código modificado apareceria como:
 
@@ -68,4 +68,4 @@ Livefyre.js"></script><div class="lf-app-embed" data-lfapp="
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-O aplicativo agora só exibirá as IDs de produto marcadas.
+O aplicativo agora exibirá somente as IDs de produto marcadas.
