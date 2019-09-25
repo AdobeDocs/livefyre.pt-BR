@@ -1,36 +1,36 @@
 ---
-description: Notas de versão de 1 de junho de 2017.
-seo-description: Notas de versão de 1 de junho de 2017.
+description: Notas de versão para a versão de 1º de junho de 2017.
+seo-description: Notas de versão para a versão de 1º de junho de 2017.
 seo-title: 1 de junho de 2017
 title: 1 de junho de 2017
-uuid: 70 c 39 b 30-896 d -437 a -9852-80 eb 47 c 08892
+uuid: 70c39b30-896d-437a-9852-80eb47c08892
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 1 de junho de 2017{#june}
+# June 1, 2017{#june}
 
-Notas de versão de 1 de junho de 2017.
+Notas de versão para a versão de 1º de junho de 2017.
 
 ## Versão de produção
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | Conteúdo do aplicativo | Foi adicionado um aprimoramento para permitir que os usuários em Conteúdo do aplicativo baixem arquivos de vídeo nativos carregados em um aplicativo do Livefyre e/ou na API de upload de mídia. |
-| Bug | Mosaico | Correção de um bug em Mosaico que impedia o carregamento recém-criado do Mosaico após uma atualização de página. |
-| Bug | Gerenciamento de direitos | Correção de um erro que fazia com que o Rights Management fosse dividido em conteúdo recém-excluído/marcado como conteúdo do Twitter. |
-| Bug | Storify 2 | Atualização dos rótulos de classificação no Storify 2 para corresponder ao comportamento esperado. &quot; Mais antigo ao mais novo &quot;e&quot; Mais recentes para &quot;agora dirá&quot; Primeiro ao último &quot;e&quot; Último para primeiro &quot;. A ordem de classificação é baseada na ordem definida no Editor de Storify 2, e não na data. |
+| Aprimoramento | Conteúdo do aplicativo | Adicionado um aprimoramento para permitir que os usuários no Conteúdo do aplicativo baixem arquivos de vídeo nativos que foram carregados em um aplicativo Livefyre e/ou por meio da API Carregar mídia. |
+| Bug | Mosaico | Correção de um bug no Mosaic que impedia o carregamento do Mosaic recém-criado após a atualização da página. |
+| Bug | Gerenciamento de direitos | Correção de um bug que causava a interrupção do Rights Management em conteúdo recém-excluído/marcado como privado do Instagram e do Twitter. |
+| Bug | Storify 2 | Os rótulos de classificação no Storify 2 foram atualizados para corresponder ao comportamento esperado. "Do mais antigo ao mais novo" e "Do mais novo ao mais antigo" agora dirão "Primeiro ao último" e "Último ao primeiro". A ordem de classificação é baseada na ordem indicada no Editor do Storify 2, não na data de publicação. |
 
-## Versão do UAT
+## Versão UAT
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Revisões | Corrigido um erro em Revisões para garantir que as cargas de mídia via HTTPS em todas as implementações. |
-| Bug | Pesquisa | Correção de um erro que fazia com que os resultados da Pesquisa local do Instagram mostrassem duplicatas. |
-| Bug | Auxiliares | Notas de sidesanotação aprimoradas para suportar a moderação front-end. Isso significa que os moderadores conectados no aplicativo no front-end poderão aprovar ou excluir conteúdo. |
-| Bug | Regras de fluxo | Foi adicionado um aprimoramento nos fluxos do Twitter para que todos os locais do mapa sejam listados no resumo da regra |
-| Bug | Regras de fluxo | Corrigido um erro que permitia que um usuário de fluxo do Twitter existisse em ambos os autores &quot;é postado por um desses autores&quot; e &quot;não é postado por nenhum desses campos&quot; ao mesmo tempo. |
-| Aprimoramento | Regras de fluxo | Adição da capacidade de filtrar Tweets por idioma em Regras de fluxo |
+| Bug | Resenhas | Correção de um bug no Reviews para garantir que a mídia fosse carregada por HTTPS em todas as implementações. |
+| Bug | Pesquisar | Correção de um bug que fazia com que os resultados da Pesquisa de localização do Instagram mostrassem duplicatas. |
+| Bug | Sidenotes | Notas de versão aprimoradas para suportar moderação de front-end. Isso significa que os moderadores conectados ao aplicativo no front-end poderão aprovar ou excluir conteúdo. |
+| Bug | Regras de fluxo | Adicionado um aprimoramento aos fluxos do Twitter para que todos os locais do mapa sejam listados no resumo da regra |
+| Bug | Regras de fluxo | Correção de um bug que permitia que um usuário do Twitter Stream existisse em ambos os campos "é postado por qualquer um desses autores" e "não é postado por nenhum desses autores" ao mesmo tempo. |
+| Aprimoramento | Regras de fluxo | Foi adicionada a capacidade de filtrar tweets por idioma nas regras de fluxo |
 
