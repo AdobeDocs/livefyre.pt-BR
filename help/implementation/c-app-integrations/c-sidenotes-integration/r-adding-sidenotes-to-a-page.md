@@ -1,43 +1,43 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Adicionar sidias a uma página
+seo-title: Adicionar notas de identidade a uma página
 solution: Experience Manager
-title: Adicionar sidias a uma página
-uuid: 6499 c 45 a -3773-4 adb-a 6 c 7-22 a 628309 afd
+title: Adicionar notas de identidade a uma página
+uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 
 
-# Adicionar sidias a uma página {#adding-sidenotes-to-a-page}
+# Adicionar notas de identidade a uma página {#adding-sidenotes-to-a-page}
 
-O Livefyre fornece várias opções de configuração para posicionar os Sidenotes na página:
+O Livefyre fornece várias opções de configuração para posicionar as Sidenotes em sua página:
 
-* A opção Seletores define os elementos nos quais as sidenotes devem aparecer.
-* As âncoras representam elementos que podem ser agrupados.
-* O contêiner de encadeamento personalizado permite definir onde o encadeamento de sidenotes estará localizado em relação ao conteúdo sidenado.
-* A opção de contagem de Sidenotes permite exibir o número de Soluções adicionadas no local determinado.
+* A opção Seletores define os elementos nos quais as Sidenotes devem aparecer.
+* Âncoras representam elementos que podem ser identificados.
+* O contêiner de encadeamento personalizado permite definir onde o encadeamento de Sidenotes será localizado em relação ao conteúdo identificado.
+* A opção de contagem de Sidenotes permite exibir o número de Sidenotes adicionados no local especificado.
 * Use vários `ConvConfig` objetos para adicionar Sidenotes a várias histórias em uma única página.
 
 ## Seletores {#section_wyj_4sv_sy}
 
-A opção de seletores permite que os colegas localizem conteúdo na página. O valor para essa opção permite determinar dinamicamente os elementos que serão usados. Pode ser uma sequência do seletor (como «# content p, # content img»), um objeto jquery (como `$(‘#content’)`), uma matriz de elementos DOM ou um objeto com duas propriedades: incluir e excluir. O aplicativo de sidenotes usará os elementos especificados ou os elementos correspondentes na página. Se incluir e excluir propriedades são usadas, as Sidenotes analisarão primeiro a página para encontrar todos os elementos na propriedade incluir e, em seguida, removem quaisquer elementos encontrados na propriedade delete.
+A opção seletores permite que o Sidenotes localize conteúdo na página. O valor dessa opção permite que você determine dinamicamente os elementos que serão usados. Pode ser uma string de seletor (como ‘#content p, #content img’), um objeto jQuery (como `$(‘#content’)`), uma matriz de elementos DOM ou um objeto com duas propriedades: incluir e excluir. O aplicativo Sidenotes usará os elementos especificados ou os elementos correspondentes na página. Se as propriedades include e exclude forem usadas, os Sidenotes primeiro analisarão a página para localizar todos os elementos na propriedade include e, em seguida, removerão quaisquer elementos encontrados na propriedade exclude.
 
 ## Âncoras {#section_ehq_psv_sy}
 
-As âncoras representam um elemento cujo conteúdo pode ser agrupado. Um elemento de âncora pode conter texto ou imagem. A opção de seletores transmitida durante a construção do aplicativo determinará os elementos de ancoragem.
+As âncoras representam um elemento cujo conteúdo pode ser identificado. Um elemento de âncora pode conter texto ou uma imagem. A opção de seletores transmitida durante a construção do aplicativo determinará os elementos de ancoragem.
 
 ## IDs de âncora {#section_rsb_rsv_sy}
 
-As âncoras na página são identificadas usando `data-lf-anchor-id`a.
+As âncoras na página são identificadas usando um `data-lf-anchor-id`.
 
-Para definir a ID de uma âncora própria, adicione o atributo `data-lf-custom-anchor-id` ao elemento que você deseja mapear para uma âncora. Isso é útil nos casos em que a detecção automática de âncoras falhava.
+Para definir a ID de uma âncora, adicione o atributo `data-lf-custom-anchor-id` ao elemento que você deseja mapear para uma âncora. Isso é útil nos casos em que a detecção automática de âncoras falhasse.
 
-Por exemplo, se você planeja usar um URL diferente para as versões de desktop e móveis de uma imagem, dois urls diferentes podem ser mapeados para âncoras diferentes. Se, em vez disso, o HTML fornecer a `data-lf-custom-anchor-id` mesma coisa em dispositivos móveis e desktop, o elemento da imagem será tratado como uma única âncora.
+Por exemplo, se você planeja usar um URL diferente para as versões para desktop e dispositivos móveis de uma imagem, dois URLs diferentes podem ser mapeados para âncoras diferentes. Se, em vez disso, seu HTML fornecer uma `data-lf-custom-anchor-id` que seja a mesma em dispositivos móveis e desktop, o elemento de imagem será tratado como uma única âncora.
 
-As âncoras têm um tipo determinado dinamicamente, mas também podem ser explicitamente definidas usando o `data-lf-custom-anchor-type` atributo.
+Âncoras têm um tipo que é determinado dinamicamente, mas que também pode ser definido explicitamente usando o `data-lf-custom-anchor-type` atributo.
 
 >[!NOTE]
 >
@@ -45,32 +45,32 @@ As âncoras têm um tipo determinado dinamicamente, mas também podem ser explic
 
 Os tipos disponíveis são:
 
-* **Texto:** 1
-* **Imagem:** 2
-* **Mídia:** 3
-* **Avançado:** 4
+* **** Texto: 1
+* **** Imagem: 2
+* **** Mídia: 3
+* **** Rico: 4
 
-Consulte [Método updateanchors](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) para saber mais sobre como usar o `updateAnchors` método para adicionar o conteúdo de Sidenote à página dinamicamente.
+Consulte o método [updateAnchors](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) para obter mais informações sobre como usar o `updateAnchors` método para adicionar conteúdo Sidenote à página dinamicamente.
 
-## Contêiner personalizado de encadeamento {#section_jdh_btv_sy}
+## Contêiner de thread personalizado {#section_jdh_btv_sy}
 
-Use a `threadContainerEl` opção para especificar um local para uma thread de Sidenota, diferente da posição padrão. Por padrão, quando uma âncora é ativada, as Sidenotes aparecerão ao lado ou abaixo do conteúdo relevante. Para alterar esse padrão, use o `threadContainerEl` para especificar o elemento onde o encadeamento deve aparecer.
+Use a `threadContainerEl` opção para especificar um local para um thread Sidenotes, diferente da posição padrão. Por padrão, quando uma âncora é ativada, as Sidenotes serão exibidas ao lado ou abaixo do conteúdo relevante. Para alterar esse padrão, use o para especificar o elemento no qual o thread deve aparecer. `threadContainerEl`
 
-Esse valor para essa opção funciona da mesma forma que a opção de seletores, exceto que apenas o primeiro elemento válido será usado.
+Esse valor para essa opção funciona como a opção de seletores, exceto que apenas o primeiro elemento válido será usado.
 
-## Contagem de auxiliares {#section_pld_ntv_sy}
+## Contagem de votos {#section_pld_ntv_sy}
 
-Use a `numSidenotesEl` opção para incorporar um widget de contagem opcional de Sidenotes na sua página. Essa opção aceita a mesma entrada da opção de seletores, mas usará apenas o primeiro elemento válido na matriz de entrada.
+Use a `numSidenotesEl` opção para incorporar um widget de contagem de Sidenotes opcional à sua página. Essa opção aceita a mesma entrada que a opção de seletores, mas usará apenas o primeiro elemento válido na matriz de entrada.
 
-O widget irá decorar o elemento fornecido ou combinado, e incluirá o ícone de entrada de Sidenotes, o número de Sidenotes inseridos nesta posição e um ícone de ajuda.
+O widget decorará o elemento fornecido ou correspondente e incluirá o ícone de entrada Sidenotes, o número de Sidenotes digitados nesta posição e um ícone de ajuda.
 
-Clicar no widget exibirá um popover com uma breve explicação de Sidenotes e como usá-los.
+Clicar no widget exibirá uma publicação com uma breve explicação de Sidenotes e como usá-los.
 
-A explicação e o texto do exemplo são configuráveis usando strings personalizadas ( `questionExplanation` e `questionMockText`, respectivamente). A aparência do widget de contagem e do popover também pode ser configurada usando estilos personalizados ( `numSidenotes` e `numSidenotesPopover`, respectivamente).
+Tanto a explicação quanto o texto de exemplo são configuráveis usando strings personalizadas ( `questionExplanation` e `questionMockText`, respectivamente). A aparência do widget de contagem e do portátil também pode ser configurada usando estilos personalizados ( `numSidenotes` e `numSidenotesPopover`, respectivamente).
 
-## Adicionar várias coleções de sidecotes a uma página única {#section_pjl_ptv_sy}
+## Adicionar várias coleções de notas de identidade a uma única página {#section_pjl_ptv_sy}
 
-O Livefyre permite que você adicione várias Coleções de sidecotes a uma única página. Por exemplo, se a página incluir três histórias de notícias, você pode incluir três iterações separadas do Aplicativo de sidenotes. Para fazer isso, você deve definir um `ConvConfig` objeto separado para cada instância de Sidenotes que deseja criar. Por exemplo:
+O Livefyre permite que você adicione várias Coleções de Sidenotes a uma única página. Por exemplo, se a página incluir três notícias, você pode desejar incluir três iterações separadas do aplicativo Sidenotes. Para fazer isso, você deve definir um `ConvConfig` objeto separado para cada instância de Sidenotes que deseja criar. Por exemplo:
 
 ```
 <html> 
