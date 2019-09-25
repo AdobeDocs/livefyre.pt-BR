@@ -1,10 +1,10 @@
 ---
-description: Criar um objeto de rede.
-seo-description: Criar um objeto de rede.
+description: Crie um objeto de rede.
+seo-description: Crie um objeto de rede.
 seo-title: Métodos de classe de rede
 solution: Experience Manager
 title: Métodos de classe de rede
-uuid: 4130 beda-dd 09-49 ae-aafb-f 6 b 956 e 30 b 51
+uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,16 +13,16 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Métodos de classe de rede{#network-class-methods}
 
-Criar um objeto de rede.
+Crie um objeto de rede.
 
-Após a criação de um objeto de rede, o restante da página pressuporá que você tenha um objeto de rede instanciado na sua sessão.
+Depois que você criar um objeto de rede, o restante da página presumirá que você tem um objeto de rede instanciado em sua sessão.
 
 ## Objeto de rede
 
 | Parâmetro | Tipo | Descrição |
 |---|---|---|
-| *`network`* | String | Sua rede do Livefyre. Por exemplo: «`labs.fyre.co`». |
-| *`networkKey`* | String | A chave secreta fornecida pelo Livefyre para a rede. |
+| *`network`* | String   | Sua rede Livefyre. Por exemplo: “`labs.fyre.co`”. |
+| *`networkKey`* | String   | A chave secreta fornecida pela Livefyre para a rede. |
 
 ## Java {#section_myk_dzs_kbb}
 
@@ -32,7 +32,7 @@ import com.livefyre.Livefyre;
 Network network = Livefyre.getNetwork(network, networkKey); 
 ```
 
-## Nodejs {#section_nyk_dzs_kbb}
+## NodeJS {#section_nyk_dzs_kbb}
 
 ```
 var livefyre = require('livefyre'); 
