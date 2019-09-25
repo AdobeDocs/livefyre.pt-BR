@@ -1,23 +1,23 @@
 ---
-description: Livefyre oferece recursos adicionais para rastrear dados de visitantes e sincronização com redes de redes sociais.
-seo-description: Livefyre oferece recursos adicionais para rastrear dados de visitantes e sincronização com redes de redes sociais.
-seo-title: Recursos diversos
+description: O Livefyre oferece recursos adicionais para rastrear dados de visitantes do site e sincronizar com redes sociais.
+seo-description: O Livefyre oferece recursos adicionais para rastrear dados de visitantes do site e sincronizar com redes sociais.
+seo-title: Vários recursos
 solution: Experience Manager
-title: Recursos diversos
-uuid: 76 ac 2102-622 d -48 d 3-8 b 1 d -6 ca 6 c 90 c 806 a
+title: Vários recursos
+uuid: 76ac2102-622d-48d3-8b1d-6ca6c90c806a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Recursos diversos{#miscellaneous-features}
+# Vários recursos{#miscellaneous-features}
 
-Livefyre oferece recursos adicionais para rastrear dados de visitantes e sincronização com redes de redes sociais.
+O Livefyre oferece recursos adicionais para rastrear dados de visitantes do site e sincronizar com redes sociais.
 
-## Tendência do conteúdo de fluxo {#section_w5y_kx4_h1b}
+## Tendências do conteúdo de fluxo {#section_w5y_kx4_h1b}
 
-Os usuários finais podem exibir uma lista das coleções mais ativas dentro de um site.
+Os usuários finais podem exibir uma lista das coleções mais ativas em um site.
 
 Aplicativos que usam este recurso:
 
