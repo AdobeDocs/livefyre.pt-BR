@@ -1,21 +1,21 @@
 ---
-description: Esse método retorna o URN desse site.
-seo-description: Esse método retorna o URN desse site.
-seo-title: Método do site geturn
+description: Este método retorna o URN para este site.
+seo-description: Este método retorna o URN para este site.
+seo-title: Método do site getUrn
 solution: Experience Manager
-title: Método do site geturn
-uuid: 231 c 915 c -6288-43 e 6-86 e 0-b 8 d 09 a 08 c 4 d 3
+title: Método do site getUrn
+uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método do site geturn{#geturn-site-method}
+# Método do site getUrn{#geturn-site-method}
 
-Esse método retorna o URN desse site.
+Este método retorna o URN para este site.
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 Uso:
 
@@ -23,31 +23,31 @@ Uso:
 site.getUrn();
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 site.getUrn(); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $site->getUrn(); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1" 
@@ -59,19 +59,19 @@ Saída de amostra:
 site.urn 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 site.urn 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1"
