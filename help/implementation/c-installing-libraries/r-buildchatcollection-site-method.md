@@ -1,39 +1,39 @@
 ---
-description: Retorna um objeto de Coleção instanciado como um tipo de Bate-papo. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de Coleção instanciado como um tipo de Bate-papo. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-title: Método do site do buildchatcollection
+description: Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+seo-description: Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+seo-title: método de site buildChatCollection
 solution: Experience Manager
-title: Método do site do buildchatcollection
-uuid: 39 ee 32 d 0-29 c 9-47 a 8-a 458-a 3 cf 7 a 96 db 30
+title: método de site buildChatCollection
+uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
 translation-type: tm+mt
 source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
 
 ---
 
 
-# Método do site do buildchatcollection{#buildchatcollection-site-method}
+# método de site buildChatCollection{#buildchatcollection-site-method}
 
-Retorna um objeto de Coleção instanciado como um tipo de Bate-papo. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| title | String | O título da Coleção. |
-| Articleid | String | Uma ID de artigo exclusiva escolhida para identificar uma coleção dentro do site. |
-| url | String | O URL canônico canônico desta coleção. |
+| title | String   | O título da coleção. |
+| articleId | String   | Uma ID de artigo exclusiva que você escolheu para identificar uma Coleção no site. |
+| url | String | O URL absoluto canônico para esta coleção. |
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 Collection collection = site.buildChatCollection(title, articleId, url); 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildChatCollection(title, articleId, url); 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $collection = site->buildChatCollection(title, articleId, url); 
@@ -45,7 +45,7 @@ $collection = site->buildChatCollection(title, articleId, url);
 collection = site.build_chat_collection(title, articleId, url) 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 collection = site.build_chat_collection(title, articleId, url)
