@@ -1,21 +1,21 @@
 ---
-description: Os auxiliares podem ser carregados em (quase) qualquer página existente.
-seo-description: Os auxiliares podem ser carregados em (quase) qualquer página existente.
-seo-title: Bookmarklet de sidenotes
-title: Bookmarklet de sidenotes
-uuid: b 6 f 6263 e -85 b 1-4 e 49-ba 3 c -7 f 12746 a 4 f 59
+description: As notas de identificação podem ser carregadas em (quase) qualquer página existente.
+seo-description: As notas de identificação podem ser carregadas em (quase) qualquer página existente.
+seo-title: Marcador de Sidenotes
+title: Marcador de Sidenotes
+uuid: b6f6263e-85b1-4e49-ba3c-7f12746a4f59
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Bookmarklet de sidenotes{#sidenotes-bookmarklet}
+# Marcador de Sidenotes{#sidenotes-bookmarklet}
 
-Os auxiliares podem ser carregados em (quase) qualquer página existente.
+As notas de identificação podem ser carregadas em (quase) qualquer página existente.
 
-Para fazer testes de demonstração, use o bookmarklet abaixo:
+Para demoSidenotes use o bookmarklet abaixo:
 
-Bookmarklet de sidenotes
+Marcador de Sidenotes
 
-Basta copiar o bookmarklet em seus marcadores e clicar no link para carregar as Sidenotes. Você será solicitado a inserir seletores que serão usados para decorar as Sidenotes na página atual.
+Basta copiar o bookmarklet em seus marcadores e clicar no link para carregar as Sidenotes. Será solicitado que você insira seletores que serão usados para decorar Sidenotes na página atual.
