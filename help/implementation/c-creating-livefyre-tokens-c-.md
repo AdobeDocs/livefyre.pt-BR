@@ -1,46 +1,46 @@
 ---
-description: 'Saiba como gerar tokens do Livefyre usando o idioma «C #».'
-seo-description: 'Saiba como gerar tokens do Livefyre usando o idioma «C #».'
-seo-title: 'Criar Tokens do Livefyre''C #'''
+description: Saiba como gerar tokens Livefyre usando a linguagem C#.
+seo-description: Saiba como gerar tokens Livefyre usando a linguagem C#.
+seo-title: Criando Tokens Livefyre `C#'
 solution: Experience Manager
-title: 'Criar Tokens do Livefyre''C #'''
-uuid: c 5 e 05625-8550-4 b 51-9211-134600 e 20 ec 7
+title: Criando Tokens Livefyre `C#'
+uuid: c5e05625-8550-4b51-9211-134600e20ec7
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 
 
-# Criar Tokens do Livefyre C\ # {#creating-livefyre-tokens-c}
+# Creating Livefyre Tokens C\# {#creating-livefyre-tokens-c}
 
 Saiba mais sobre como gerar tokens do Livefyre usando a linguagem ``C#``.
 
-Você pode aproveitar a documentação e o código de amostra herdados para usar `C#.NET` para criar métodos para criar tokens.
+Você pode aproveitar a documentação herdada e o código de amostra para usar `C#.NET` para gravar métodos para criar tokens.
 
-Para consultar as bibliotecas oficiais do Livefyre, use a Biblioteca [Java](https://github.com/Livefyre/livefyre-java-utils) como ponto de partida para `C#` desenvolvedores.
+Para fazer referência às bibliotecas oficiais do Livefyre, use a Biblioteca [do](https://github.com/Livefyre/livefyre-java-utils) Java como ponto de partida para `C#` desenvolvedores.
 
-Você também pode considerar usar a [Biblioteca](https://github.com/Livefyre/livefyre-nodejs-utils) Node. js na linha de comando para gerar tokens de referência para si mesmo e para familiarizar-se com a estrutura do método.
+Você também pode considerar o uso da Biblioteca [do](https://github.com/Livefyre/livefyre-nodejs-utils) Node.js na linha de comando para gerar tokens de referência para você mesmo e familiarizar-se com a estrutura do método.
 
-* [Ir para o metadado da coleção](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-collectionMeta-token)
+* [Ir para o Meta Token da coleção](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-collectionMeta-token)
 * [Ir para o token de autenticação](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-auth-token)
 
 ## Dependências {#section_c15_fnh_xz}
 
-* Você precisará do [pacote](https://www.nuget.org/packages/JWT) JWT nuget no seu projeto para gerar os tokens.
-* Amostras de código nesta página usam o [pacote Newtonsoft JSON](https://www.nuget.org/packages/newtonsoft.json/) .
+* Você precisará do pacote [](https://www.nuget.org/packages/JWT) JWT nuget em seu projeto para gerar os tokens.
+* As amostras de código nesta página usam o pacote JSON [Newtonsoft](https://www.nuget.org/packages/newtonsoft.json/) .
 
-## Collectionmeta token {#section_dzt_4mh_xz}
+## CollectionMeta Token {#section_dzt_4mh_xz}
 
-O collectionmeta token é transmitido ao Livefyre quando você incorpora Comentários em uma página e fornece o sistema com os metadados necessários para a nova coleção. Além disso, você criará um MD 5 `checksum` desses dados, que o Livefyre verifica para ver se os metadados foram alterados. (por exemplo, se o título ou url do seu artigo foi editado).
+O CollectionMeta Token é passado para o Livefyre quando você incorpora Comentários em uma página e fornece ao nosso sistema os metadados necessários para a sua nova coleção. Além disso, você criará um MD5 `checksum` desses dados, que o Livefyre verifica se os metadados foram alterados. (por exemplo, se o título ou url do artigo foi editado).
 
-Esse token é assinado com seu `Site Key`, que foi fornecido por seu Gerente de Conta Techtival no Livefyre.
+Este token foi assinado com o seu `Site Key`, que lhe foi fornecido pelo seu Gerente de Conta Técnico em Livefyre.
 
 Consulte também:
 
-* Documentos collectionmeta Token
-* [Exemplo Gist](https://gist.github.com/pcolombo/dbbea020618c521a2bd5)
+* CollectionMeta Token Docs oficiais
+* [Gist de exemplo](https://gist.github.com/pcolombo/dbbea020618c521a2bd5)
 
-1. Crie um Dicionário contendo os metadados da coleção. Vamos adicionar apenas alguns dos campos necessários nesta etapa, pois queremos criar uma soma de verificação desse objeto antes de adicionar o articleid.
+1. Crie um Dicionário que contenha os metadados da coleção. Vamos adicionar apenas alguns dos campos necessários nesta etapa, pois queremos criar uma soma de verificação desse objeto ANTES de adicionarmos a articleId.
 
    ```
        // Site Key provided by Livefyre 
@@ -54,10 +54,10 @@ Consulte também:
        };
    ```
 
-   * **título** *necessário*: O título da coleção, normalmente o título do artigo. O comprimento máximo é de 255 caracteres. Não suporta entidades html. Codifice caracteres especiais usando UTF -8.
-   * **url** *obrigatório*: O url canônico do artigo. Isso é usado pelos recursos de compartilhamento de comentário e sincronização social, e links para seu artigo a partir do painel de administração. Se estiver testando localmente, observe que o Livefyre não aceitará &quot;localhost&quot; como um domínio.
-   * *****opcionais*: Uma lista de tags separada por vírgulas que você deseja adicionar à coleção no painel do Livefyre. As tags não podem conter espaços. Use sublinhados se desejar que um espaço apareça no painel de administração.
-   * **type** *optional*:  A string indicating what type of collection to create. Os valores válidos são:
+   * **título** *obrigatório*:  O título da coleção, geralmente o título do artigo. O comprimento máximo é de 255 caracteres. Não suporta entidades html. Codifique caracteres especiais usando UTF-8.
+   * **url** *obrigatório*:  O url canônico do seu artigo. Isso é usado pelos recursos de compartilhamento de comentários e sincronização social, além de links para seu artigo no painel Admin. Se estiver testando localmente, observe que Livefyre não aceitará ‘localhost’ como um domínio.
+   * **tags** *opcionais*:  Uma lista separada por vírgulas de tags que você deseja adicionar à coleção no painel Livefyre. As tags não podem conter espaços. Use sublinhados se desejar que um espaço apareça no painel Admin.
+   * **tipo** *opcional*:  Uma string que indica que tipo de coleção deve ser criada. Os valores válidos são:
 
       * `reviews`
       * `sidenotes`
@@ -66,10 +66,10 @@ Consulte também:
       * `livecomments`
       * `liveblog`
       * `livechat`
-      Se não for especificado, uma coleção livecomments é criada por padrão.
+      Se não for especificado, uma coleção LiveComments será criada por padrão.
 
 
-1. O JSON codifica esse dicionário e gere uma soma de verificação md 5 disso.
+1. O JSON codifica este dicionário e gera uma soma de verificação md5.
 
    ```
           var metaStr = JsonConvert.SerializeObject(meta); 
@@ -90,15 +90,15 @@ Consulte também:
        } 
    ```
 
-1. Adicione **o articleid** ao dicionário. **A soma de verificação** não entra no collcollectionmeta, mas deve ser enviada como um parâmetro de seaprate no objeto de js convconfig.
+1. Adicione **articleId** ao dicionário. A **soma** de verificação não entra no collectionMeta token, mas deve ser enviada como um parâmetro separado no objeto js de consoleConfig.
 
    ```
        meta.Add("articleId", "article-abcde00001"); 
    ```
 
-   * **Articleid** *necessário*: Um identificador exclusivo da sua coleção no site do Livefyre. Normalmente, o articleid único usado em seu CMS. (por exemplo, a ID de publicação do wordpress) Esse valor nunca deve ser alterado. O Livefyre identifica coleções exclusivas pela combinação de siteid e articleid.
+   * **articleId** *obrigatório*:  Um identificador exclusivo para sua coleção no site do Livefyre. Normalmente, o articleId exclusivo usado no CMS. (por exemplo, sua ID de publicação do WordPress) Esse valor nunca deve ser alterado. Livefyre identifica coleções exclusivas pela combinação de siteId e articleId.
 
-1. Gere um token JWT assinado do dicionário usando a Chave do site fornecida para você pelo Livefyre. Observe que você deve especificar o algoritmo correto de hash, já que o pacote JWT não usa o HS 256 por padrão.
+1. Gere um token JWT assinado do dicionário, usando a chave do site fornecida a você pelo Livefyre. Observe que você deve especificar o algoritmo hash correto, pois o pacote JWT não usa HS256 por padrão.
 
    ```
        string token = JWT.JsonWebToken.Encode(meta, siteSecret, JWT.JwtHashAlgorithm.HS256);
@@ -106,14 +106,14 @@ Consulte também:
 
 ## O token de autenticação do usuário {#section_g1d_43h_xz}
 
-O Token de autenticação do usuário é usado para assinar um usuário no Livefyre. Quando um usuário entra em seu site, o site gera um Token de autenticação do usuário passado para o widget do Livefyre na página. (Para obter mais informações sobre o processo de autenticação, consulte Perfis remotos.)
+O token de autenticação do usuário é usado para assinar um usuário no Livefyre. Quando um usuário entra em seu site, o site gera um Token de autenticação de usuário que é passado para o widget Livefyre na página. (Para obter mais informações sobre o processo de autenticação, consulte Perfis remotos.)
 
-Esse token requer o nome da rede (network. fyre. co) e é assinado com sua Chave de rede, que é fornecida para você pelo Gerente de conta técnico no Livefyre.
+Este token requer seu nome de rede (network.fyre.co) e é assinado com sua chave de rede, fornecida a você pelo seu gerente técnico de conta no Livefyre.
 
 Consulte também:
 
-* Documentos de token de autenticação oficial
-* [Exemplo Gist](https://gist.github.com/pcolombo/7d7403172c28734c87e2)
+* Documentos oficiais do token de autenticação
+* [Gist de exemplo](https://gist.github.com/pcolombo/7d7403172c28734c87e2)
 
 1. Crie um dicionário contendo as informações necessárias.
 
@@ -128,12 +128,12 @@ Consulte também:
            }; 
    ```
 
-   * **domínio:** O nome da rede (fornecido pelo Livefyre.) Por exemplo, mynetwork. fyre. co
-   * **user_ id:** A ID de usuário exclusiva para o usuário no sistema de perfil do site. Deve ser apenas caracteres alfanuméricos (A-Z, a-z, 0-9). Se a ID de usuário de sistemas contiver charaacters inválidos, considere enviar um hash md 5 da ID do usuário, ou uma versão codificada base 64 desse ID. (Deixe o gerente da conta saber se você fez isso.)
-   * **expira:** A data (em época de época) que o token expira. Isso deve corresponder ao tempo de sessão de logons no site, para que o estado conectado do Livefyre fique sincronizado com o estado conectado do site.
-   * **display_ name:** O nome de exibição do usuário no sistema de perfil, como deve ser exibido no fluxo de comentário.
+   * **** domínio: O nome da sua rede (fornecido pelo Livefyre.) por exemplo, mynetwork.fyre.co
+   * **** user_id: A ID de usuário exclusiva para o usuário no sistema de perfil do site. Deve ser somente caracteres alfanuméricos (A-Z, a-z, 0-9). Se as IDs de usuário do seu sistema contiverem caracteres inválidos, considere enviar o Livefyre um hash md5 da ID de usuário ou uma versão codificada base64. (Informe o seu gerente de conta se você fizer isso.)
+   * **** expira: A data (em época) em que o token expira. Isso deve corresponder ao tempo de sessão dos logons em seu site, para que o estado de logon do Livefyre permaneça sincronizado com o estado de logon do site.
+   * **** display_name: O nome de exibição do usuário no seu sistema de perfil, como deve ser exibido no fluxo de comentários.
 
-1. Gere um token JWT assinado do dicionário usando a Chave de rede fornecida para você pelo Livefyre. Observe que você deve especificar o algoritmo correto de hash, já que o pacote JWT não usa o HS 256 por padrão.
+1. Gere um token JWT assinado do dicionário, usando a chave de rede fornecida a você pelo Livefyre. Observe que você deve especificar o algoritmo hash correto, pois o pacote JWT não usa HS256 por padrão.
 
    ```
           string token = JWT.JsonWebToken.Encode(payload, networkKey, JWT.JwtHashAlgorithm.HS256);
