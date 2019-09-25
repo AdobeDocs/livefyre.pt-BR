@@ -1,10 +1,10 @@
 ---
-description: Pesquise conteúdo por URL para salvar na biblioteca de ativos.
-seo-description: Pesquise conteúdo por URL para salvar na biblioteca de ativos.
+description: Procure conteúdo por URL para salvar na biblioteca de ativos.
+seo-description: Procure conteúdo por URL para salvar na biblioteca de ativos.
 seo-title: Pesquisar por URL
 solution: Experience Manager
 title: Pesquisar por URL
-uuid: 45 be 6 a 85-e 615-46 c 6-92 df 1-82 df 02839315
+uuid: 45be6a85-e615-46c6-9601-82df02839315
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Pesquisar por URL{#search-by-url}
 
-Pesquise conteúdo por URL para salvar na biblioteca de ativos.
+Procure conteúdo por URL para salvar na biblioteca de ativos.
 
-Adicione conteúdo de qualquer URL na Web. Basta inserir o URL que deseja incorporar na página e clicar em retornar.
+Adicione conteúdo de qualquer URL na Web. Basta inserir o URL que deseja incorporar na sua página e clicar em return.
 
-As informações retornadas mostrarão um resumo de cartão da página, incluindo o URL completo, o título, a imagem, a linha de identificação e um trecho do primeiro parágrafo.
+As informações retornadas mostrarão um resumo da página no cartão, incluindo o URL completo, o título da página, a imagem, a linha de bytes e um trecho do primeiro parágrafo.
 
 >[!NOTE]
 >
->Para pesquisas do Instagram usando o campo URL, o autor é retornado como &quot;Instagram&quot;.
+>Para pesquisas do Instagram usando o campo URL, o autor é retornado como "Instagram".
 
