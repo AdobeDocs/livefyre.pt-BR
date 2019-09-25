@@ -1,35 +1,35 @@
 ---
-description: Você pode usar a identidade do Livefyre com o linkedin para permitir que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu site.
-seo-description: Você pode usar a identidade do Livefyre com o linkedin para permitir que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu site.
-seo-title: Criar um aplicativo do linkedin para uso com a identidade do Livefyre
+description: Você pode usar o Livefyre Identity com o LinkedIn para permitir que os usuários usem seus logons do LinkedIn para interagir com os aplicativos do site.
+seo-description: Você pode usar o Livefyre Identity com o LinkedIn para permitir que os usuários usem seus logons do LinkedIn para interagir com os aplicativos do site.
+seo-title: Criar um aplicativo do LinkedIn para uso com a Livefyre Identity
 solution: Experience Manager
-title: Criar um aplicativo do linkedin para uso com a identidade do Livefyre
-uuid: c 5112 f 24-a 4 e 0-4526-afe 8-b 8 f 27 a 3 b 2854
+title: Criar um aplicativo do LinkedIn para uso com a Livefyre Identity
+uuid: c5112f24-a4e0-4526-afe8-b8f27a3b2854
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Criar um aplicativo do linkedin para uso com a identidade do Livefyre{#create-a-linkedin-app-for-use-with-livefyre-identity}
+# Criar um aplicativo do LinkedIn para uso com a Livefyre Identity{#create-a-linkedin-app-for-use-with-livefyre-identity}
 
-Você pode usar a identidade do Livefyre com o linkedin para permitir que os usuários usem seus logons do linkedin para interagir com Aplicativos no seu site.
+Você pode usar o Livefyre Identity com o LinkedIn para permitir que os usuários usem seus logons do LinkedIn para interagir com os aplicativos do site.
 
-Para ativar o logon do linkedin, o Livefyre exige as seguintes informações do aplicativo do linkedin:
+Para ativar o logon do LinkedIn, o Livefyre requer as seguintes informações do aplicativo do LinkedIn:
 
-* Chave do consumidor (chave de API)
+* Chave do consumidor (chave da API)
 * Segredo do consumidor (segredo da API)
 
-Para criar um aplicativo do linkedin para uso com a identidade do Livefyre:
+Para criar um aplicativo do LinkedIn para uso com a Livefyre Identity:
 
-1. Acesse https://www.linkedin.com/secure/developer e faça logon na conta do linkedin para criar um novo aplicativo ou selecione um aplicativo existente para usar com a identidade do Livefyre.
-1. Clique **[!UICONTROL Create Application]** em.
-1. Preencha o formulário para criar o Aplicativo.
-1. No **[!UICONTROL Default Application Permissions]**, ative as permissões **[!UICONTROL r_basicprofile]** e **[!UICONTROL r_emailaddress]** o aplicativo.
+1. Acesse https://www.linkedin.com/secure/developer e entre em sua conta do LinkedIn para criar um novo aplicativo ou selecionar um aplicativo existente para uso com o Livefyre Identity.
+1. Clique em **[!UICONTROL Create Application]**.
+1. Preencha o formulário para criar o aplicativo.
+1. No **[!UICONTROL Default Application Permissions]**, ative as permissões **[!UICONTROL r_basicprofile]** e **[!UICONTROL r_emailaddress]** do aplicativo.
 1. Insira o **[!UICONTROL OAuth 2.0 Authorized Redirect URL]** como `https://identity.livefyre.com/{network-name}.fyre.co/api/v1.0/public/profile/social/complete/linkedin_fyre`.
 1. Salve o aplicativo.
-1. Em **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]**, altere a **[!UICONTROL Enable LinkedIn Login]** alternância para **[!UICONTROL On]**.
-1. Insira a ID do cliente do linkedin e o segredo do cliente do linkedin.
-1. Clique **[!UICONTROL Save Settings]** em.
+1. Em **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]**, alterne a **[!UICONTROL Enable LinkedIn Login]** alternância para **[!UICONTROL On]**.
+1. Insira a ID do cliente do LinkedIn e o segredo do cliente do LinkedIn.
+1. Clique em **[!UICONTROL Save Settings]**.
 
-Ao concluir, a página de detalhes do aplicativo do linkedin listará a chave de API do aplicativo (chave do consumidor) e o segredo da API (segredo do consumidor) para uso na página Configurações de integração do Studio.
+Quando concluída, a página de detalhes do aplicativo do LinkedIn listará a chave da API (chave do consumidor) e o segredo da API (segredo do consumidor) do aplicativo para uso na página Configurações de integração do Studio.
