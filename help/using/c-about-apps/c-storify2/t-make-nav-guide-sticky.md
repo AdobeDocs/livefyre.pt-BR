@@ -1,19 +1,19 @@
 ---
-description: Escolha tornar o Guia de navegação a uma área específica da tela.
-seo-description: Escolha tornar o Guia de navegação a uma área específica da tela.
-seo-title: Tornar o Guia de navegação fixo
+description: Escolha fazer com que o Guia de navegação se fixe a uma área específica da tela.
+seo-description: Escolha fazer com que o Guia de navegação se fixe a uma área específica da tela.
+seo-title: Torne o Guia de navegação fixo
 solution: Experience Manager
-title: Tornar o Guia de navegação fixo
-uuid: baa 74 bce-d 6 eb -4191-ac 15-9 a 878 f 70 bd 96
+title: Torne o Guia de navegação fixo
+uuid: baa74ecb-d6eb-4191-ac15-9a878f70bd96
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Tornar o Guia de navegação fixo{#make-the-navigation-guide-sticky}
+# Torne o Guia de navegação fixo{#make-the-navigation-guide-sticky}
 
-Escolha tornar o Guia de navegação a uma área específica da tela.
+Escolha fazer com que o Guia de navegação se fixe a uma área específica da tela.
 
-1. No Designer App Designer App Designer, alterne para **[!UICONTROL Navigation Guide]** a alternância.
-1. **[!UICONTROL Stickiness]** Alternar para alternar.
+1. No Storify 2 App Designer, ative a **[!UICONTROL Navigation Guide]** alternância.
+1. Ligue a **[!UICONTROL Stickiness]** alternância.
