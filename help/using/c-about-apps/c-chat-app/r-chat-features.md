@@ -1,10 +1,10 @@
 ---
-description: O bate-papo oferece vários recursos para incentivar uma caixa de diálogo rápida e envolvente.
-seo-description: O bate-papo oferece vários recursos para incentivar uma caixa de diálogo rápida e envolvente.
+description: O bate-papo oferece vários recursos para incentivar um diálogo rápido e envolvente.
+seo-description: O bate-papo oferece vários recursos para incentivar um diálogo rápido e envolvente.
 seo-title: Recursos do bate-papo
 solution: Experience Manager
 title: Recursos do bate-papo
-uuid: 8773 a 8 f 9-96 cd -41 db -80 dd -261 af 749 e 4 b 1
+uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,18 +13,18 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Recursos do bate-papo{#chat-features}
 
-O bate-papo oferece vários recursos para incentivar uma caixa de diálogo rápida e envolvente.
+O bate-papo oferece vários recursos para incentivar um diálogo rápido e envolvente.
 
 
 
-Para incentivar uma caixa de diálogo rápida e envolvente, o Chat difere de outros Aplicativos do Livefyre das seguintes maneiras:
+Para incentivar um diálogo rápido e envolvente, o bate-papo difere dos outros aplicativos Livefyre das seguintes maneiras:
 
-* O Editor de comentários é preenchido previamente com o texto «Pressione + tecla + enter para postar. »
-* Os usuários respondem ao Bate-papo como um todo, em vez de um Comentário específico, portanto não há botão Responder e nenhuma quebra nos comentários.
-* Os usuários não são oferecidos a opção de seguir o Chats, e o Notificador de comentários está desativado.
-* As notificações por email assumem o padrão automático como desativado.
-* Os avatars do usuário são menores do que os usados com Comentários.
+* O Editor de comentários é preenchido previamente com o texto "Pressione command+enter para publicar."
+* Os usuários respondem ao Bate-papo como um todo, em vez de a um comentário específico, portanto, não há nenhum botão Responder e nenhum encadeamento nos comentários.
+* Os usuários não têm a opção de seguir os Chats, e o Notificador de comentários está desativado.
+* As notificações por email assumem automaticamente o padrão OFF.
+* Os avatares do usuário são menores que os usados com os Comentários.
 * O botão Curtir aparece somente ao passar o mouse sobre um comentário.
-* As Curtidas em um comentário aparecem sem avatars, somente o número de Curtir.
+* As opções Curtir em um comentário aparecem sem avatares, somente o número de Curtir.
 * A largura do fluxo pode ser reduzida para 250 pixels.
 
