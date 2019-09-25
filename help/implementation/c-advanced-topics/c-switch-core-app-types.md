@@ -1,27 +1,27 @@
 ---
 description: Saiba como mudar de um tipo de aplicativo de conversa para outro.
 seo-description: Saiba como mudar de um tipo de aplicativo de conversa para outro.
-seo-title: Alternar tipos de aplicativo principal
+seo-title: Alternar entre os principais tipos de aplicativos
 solution: Experience Manager
-title: Alternar tipos de aplicativo principal
-uuid: 442 a 517 c -3809-46 c 5-bb 5 f -8668 a 29 dc 3 e 8
+title: Alternar entre os principais tipos de aplicativos
+uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 
 
-# Alternar tipos de aplicativo principal{#switch-core-app-types}
+# Alternar entre os principais tipos de aplicativos{#switch-core-app-types}
 
 Saiba como mudar de um tipo de aplicativo de conversa para outro.
 
-O Lifefyre permite alterar Coleções de um tipo de Aplicativo principal do Livefyre para outro (Comentários, Blog ao vivo ou Bate-papo) simplesmente alterando algumas configurações em seus `collectionMeta` dados.
+O Lifefyre permite que você altere Coleções de um tipo de aplicativo Livefyre Core para outro (Comentários, Blog ao vivo ou Bate-papo) simplesmente alterando algumas configurações nos seus `collectionMeta` dados.
 
-Para implementar um tipo específico de aplicativo, adicione um novo campo ao `collectionMeta` seu objeto. Os comentários são o padrão para que você não precise fazer essas atualizações se esse for o seu aplicativo desejado. Para mudar para um aplicativo diferente após a criação de uma coleção, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação `collectionMeta` do token.
+Para implementar um tipo específico de aplicativo, adicione um novo campo ao seu `collectionMeta` objeto. Os comentários são o padrão, portanto, não será necessário fazer essas atualizações se esse for o aplicativo desejado. Para alterar para um aplicativo diferente após a criação de uma coleção, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação do `collectionMeta` token.
 
 ## Blog ao vivo {#section_kvj_3jj_11b}
 
-### Exemplo PHP
+### Exemplo de PHP
 
 ```
 use LivefyreLivefyre; 
@@ -81,7 +81,7 @@ conv_config = dict(
 )
 ```
 
-### Rupor exemplo
+### Exemplo de Ruby
 
 ```
 require 'livefyre'  
@@ -112,7 +112,7 @@ conv_config = {
 
 ## Blog ao vivo {#section_bqt_cjj_11b}
 
-### Exemplo PHP
+### Exemplo de PHP
 
 ```
 use LivefyreLivefyre; 
@@ -172,7 +172,7 @@ conv_config = dict(
 )
 ```
 
-### Rupor exemplo
+### Exemplo de Ruby
 
 ```
 require 'livefyre' 
@@ -263,7 +263,7 @@ conv_config = dict( "el" = "targetElement",
 )
 ```
 
-### Rupor exemplo
+### Exemplo de Ruby
 
 ```
 require 'livefyre' 
