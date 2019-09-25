@@ -1,10 +1,10 @@
 ---
-description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou Studio.
-seo-description: Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou Studio.
+description: Carregue o conteúdo selecionado nos aplicativos do Livefyre ou na biblioteca do Studio.
+seo-description: Carregue o conteúdo selecionado nos aplicativos do Livefyre ou na biblioteca do Studio.
 seo-title: Fluxos
 solution: Experience Manager
 title: Fluxos
-uuid: 01 ea 5 d 33-5 ec 1-46 f 4-b 724-8431 cda 443 a 1
+uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,21 +13,21 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Fluxos{#streams}
 
-Coloque o conteúdo selecionado em sua Biblioteca do Livefyre Apps ou Studio.
+Carregue o conteúdo selecionado nos aplicativos do Livefyre ou na biblioteca do Studio.
 
-Os fluxos permitem que você crie regras para extrair conteúdo de sites de mídia social e empurrar o conteúdo para a sua Biblioteca de ativos ou um Aplicativo do Livefyre selecionado.
+Os fluxos permitem que você crie regras para extrair conteúdo de sites de mídia social e enviá-lo para sua Biblioteca de ativos ou para um aplicativo Livefyre selecionado.
 
-As opções de regras variam por tipo de fonte.
+(As opções de regra variam de acordo com o tipo de origem.)
 
-Fluxos definidos com destinos de Pastas salvarão conteúdo como ativos na Biblioteca de ativos.
+Os fluxos definidos com destinos de Pasta salvarão o conteúdo como ativos na sua Biblioteca de ativos.
 
-Vários fluxos podem ser encaminhados para um único destino (pasta ou aplicativo).
+Vários fluxos podem ser enviados para um único destino (pasta ou aplicativo).
 
-Fluxos definidos com destinos do aplicativo empurrão o conteúdo diretamente para o aplicativo e estarão disponíveis na guia Publicado na biblioteca.
+Os fluxos definidos com destinos do aplicativo enviarão conteúdo diretamente para o aplicativo e estarão disponíveis na guia Publicado na biblioteca.
 
-Use a interface de Fluxos para definir regras pelas quais o Studio barra o conteúdo selecionado na sua Biblioteca de ativos do Livefyre Apps.
+Use a interface do Streams para definir as regras pelas quais o Studio carregará o conteúdo selecionado nos aplicativos Livefyre ou na Biblioteca de ativos.
 
 >[!NOTE]
 >
->O conteúdo criado enquanto o Stream está ativo será exibido nos Aplicativos. O conteúdo criado antes das regras são definidas e o Fluxo está ativo, ou depois que um Fluxo foi desativado, não será exibido nos aplicativos.
+>O conteúdo criado enquanto seu Stream está ativo aparecerá em seus aplicativos. O conteúdo criado antes das regras serem definidas e o Stream estiver ativo, ou depois que um Stream for desativado, não será exibido em seus Aplicativos.
 
