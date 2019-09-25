@@ -1,10 +1,10 @@
 ---
-description: Gerenciamento de conteúdo na rede do Livefyre.
-seo-description: Gerenciamento de conteúdo na rede do Livefyre.
+description: Gerenciamento de conteúdo em sua rede Livefyre.
+seo-description: Gerenciamento de conteúdo em sua rede Livefyre.
 seo-title: Guia Conteúdo do aplicativo
 solution: Experience Manager
 title: Guia Conteúdo do aplicativo
-uuid: 65 b 23085-2 b 79-4 a 6 f -96 c 9-44 b 421805312
+uuid: 65b23085-2b79-4a6f-96c9-44b421805312
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
@@ -13,138 +13,138 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 # Guia Conteúdo do aplicativo{#app-content-tab}
 
-Gerenciamento de conteúdo na rede do Livefyre.
+Gerenciamento de conteúdo em sua rede Livefyre.
 
-A guia Conteúdo do aplicativo na Biblioteca permite pesquisar e moderar conteúdo publicado em seus aplicativos. A **[!UICONTROL App Content]** guia permite vários filtros de pesquisa com pesquisa curinga para permitir que você defina de forma mais rápida e fácil seus parâmetros de pesquisa.
+A guia Conteúdo do aplicativo na Biblioteca permite que você pesquise e modere o conteúdo publicado em seus aplicativos. A **[!UICONTROL App Content]** guia ativa vários filtros de pesquisa com pesquisa curinga, para permitir que você defina os parâmetros de pesquisa de forma mais rápida e fácil.
 
 Use a guia Conteúdo do aplicativo para:
 
-* Pesquisar conteúdo
+* Procurar conteúdo
 * Exibir histórico de conteúdo
 * Moderar conteúdo
 * Adicionar uma tag
 * Conteúdo do recurso
-* Associar conteúdo a produtos do Catálogo de produtos
+* Associar conteúdo a produtos do catálogo de produtos
 
 Para obter mais informações sobre como moderar o conteúdo usando a guia Conteúdo do aplicativo, consulte [](../c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
 
-## Pesquisa de curinga {#section_jvr_ntm_zz}
+## Pesquisa curinga {#section_jvr_ntm_zz}
 
-Os campos de pesquisa do Livefyre suportam curingas, que permitem adicionar um asterisco (*) a palavras (ou fragmentos de palavras) para capturar correspondências parciais.
+Os campos de pesquisa Livefyre oferecem suporte a curingas, que permitem adicionar um asterisco ( * ) a palavras (ou fragmentos de palavras) para capturar correspondências parciais.
 
 Por exemplo:
 
-* bola retorna somente a bola
-* ball * retorna bola e balão
-* * ball retorna bola e futebol
-* * ball * retorna bola e uniball e balanceado de neve
+* bola retorna apenas bola
+* ball* retorna bola e balão
+* *bola retorna bola e futebol
+* *ball* retorna bola, despejo e nevado
 
-## Pesquisar conteúdo {#section_fw1_mtm_zz}
+## Procurar conteúdo {#section_fw1_mtm_zz}
 
-O painel Conteúdo do aplicativo permite restringir a pesquisa usando várias opções diferentes de filtragem de conteúdo.
+O painel Conteúdo do aplicativo permite restringir sua pesquisa usando várias opções diferentes de filtragem de conteúdo.
 
 ![](assets/PublishedState-1024x367.png)
 
-Use o **[!UICONTROL Quick Filters]** pulldown para restringir o conteúdo retornado para **[!UICONTROL All Content]****[!UICONTROL All Sidenotes]****[!UICONTROL Approved]****[!UICONTROL Approved & Flagged]**, **[!UICONTROL Pending]** ou **[!UICONTROL Rights Requests]** status. Em seguida, selecione uma **[!UICONTROL Filter by]** opção e use as caixas de seleção ou campos de entrada disponíveis para restringir sua pesquisa.
+Use o **[!UICONTROL Quick Filters]** menu suspenso para restringir o conteúdo retornado ao **[!UICONTROL All Content]**, **[!UICONTROL All Sidenotes]**, **[!UICONTROL Approved]**, **[!UICONTROL Approved & Flagged]** ou **[!UICONTROL Pending]****[!UICONTROL Rights Requests]** status. Em seguida, selecione uma **[!UICONTROL Filter by]** opção e use as caixas de seleção ou os campos de entrada disponíveis para restringir sua pesquisa.
 
-Use o menu suspenso para classificar o conteúdo na lista por **[!UICONTROL Newest]****[!UICONTROL Oldest]**, **[!UICONTROL Recently updated]** ou **[!UICONTROL Most flags]****[!UICONTROL Most liked]**.
+Use o menu suspenso para classificar o conteúdo na lista por **[!UICONTROL Newest]**, **[!UICONTROL Oldest]**, **[!UICONTROL Recently updated]** ou **[!UICONTROL Most flags]** **[!UICONTROL Most liked]**.
 
 ## Filtrar por opções {#section_aqn_xqm_zz}
 
-Use **[!UICONTROL Filter by]** a barra para filtrar pelas seguintes opções:
+Use a **[!UICONTROL Filter by]** barra para filtrar pelas seguintes opções:
 
-* **Estado** Permite filtrar pelo estado atual de moderação do conteúdo: ** [!UICONTROL All Content]** **[!UICONTROL Approved]**, **[!UICONTROL Pending]** ou **[!UICONTROL Bozo]**.
+* **Estado** Permite filtrar pelo estado de moderação atual do conteúdo:*** [!UICONTROL All Content]*, **[!UICONTROL Approved]**, **[!UICONTROL Pending]** ou **[!UICONTROL Bozo]**.
 
-* **Origem** Permite filtrar pela fonte do conteúdo. Selecione **[!UICONTROL Livefyre]** para listar o conteúdo gerado pelo usuário publicado diretamente no stream. Selecione **[!UICONTROL Facebook]**, **[!UICONTROL Twitter]** ou **[!UICONTROL RSS]** inclua conteúdo inserido em seus aplicativos a partir dessas fontes.
+* **Origem** Permite filtrar pela origem do conteúdo. Selecione **[!UICONTROL Livefyre]** para listar o conteúdo gerado pelo usuário publicado diretamente no fluxo. Selecione **[!UICONTROL Facebook]**, **[!UICONTROL Twitter]** ou **[!UICONTROL RSS]** para incluir o conteúdo extraído para seus aplicativos dessas fontes.
 
-* **Sinalizadores** que selecionam Sinalizadores permitem filtrar por **[!UICONTROL User Flags]** (Spam, Desativado, Ofensivo ou Discordar) **[!UICONTROL System Flags]** , aplicado pela SAFE (Profanity, Spam ou Moderado magicamente) ou **[!UICONTROL Moderation Recommendations]**. ![](assets/appcontentfilter.png)
+* **Sinalizadores** A seleção de Sinalizadores permite filtrar por **[!UICONTROL User Flags]** (Spam, Fora do tópico, Ofensivo ou Discordo), **[!UICONTROL System Flags]** aplicado pelo SAFE (Profanidade, Spam ou Magicamente Moderado) ou **[!UICONTROL Moderation Recommendations]**. ![](assets/appcontentfilter.png)
 
-* **Data/hora** Permite o fiter quando o conteúdo estava originalmente **[!UICONTROL Created]** (ou é colocado no aplicativo por meio do socialsync ou um Stream) ou pela última **[!UICONTROL Modified]** vez (editado, sinalizado ou o estado alterado).
+* **Data/hora** Permite que você se ajuste quando o conteúdo foi originalmente **[!UICONTROL Created]** (ou colocado no aplicativo por meio do SocialSync ou de um Stream) ou por último **[!UICONTROL Modified]** (editado, sinalizado ou o estado alterado).
 
-* **Autor** Permite filtrar pelo **[!UICONTROL IP]** endereço do autor, **[!UICONTROL Display Name]** (encontrado no painel Usuários ou de cima do conteúdo postado pelo autor) ou **[!UICONTROL User ID]**(encontrado no painel Usuários).
+* **Autor** Permite filtrar pelo **[!UICONTROL IP]** endereço do autor, **[!UICONTROL Display Name]** (localizado no painel Usuários ou acima do conteúdo publicado pelo autor) ou **[!UICONTROL User ID]**(encontrado no painel Usuários).
 
-* **Contém** permite filtrar os 90 dias mais recentes de conteúdo por **[!UICONTROL Keyword]** ou **[!UICONTROL Content Tag]**. Marque **[!UICONTROL Media]** a caixa de seleção para retornar somente o conteúdo que contém Mídia. (Para pesquisar todo o conteúdo, role para baixo todo o conteúdo da lista e clique **[!UICONTROL Search full data]** em.)
+* **Contém** Permite filtrar os 90 dias mais recentes de conteúdo por **[!UICONTROL Keyword]** ou **[!UICONTROL Content Tag]**. Marque a caixa de **[!UICONTROL Media]** seleção para retornar somente o conteúdo que contém Mídia. (Para pesquisar por todo o conteúdo, role para baixo por todo o conteúdo da lista e clique em **[!UICONTROL Search full data]**.)
 
-   **Observação:** Não há suporte para várias palavras-chave e pesquisa de tags de conteúdo. Se várias palavras-chave ou tags forem inseridas, a última palavra será usada para a pesquisa.
+   **** Observação: Não há suporte para várias pesquisas de palavras-chave e marcas de conteúdo. Se várias palavras-chave ou tags forem inseridas, a última palavra será usada para a pesquisa.
 
-   Ao pesquisar por Tag de conteúdo, as tags sugeridas serão preenchidas automaticamente à medida que você digita no campo de pesquisa. Os resultados da pesquisa retornarão todo o conteúdo que recebeu a tag. (Use este campo para pesquisar conteúdo em destaque ou clique no **[!UICONTROL Featured]** rótulo em qualquer conteúdo em destaque no Studio.)
+   Ao pesquisar por tag de conteúdo, as tags sugeridas serão preenchidas automaticamente à medida que você digita no campo de pesquisa. Os resultados da pesquisa retornarão todo o conteúdo que já recebeu a tag . (Use esse campo para procurar conteúdo em destaque ou clique no **[!UICONTROL Featured]** rótulo de qualquer conteúdo em destaque no Studio.)
 
-   **Observação:** Use um sinal de menos (-) antes de um nome de tag para pesquisar o conteúdo que não inclui essa tag. Por exemplo: Pesquise por &#39;-Miley&#39;para pesquisar por todo o conteúdo que não inclui a tag&#39;Miley &#39;.
+   **** Observação: Use um sinal de menos (-) antes de um nome de tag para procurar conteúdo que não inclua essa tag. Por exemplo: Procure "-Miley" para procurar por todo o conteúdo que não inclui a tag "Miley".
 
-* **Aplicativo** Permite filtrar por **[!UICONTROL Collection ID]**, **[!UICONTROL App Tag]** ou ID **pai**. A filtragem por ID pai retorna todo o conteúdo que é uma resposta à ID de conteúdo de entrada. (Filtrar por várias tags inserindo tags separadas por vírgula.)
+* **Aplicativo** Permite filtrar por **[!UICONTROL Collection ID]**, **[!UICONTROL App Tag]** ou ID **pai**. A filtragem por ID pai retorna todo o conteúdo que é uma resposta à ID de conteúdo de entrada. (Filtre por várias tags digitando tags separadas por vírgula.)
 
-* **Direitos** Permite filtrar por status de Solicitações de direitos: ** [!UICONTROL Requested]** **[!UICONTROL Granted]**, **[!UICONTROL Replied]** ou **[!UICONTROL Expired]**.
+* **Direitos** Permite filtrar pelo status Solicitações de direitos:** [!UICONTROL Requested]**, **[!UICONTROL Granted]**, **[!UICONTROL Replied]** ou **[!UICONTROL Expired]**.
 
 ## Conteúdo Bozo {#section_afl_vqm_zz}
 
-Em aplicativos, **[!UICONTROL Bozo]** o conteúdo é exibido somente para o autor do conteúdo. Isso permite que o usuário acredite que seu conteúdo foi aprovado, ao ocultá-lo a partir de todos os outros usuários e moderadores.
+Em Aplicativos, **[!UICONTROL Bozo]** o conteúdo é exibido somente para o autor do conteúdo. Isso permite que o usuário acredite que seu conteúdo foi aprovado, enquanto o oculta de todos os outros usuários e moderadores.
 
 >[!NOTE]
 >
->O conteúdo social originado com socialsync ou streams **[!UICONTROL cannot]** é definido como Bozo.
+>O conteúdo social originário do SocialSync ou do Streams **[!UICONTROL cannot]** deve ser definido como Bozo.
 
-Você pode conteúdo Bozo pelos seguintes motivos:
+Você pode fazer o conteúdo do Bozo pelos seguintes motivos:
 
-* O conteúdo identificado como Spam por SAFE é automaticamente definido para o estado do Bozo.
-* Todo o conteúdo de Usuários proibidos é definido automaticamente como Bozo.
+* O conteúdo identificado como Spam pelo SAFE é automaticamente definido para o estado Bozo.
+* Todo o conteúdo de Usuários proibidos é automaticamente definido como Bozo.
 * O conteúdo pode ser marcado como Bozo do Studio.
-* Os moderadores podem conteúdo Bozo diretamente no stream.
+* Os moderadores podem fazer zoom diretamente no stream.
 
 ## Exibir histórico de conteúdo {#section_ayz_tqm_zz}
 
-O painel de conteúdo permite analisar o histórico de todo o conteúdo listado, incluindo a pré-moderação, a filtragem de spam, a data da publicação e qualquer sinalizador ou notas de usuário atribuídas ao item.
+O painel de conteúdo permite que você analise o histórico de todo o conteúdo listado, incluindo pré-moderação, filtragem de spam, data de publicação e quaisquer sinalizadores de usuário ou observações atribuídas ao item.
 
-Use as guias na parte inferior do painel de conteúdo para visualizar seu histórico.
+Use as guias na parte inferior do painel de conteúdo para exibir seu histórico.
 
-* **[!UICONTROL More Info:]** lista todas as atividades desse conteúdo, incluindo envio, edição, verificação de spam, alteração de estado e notas. A ID do conteúdo do Livefyre e o endereço IP do usuário também são exibidos nesta seção.
-* **[!UICONTROL Replies:]** lista um máximo de 6 respostas. Clique **[!UICONTROL Show all replies]** em para exibir todas as respostas à publicação.
+* **[!UICONTROL More Info:]** lista todas as atividades neste conteúdo, incluindo envio, edição, verificação de spam, alteração de estado e observações. A ID de conteúdo do Livefyre e o endereço IP do usuário também são exibidos nesta seção.
+* **[!UICONTROL Replies:]** lista um máximo de 6 respostas. Clique em **[!UICONTROL Show all replies]** para exibir todas as respostas à publicação.
 
-* **[!UICONTROL Flags & Reports:]** lista todos os sinalizadores de usuário, com o avatar do usuário que sinalizou o conteúdo e quaisquer Relatórios (notas adicionadas pelo usuário ao sinalizar o conteúdo).
-* **[!UICONTROL Add a note:]** permite adicionar uma nota, visível para outros administradores ou moderadores.
+* **[!UICONTROL Flags & Reports:]** lista todos os sinalizadores de usuário, com o avatar do usuário que sinalizou o conteúdo e quaisquer Relatórios (observações que foram adicionadas pelo usuário ao sinalizar o conteúdo).
+* **[!UICONTROL Add a note:]** permite que você adicione uma nota, visível para outros Administradores ou Moderadores.
 * **[!UICONTROL Request Rights:]** abre a **[!UICONTROL New Rights Request]** caixa de diálogo, a partir da qual uma Solicitação de direitos pode ser emitida.
 
-* ******[!UICONTROL Save as Asset:]abre a **[!UICONTROL Advanced Options]** caixa de diálogo, que permite salvar o item selecionado na Biblioteca de ativos, Publicar em um aplicativo ou solicitar direitos de reutilização do autor.
+* **[!UICONTROL Save as Asset:]**abre a **[!UICONTROL Advanced Options]** caixa de diálogo, que permite salvar o item selecionado na sua Biblioteca de ativos, Publicá-lo em um aplicativo ou solicitar direitos de reutilização do autor.
 
 ![](assets/PublishedMoreInfo-1024x462.png)
 
 ## Adicionar uma tag ao conteúdo {#section_xb4_mxr_rdb}
 
-Marcar conteúdo permite categorizar e organizar o conteúdo para facilitar a recuperação e a personalização do estilo, ou marcar o conteúdo como destaque.
+A marcação de conteúdo permite que você categorize e organize o conteúdo para fácil recuperação e personalização de estilo, ou marque o conteúdo como em destaque.
 
-Para adicionar Tags, basta clicar no ícone de adição ( **[!UICONTROL +]**) sob conteúdo. Insira uma nova tag ou selecione-a de uma lista de tags existentes.
+Para adicionar Tags, basta clicar no ícone de adição ( **[!UICONTROL +]**) em conteúdo. Insira uma nova tag ou selecione em uma lista de tags existentes.
 
 ![](assets/PublishedAddTag-1024x338.png)
 
-## Pesquisar imagens em todos os ativos {#section_zxf_hsf_wcb}
+## Procurando por imagens em todos os ativos {#section_zxf_hsf_wcb}
 
-Após adicionar o conteúdo à biblioteca, você pode pesquisar o conteúdo por tags inteligentes.
+Depois de adicionar o conteúdo à biblioteca, é possível pesquisar o conteúdo por tags inteligentes.
 
-Na Biblioteca, em Todos os ativos, você pode pesquisar imagens existentes clicando **[!UICONTROL Show Filters]** em e:
+Na Biblioteca, em Todos os ativos, você pode pesquisar imagens existentes clicando em **[!UICONTROL Show Filters]** e, em seguida:
 
-* Inserir texto para pesquisar no campo de pesquisa
+* Inserir texto para pesquisa no campo de pesquisa
 * Classificação por relevância
-* Inserir texto no **[!UICONTROL Tags]** campo para pesquisar por Tags inteligentes. O algoritmo de classificação Tags inteligentes filtra o conteúdo usando uma pontuação de confiança de tag inteligente, a novidade do conteúdo e quantas estrelas um usuário atribuiu ao conteúdo.
+* Inserir texto no **[!UICONTROL Tags]** campo para pesquisar por Tags inteligentes. O algoritmo de classificação de Tags inteligentes filtra o conteúdo usando uma pontuação de confiança de tag inteligente, a novidade do conteúdo e o número de estrelas que um usuário deu ao conteúdo.
 
 ## Conteúdo em destaque {#section_emb_kqm_zz}
 
-Selecione a tag padrão **[!UICONTROL Featured]** para marcar o conteúdo como destaque e realce-o como importante para os usuários. Depois de tags, use opções de estilo personalizadas para personalizar Conteúdo em destaque nos aplicativos.
+Selecione a **[!UICONTROL Featured]** tag padrão para marcar o conteúdo como em destaque e destaque-a como importante para seus usuários. Depois de marcados, use opções de estilização personalizadas para personalizar o Conteúdo em destaque em seus aplicativos.
 
-## Como recurso ou conteúdo sem recursos {#section_ojx_3qm_zz}
+## Para Recurso ou Cancelar Recurso de Conteúdo {#section_ojx_3qm_zz}
 
-* No Studio, clique no **[!UICONTROL +]** sinal ao lado de um conteúdo, selecione a **[!UICONTROL Featured]** tag na lista suspensa e clique **[!UICONTROL Enter]** em para conteúdo de recurso. A tag será salva e exibida ao lado do pedaço de conteúdo.
+* No Studio, clique no **[!UICONTROL +]** sinal ao lado de um conteúdo, selecione a **[!UICONTROL Featured]** tag na lista suspensa e clique **[!UICONTROL Enter]** para Funcionar o conteúdo. A tag será salva e exibida ao lado do conteúdo.
 
-* Para cancelar o recurso, clique na **[!UICONTROL x]****[!UICONTROL Featured]** tag exibida na parte do conteúdo.
+* Para desativar o recurso, clique **[!UICONTROL x]** na **[!UICONTROL Featured]** tag exibida no conteúdo.
 
-* Em um Comentário, Blog ativo ou Revisão, passe o mouse sobre o conteúdo que deseja adicionar e clique **[!UICONTROL Feature]** em. Para desfazer o recurso, passe o mouse sobre o conteúdo e clique **[!UICONTROL Unfeature]** em.
+* Em um aplicativo de Comentários, Blog ao vivo ou Revisões, passe o mouse sobre o conteúdo que deseja incluir e clique em **[!UICONTROL Feature]**. Para cancelar o recurso, passe o mouse sobre o conteúdo e clique em **[!UICONTROL Unfeature]**.
 
 >[!NOTE]
 >
->Devido a limitações de espaço, o conteúdo de bate-papo pode ser destacado ou não destacado usando o Studio e pode não ser destacado no próprio aplicativo.
+>Devido a restrições de espaço, o conteúdo de bate-papo pode ser apresentado apenas ou não usando o Studio e pode não ser apresentado dentro do próprio aplicativo.
 
 ## Editar conteúdo em destaque {#section_pyw_hqm_zz}
 
-A maioria das ações regulares no conteúdo pode ser tomada em conteúdo em destaque, com exceção do seguinte:
+As ações mais regulares no conteúdo podem ser realizadas no conteúdo em destaque, com exceção dos seguintes:
 
 * O conteúdo em destaque não pode ser sinalizado.
-* Os usuários não poderão editar seu conteúdo após ele ter sido destacado, embora ainda possam excluí-lo se quiserem. Os moderadores podem editar conteúdo em destaque.
+* Os usuários não podem editar seu conteúdo depois que ele for apresentado em destaque, embora ainda possam excluí-lo se desejarem. Os moderadores podem editar o conteúdo em destaque.
 
