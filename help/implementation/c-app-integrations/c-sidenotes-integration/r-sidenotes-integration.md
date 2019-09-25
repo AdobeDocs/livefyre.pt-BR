@@ -1,27 +1,27 @@
 ---
-description: Integre um aplicativo de Sidenotes seguindo um processo semelhante a Aplicativos principais.
-seo-description: Integre um aplicativo de Sidenotes seguindo um processo semelhante a Aplicativos principais.
-seo-title: Integração de sidenotes
+description: Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
+seo-description: Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
+seo-title: Integração com Sidenotes
 solution: Experience Manager
-title: Integração de sidenotes
-uuid: 4 aa 14 ada -402 a -482 d-b 43 e -96 f 37 afa 6 c 53
+title: Integração com Sidenotes
+uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 
 
-# Integração de sidenotes{#sidenotes-integration}
+# Integração com Sidenotes{#sidenotes-integration}
 
-Integre um aplicativo de Sidenotes seguindo um processo semelhante a Aplicativos principais.
+Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
 
-Como regra geral, se a integração do aplicativo principal estiver concluída, o código escrito para gerar o `collectionMeta` objeto poderá ser reutilizado para auxiliar.
+Como regra geral, se a integração do aplicativo principal estiver concluída, o código gravado para gerar o `collectionMeta` objeto poderá ser reutilizado para Sidenotes.
 
-Você também pode reutilizar `auth` seus representantes existentes fornecendo um `auth` delegado criado `fyre.conv` com a opção Auxiliar no `authDelegate` campo (opcional).
+Você também pode reutilizar seus `auth` delegados existentes fornecendo um `auth` delegado criado com `fyre.conv` para Sidenotes no campo (opcional) `authDelegate` .
 
 >[!NOTE]
 >
->Os auxiliares permitem que você inclua `network`, `siteId`e `articleId` em um único objeto, em vez de passá-los separadamente em outras partes do construtor.
+>As notas de identificação permitem incluir `network`, `siteId`e `articleId` em um único objeto, em vez de passá-los separadamente em outras partes do construtor.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +53,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Conforme observado na `collectionMeta` seção Construção, `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON pega o seguinte formato antes de ser codificado em JWT.
+Conforme observado na `collectionMeta` seção Construção, `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT.
 
 ```
 { 
@@ -69,7 +69,7 @@ Para obter mais informações, consulte o `collectionMeta` token.
 
 ## Configuração móvel
 
-As sidenotes foram otimizadas para uso em dispositivos móveis. Para obter melhores resultados com versões móveis de seu aplicativo Livefyre, defina a opção dimensionável do usuário para não. Por exemplo:
+As notas de identificação foram otimizadas para uso em dispositivos móveis. Para obter melhores resultados com as versões móveis do aplicativo Livefyre, defina a opção dimensionável pelo usuário como não. Por exemplo:
 
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no">
