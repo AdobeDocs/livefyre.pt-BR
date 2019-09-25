@@ -1,28 +1,28 @@
 ---
-description: É possível adicionar o domínio de vídeo à lista de permissão.
-seo-description: É possível adicionar o domínio de vídeo à lista de permissão.
-seo-title: Userprivacyvideowhitelist
+description: Você pode adicionar o domínio de vídeo à lista de permissões usando .
+seo-description: Você pode adicionar o domínio de vídeo à lista de permissões usando .
+seo-title: userPrivacyVideoWhitelist
 solution: Experience Manager
-title: Userprivacyvideowhitelist
-uuid: adfead 18-b 73 b -4 ac 4-97 a 0-d 39 f 528 b 7606
+title: userPrivacyVideoWhitelist
+uuid: adfead18-b73b-4ac4-97a0-d39f528b7606
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Userprivacyvideowhitelist{#userprivacyvideowhitelist}
+# userPrivacyVideoWhitelist{#userprivacyvideowhitelist}
 
-Se você usar seus próprios vídeos e players personalizados como parte dos vídeos exibidos em um aplicativo de visualização do Livefyre, é possível adicionar o seu domínio de vídeo à lista de permissão. A lista de permissões do seu domínio de vídeo remove a máscara de vídeo dos seus vídeos e players personalizados.
+Se você usar seus próprios vídeos e players personalizados como parte dos vídeos exibidos em um aplicativo de visualização Livefyre, poderá adicionar o domínio de vídeo à lista de permissões. A lista de permissões de seu domínio de vídeo remove a máscara de vídeo para seus vídeos e players personalizados.
 
 >[!NOTE]
 >
->Use caminhos específicos para garantir que apenas os vídeos que são seguros são autorizados. Se você colocar um caminho amplo (por exemplo, sampledomain.com), poderá usar vídeos não seguros de lista de permissões.
+>Use caminhos específicos para garantir que somente os vídeos que são seguros estejam na lista de permissões. Se você colocar um caminho amplo (por exemplo, sampledomain.com), poderá adicionar vídeos não seguros à lista de permissões.
 
-* Adicionar `userPrivacyVideoWhitelist` depois `userPrivacyOptOut`. Você pode adicionar todos os sinalizadores de privacidade do Livefyre simultaneamente como parte de um objeto do Livefyre.
-* `userPrivacyVideoWhitelist` se aplica somente ao conteúdo que não está incorporado a mídia social.
+* Adicionar `userPrivacyVideoWhitelist` depois `userPrivacyOptOut`. Você pode adicionar todos os sinalizadores de privacidade do Livefyre todos de uma só vez como parte de um objeto do Livefyre.
+* `userPrivacyVideoWhitelist` aplica-se somente ao conteúdo que não está incorporado nas redes sociais.
 
-No exemplo a seguir, os vídeos exibidos em Aplicativos com `sampledomain.com/cdn/videos` o caminho são autorizados:
+No exemplo a seguir, os vídeos exibidos em Aplicativos com o `sampledomain.com/cdn/videos` caminho são exibidos na lista de permissões:
 
 ```
 userPrivacyVideoWhitelist: ["sampledomain.com/cdn/videos"]
