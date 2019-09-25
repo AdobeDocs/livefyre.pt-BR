@@ -1,10 +1,10 @@
 ---
-description: Altere as opções de tamanho, largura e interação do aplicativo carrossel.
-seo-description: Altere as opções de tamanho, largura e interação do aplicativo carrossel.
+description: Altere o tamanho, a largura e as opções de interação do aplicativo Carrossel.
+seo-description: Altere o tamanho, a largura e as opções de interação do aplicativo Carrossel.
 seo-title: Personalizar um carrossel usando o Studio
 solution: Experience Manager
 title: Personalizar um carrossel usando o Studio
-uuid: 24 f 080 fc -37 bf -40 d 4-8 c 1 a-a 502 ee 8 ac 978
+uuid: 24f080fc-37bf-40d4-8c1a-a502ee8ac978
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Personalizar um carrossel usando o Studio{#customize-a-carousel-using-studio}
 
-Altere as opções de tamanho, largura e interação do aplicativo carrossel.
+Altere o tamanho, a largura e as opções de interação do aplicativo Carrossel.
 
-Todos os **[!UICONTROL Style]** aplicativos usam **[!UICONTROL Config]** e opções no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre o padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** as opções para todos os aplicativos no **[!UICONTROL App Designer]**.
+Todos os aplicativos usam **[!UICONTROL Style]** e **[!UICONTROL Config]** opções no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
 
 Você pode personalizar um carrossel usando as seguintes opções adicionais no App Designer:
 
@@ -25,36 +25,36 @@ Você pode personalizar um carrossel usando as seguintes opções adicionais no 
 
 * **[!UICONTROL Orientation]**
 
-   **[!UICONTROL Responsive]**. Apenas para telas do computador
+   **[!UICONTROL Responsive]**. Somente para telas de computador
 
-   * Se o conteúdo tiver mais de 600 pixels, é exibido horizontalmente
-   * Se o conteúdo for menor que 600 pixels, é exibido verticalmente
-   * **Vertical.** Para telas de computador ou dispositivos móveis. Em dispositivos móveis, o cartão diminui para ajustar o tamanho da tela.
+   * Se o conteúdo for maior que 600 pixels, será exibido na horizontal
+   * Se o conteúdo for menor que 600 pixels, será exibido verticalmente
+   * **Vertical.** Para telas de computador ou dispositivos móveis. Em dispositivos móveis, a placa encolhe para se ajustar ao tamanho da tela.
 
-* **[!UICONTROL Call-to-action button]** Você pode usar o botão Chamar a ação com um catálogo de produtos para direcionar os usuários para um produto ou para seu site para obter mais ações.
+* **[!UICONTROL Call-to-action button]** Você pode usar o botão Chamada para ação com um catálogo de produtos para direcionar os usuários para um produto ou para seu site para outras ações.
 
-   * **[!UICONTROL Call-to-action button]** Alterne a alternância para para exibir o botão de chamada para ação.
-   * **[!UICONTROL Require rights to display products]** Alterne a alternância para para exigir que o proprietário do conteúdo tenha concedido direitos para o conteúdo antes de um botão de chamada para ação aparecer para o conteúdo.
+   * **[!UICONTROL Call-to-action button]** Alterne a alternância para ligado para exibir o botão de chamada para ação.
+   * **[!UICONTROL Require rights to display products]** Alterne a alternância para on para exigir que o proprietário do conteúdo tenha concedido direitos para o conteúdo antes que um botão de chamada para ação seja exibido para o conteúdo.
    >[!NOTE]
    >
-   >O conteúdo é exibido mesmo se os direitos não forem concedidos para o conteúdo, mas o botão de chamada de ação não será exibido com o conteúdo, a menos que os direitos do conteúdo sejam concedidos.
+   >O conteúdo é exibido mesmo se os direitos não forem concedidos para o conteúdo, mas o botão de chamada para ação não será exibido com o conteúdo, a menos que os direitos para o conteúdo sejam concedidos.
 
-   * **[!UICONTROL Show call-to-action in tile]**. Escolha se deseja exibir o botão de chamada de ação em um bloco em vez de exibir o botão de chamada de ação somente quando o visitante do site clica em um cartão e abre o conteúdo em uma janela maior.
-   * **[!UICONTROL Call-to-action indication text]** O texto a ser exibido para solicitar que o usuário clique no cartão para abrir o modal de chamada de ação.
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamar-para-ação no modal de conteúdo. O texto padrão é &quot;Loja desses produtos: &quot;.
-   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada de ação no modal de conteúdo. O texto padrão é &quot;Comprar agora: &quot;.
-   * **[!UICONTROL Product display options]** Escolha se deseja exibir o **[!UICONTROL Photo]** botão **[!UICONTROL Product name]** de ação de chamada e chamada.
+   * **[!UICONTROL Show call-to-action in tile]**. Escolha se deseja exibir o botão de chamada para ação em um bloco em vez de exibir o botão de chamada para ação somente quando o visitante do site clicar em um cartão e abrir o conteúdo em uma janela maior.
+   * **[!UICONTROL Call-to-action indication text]** O texto a ser exibido para solicitar que o usuário clique no cartão para abrir o modal de chamada para ação.
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamada para ação no modal de conteúdo. O texto padrão é "Compre estes produtos:".
+   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada para ação no modal de conteúdo. O texto padrão é "Comprar agora:".
+   * **[!UICONTROL Product display options]** Escolha se deseja exibir o **[!UICONTROL Photo]** e o **[!UICONTROL Product name]** com o botão Chamada para ação.
    >[!NOTE]
    >
-   >Os botões de Nome de foto e de produto destacam azul quando estão ativados.
+   >Os botões Foto e Nome do produto realçam azul quando ativados.
 
-   * **[!UICONTROL Product URL referral tracking]** Alterne a alternância para para rastrear as referências deste aplicativo para a página do produto associada.
-   * **[!UICONTROL Referral tracking key-value pairs]** Adicione parâmetros para especificar ainda mais o rastreamento de referência do conteúdo do aplicativo para a página do produto associada.
+   * **[!UICONTROL Product URL referral tracking]** Alterne a alternância para on para rastrear as referências deste aplicativo para a página de produto associada.
+   * **[!UICONTROL Referral tracking key-value pairs]** Adicione parâmetros para especificar o rastreamento de referência do conteúdo do aplicativo para a página de produto associada.
 
 
 
 * **[!UICONTROL Embed App in multiple pages]**
 
-   * **[!UICONTROL Filter UGC by Product ID]**. Selecione esta opção para criar um aplicativo para várias páginas de produtos. Filtre o UGC específico do produto para cada página de produto. Você pode selecionar uma ou mais pastas para associar coleções específicas ao aplicativo.
-   * **[!UICONTROL Select Product folders]**. Selecione as pastas de produto de nível superior a serem usadas para filtrar o UGC. Use CTRL/Command + clique para selecionar mais de uma pasta. O Livefyre usa a pasta para determinar quais produtos nessa pasta serão exibidos no aplicativo em várias páginas.
-   * **[!UICONTROL Show related content]**. Alterne isso para exibir conteúdo publicado no aplicativo, mas marcado com uma ID de produto diferente. Depois que o conteúdo específico do produto para o aplicativo é exibido, o Livefyre exibe o conteúdo de outros produtos e conteúdo não associados a um produto. O Livefyre prioriza o conteúdo com a mesma ID de produto primeiro, em seguida, o conteúdo publicado no Aplicativo com outras IDs de produto, em seguida, o conteúdo publicado no Aplicativo sem IDs de produto.
+   * **[!UICONTROL Filter UGC by Product ID]**. Selecione essa opção para criar um aplicativo para várias páginas de produtos. Filtre o UGC específico do produto no aplicativo para cada página de produto. Você pode selecionar uma ou mais pastas para associar coleções específicas ao aplicativo.
+   * **[!UICONTROL Select Product folders]**. Selecione as pastas de produtos de nível superior a serem usadas para filtrar o UGC. Use CTRL/Command + clique para selecionar mais de uma pasta. O Livefyre usa a pasta para determinar quais produtos nessa pasta serão exibidos no aplicativo em várias páginas.
+   * **[!UICONTROL Show related content]**. Alterne para exibir o conteúdo publicado no aplicativo, mas marcado com uma ID de produto diferente. Após a exibição do conteúdo específico do produto para o aplicativo, o Livefyre exibe o conteúdo de outros produtos e o conteúdo não associado a um produto. O Livefyre prioriza o conteúdo com a mesma ID de produto primeiro, depois o conteúdo publicado no aplicativo com outras IDs de produto e, em seguida, o conteúdo publicado no aplicativo sem IDs de produto.
