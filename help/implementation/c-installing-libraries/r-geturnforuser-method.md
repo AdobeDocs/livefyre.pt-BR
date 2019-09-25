@@ -1,55 +1,55 @@
 ---
-description: Este método retorna o URN para o usuário dessa rede.
-seo-description: Este método retorna o URN para o usuário dessa rede.
-seo-title: Método de rede geturnforuser
+description: Este método retorna o URN para o usuário desta rede.
+seo-description: Este método retorna o URN para o usuário desta rede.
+seo-title: Método de Rede getUrnForUser
 solution: Experience Manager
-title: Método de rede geturnforuser
-uuid: b 70 b 8 b 0 f -2 b 3 a -4 a 1 d -90 d 0-93 a 97 a 137 ad 4
+title: Método de Rede getUrnForUser
+uuid: b70b8b0f-2b3a-4a1d-90d0-93a97a137ad4
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de rede geturnforuser{#geturnforuser-network-method}
+# Método de Rede getUrnForUser{#geturnforuser-network-method}
 
-Este método retorna o URN para o usuário dessa rede.
+Este método retorna o URN para o usuário desta rede.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| Userid | String | O userid para usar no URN. |
+| userId | String   | A userId a ser usada no URN. |
 
-## Exemplo Java {#section_nyl_ycs_rz}
-
-```
-network.getUrnForUser(userId);
-```
-
-Saída de amostra:
-
-```
-"urn:livefyre:network=`example.fyre.co`:user=tester" 
-```
-
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 network.getUrnForUser(userId);
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
+
+```
+network.getUrnForUser(userId);
+```
+
+Exemplo de saída:
+
+```
+"urn:livefyre:network=`example.fyre.co`:user=tester" 
+```
+
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $network->getUrnForUser(userId); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
@@ -61,19 +61,19 @@ Saída de amostra:
 network.get_urn_for_user(userId) 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 network.get_urn_for_user(userId) 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
