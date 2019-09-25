@@ -4,7 +4,7 @@ seo-description: Limite o tipo de mídia que entra no fluxo do aplicativo.
 seo-title: Restringir mídia
 solution: Experience Manager
 title: Restringir mídia
-uuid: c 470 c 985-d 221-4 f 39-8 bd 4-4 e 44 ec 14 db 95
+uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,13 +15,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Limite o tipo de mídia que entra no fluxo do aplicativo.
 
-Por padrão, todos os anexos de mídia podem ser incorporados em Aplicativos. O Livefyre permite alterar essa opção para impedir que os usuários postem tipos de anexos selecionados nos seus aplicativos.
+Por padrão, todos os anexos de mídia podem ser incorporados aos aplicativos. O Livefyre permite alterar essa opção para impedir que os usuários postem tipos de anexos selecionados em seus aplicativos.
 
 >[!NOTE]
 >
->Parceiros do Livefyre com integração de mídia. Para obter mais informações, consulte Integração de conteúdo &gt; Integração de integração. Entre em contato com seu Gerente de conta técnico para obter perguntas sobre expansão de links ou fontes.
+>Livefyre faz parceria com Embeely para integração de mídia. Para obter mais informações, consulte Integração de conteúdo &gt; Integração integrada. Entre em contato com seu Gerente de conta técnico para obter informações sobre a expansão ou as fontes do link.
 
-Este exemplo bloqueia a incorporação do youtube e do Vimeo a partir do seu fluxo de comentário:
+Este exemplo bloqueia a incorporação do YouTube e do Vimeo ao seu fluxo de comentários:
 
 ```
 var attachmentDelegate = function(embedObj) { 
