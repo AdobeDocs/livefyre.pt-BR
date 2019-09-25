@@ -1,10 +1,10 @@
 ---
-description: Mostre as Coleções mais ativas em seu site ou rede.
-seo-description: Mostre as Coleções mais ativas em seu site ou rede.
+description: Mostre as coleções mais ativas em seu site ou rede.
+seo-description: Mostre as coleções mais ativas em seu site ou rede.
 seo-title: Tendência
 solution: Experience Manager
 title: Tendência
-uuid: 3031523 d-b 487-4 eea-bba 6-5 d 8 f 9971874 f
+uuid: 3031523d-b487-4eea-bba6-5d8f971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,27 +13,27 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Tendência{#trending}
 
-Mostre as Coleções mais ativas em seu site ou rede.
+Mostre as coleções mais ativas em seu site ou rede.
 
-Use Tendência para mostrar as Coleções com a atividade mais recente em seu site ou rede.
+Use Tendências para mostrar as Coleções com a atividade mais recente em seu Site ou Rede.
 
 ## Integração {#section_wtz_whb_c1b}
 
-A maneira mais rápida de integrar com a Tendência é usar a versão incorporada hospedada no CDN do Livefyre.
+A maneira mais rápida de integrar com o Trending Topics é usar a versão incorporada hospedada no CDN da Livefyre.
 
-Primeiro, adicione [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à sua página.
+Primeiro, adicione [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à sua página.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Em seguida, posicione o elemento no qual o aplicativo será exibido.
+Em seguida, posicione o elemento no qual o aplicativo aparecerá.
 
 ```
 <div id="trending"></div>
 ```
 
-Por fim, use `Livefyre.require` para criar o componente.
+Finalmente, use `Livefyre.require` para construir o componente.
 
 ```
 <script> 
@@ -49,13 +49,13 @@ Livefyre.require([
 </script>
 ```
 
-Agora você tem um Aplicativo de tendência! Veja isso tudo em ação [neste exemplo](https://codepen.io/gobengo/pen/GijEy).
+Agora você tem um aplicativo de tendência! Veja tudo isso em ação [neste exemplo](https://codepen.io/gobengo/pen/GijEy).
 
 ## Configuração {#section_k5k_qhb_c1b}
 
 `network`
 
-A rede a partir da qual coleções serão obtidas. (Obrigatório.)
+A rede da qual as coleções serão obtidas. (Obrigatório.)
 
 ```
 var trending = new Trending({ 
@@ -66,7 +66,7 @@ var trending = new Trending({
 
 `siteId`
 
-Forneça a ID do site para mostrar coleções somente de um único site dentro da rede. (Opcional.)
+Forneça a ID do site para mostrar as coleções somente de um único site na sua rede. (Opcional.)
 
 ```
 var trending = new Trending({ 
@@ -78,7 +78,7 @@ var trending = new Trending({
 
 `tag`
 
-Forneça uma tag de coleção única para mostrar apenas coleções com essa tag. (Opcional.)
+Forneça uma única tag Coleção para mostrar somente as Coleções com essa tag. (Opcional.)
 
 ```
 var trending = new Trending({ 
