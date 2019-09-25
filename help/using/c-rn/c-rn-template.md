@@ -1,19 +1,19 @@
 ---
-description: Notas de versão para < DATE > release.
-seo-description: Notas de versão para < DATE > release.
+description: Notas de versão da versão <DATE>.
+seo-description: Notas de versão da versão <DATE>.
 seo-title: Notas de versão
 solution: Experience Manager
 title: Notas de versão
-uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
+uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
 
 ---
 
 
 # Notas de versão{#release-notes}
 
-Notas de versão do `<DATE>` lançamento.
+Notas de versão da `<DATE>` versão.
 
 <!--- remove the carets and the quotes and fill in with actual values--->
 
@@ -23,17 +23,17 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 ## Versão de produção
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
 | `<bug/enhancement>` | `<component>` | `<description>` |
 | `<bug/enhancement>` | `<component>` | `<description>` |
 
 
-## Versão do UAT
+## Versão UAT
 
 ## Versão de produção
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
 | `<bug/enhancement>` | `<component>` | `<description>` |
 | `<bug/enhancement>` | `<component>` | `<description>` |
