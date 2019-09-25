@@ -1,10 +1,10 @@
 ---
-description: Você pode criar regras de fluxo que puxam conteúdo de Páginas do Facebook.
-seo-description: Você pode criar regras de fluxo que puxam conteúdo de Páginas do Facebook.
+description: Você pode criar regras de fluxo que extraem conteúdo de Páginas do Facebook.
+seo-description: Você pode criar regras de fluxo que extraem conteúdo de Páginas do Facebook.
 seo-title: Regras de página do Facebook
 solution: Experience Manager
 title: Regras de página do Facebook
-uuid: 2 be 63476-1 a 92-409 d-a 22 f-e 1 ec 66 b 6 dcc 8
+uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,32 +13,32 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Regras de página do Facebook{#facebook-page-rules}
 
-Você pode criar regras de fluxo que puxam conteúdo de Páginas do Facebook.
+Você pode criar regras de fluxo que extraem conteúdo de Páginas do Facebook.
 
-Você pode usar Regras de página do Facebook para transmitir conteúdo publicado publicamente das páginas do Facebook. O conteúdo será coletado no aplicativo ou pasta na mesma frequência do socialsync, que muda com base na página do Facebook e nos padrões de tráfego da postagem. Os links nas Páginas do Facebook também são suportados e serão exibidos no stream.
+Você pode usar as Regras de página do Facebook para transmitir o conteúdo publicado publicamente das Páginas do Facebook. O conteúdo será colocado no aplicativo ou na pasta com a mesma frequência do SocialSync, que muda com base na página do Facebook e nos padrões de tráfego de postagem. Links em páginas do Facebook também são suportados e serão exibidos no stream.
 
-Para criar Regras de página do Facebook para extrair conteúdo das páginas do Facebook no aplicativo ou pasta, você pode filtrar por:
+Para criar Regras de página do Facebook para extrair conteúdo de páginas do Facebook para seu aplicativo ou pasta, você pode filtrar por:
 
 * **[!UICONTROL Facebook Page]**
 
-   * Insira a **[!UICONTROL Name]** página para a página. Digite somente o texto à direita para o URL. **Por exemplo:** Para adicionar conteúdo de `https://facebook.com/KellysSuperFunFanPage`, digite *kellyssuperfunfanpage* no **[!UICONTROL Name]** campo.
+   * Digite o nome **[!UICONTROL Name]** da Página. Insira apenas o texto à direita para o URL. **** Por exemplo: Para adicionar conteúdo de `https://facebook.com/KellysSuperFunFanPage`, digite *KellysSuperFunFanPage* no **[!UICONTROL Name]** campo.
 
-   * Ative **[!UICONTROL Include Facebook Comments for each post]** se deseja incluir comentários do usuário nas publicações da Página.
-   * Ative **[!UICONTROL Only Show Author Posts]** se deseja excluir publicações de outros usuários.
+   * Ativa **[!UICONTROL Include Facebook Comments for each post]** se desejar incluir comentários de usuário em Postagens de página.
+   * Ative **[!UICONTROL Only Show Author Posts]** se desejar excluir publicações de outros usuários.
 
-Para opções adicionais de regras de Fluxo para todas as regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
-
->[!NOTE]
->
->O Livefyre está restrito ao conteúdo recebido do Facebook e, portanto, não é possível garantir que cada publicação em uma Página do Facebook será incluída em seu fluxo.
+Para obter opções adicionais de regras de fluxo para todas as regras de fluxo, consulte Opções de regra de [fluxo para todas as regras](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
 
 >[!NOTE]
 >
->Se o socialsync do Facebook e uma Regra de página do Facebook estiverem ativados para uma Página do Facebook específica e os comentários do usuário forem ativados para a Regra de página do Facebook, a Regra de fluxo substituirá socialsync. O conteúdo será transmitido para o aplicativo com base na Regra de preparação de página do Facebook e não usando o socialsync.
+>O Livefyre está restrito ao conteúdo recebido do Facebook e, portanto, não é capaz de garantir que cada postagem em uma página do Facebook seja incluída em seu fluxo.
 
-Os tipos de conteúdo compatíveis com a Curadoria de página do Facebook incluem:
+>[!NOTE]
+>
+>Se o Facebook SocialSync e uma Regra de página do Facebook estiverem ativados para uma página específica do Facebook e os comentários do usuário estiverem ativados para a Regra de página do Facebook, a Regra de fluxo substituirá o SocialSync. O conteúdo será transmitido no aplicativo com base apenas na regra de preparação de página do Facebook e não no uso do SocialSync.
 
-* Proprietário da página ou Administrador
+Os tipos de conteúdo suportados pelo Facebook Page Curate incluem:
+
+* Proprietário ou Administrador da página
 
    * Status
    * Fotos
