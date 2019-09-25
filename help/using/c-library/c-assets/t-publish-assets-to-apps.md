@@ -1,10 +1,10 @@
 ---
-description: Publique ativos salvos em seus aplicativos Livefyre da Biblioteca.
-seo-description: Publique ativos salvos em seus aplicativos Livefyre da Biblioteca.
+description: Publique ativos salvos em seus aplicativos do Livefyre na Biblioteca.
+seo-description: Publique ativos salvos em seus aplicativos do Livefyre na Biblioteca.
 seo-title: Publicar ativos em aplicativos
 solution: Experience Manager
 title: Publicar ativos em aplicativos
-uuid: 42 d 39142-b 047-4055-b 946-15 bcc 91 d 5 a 95
+uuid: 42d39142-b047-4055-b946-15bcc91d5a95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,16 +13,16 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Publicar ativos em aplicativos{#publish-assets-to-apps}
 
-Publique ativos salvos em seus aplicativos Livefyre da Biblioteca.
+Publique ativos salvos em seus aplicativos do Livefyre na Biblioteca.
 
-Você pode publicar vários itens ou vários itens na guia Pesquisa social e na Biblioteca de ativos. Clicar **[!UICONTROL Publish]** no item enviará o item diretamente para o aplicativo selecionado e não o removerá da Biblioteca.
+Você pode publicar itens individuais ou múltiplos na guia Pesquisa social e na Biblioteca de ativos. Clicar **[!UICONTROL Publish]** empurrará o item diretamente para o aplicativo selecionado e não o removerá da sua Biblioteca.
 
 >[!NOTE]
 >
->Para publicar em um aplicativo, você deve primeiro criar o aplicativo a partir do Studio.
+>Para publicar em um aplicativo, você deve primeiro criar o aplicativo no Studio.
 
-1. Pesquise ativos na biblioteca.
+1. Pesquise por ativos na biblioteca.
 1. Selecione os Ativos que deseja publicar no site.
-1. Clique **[!UICONTROL Publish]** em.
+1. Clique em **[!UICONTROL Publish]**.
 
-   A **[!UICONTROL Publish to App]** caixa de diálogo abre .1. Selecione o aplicativo para o qual publicar os ativos selecionados.
+   A caixa de **[!UICONTROL Publish to App]** diálogo é aberta.1. Selecione o aplicativo no qual deseja publicar os ativos selecionados.
