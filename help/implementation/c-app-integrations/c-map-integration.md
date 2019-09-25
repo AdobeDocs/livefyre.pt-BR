@@ -1,10 +1,10 @@
 ---
-description: Digite o conteúdo do usuário para um mapa interativo.
-seo-description: Digite o conteúdo do usuário para um mapa interativo.
+description: Faça o plotagem do conteúdo do usuário em um mapa interativo.
+seo-description: Faça o plotagem do conteúdo do usuário em um mapa interativo.
 seo-title: Mapa
 solution: Experience Manager
 title: Mapa
-uuid: 1 c 3 e 399 d-a 610-4 b 80-a 3 b 2-a 5502 b 31480 d
+uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,31 +13,31 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Mapa{#map}
 
-Digite o conteúdo do usuário para um mapa interativo.
+Faça o plotagem do conteúdo do usuário em um mapa interativo.
 
-O mapa permite transmitir o conteúdo geotsinalizado em um mapa do mundo, permitindo localizar o buzz social em torno de notícias ou um evento ao vivo. Todo o conteúdo aplicável será exibido, incluindo texto, comentários, fotos e tweets.
+O mapa permite que você faça streaming de conteúdo com tags geográficas em um mapa do mundo, permitindo que você localize o burburinho social em torno de notícias ou eventos ao vivo. Todo o conteúdo aplicável será exibido, incluindo texto, comentários, fotos e tweets.
 
 >[!NOTE]
 >
->Os mapas são fornecidos por [© openstreetmap](https://www.openstreetmap.org/copyright), que fornece os dados do Livefyre usados para renderizar seus Mapas.
+>Os mapas são capacitados por [©OpenStreetMap](https://www.openstreetmap.org/copyright), que fornece os dados que o Livefyre usa para renderizar seus Mapas.
 
 ## Integração {#section_w2m_db2_d1b}
 
-A maneira mais rápida de usar o Mapa é usar a versão incorporada hospedada no CDN do Livefyre.
+A maneira mais rápida de usar o Mapa é usar a versão incorporada hospedada no CDN da Livefyre.
 
-Primeiro, adicione [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à sua página.
+Primeiro, adicione [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à sua página.
 
 ```
 <script src="https://cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Em seguida, posicione o elemento no qual o aplicativo Mapa será exibido.
+Em seguida, posicione o elemento no qual o aplicativo Mapa aparecerá.
 
 ```
 <div id="map" style="height: 500px;"></div>
 ```
 
-Por fim, use o Livefyre. necessário para criar o Mapa e obter uma coleção com o objetivo de fazer o pipe de um sdk simplificado. Lembre-se de que o Mapa pode mostrar somente conteúdo com metadados geotmarcados. O Twitter e o Instagram Curate oferecem suporte para esse recurso. Para garantir o melhor desempenho, inclua um filtro de geolocalização em todas as Regras de preparação para a coleção.
+Finalmente, use Livefyre.requirements para construir o Mapa e obter uma Coleção para encanar do stream-sdk. Lembre-se de que o Mapa pode mostrar somente o Conteúdo com metadados marcados geograficamente. O Twitter e o Instagram Curate suportam esse recurso. Para garantir melhor desempenho, inclua um filtro de localização geográfica em todas as Regras de preparação para a coleção.
 
 ```
 <script> 
@@ -56,13 +56,13 @@ function (Map, SDK) {
 </script>
 ```
 
-Confira este [exemplo ao vivo](https://codepen.io/cheung31/pen/wkmbF).
+Veja este exemplo [](https://codepen.io/cheung31/pen/wkmbF)ao vivo.
 
 ## Configuração {#section_jc5_gxb_c1b}
 
 `initial`
 
-O número inicial de itens a serem carregados da coleção e exibidos no mapa. Depois que esse número for carregado, os usuários poderão clicar em um botão para mostrar mais. (Opcional. Padrões para 50.)
+O número inicial de itens a serem carregados da Coleção e exibidos no mapa. Depois que esse número é carregado, os usuários podem clicar em um botão para mostrar mais. (Opcional. O padrão é 50.)
 
 ```
 var map = new Map({ 
@@ -73,7 +73,7 @@ var map = new Map({
 
 `leafletMapOptions`
 
-Opções para passar para o Mapa [de leaflet](https://leafletjs.com/) subjacente, que o Mapa usa para renderização. Use essa opção para definir [Opções do Mapa de opção](https://leafletjs.com/reference.html#map-options), incluindo o centro inicial do mapa, e os níveis de zoom inicial e máxima. (Opcional.)
+Opções para passar para o mapa subjacente [Folheto](https://leafletjs.com/) , que o Mapa usa para renderização. Use essa opção para definir as Opções [do mapa de](https://leafletjs.com/reference.html#map-options)folhetos, incluindo o ponto central inicial do mapa, e os níveis inicial e máximo de zoom. (Opcional.)
 
 ```
 var map = new Map({ 
