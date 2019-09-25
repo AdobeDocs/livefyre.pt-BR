@@ -1,23 +1,23 @@
 ---
 description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
-seo-title: Definições e exemplos de eventos javascript
+seo-title: Definições e exemplos de eventos JavaScript
 solution: Experience Manager
-title: Definições e exemplos de eventos javascript
-uuid: 61 da 2 e 2 e -8 fcd -482 d -93 df-c 946 f 0475277
+title: Definições e exemplos de eventos JavaScript
+uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Definições e exemplos de eventos javascript{#javascript-events-definitions-and-examples}
+# Definições e exemplos de eventos JavaScript{#javascript-events-definitions-and-examples}
 
 Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 
-O Livefyre fornece eventos javascript para rastrear a atividade do usuário em seus Aplicativos do Livefyre. Por exemplo, você pode querer atualizar a página quando os usuários curtirem ou compartilhar conteúdo no Twitter ou Facebook, ou quando novo conteúdo é publicado.
+O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário nos aplicativos Livefyre. Por exemplo, você pode desejar atualizar a página quando os usuários curtirem ou compartilharem conteúdo no Twitter ou Facebook, ou quando novo conteúdo for publicado.
 
-O Livefyre também permite adicionar eventos a integrações de análise de terceiros (JS do Adobe Analytics, Google Analytics, Gerenciamento dinâmico de tags etc.), para rastrear eventos do aplicativo. Para obter mais informações, consulte o gerente de integração de terceiros para fornecer os eventos corretos.
+O Livefyre também permite que você adicione eventos a integrações de análises de terceiros (Adobe Analytics JS, Google Analytics, Gerenciamento dinâmico de tags etc.) para rastrear eventos do aplicativo. Para obter mais informações, entre em contato com o gerente de integração de terceiros para fornecer os eventos corretos.
 
 Para vincular a esses eventos, adicione o seguinte código à página ao instanciar seu aplicativo em uma página. Substitua o nome do evento por `{eventName}`:
 
@@ -33,13 +33,13 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->Objetos de dados são fornecidos para todos os manipuladores de eventos. Os objetos de dados de exemplo seguem cada evento.
+>Objetos de dados são fornecidos para todos os manipuladores de eventos. Objetos de dados de exemplo seguem cada evento.
 
-## Commentpostposted {#section_qfr_51p_xz}
+## commentPosted {#section_qfr_51p_xz}
 
 Um usuário postou um comentário.
 
-* Um pai de null é um novo comentário.
+* Um pai de nulo é um novo comentário.
 * Um pai de Nenhum é um comentário que foi editado.
 * Um número para pai é a ID pai da resposta.
 
@@ -56,7 +56,7 @@ data = {
 } 
 ```
 
-## Commentflagged {#section_szy_s1p_xz}
+## commentFlagged {#section_szy_s1p_xz}
 
 Um usuário sinalizou um comentário.
 
@@ -68,9 +68,9 @@ data = {
 }
 ```
 
-## Commentliked {#section_vc1_r1p_xz}
+## commentLiked {#section_vc1_r1p_xz}
 
-Um usuário curtiram um comentário.
+Um usuário gostou de um comentário.
 
 ```
 data = { 
@@ -80,9 +80,9 @@ data = {
 } 
 ```
 
-## Commentshared {#section_nqb_31p_xz}
+## commentShared {#section_nqb_31p_xz}
 
-Um usuário compartilhou um comentário a partir do stream. (Esse evento não é acionado quando os usuários compartilham a partir do editor de Comentários.) Esse evento é acionado quando o botão Compartilhar é clicado.
+Um usuário compartilhou um comentário do fluxo. (Esse evento não é acionado quando os usuários compartilham do editor de comentários.) Esse evento é acionado quando o botão Compartilhar é clicado.
 
 ```
 data = { 
@@ -92,17 +92,17 @@ data = {
 }
 ```
 
-## Commentcountupdated {#section_qdq_f1p_xz}
+## commentCountUpdates {#section_qdq_f1p_xz}
 
-O número total de comentários visíveis nesta conversa foi alterado (aumenta ou diminui).
+O número total de comentários visíveis nesta conversa mudou (aumentados ou diminuídos).
 
 ```
 data: 34 // The total number of visible comments in the conversation (integer). 
 ```
 
-## Userloggedin {#section_yjt_vz4_xz}
+## userLoggedIn {#section_yjt_vz4_xz}
 
-Um usuário se conectou.
+Um usuário fez logon.
 
 ```
 data = { 
@@ -114,15 +114,15 @@ data = {
 }
 ```
 
-## Userloggedout {#section_tsg_5z4_xz}
+## userLoggedOut {#section_tsg_5z4_xz}
 
-Um usuário desconectou-se.
+Um usuário desconectou.
 
-os dados são indefinidos.
+os dados não estão definidos.
 
-## Socialmention {#section_a1w_tz4_xz}
+## socialMention {#section_a1w_tz4_xz}
 
-Um usuário incluiu @ menção em um comentário. Retorna uma matriz do seguinte:
+Um usuário incluiu uma @menção em um comentário. Retorna uma matriz dos seguintes itens:
 
 ```
 data = { 
@@ -134,9 +134,9 @@ data = {
 } 
 ```
 
-## Commentfeatured
+## commentFeature
 
-Um usuário do moderador destaque um comentário. Retorna uma matriz do seguinte:
+Um usuário moderador apresentou um comentário. Retorna uma matriz dos seguintes itens:
 
 ```
 data = { 
@@ -146,21 +146,21 @@ data = {
 }
 ```
 
-## Initialrendercomplete {#section_odc_4z4_xz}
+## initialRenderComplete {#section_odc_4z4_xz}
 
-O fluxo de comentário foi carregado e o conjunto inicial de conteúdo foi obtido do servidor e exibido para o usuário.
+O fluxo de comentários foi carregado e o conjunto inicial de conteúdo foi obtido do servidor e exibido ao usuário.
 
-os dados são indefinidos.
+os dados não estão definidos.
 
-## Showmais {#section_pqg_nz4_xz}
+## showMore {#section_pqg_nz4_xz}
 
 Um usuário clicou no **[!UICONTROL Show More]** botão.
 
-os dados são indefinidos.
+os dados não estão definidos.
 
-## Userfollowed {#section_xxw_jz4_xz}
+## userSegulowed {#section_xxw_jz4_xz}
 
-Retorna true quando um usuário clica no **[!UICONTROL Follow]** botão e false quando o conteúdo é postado no stream.
+Retorna true quando um usuário clica no **[!UICONTROL Follow]** botão e false quando o conteúdo é publicado no fluxo.
 
 ```
 data = { 
@@ -169,9 +169,9 @@ data = {
 }
 ```
 
-## Userunfollow {#section_wm1_gz4_xz}
+## userUnfollow {#section_wm1_gz4_xz}
 
-Retorna true quando um usuário clica no **botão Parar e** false quando o conteúdo é postado no stream.
+Retorna true quando um usuário clica no botão **Desseguir** e false quando o conteúdo é postado no fluxo.
 
 ```
 data = { 
