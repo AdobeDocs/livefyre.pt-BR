@@ -4,7 +4,7 @@ seo-description: Uma visão geral dos requisitos de exibição do Twitter.
 seo-title: Requisitos de exibição do Twitter
 solution: Experience Manager
 title: Requisitos de exibição do Twitter
-uuid: 705 c 25 b 8-4 a 25-4640-9843-074 f 50 ebae 4 f
+uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,25 +13,25 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Requisitos de exibição do Twitter{#twitter-display-requirements}
 
-As redes de mídia social geralmente exigem que seu conteúdo seja exibido em conformidade com seus padrões de marca. Ao usar a plataforma Livefyre para apresentar novamente o conteúdo do Twitter, você é responsável por cumprir os termos de uso, incluindo seus requisitos de exibição. Certifique-se de ler e entender seus termos e condições antes de exibir seu conteúdo em seus aplicativos do Livefyre.
+As redes de mídia social geralmente exigem que seu conteúdo seja exibido de acordo com os padrões da marca. Ao usar a plataforma Livefyre para apresentar novamente o conteúdo do Twitter, você é sempre responsável pela conformidade com seus termos de uso, incluindo os requisitos de exibição. Certifique-se de ler e entender seus termos e condições antes de exibir seu conteúdo nos aplicativos Livefyre.
 
-Para obter mais informações, consulte [a documentação de Requisitos](https://about.twitter.com/company/display-requirements) de exibição do Twitter.
+Para obter mais informações, consulte a documentação Requisitos [de exibição do](https://about.twitter.com/company/display-requirements) Twitter.
 
-O Twitter atribui os seguintes requisitos de apresentação:
+O Twitter determina os seguintes requisitos de apresentação:
 
-* A exibição online (Web e móvel) deve incluir todos os seguintes:
+* A exibição online (Web e móvel) deve incluir todas as seguintes opções:
 
-   * Logotipo do Twitter
-   * Nome de usuário, @ identificador, avatar
-   * Texto de tweet não alterado
+   * Logo do Twitter
+   * Nome de usuário, @identificador, avatar
+   * Texto do tweet inalterado
    * Ações do Twitter (Resposta, Retweet, Curtir)
    * Carimbo de data e hora
 
-* A exibição passivo (transmissões, no local, sem ajuda) deve incluir pelo menos o seguinte:
+* A exibição passiva (difusão, local, digital fora de ajuda) deve incluir pelo menos o seguinte:
 
-   * Logotipo do Twitter
-   * Texto de tweet não alterado (pode remover os links se não for relevante contextualmente)
+   * Logo do Twitter
+   * Texto do tweet inalterado (pode remover os links se não forem relevantes contextualmente)
    * Nome de usuário e identificador
 
-* Os tweets não podem ser usados próximo à publicidade ou de uma forma que implica o consentimento.
-* Os tweets ou o conteúdo do Twitter não podem ser usados em uma publicidade, a menos que você tenha o consentimento expresso do usuário.
+* Os tweets não podem ser usados perto de publicidade ou de uma forma que implique endosso.
+* Tweets ou conteúdo do Twitter não podem ser usados em um anúncio, a menos que você tenha o consentimento expresso do usuário.
