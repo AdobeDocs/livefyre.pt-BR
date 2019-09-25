@@ -1,51 +1,51 @@
 ---
-description: Esse método retorna o URN desta coleção. Você deve executar createorupdate () antes de executar este método.
-seo-description: Esse método retorna o URN desta coleção. Você deve executar createorupdate () antes de executar este método.
-seo-title: Método de coleta geturn
+description: Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
+seo-description: Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
+seo-title: Método de coleta getUrn
 solution: Experience Manager
-title: Método de coleta geturn
-uuid: 2 f 4 d 7796-2 ae 5-4 b 74-a 958-40825 c 6 bff 16
+title: Método de coleta getUrn
+uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de coleta geturn{#geturn-collection-method}
+# Método de coleta getUrn{#geturn-collection-method}
 
-Esse método retorna o URN desta coleção. Você deve executar createorupdate () antes de executar este método.
+Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 collection.getUrn(); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 collection.getUrn(); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 <span class="str">"urn:livefyre:network=`example.fyre.co`:site=1:collection=1"</span>
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $collection->getUrn(); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
@@ -57,19 +57,19 @@ Saída de amostra:
 collection.urn() 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 collection.urn
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
