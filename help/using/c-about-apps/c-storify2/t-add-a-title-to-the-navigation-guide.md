@@ -4,7 +4,7 @@ seo-description: Dê um título ao seu Guia de navegação para tornar o conteú
 seo-title: Adicionar um título ao Guia de navegação
 solution: Experience Manager
 title: Adicionar um título ao Guia de navegação
-uuid: 9 b 8 de 96 d -76 c 3-46 d 0-97 ce -338 b 01 f 49 ca 7
+uuid: 9b8de96d-76c3-46d0-97ce-338b01f49ca7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -16,5 +16,5 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Dê um título ao seu Guia de navegação para tornar o conteúdo claro para os visitantes do site.
 
 1. Abra uma história do Storify 2.
-1. No Designer App Designer App Designer, alterne para **[!UICONTROL Navigation Guide]** a alternância.
-1. Digite um título no campo preenchido com as palavras «Adicionar um título. »
+1. No Storify 2 App Designer, ative a **[!UICONTROL Navigation Guide]** alternância.
+1. Insira um título no campo preenchido com as palavras "Adicionar um título".
