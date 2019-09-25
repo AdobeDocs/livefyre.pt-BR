@@ -1,10 +1,10 @@
 ---
-description: Mostre o melhor conteúdo em uma visualização horizontal e rolável.
-seo-description: Mostre o melhor conteúdo em uma visualização horizontal e rolável.
+description: Mostre seu melhor conteúdo em uma exibição horizontal e com rolagem.
+seo-description: Mostre seu melhor conteúdo em uma exibição horizontal e com rolagem.
 seo-title: Carrossel
 solution: Experience Manager
 title: Carrossel
-uuid: c 0704 fba -6119-44 ca -9 ad 1-1 e 2 cb 692 ebda
+uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,19 +13,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Carrossel{#carousel}
 
-Mostre o melhor conteúdo em uma visualização horizontal e rolável.
+Mostre seu melhor conteúdo em uma exibição horizontal e com rolagem.
 
-O carrossel é um aplicativo Livefyre que permite exibir o melhor conteúdo em uma visualização horizontal e rolável. Use este aplicativo em páginas com imóveis limitados, convidando pessoas a experimentar cada parte de conteúdo preparado individualmente, em tempo real. Um carrossel permite que os usuários naveguem por conteúdo, em seguida, clique em para selecionar um item e abra-o em um modal pop-up.
+O Carousel é um aplicativo Livefyre que permite exibir seu melhor conteúdo em uma exibição horizontal com rolagem. Use este aplicativo em páginas com propriedades limitadas, convidando as pessoas a experimentar cada parte do conteúdo preparado individualmente, em tempo real. Um carrossel permite que os usuários naveguem no conteúdo, depois cliquem para selecionar um item e o abram em um modal popup.
 
-Para uma experiência de visualização menos distrativa, um carrossel exibe o conteúdo mais recente e mantém a visualização atual até que o usuário recarregue o conjunto de itens seguinte.
+Para uma experiência de visualização menos distrativa, um carrossel exibe o conteúdo mais recente e mantém a visualização atual até que o usuário recarregue o próximo conjunto de itens.
 
-Um carrossel exibe o Livefyre e o conteúdo transmitido como uma apresentação de slides horizontal. Um carrossel permite que os usuários naveguem por conteúdo, em seguida, clique em para selecionar um item e abra-o em um modal pop-up.
+Um carrossel exibe o Livefyre e o conteúdo transmitido como uma apresentação de slides horizontal. Um carrossel permite que os usuários naveguem no conteúdo, depois cliquem para selecionar um item e o abram em um modal popup.
 
-Para uma melhor experiência de visualização, um carrossel exibe o conteúdo mais recente e mantém a visualização atual até que o usuário atualize a página.
+Para uma experiência de visualização ideal, um carrossel exibe o conteúdo mais recente e mantém a visualização atual até que o usuário atualize a página.
 
 ## Que tipo de conteúdo posso publicar em um carrossel? {#section_ysb_4ym_wy}
 
-Conteúdo com suporte que contém:
+Conteúdo suportado que contenha:
 
 * Fotos
 * Vídeos
@@ -37,7 +37,7 @@ Fontes de conteúdo suportadas:
 * Twitter
 * Instagram
 * Facebook
-* Youtube
+* YouTube
 * RSS
 * Tumblr
 * Livefyre
@@ -45,27 +45,27 @@ Fontes de conteúdo suportadas:
 
 ## Como um visitante do site vê o conteúdo em um carrossel? Posso transmitir conteúdo em um carrossel? {#section_jvs_mnt_wy}
 
-Um visitante do site visualiza o conteúdo preenchido em um carrossel do Studio de um Studio Stream ou Pesquisa social. Se o novo conteúdo for publicado no aplicativo enquanto um visitante do site estiver na página, o visitante do site deverá atualizar a página para ver o conteúdo atualizado. O novo conteúdo publicado aparece no aplicativo após até 5 minutos.
+Um visitante do site vê o conteúdo preenchido em um carrossel a partir do Studio de um Studio Stream ou de uma Pesquisa Social. Se novo conteúdo for publicado no aplicativo enquanto um visitante do site estiver na página, o visitante do site deverá atualizar a página para ver o conteúdo atualizado. O novo conteúdo publicado é exibido no aplicativo após 5 minutos.
 
-## Quantos caracteres um carrossel será exibido para cada cartão? {#section_qsx_xrt_wy}
+## Quantos caracteres um carrossel exibirá para cada cartão? {#section_qsx_xrt_wy}
 
-Um carrossel recalcula dinamicamente o número de caracteres a serem exibidos, dependendo da tela ou do tamanho do contêiner. Se houver mais caracteres que o carrossel, então uma reticências («…») encerrará o texto exibido.
+Um carrossel recalcula dinamicamente o número de caracteres a serem exibidos dependendo da tela ou do tamanho do contêiner. Se houver mais caracteres do que o carrossel pode exibir, então uma reticulação ("...") encerra o texto exibido.
 
-## Como é uma URL para um cartão em um carrossel? {#section_hnh_wrt_wy}
+## Como um URL se parece com um cartão em um carrossel? {#section_hnh_wrt_wy}
 
-Se houver um URL, o URL será realçado em uma barra quando você clicar no conteúdo. Se houver mais de um URL, o cartão destaca apenas um URL. Quaisquer urls adicionais são truncados por reticências («…»).
+Se houver um URL, ele será realçado em uma barra quando você clicar no conteúdo. Se houver mais de um URL, o cartão realça apenas um URL. Quaisquer URLs adicionais são truncados por reticências ("...").
 
-## Como um carrossel se parece com plataformas diferentes? {#section_hpc_5rt_wy}
+## Como um carrossel se parece em diferentes plataformas? {#section_hpc_5rt_wy}
 
 Você pode escolher o modo que deseja usar:
 
-* Modo responsivo de desktop
+* Modo responsivo para desktop
 
-   * Se o conteúdo tiver mais de 600 pixels, é exibido horizontalmente
-   * Se o conteúdo for menor que 600 pixels, é exibido verticalmente
+   * Se o conteúdo for maior que 600 pixels, será exibido na horizontal
+   * Se o conteúdo for menor que 600 pixels, será exibido verticalmente
 
-* Modo vertical de desktop: Sempre vertical, diminui à medida que o contêiner é menor
-* Dispositivo móvel: Sempre vertical, diminui para ajustar o tamanho da tela
+* Modo vertical da área de trabalho: Sempre vertical, diminui conforme o contêiner fica menor
+* Dispositivo móvel: Sempre vertical, diminui para ajustar o tamanho do ecrã
 
 ## O que acontece quando um visitante do site clica em um item em um carrossel? {#section_xn3_2xm_wy}
 
@@ -73,18 +73,18 @@ Um visitante do site pode:
 
 * Clique em uma imagem para exibir uma imagem maior.
 * Clique em um vídeo para assisti-lo.
-* Clique no conteúdo com vários itens para rolar pelos itens.
+* Clique no conteúdo com vários itens para percorrer os itens.
 
-## O que a representação do conteúdo faz para itens em um carrossel? {#section_tdp_cxm_wy}
+## O que o conteúdo em destaque faz aos itens em um carrossel? {#section_tdp_cxm_wy}
 
-O conteúdo com uma tag «Destaque» aparece na frente. Se você tiver mais de um item de conteúdo, cada item aparecerá na frente do aplicativo na ordem da data publicada.
+O conteúdo com uma tag "em destaque" é exibido na frente. Se você incluir mais de um item de conteúdo, cada item aparecerá na frente do aplicativo na ordem da data de publicação do conteúdo.
 
 ## O que mais devo saber sobre como um carrossel se parece em um site? {#section_r3q_bxm_wy}
 
-Contagem de conteúdo: A contagem de conteúdo permanece na parte inferior do carrossel e aumenta ou diminui à medida que o usuário rola.
+Contagem de conteúdo: A contagem de conteúdo permanece na parte inferior do carrossel e aumenta ou diminui conforme o usuário rola.
 
-Contornar: Um carrossel envolve a partir do último item até o primeiro item. Se houver menos de seis itens no carrossel, o carrossel parará na sexta publicação e não girará para a primeira publicação.
+Disposição: Um carrossel envolve desde o último item até o primeiro item. Se houver menos de seis itens no carrossel, o carrossel para na sexta postagem e não gira de volta para a primeira.
 
-## É possível adicionar um botão Carregar a um carrossel? {#section_ozs_1xm_wy}
+## Posso adicionar um botão de upload a um carrossel? {#section_ozs_1xm_wy}
 
-Você pode adicionar um Botão Carregar a um carrossel. Se você publicar o botão Carregar no aplicativo enquanto um visitante do site estiver na página, o visitante do site deverá atualizar a página para ver o conteúdo atualizado. O botão Carregar aparecerá no aplicativo após até 5 minutos.
+Você pode adicionar um botão Carregar a um carrossel. Se você publicar o botão Carregar no aplicativo enquanto um visitante do site estiver na página, o visitante do site deverá atualizar a página para ver o conteúdo atualizado. O botão Carregar aparecerá no aplicativo depois de até 5 minutos.
