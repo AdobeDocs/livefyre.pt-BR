@@ -1,55 +1,55 @@
 ---
-description: Informa ao Livefyre para extrair informações do usuário de um URL de sincronização de usuário definido anteriormente. Retorna um Booliano.
-seo-description: Informa ao Livefyre para extrair informações do usuário de um URL de sincronização de usuário definido anteriormente. Retorna um Booliano.
-seo-title: Método de rede syncuser
+description: Informa o Livefyre a obter informações do usuário de um URL de sincronização do usuário definido anteriormente. Retorna um booliano.
+seo-description: Informa o Livefyre a obter informações do usuário de um URL de sincronização do usuário definido anteriormente. Retorna um booliano.
+seo-title: método de rede syncUser
 solution: Experience Manager
-title: Método de rede syncuser
-uuid: 2 affb 03 d -3907-4 b 01-9 a 64-02 ba 1 b 06 da 14
+title: método de rede syncUser
+uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de rede syncuser{#syncuser-network-method}
+# método de rede syncUser{#syncuser-network-method}
 
-Informa ao Livefyre para extrair informações do usuário de um URL de sincronização de usuário definido anteriormente. Retorna um Booliano.
+Informa o Livefyre a obter informações do usuário de um URL de sincronização do usuário definido anteriormente. Retorna um booliano.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| Userid | String | A ID de usuário para sincronização com o Livefyre. Você deve ter um URL de sincronização de usuário definido com o Livefyre antes de chamar este método. |
+| userId | String   | A ID do usuário para sincronização com o Livefyre. É necessário ter um URL de sincronização do usuário definido com o Livefyre antes de chamar esse método. |
 
-## Exemplo Java {#section_nyl_ycs_rz}
-
-```
-network.syncUser(userId); 
-```
-
-Saída de amostra:
-
-```
-true
-```
-
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 network.syncUser(userId); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 true
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
+
+```
+network.syncUser(userId); 
+```
+
+Exemplo de saída:
+
+```
+true
+```
+
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $network->syncUser(userId); 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 true
@@ -61,19 +61,19 @@ true
 network.sync_user(userId) 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 True
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 network.sync_user(userId) 
 ```
 
-Saída de amostra:
+Exemplo de saída:
 
 ```
 True
