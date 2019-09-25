@@ -1,29 +1,29 @@
 ---
-description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
-seo-description: Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
+description: Crie um novo fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
+seo-description: Crie um novo fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
 seo-title: Criar um novo fluxo
 solution: Experience Manager
 title: Criar um novo fluxo
-uuid: 2874660 b-d 26 b -4 e 21-b 24 e -484744 e 2303 a
+uuid: 2874660b-d26b-4e21-b24e-484744e2303a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 
 
-# Criar um novo fluxo{#create-a-new-stream}
+# Create a New Stream{#create-a-new-stream}
 
-Crie um novo Fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
+Crie um novo fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
 
-1. Para criar um novo Fluxo, clique em **[!UICONTROL Streams > Create Stream.]**
-1. Digite a **[!UICONTROL Stream Name]**.
-1. Selecione a **[!UICONTROL Stream Destination]**: **[!UICONTROL App]** ou **[!UICONTROL Folder]** para selecionar um destino para o fluxo.
+1. Para criar um novo fluxo, clique em **[!UICONTROL Streams > Create Stream.]**
+1. Insira um **[!UICONTROL Stream Name]**.
+1. Selecione um **[!UICONTROL Stream Destination]**: **[!UICONTROL App]** ou **[!UICONTROL Folder]** para selecionar um destino para o fluxo.
 
-   * Selecione um aplicativo para mover todo o conteúdo incluído no Stream para o aplicativo selecionado quando você clicar em Publicar.
-   * Selecione uma pasta para mover continuamente todo o conteúdo incluído no Stream para a pasta selecionada.
+   * Selecione um aplicativo para enviar todo o conteúdo incluído no Stream para o aplicativo selecionado ao clicar em Publicar.
+   * Selecione uma Pasta para encaminhar continuamente todo o conteúdo incluído no Fluxo para a pasta selecionada.
 
       >[!NOTE]
       >
-      >Para alterar o destino de um Fluxo existente, você deve criar um Clone em seguida, selecionar um novo destino.
+      >Para alterar o destino de um Fluxo existente, você deve criar um Clonar e selecionar um novo destino.
 
-1. Clique **[!UICONTROL Create Stream]** em para criar o Stream e abrir **[!UICONTROL Stream Details]** a página, a partir da qual você pode adicionar Regras para seu fluxo. Para saber mais sobre como adicionar regras de Fluxo, consulte [Adicionar regras para seu fluxo](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).
+1. Clique **[!UICONTROL Create Stream]** para criar o Fluxo e abrir a **[!UICONTROL Stream Details]** página, da qual você pode adicionar Regras para o Fluxo. Para obter mais informações sobre como adicionar regras de fluxo, consulte [Adicionar regras para seu fluxo](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).
