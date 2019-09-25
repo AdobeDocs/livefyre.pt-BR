@@ -1,48 +1,48 @@
 ---
 description: Transforme cada parte de cada página do site em uma tela colaborativa e interativa.
 seo-description: Transforme cada parte de cada página do site em uma tela colaborativa e interativa.
-seo-title: Práticas recomendadas para as soluções
+seo-title: Práticas recomendadas para Sidenotes
 solution: Experience Manager
-title: Práticas recomendadas para as soluções
-uuid: 0 f 511 fff -275 a -436 f-a 81 f-dbdf 0 bd 39900
+title: Práticas recomendadas para Sidenotes
+uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Práticas recomendadas para as soluções{#best-practices-for-sidenotes}
+# Best Practices for Sidenotes{#best-practices-for-sidenotes}
 
 Transforme cada parte de cada página do site em uma tela colaborativa e interativa.
 
-Os auxiliares oferecem uma nova perspectiva nova em comentários, permitindo que sua comunidade envolva *os protestos*lidos. Nosso objetivo com as Soluções é incentivar os usuários a gerar conversões refletivas e focadas em torno do conteúdo. Se os leitores quiserem concordar, discordar ou fazer uma pergunta, eles podem fazer sidenceamento de qualquer parte do seu artigo, um parágrafo, uma frase, uma citação ou uma imagem. As substituições são agrupadas de forma sub-agrupada no seu conteúdo para que os leitores possam participar e participar de conversões enquanto consomem seu conteúdo.
+O Sidenotes oferece uma nova perspectiva sobre os comentários, permitindo que sua comunidade se engaje ** enquanto lê. Nosso objetivo com o Sidenotes é incentivar seus usuários a gerar conversas ponderadas e focadas sobre seu conteúdo. Se os seus leitores querem concordar, discordar ou colocar uma questão, eles podem identificar qualquer parte do seu artigo. um parágrafo, uma frase, uma citação ou uma imagem. As notas de identificação são misturadas sutilmente ao seu conteúdo para que os leitores possam participar e conversar à medida que consumirem o seu conteúdo.
 
-## Aumentar comentário de qualidade {#section_x15_csn_sy}
+## Comentário sobre qualidade elevada {#section_x15_csn_sy}
 
-Muitos clientes vêm ao Livefyre perguntando como aumentar o nível de um discurso cívico e significativo em seus comentários. Sabemos que nossos clientes desejam incentivar a participação no quadro sem sacrificar a qualidade. Os auxiliares solucionam esse problema incentivando os leitores a deixar comentários detalhados e focados em uma frase específica, parágrafo ou elemento de mídia. Isso faz com que os usuários realmente interajam com seu conteúdo, não apenas entre si.
+Muitos clientes vêm à Livefyre perguntando como aumentar o nível de discurso civil e significativo em seus comentários. Sabemos que nossos clientes querem incentivar a participação em todos os setores sem sacrificar a qualidade. As Sidenotes abordam esse problema ao incentivar os leitores a deixar comentários bem pensados e focados em uma frase específica, parágrafo ou elemento de mídia. Isso faz com que os usuários realmente se envolvam com seu conteúdo, não apenas um ao outro.
 
-## Aumentar envolvimento {#section_dzr_pc4_sy}
+## Aumente o envolvimento {#section_dzr_pc4_sy}
 
-Como as Sidenotes apresentam uma nova forma de comentários, as equipes de produtos e de design aqui, no Livefyre, fizeram uma ampla pesquisa de usuário ao desenvolver o produto. Durante essas sessões, observamos que os usuários costumam ler artigos junto com o mouse. Ao acompanhar o ícone de Sidenotes abaixo de cada parágrafo ao passar o mouse, o produto oferece uma chamada sutil, mas consistente, para a ação dos usuários de fazerem o bate-papo em toda a experiência de leitura, aumentando o envolvimento e o tempo gasto em seu site.
+Como a Sidenotes apresenta uma nova maneira de comentar, as equipes de produtos e design aqui da Livefyre fizeram uma extensa pesquisa de usuários enquanto desenvolviam o produto. Durante essas sessões, percebemos que os usuários tendem a ler artigos junto com o mouse. Acoplando o ícone de Sidenotes abaixo de cada parágrafo ao passar o mouse, o produto oferece uma sutil mas consistente chamada de ação para que os usuários participem de toda a sua experiência de leitura, aumentando o envolvimento e o tempo gasto no seu site.
 
 ## Expandir alcance {#section_w1c_rc4_sy}
 
-As Sidenotes oferecem uma perspectiva nova em comentários, mas também sobre o compartilhamento de conteúdo socialmente. Quando os leitores destacam um pedaço de texto, as tarefas dos usuários levantam um botão para compartilhar seu conteúdo diretamente no Twitter ou Facebook com dois cliques. Essa pequena experiência de fricção aumenta o alcance viral ao oferecer aos usuários uma nova maneira de se envolver facilmente com seu conteúdo.
+Não só o Sidenotes oferece uma nova perspectiva sobre comentários, mas também sobre o compartilhamento social de conteúdo. Quando seus leitores destacam um texto, o Sidenotes abre um botão para que eles compartilhem seu conteúdo diretamente no Twitter ou Facebook com dois cliques. Essa experiência de baixa fricção aumenta seu alcance viral e, ao mesmo tempo, dá aos usuários uma nova maneira de se envolverem facilmente com seu conteúdo.
 
 ## Inscreva sua comunidade {#section_ipc_xc4_sy}
 
-Como as sidenotes apresentam uma forma potencialmente desconhecida de comentários, recomendamos que você educe a comunidade sobre como as Sidenotes funcionam e por que é uma ferramenta importante de comentários. Recomendamos introduzir as Sidenotes à sua comunidade com uma postagem dedicada e atualizar suas diretrizes da comunidade para incorporar as práticas recomendadas para a saída de Substituições ou comentários.
+Como o Sidenotes apresenta uma maneira potencialmente desconhecida de comentar, incentivamos você a educar sua comunidade sobre como o Sidenotes funciona e por que ele é uma ferramenta valiosa para comentários. Recomendamos a introdução de Sidenotes à sua comunidade com uma publicação dedicada e a atualização das diretrizes da sua comunidade para incorporar as práticas recomendadas para deixar Sidenotes ou comentários.
 
-## Sidenotes semente {#section_px4_yc4_sy}
+## Semente {#section_px4_yc4_sy}
 
-Embora sempre incentivemos sua equipe a participar da conversa, as Sidenotes fornecem uma maneira particularmente atraente para que sua equipe envolva-se. Recomendamos que o autor da publicação armazene a conversa deixando um Sidenote diretamente após a publicação. É uma maneira fácil de fornecer um prompt para a discussão em torno de um segmento que o jornalista considera interessante ou controverso. Também garante que os leitores que chegam na página visualizarão pelo menos um Sidenote, que chamará sua atenção e incentivará a participação.
+Embora sempre incentivemos sua equipe a participar da conversa, o Sidenotes fornece uma maneira particularmente atraente para sua equipe se envolver. Recomendamos que o autor da publicação tenha acelerado a conversa deixando um Sidenote diretamente após a publicação. É uma maneira fácil de propiciar um alerta para a discussão em torno de um segmento que o jornalista sente especialmente interessante ou controverso. Ela também garante que os leitores que chegarem à página verão pelo menos um Sidenote, que chamará a atenção deles e os incentivará a se engajar.
 
-## Usar vínculos junto com comentários {#section_lxv_1d4_sy}
+## Usar notas de identidade junto com comentários {#section_lxv_1d4_sy}
 
-Alguns clientes perguntam se eles precisam escolher entre Vínculos e Comentários, portanto vale observar que os Auxiliares são projetados como um complemento da experiência de comentários abaixo do artigo. A seção de comentários tradicionais ainda fornece um ótimo valor, dando aos usuários um único local imersivo para discutir todo o artigo, encorajando conversas de retorno e para trás com vários níveis de mídia em threading e expandida.
+Alguns clientes nos perguntam se precisam escolher entre Sidenotes e Comentários, portanto vale a pena notar que o Sidenotes foi projetado como um complemento à experiência de comentários abaixo do artigo. A seção de comentários tradicionais ainda oferece um grande valor ao dar aos usuários um único lugar imersivo para discutir o artigo inteiro, incentivando conversas de frente e verso com vários níveis de threading e mídia expandida.
 
-## Obter Creative {#section_jxz_bd4_sy}
+## Adquira a Creative {#section_jxz_bd4_sy}
 
-Os auxiliares possuem muitos casos de uso interessantes fora de uma página tradicional do artigo. Lista, transcrições, letras, fórmulas e apresentações de slides são excelentes oportunidades para incorporar colegas. Além disso, se você estiver publicando conteúdo como equipes de reprodução ou inscritos, as Sidenotes permitem que os usuários tenham microconversas em cada linha.
+O Sidenotes apresenta muitos casos de uso interessantes fora de uma página de artigo tradicional. Listas, transcrições, letras, receitas e apresentações de slides são excelentes oportunidades para incorporar Sidenotes. Além disso, se você estiver publicando conteúdo como equipes de playoff ou nomes de prêmios, o Sidenotes permitirá que os usuários tenham microconversas em cada linha.
 
-O artista Universal Music Group Dgra Rucker usa os Auxiliares para permitir que os usuários deixem comentários sobre suas letras, permitindo que os fãs tenham uma conversa específica sobre cada linha da música.
+O artista do Universal Music Group, Darius Rucker, usa Sidenotes para permitir que usuários deixem comentários em suas letras, permitindo que fãs tenham uma conversa específica sobre cada linha da música.
