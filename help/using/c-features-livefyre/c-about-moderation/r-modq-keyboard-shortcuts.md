@@ -1,29 +1,29 @@
 ---
-description: Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
-seo-description: Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
-seo-title: Atalhos de teclado modq
-title: Atalhos de teclado modq
-uuid: fc 4 e 7796-b 6 b 5-4782-a 0 fc-b 2326 ca 56 d 66
+description: Os seguintes atalhos de teclado estão disponíveis para moderadores no ModQ.
+seo-description: Os seguintes atalhos de teclado estão disponíveis para moderadores no ModQ.
+seo-title: Atalhos de teclado do ModQ
+title: Atalhos de teclado do ModQ
+uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Atalhos de teclado modq{#modq-keyboard-shortcuts}
+# Atalhos de teclado do ModQ{#modq-keyboard-shortcuts}
 
-Os seguintes atalhos do teclado estão disponíveis para moderadores em modq.
+Os seguintes atalhos de teclado estão disponíveis para moderadores no ModQ.
 
-| Ação | Descrição | Teclado | Alternativas |
+| Ação | Descrição | Teclado | Alternativo |
 |---|---|---|---|
-| Item anterior | Selecionar o item acima do item selecionado no momento | Seta para cima | K |
-| Próximo item | Selecionar o item abaixo do item selecionado no momento | Seta para baixo | J |
+| Item anterior | Selecionar o item acima do item atualmente selecionado | Seta para cima | K |
+| Próximo item | Selecione o item abaixo do item atualmente selecionado | Seta para baixo | J |
 | Aprovar conteúdo | Marcar conteúdo como aprovado | a |  |
-| Conteúdo da lixeira | Marcar conteúdo como traço | x |  |
-| Conteúdo Bozo | Marcar conteúdo como Bozo&#39;d | b |  |
+| Conteúdo do lixo | Marcar conteúdo como Tracejado | x |  |
+| Conteúdo bozo | Marcar conteúdo como Bozo’d | b |  |
 | Parte superior da fila | Ir para o primeiro item na parte superior da fila | l |  |
-| Silenciar ou desativar sinalizadores | Silenciar ou ativar sinalizadores do usuário selecionado | Shift + M |  |
-| Excluir usuário | Proibir apenas o usuário selecionado desse site | Shift + B |  |
-| Usuário da lista de permissões | Lista de permissões do usuário selecionado apenas para o site | Shift + W |  |
-| Limpar filtro do site | Exibir todos os itens na rede | Shift + Q |  |
+| Silenciar ou ativar sinalizadores | Silenciar ou ativar sinalizadores do usuário selecionado | Shift + M |  |
+| Usuário da proibição | Proibir o usuário selecionado apenas para esse site | Shift + B |  |
+| Usuário da lista de permissões | Listar a lista de permissões do usuário selecionado somente para esse site | Shift + W |  |
+| Limpar filtro de site | Exibir todos os itens na rede | Shift + Q |  |
 
