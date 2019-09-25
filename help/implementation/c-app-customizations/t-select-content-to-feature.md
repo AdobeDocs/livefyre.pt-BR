@@ -1,19 +1,19 @@
 ---
-description: Recurso ou conteúdo não recurso diretamente de um aplicativo.
-seo-description: Recurso ou conteúdo não recurso diretamente de um aplicativo.
-seo-title: Selecione conteúdo para o recurso de um aplicativo
+description: Inclua ou exclua o conteúdo diretamente de um aplicativo.
+seo-description: Inclua ou exclua o conteúdo diretamente de um aplicativo.
+seo-title: Selecionar conteúdo para recurso de um aplicativo
 solution: Experience Manager
-title: Selecione conteúdo para o recurso de um aplicativo
-uuid: b 3 c 2 aa 2 b -98 a 0-4548-944 b-a 1 f 36326 eea 0
+title: Selecionar conteúdo para recurso de um aplicativo
+uuid: b3c2aa2b-98a0-4548-944b-a1f36326eea0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Selecione conteúdo para o recurso de um aplicativo{#select-content-to-feature-from-an-app}
+# Selecionar conteúdo para recurso de um aplicativo{#select-content-to-feature-from-an-app}
 
-Recurso ou conteúdo não recurso diretamente de um aplicativo.
+Inclua ou exclua o conteúdo diretamente de um aplicativo.
 
-1. Em um aplicativo, passe o mouse sobre o conteúdo que deseja adicionar.
-1. Clique **[!UICONTROL Feature]** em para criar o conteúdo ou **[!UICONTROL Unfeature]** parar a representação desse conteúdo.
+1. Em um aplicativo, passe o mouse sobre o conteúdo que você deseja incluir.
+1. Clique em **[!UICONTROL Feature]** para incluir o conteúdo ou **[!UICONTROL Unfeature]** para parar de exibi-lo.
