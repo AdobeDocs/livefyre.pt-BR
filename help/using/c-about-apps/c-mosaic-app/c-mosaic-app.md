@@ -1,10 +1,10 @@
 ---
-description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site com um aplicativo Mosaico.
-seo-description: Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site com um aplicativo Mosaico.
+description: Adicione um mural dinâmico de cores, fotos e vídeos ao seu site com um aplicativo mosaico.
+seo-description: Adicione um mural dinâmico de cores, fotos e vídeos ao seu site com um aplicativo mosaico.
 seo-title: Mosaico
 solution: Experience Manager
 title: Mosaico
-uuid: 331 c 5 f 80-7440-4 b 91-8 ac 6-4 f 56 a 8 a 5 befe
+uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,19 +13,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Mosaico{#mosaic}
 
-Adicione um mural dinâmico e dinâmico de cor, fotos e vídeos ao seu site com um aplicativo Mosaico.
+Adicione um mural dinâmico de cores, fotos e vídeos ao seu site com um aplicativo mosaico.
 
-O mosaico transforma o conteúdo gerado pelo usuário em um mural dinâmico de cores e fotos ao exibir o conteúdo mais recente carregado e de mídia social em um formato de grade uniforme.
+O mosaico transforma o conteúdo gerado pelo usuário em um mural dinâmico de cores e fotos, exibindo o mais recente conteúdo carregado e de mídia social em um formato de grade uniforme.
 
-Os visitantes do site podem passar o mouse sobre um cartão mosaico para exibir o texto e outras informações do conteúdo. Usuários móveis e não móveis podem expandir um cartão para ver uma imagem maior, compartilhar conteúdo e reproduzir vídeo. À medida que novos itens se tornam disponíveis, os itens antigos são removidos e colocados na fila para formar a grade perfeita.
+Os visitantes do site podem passar o mouse sobre um cartão de mosaico para exibir o texto e outras informações de conteúdo. Usuários móveis e não móveis podem expandir um cartão para ver uma imagem maior, compartilhar conteúdo e reproduzir vídeo. À medida que novos itens se tornam disponíveis, os itens antigos são removidos e colocados de volta na fila para formar a grade perfeita.
 
-## Sobre mosaico {#section_tng_slj_yy}
+## Sobre o mosaico {#section_tng_slj_yy}
 
-O mosaico exibe o conteúdo mais recente do Livefyre e Stream em uma exibição de grade uniforme. Para criar uma experiência visual mais contínua, as informações do conteúdo são exibidas somente ao passar o mouse. À medida que novos itens se tornam disponíveis, os itens antigos são removidos e colocados de volta na fila.
+O mosaico exibe o conteúdo mais recente do Livefyre e do Stream em uma tela de grade uniforme. Para criar uma experiência visual mais contínua, as informações de conteúdo são exibidas somente ao passar o mouse. À medida que novos itens se tornam disponíveis, os itens antigos são removidos e colocados novamente na fila.
 
-## Que tipo de conteúdo posso publicar em um Mosaico? {#section_b5h_qlj_yy}
+## Que tipo de conteúdo posso publicar em um mosaico? {#section_b5h_qlj_yy}
 
-Conteúdo com suporte que contém:
+Conteúdo suportado que contenha:
 
 * Fotos
 * Vídeos
@@ -36,67 +36,67 @@ Fontes de conteúdo suportadas:
 * Twitter
 * Instagram
 * Facebook
-* Youtube
+* YouTube
 * RSS
 * Tumblr
 * Livefyre
 * Weibo
 
-Não é possível publicar conteúdo contendo texto somente a um mosaico, a menos que seja parte de uma publicação de fotos ou vídeos.
+Não é possível publicar conteúdo contendo texto somente em um mosaico, a menos que ele faça parte de uma postagem de foto ou vídeo.
 
-## Como um visitante do site vê o conteúdo em um Mosaico? {#section_w5c_plj_yy}
+## Como um visitante do site vê o conteúdo em um mosaico? {#section_w5c_plj_yy}
 
-Um visitante do site visualiza o conteúdo preenchido em um Mosaico do Studio de um Fluxo de estúdio ou Pesquisa social. Se o novo conteúdo é publicado no aplicativo enquanto um visitante do site está na página, o novo conteúdo é exibido imediatamente e avisa o conteúdo antigo em tempo real sem que um usuário precise atualizar sua página.
+Um visitante do site vê o conteúdo preenchido em um mosaico do Studio de um Studio Stream ou de uma Pesquisa Social. Se o novo conteúdo for publicado no aplicativo enquanto um visitante do site estiver na página, o novo conteúdo será exibido imediatamente e o conteúdo antigo será encerrado em tempo real sem que o usuário tenha que atualizar sua página.
 
-## O que acontece quando um visitante do site clica em um item em um Mosaico? {#section_cvz_nlj_yy}
+## O que acontece quando um visitante do site clica em um item em um mosaico? {#section_cvz_nlj_yy}
 
-* Em uma área de trabalho, você pode passar o mouse sobre o cartão para virar e mostrar um ícone de expansão. Clique no ícone Expandir para visualizar uma imagem maior, assistir a um vídeo ou ver vários itens de mídia no conteúdo.
-* Em um dispositivo móvel, você pode clicar em um cartão para visualizar uma imagem maior, assistir a um vídeo ou ver vários itens de mídia no conteúdo.
+* Em uma área de trabalho, você pode passar o mouse sobre a placa para invertê-la e mostrar um ícone de expansão. Clique no ícone de expansão para exibir uma imagem maior, assistir a um vídeo ou ver vários itens de mídia no conteúdo.
+* Em um dispositivo móvel, você pode clicar em um cartão para exibir uma imagem maior, assistir a um vídeo ou ver vários itens de mídia no conteúdo.
 
-## Um visitante do site pode compartilhar conteúdo de um Mosaico? {#section_zzz_mlj_yy}
+## Um visitante do site pode compartilhar conteúdo de um mosaico? {#section_zzz_mlj_yy}
 
-Sim. Um visitante do site pode compartilhar todos os tipos de conteúdo em um Mosaico:
+Sim. Um visitante do site pode compartilhar todos os tipos de conteúdo em um mosaico:
 
-* Em um desktop, passe o mouse sobre o cartão e clique no ícone de compartilhamento.
-* Em um dispositivo móvel, clique em um cartão para abri-lo e clique no ícone de compartilhamento.
+* Em uma área de trabalho, passe o mouse sobre o cartão e clique no ícone Compartilhar.
+* Em um dispositivo móvel, clique em um cartão para abri-lo e clique no ícone Compartilhar.
 
-## Com que frequência as partes giram pelos cartões? {#section_hpx_llj_yy}
+## Com que frequência as peças giram através das cartas? {#section_hpx_llj_yy}
 
 Um novo conteúdo é adicionado a cada 10 segundos.
 
-## Como o novo conteúdo é adicionado a um Mosaico? {#section_f4w_klj_yy}
+## Como o novo conteúdo é adicionado a um mosaico? {#section_f4w_klj_yy}
 
-Adicionar conteúdo a um Mosaico por:
+Adicione conteúdo a um mosaico:
 
 * Publicação manual da Biblioteca.
-* Configuração de um fluxo para publicação automática.
+* Configurar um fluxo para publicar automaticamente.
 * Usando o botão de upload, se ativado.
 
-## Como o conteúdo apenas é exibido no aplicativo? {#section_h31_klj_yy}
+## Como o conteúdo de texto somente é exibido no aplicativo? {#section_h31_klj_yy}
 
-O mosaico não exibe conteúdo somente texto. O mosaico exibe somente imagens e vídeos.
+O mosaico não exibe conteúdo somente texto. O mosaico exibe imagens e vídeos apenas.
 
-## Por que às vezes vejo caixas cinzas em um Mosaico? {#section_i5c_jlj_yy}
+## Por que às vezes vejo caixas cinzas em um mosaico? {#section_i5c_jlj_yy}
 
-O mosaico funciona melhor com uma coleção que tem constantemente novo conteúdo. Se o aplicativo tiver menos de 25 partes de conteúdo, você verá caixas cinzas para configurar os pontos adicionais. Preencha o Mosaico com mais conteúdo para impedir que as caixas cinzas sejam exibidas. Planeje a inserção de pelo menos 32 partes de conteúdo no aplicativo para que ele seja exibido como esperado.
+O mosaico funciona melhor com uma coleção que tem constantemente novo conteúdo. Se o aplicativo tiver menos de 25 partes de conteúdo, você verá caixas cinza para formar os pontos adicionais. Preencha o mosaico com mais conteúdo para evitar que as caixas cinzas sejam exibidas. Planeje colocar pelo menos 32 partes de conteúdo no aplicativo para que ele seja exibido conforme projetado.
 
-## Por que alguns do meu conteúdo não aparecem no meu site mesmo que o conteúdo seja exibido no Studio? {#section_upr_hlj_yy}
+## Por que parte do meu conteúdo não aparece no meu site mesmo que o conteúdo seja exibido no Studio? {#section_upr_hlj_yy}
 
-O mosaico exibe conteúdo em uma grade perfeita. Se você tiver 25 partes de conteúdo, a largura do contêiner deve corresponder a cinco partes de conteúdo para que todos os 25 pedaços de conteúdo apareçam: cinco entre e cinco para baixo.
+O mosaico exibe conteúdo em uma grade perfeita. Se você tiver 25 partes de conteúdo, a largura do contêiner deverá ajustar cinco partes de conteúdo para que todos os 25 partes de conteúdo sejam exibidos: cinco e cinco abaixo.
 
-Se a largura do contêiner se encaixar apenas em quatro para fazer uma grade perfeita, mas você tem 25 partes de conteúdo, o Mosaic classifica o conteúdo extra como um conteúdo atípico e não a exibe no aplicativo. O conteúdo único não gira porque tecnicamente está no aplicativo, mas não é exibido. Se a largura do contêiner couber sete, apenas 21 será exibida, já que quatro são discrepantes e não formam a grade perfeita.
+Se a largura do contêiner se ajustar somente a quatro para criar uma grade perfeita, mas você tiver 25 partes de conteúdo, o Mosaic classificará o conteúdo adicional como um título incomum e não o exibirá no aplicativo. O conteúdo anterior não gira porque tecnicamente está no aplicativo, mas não é exibido. Se a largura do contêiner se ajustar a sete, somente 21 será exibido, pois quatro são discrepantes e não formarão a grade perfeita.
 
-Às vezes, o conteúdo não é exibido porque você ativou **[!UICONTROL Require rights]**. Se você ativar isso, será necessário ter direitos atribuídos para todo o conteúdo no aplicativo. Se o status de direitos não for &quot;concedido&quot; para um conteúdo, ele não será exibido no aplicativo.
+Às vezes, o conteúdo não é exibido porque você ligou **[!UICONTROL Require rights]**. Se você ativar isso, precisará ter direitos concedidos para todo o conteúdo no aplicativo. Se o status de direitos não for "concedido" para um conteúdo, ele não será exibido no aplicativo.
 
 ## Criar mosaico usando o Studio {#section_dwb_glj_yy}
 
-Você pode criar todos os aplicativos no Livefyre Studio da mesma forma. Consulte Criar aplicativos para obter detalhes sobre como criar um aplicativo Mosaico no Studio usando o processo padrão.
+Você pode criar todos os aplicativos no Livefyre Studio da mesma maneira. Consulte Criar aplicativos para obter detalhes sobre como criar um aplicativo de mosaico no Studio usando o processo padrão.
 
-## Localizar um mosaico {#section_lnv_clj_yy}
+## Localize um mosaico {#section_lnv_clj_yy}
 
-A localização está disponível para Mosaic. Você pode:
+A localização está disponível para Mosaico. É possível:
 
-* Alterar strings disponíveis para Mosaico
+* Alterar strings disponíveis para mosaico
 * Criar e modificar um conjunto de traduções para Mosaico
 * Aplicar um conjunto de traduções a um site
 * Aplicar um conjunto de traduções a uma rede
