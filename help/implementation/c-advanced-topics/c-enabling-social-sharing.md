@@ -1,76 +1,76 @@
 ---
-description: Configure credenciais que permitem aos usuários compartilhar conteúdo em várias redes sociais.
-seo-description: Configure credenciais que permitem aos usuários compartilhar conteúdo em várias redes sociais.
-seo-title: Ativar compartilhamento em redes sociais
+description: Configure credenciais que permitam aos usuários compartilhar conteúdo em várias redes sociais.
+seo-description: Configure credenciais que permitam aos usuários compartilhar conteúdo em várias redes sociais.
+seo-title: Enabling Social Sharing
 solution: Experience Manager
-title: Ativar compartilhamento em redes sociais
-uuid: f 584 a 0 ae -46 c 7-48 c 1-aea 4-36 da 9 f 1 e 259 b
+title: Habilitar compartilhamento em redes sociais
+uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt
 source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
 ---
 
 
-# Ativar compartilhamento em redes sociais {#enabling-social-sharing}
+# Enabling Social Sharing {#enabling-social-sharing}
 
-Configure credenciais que permitem aos usuários compartilhar conteúdo em várias redes sociais.
+Set up credentials that allow your users to share content to various social networks.
 
-Para permitir que os usuários compartilhem conteúdo em sites de mídia social, implemente o recurso Compartilhamento em redes sociais do Livefyre e crie um sistema oauth para fornecer a autenticação correta nesses sites. Com esse sistema, o Livefyre atua sobre o nome do usuário quando ele escolhe compartilhar conteúdo por meio de mídia social.
-
->[!NOTE]
->
->Diferentes provedores têm requisitos diferentes do oauth. Consulte os seus provedores para adquirir as informações associadas à implementação do oauth.
-
-## Credenciais sociais necessárias {#section_gff_cjm_b1b}
-
-Se você usar um sistema de identidade de usuário personalizado, você deve fornecer suas credenciais sociais para permitir que os usuários compartilhem com Twitter, Facebook ou linkedin a partir de um aplicativo Livefyre.
+To allow users to share content across social media sites, implement Livefyre’s Social Sharing feature, and create an OAuth system to provide proper authentication to these sites. With this system, Livefyre acts upon the user’s behalf when they choose to share content through social media.
 
 >[!NOTE]
 >
->Os clientes que usam Janrain Mobilizar precisam fornecer somente seu Domínio Mobilizar e Mobilizar a chave de API.
+>Different providers have different OAuth requirements. Please consult with your providers to acquire the information associated with their implementation of OAuth.
 
-Use o painel Configurações de integração do Admin Console para inserir ou atualizar as seguintes credenciais sociais.
+## Required Social Credentials {#section_gff_cjm_b1b}
 
-### Credenciais obrigatórias:
+If you use a custom user identity system, you must provide your social credentials to enable users to share to Twitter, Facebook, or LinkedIn from a Livefyre App.
 
-* **Redirecionamento de proxy de oauth do cliente do Facebook** Client ID
-* **Segredo da API** da API do linkedin
-* **Twitter** Access Token Token API Key API Key API
+>[!NOTE]
+>
+>Customers using Janrain Engage need only provide their Engage Domain and Engage API Key.
+
+Use the Admin Console’s Integration Settings panel to enter or update the following social credentials.
+
+### Required Credentials:
+
+* **Redirecionamento de Proxy OAuth Secreto do Cliente de ID do Cliente do Facebook**
+* **LinkedIn API Key API Secret**
+* **API de chave secreta do token de acesso ao token do Twitter** Access
 
 ## Twitter {#section_qp5_1yl_b1b}
 
-As credenciais do Twitter estão disponíveis no Painel do aplicativo do Twitter. Para encontrar essas credenciais:
+As credenciais do Twitter estão disponíveis no Painel de aplicativos do Twitter. Para localizar essas credenciais:
 
-* Abra [a Página de desenvolvimento do aplicativo do Twitter](https://dev.twitter.com/apps) como proprietário do aplicativo, encontre seu aplicativo e clique no título.
-* Role para baixo até «Seu token de acesso» e capture os valores de «Token de acesso» e «Acesso a token de acesso». »
+* Abra a Página [de desenvolvedor de aplicativos do](https://dev.twitter.com/apps) Twitter como o proprietário do aplicativo, localize seu aplicativo e clique no título.
+* Role para baixo até "Your access token" (Seu token de acesso) e capture os valores de "Access token" (Token de acesso) e "Access token secret" (Acessar segredo do token).
 
 Você deve:
 
-* Digite um valor para o campo URL de retorno de chamada no aplicativo do Twitter. Embora esse campo possa ser um espaço reservado simples, ele não pode ser deixado em branco.
-* Defina o Tipo de aplicativo para ter acesso **de leitura** e **gravação** .
-* Confirme se o URL do site do aplicativo do Twitter está no mesmo domínio host do aplicativo Livefyre Core.
+* Insira um valor para o campo URL de retorno de chamada no aplicativo do Twitter. Embora esse campo possa ser um espaço reservado simples, ele não pode ser deixado em branco.
+* Defina o Tipo de aplicativo para ter acesso de **leitura** e **gravação** .
+* Confirme se o URL do site do aplicativo do Twitter está no mesmo domínio de host do aplicativo Livefyre Core.
 
 >[!NOTE]
 >
->Todos os aplicativos que exibem conteúdo do Twitter devem seguir seus requisitos de exibição. Consulte as Diretrizes de exibição [do Twitter](https://dev.twitter.com/terms/display-requirements) para obter mais informações.
+>Todos os aplicativos que exibem conteúdo do Twitter são necessários para seguir seus requisitos de exibição. Consulte as Diretrizes [de exibição do](https://dev.twitter.com/terms/display-requirements) Twitter para obter mais informações.
 
-## Linkedin {#section_lfz_zxl_b1b}
+## LinkedIn {#section_lfz_zxl_b1b}
 
-As credenciais do linkedin estão disponíveis na seção Chaves oauth das Chaves de API do aplicativo do linkedin.
+As credenciais do LinkedIn estão disponíveis na seção Chaves OAuth das Chaves de API do aplicativo do LinkedIn.
 
-* Faça logon na sua conta a partir da página de desenvolvedores do linkedin [https://developer.linkedin.com/](https://developer.linkedin.com/).
-* Passe o mouse sobre o seu nome na parte superior direita e selecione Chaves de API no menu suspenso.
-* Clique no título do aplicativo.
-* Captura a chave da API e os valores de chave secreta na seção Atalhos de oauth
+* Faça logon em sua conta na página de desenvolvedores do LinkedIn [https://developer.linkedin.com/](https://developer.linkedin.com/).
+* Passe o mouse sobre seu nome na parte superior direita e selecione Chaves de API no menu suspenso.
+* Clique no título Aplicativo.
+* Obtenha os valores da chave da API e da chave secreta na seção Chaves OAuth
 
 ## Facebook {#section_zyb_gpl_b1b}
 
-As credenciais do Facebook estão disponíveis na sua página de Aplicativos do desenvolvedor.
+As credenciais do Facebook estão disponíveis na página Aplicativos do desenvolvedor.
 
-* Abra [a Página de aplicativos do Facebook](https://developers.facebook.com/apps) do Facebook como proprietário do aplicativo, encontre seu aplicativo e clique no título.
-* Capture os valores para ID do aplicativo e segredo do aplicativo. Para o Segredo do aplicativo, talvez seja necessário clicar no botão Mostrar para exibi-lo.
+* Abra a página [Aplicativos para desenvolvedores do](https://developers.facebook.com/apps) Facebook como o proprietário do aplicativo, localize seu aplicativo e clique no título.
+* Obtenha os valores para ID do aplicativo e segredo do aplicativo. Para o segredo do aplicativo, talvez seja necessário clicar no botão Mostrar para exibi-lo.
 
-O compartilhamento no Facebook requer que você configure uma página de redirecionamento para fazer solicitações do Facebook e seguir as práticas de domínio exigidas pelo [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). A página deve ser hospedada em seu domínio para que o Facebook possa verificar se a solicitação veio de uma fonte legítima.
+O compartilhamento no Facebook requer a configuração de uma página de redirecionamento para atender às solicitações do Facebook e às práticas de domínio exigidas pelo [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). A página deve ser hospedada em seu domínio para que o Facebook possa verificar se a solicitação veio de uma fonte legítima.
 
 ### Redirecionamento do Facebook
 
@@ -78,7 +78,7 @@ A página hospedada deve incluir o seguinte código:
 
 ### Ruby
 
-Este é um exemplo que usa Ruby e Rails para fazer o redirecionamento do Facebook oauth.
+Este é um exemplo de uso de Ruby e Rails para fazer o redirecionamento OAuth do Facebook.
 
 ```ruby
 require "base64" 
@@ -115,7 +115,7 @@ end
 
 ### Python
 
-Este é um exemplo que usa Python e Django para fazer o redirecionamento do Facebook oauth.
+Este é um exemplo de uso de Python e Django para fazer o redirecionamento OAuth do Facebook.
 
 ```python
 import base64, re 
@@ -155,9 +155,9 @@ def handle_lfoauth(request):
     return HttpResponseRedirect(rdir)
 ```
 
-### Nodejs
+### NodeJS
 
-Este é um exemplo que usa nodejs e Sail/Express para fazer o redirecionamento do Facebook oauth.
+This is an example using NodeJS and Sail/Express to do the Facebook OAuth redirect.
 
 ```nodejs
 /* 
@@ -202,7 +202,7 @@ module.exports = {
 
 ### Java
 
-Este é um exemplo que usa controladores Java e primavera para fazer o redirecionamento do Facebook oauth.
+This is an example using Java and Spring controllers to do the Facebook OAuth redirect.
 
 ```java
 /* 
@@ -329,9 +329,9 @@ if (isset($_GET['lfoauth'])) {
 ?>
 ```
 
-## Configuração de provedores de «Publicação» {#section_rdk_dpl_b1b}
+## Configuring “Post to” Providers {#section_rdk_dpl_b1b}
 
-Por padrão, os botões Facebook, linkedin e Twitter «Postar em» são mostrados nos aplicativos do Livefyre Core. Use o parâmetro posttobuttons para configurar quais provedores serão exibidos ao incorporar o Aplicativo Livefyre.
+By default, Facebook, LinkedIn, and Twitter “Post to” buttons are shown on Livefyre Core applications. Use the postToButtons parameter to configure which providers will appear when embedding the Livefyre App.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 
@@ -339,8 +339,8 @@ convConfig.postToButtons = ['tw', 'fb', 'li']; // Or any subset of these
 fyre.conv.load(networkConfig, [convConfig], function() {}); 
 ```
 
-`postToButtons` é uma matriz com qualquer subconjunto das seguintes opções:
+`postToButtons` is an array with any subset of the following options:
 
 * tw: Twitter
 * fb: Facebook
-* li: Linkedin
+* li: LinkedIn
