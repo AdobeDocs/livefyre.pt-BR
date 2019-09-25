@@ -1,23 +1,23 @@
 ---
-description: O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
-seo-description: O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
-seo-title: Conteúdo em destaque agregado usando as apis em destaque
+description: O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
+seo-description: O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
+seo-title: Conteúdo agregado em destaque usando as APIs em destaque
 solution: Experience Manager
-title: Conteúdo em destaque agregado usando as apis em destaque
-uuid: e 9 c 9 ff 26-37 b 6-4328-af 85-aa 550 e 7 ffdfd
+title: Conteúdo agregado em destaque usando as APIs em destaque
+uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Conteúdo em destaque agregado usando as apis em destaque{#aggregated-featured-content-using-the-featured-apis}
+# Conteúdo agregado em destaque usando as APIs em destaque{#aggregated-featured-content-using-the-featured-apis}
 
-O Livefyre fornece quatro apis em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentes para a rede, site ou coleção de entrada, ou as duas partes de conteúdo destaque na parte superior de uma coleção de entrada.
+O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
 
-## Destaque (Rede) {#section_cgm_1nw_xz}
+## Em destaque (Rede) {#section_cgm_1nw_xz}
 
-Recupera as 50 partes mais recentes do conteúdo em destaque (e seus autores) da rede de entrada. (Use paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
+Recupera as 50 partes mais recentes do conteúdo em destaque (e seus autores) para a rede de entrada. (Use a paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
 
 **Recurso**
 
@@ -153,7 +153,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 
 ## Destaque (Site) {#section_lq5_ymw_xz}
 
-Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) do site de entrada. (Use paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
+Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) para o site de entrada. (Use a paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
 
 **Recurso**
 
@@ -253,9 +253,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 }
 ```
 
-## Destaque (coleção) {#section_kgc_xmw_xz}
+## Em destaque (coleção) {#section_kgc_xmw_xz}
 
-Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) da coleção de entrada. (Use paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
+Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) para a coleção de entrada. (Use a paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
 
 **Recurso**
 
@@ -355,9 +355,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Destaque (cabeçalho) {#section_n4b_lmw_xz}
+## Em destaque (cabeçalho) {#section_n4b_lmw_xz}
 
-Retorna as duas partes de conteúdo em destaque mais recentes da Input Collection.
+Retorna as duas partes de conteúdo em destaque mais recentemente para a coleção de entrada.
 
 **Recurso**
 
