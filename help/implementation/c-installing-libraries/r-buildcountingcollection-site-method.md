@@ -1,38 +1,38 @@
 ---
-description: Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-description: Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
-seo-title: Método de site buildcountingcollection
-title: Método de site buildcountingcollection
-uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713
+description: Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+seo-description: Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+seo-title: método de site buildCountingCollection
+title: método de site buildCountingCollection
+uuid: e293d66a-0025-4230-997e-295ce4625713
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Método de site buildcountingcollection{#buildcountingcollection-site-method}
+# método de site buildCountingCollection{#buildcountingcollection-site-method}
 
-Retorna um objeto de Coleção instanciado como um tipo de Contagem. Execute create_ or_ update () do objeto Collection para concluir o processo de criação.
+Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| title | String | O título da Coleção. |
-| Articleid | String | Uma ID de artigo exclusiva escolhida para identificar uma coleção dentro do site. |
-| url | String | O URL canônico canônico desta coleção. |
+| title | String   | O título da coleção. |
+| articleId | String   | Uma ID de artigo exclusiva que você escolheu para identificar uma Coleção no site. |
+| url | String | O URL absoluto canônico para esta coleção. |
 
-## Exemplo Java {#section_nyl_ycs_rz}
+## Exemplo de Java {#section_nyl_ycs_rz}
 
 ```
 Collection collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemplo de nodejs {#section_xkd_gds_rz}
+## Exemplo NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemplo PHP {#section_ghf_gds_rz}
+## Exemplo de PHP {#section_ghf_gds_rz}
 
 ```
 $collection = site->buildCountingCollection(title, articleId, url); 
@@ -44,7 +44,7 @@ $collection = site->buildCountingCollection(title, articleId, url);
 collection = site.build_counting_collection(title, articleId, url) 
 ```
 
-## Rupor exemplo {#section_enh_gds_rz}
+## Exemplo de Ruby {#section_enh_gds_rz}
 
 ```
 collection = site.build_counting_collection(title, articleId, url) 
