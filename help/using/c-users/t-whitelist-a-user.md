@@ -1,22 +1,22 @@
 ---
-description: Faça a lista de permissões de um usuário para permitir que ele poste diretamente em aplicativos sem ser moderado.
-seo-description: Faça a lista de permissões de um usuário para permitir que ele poste diretamente em aplicativos sem ser moderado.
-seo-title: Lista de permissões um usuário
+description: Coloque uma lista de permissões para permitir que o usuário publique diretamente em Aplicativos sem ser moderado.
+seo-description: Coloque uma lista de permissões para permitir que o usuário publique diretamente em Aplicativos sem ser moderado.
+seo-title: Lista de permissões de um usuário
 solution: Experience Manager
-title: Lista de permissões um usuário
-uuid: c 58 f 7279-5 fde -419 a-a 833-3 c 639 d 469421
+title: Lista de permissões de um usuário
+uuid: c58f7279-5fde-419a-a833-3c639d469421
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 
 
-# Lista de permissões um usuário{#whitelist-a-user}
+# Lista de permissões de um usuário{#whitelist-a-user}
 
-Faça a lista de permissões de um usuário para permitir que ele poste diretamente em aplicativos sem ser moderado.
+Coloque uma lista de permissões para permitir que o usuário publique diretamente em Aplicativos sem ser moderado.
 
-Usuários de lista de permissões permitem que eles postem diretamente em seus aplicativos. O conteúdo postado pelos usuários da lista de permissões não passa pelos filtros SAFE, profanity ou de moderação do Livefyre, e será aprovado e adicionado automaticamente ao aplicativo.
+Os usuários da lista de permissões permitem que eles publiquem diretamente em seus aplicativos. O conteúdo publicado por usuários na lista de permissões não passará pelos filtros SAFE, profanidade ou pré-moderação do Livefyre e será automaticamente aprovado e adicionado ao aplicativo.
 
-1. Clique **[!UICONTROL +Add]** em para **[!UICONTROL Whitelists]**.
-1. Será exibido um pop-up que permite a você adicionar o usuário à rede inteira ou para um site específico. (Use a tecla CTR ou Command para selecionar vários sites.)
-1. Clique **[!UICONTROL Whitelist]** em para concluir o processo.
+1. Clique **[!UICONTROL +Add]** para **[!UICONTROL Whitelists]**.
+1. Será exibido um pop-up que permite que você coloque o usuário na lista de permissões de toda a rede ou de um site específico. (Use a tecla CTR ou Command para selecionar vários sites.)
+1. Clique em **[!UICONTROL Whitelist]** para concluir o processo.
