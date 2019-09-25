@@ -1,33 +1,33 @@
 ---
-description: Rastrear os cliques de volta para a página a partir do tráfego de referência.
-seo-description: Rastrear os cliques de volta para a página a partir do tráfego de referência.
-seo-title: Rastreamento de referências
+description: Rastreie os cliques de volta à sua página do tráfego de referência.
+seo-description: Rastreie os cliques de volta à sua página do tráfego de referência.
+seo-title: Rastreamento de referência
 solution: Experience Manager
-title: Rastreamento de referências
-uuid: 5206 cc 16-9671-4 b 3 d-a 013-be 1 a 3 e 8 c 029 d
+title: Rastreamento de referência
+uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 
 
-# Rastreamento de referências{#referral-tracking}
+# Rastreamento de referência{#referral-tracking}
 
-Rastrear os cliques de volta para a página a partir do tráfego de referência.
+Rastreie os cliques de volta à sua página do tráfego de referência.
 
-O Livefyre anexa uma variável de referência ao URL quando um comentário é postado ou compartilhado em uma rede social e para permalinks incluídos em emails do Livefyre. Use essa variável para rastrear o tráfego de referência de Aplicativos do Livefyre para suas propriedades sociais ou de propriedade.
+Livefyre anexa uma variável de referência ao URL quando um comentário é publicado ou compartilhado em uma rede social e para permalinks incluídos nos emails do Livefyre. Use essa variável para rastrear o tráfego de referência dos aplicativos Livefyre para suas propriedades sociais ou de propriedade.
 
-Os aplicativos do Livefyre permitem rastrear fluxos de dados resultantes do tráfego de referências, permitindo analisar o tráfego do site.
+Os aplicativos Livefyre permitem rastrear fluxos de dados resultantes do tráfego de referência, permitindo que você analise o tráfego do site.
 
-## Rastreamento de tráfego de referência do Livefyre {#section_nsy_qp4_xz}
+## Rastreamento do tráfego de referência do Livefyre {#section_nsy_qp4_xz}
 
-O tráfego de referência do Livefyre de redes sociais e emails pode ser rastreado inspecionando os parâmetros da string de consulta nos urls de suas páginas e implementando o código na página para rastrear isso por meio do seu provedor de análise. O Livefyre anexa um link de referência para o URL quando um comentário é postado ou compartilhado em uma rede social e para permalinks incluídos em emails do Livefyre.
+O tráfego de referência do Livefyre de redes sociais e e-mails pode ser rastreado inspecionando os parâmetros da string de consulta nos URLs de suas páginas e implementando o código na sua página para rastrear isso por meio do provedor de análises. Livefyre anexa um link de referência ao URL quando um comentário é publicado ou compartilhado em uma rede social e para permalinks incluídos nos emails do Livefyre.
 
 ## Exemplo de implementação {#section_xvs_x44_xz}
 
-Se o tráfego tiver sido de uma notificação com streamhub, haverá um parâmetro de string de consulta hubrefsrc com um valor de email, facebook, twitter, linkedin ou permalink. O nome do parâmetro hubrefsrc pode ser configurado no nível de rede pela equipe de entrega do Livefyre.
+Se o tráfego for de uma notificação com transmissão por meio do StreamHub, haverá um parâmetro de string de consulta hubRefSrc com um valor de email, Facebook, Twitter, link ou permalink. O nome do parâmetro hubRefSrc pode ser configurado no nível da rede pela equipe de entrega do Livefyre.
 
-Para integrar com uma plataforma de análise, sua página deve procurar o hubrefsrc na carga e gravar o tráfego se estiver presente.
+Para se integrar a uma plataforma de análise, sua página deve procurar o hubRefSrc na carga e registrar o tráfego se ele estiver presente.
 
 Por exemplo:
 
@@ -52,5 +52,5 @@ Aplicativos que usam este recurso:
 
 * [Bate-papo](/help/using/c-about-apps/c-chat-app/c-chat-app.md)
 * [Comentários](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Revisões](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md)
-* [Auxiliares](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
+* [Resenhas](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md)
+* [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
