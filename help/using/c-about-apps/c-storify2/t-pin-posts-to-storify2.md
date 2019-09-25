@@ -1,29 +1,29 @@
 ---
-description: Fixe uma publicação para concentrar a atenção em conteúdo específico quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
-seo-description: Fixe uma publicação para concentrar a atenção em conteúdo específico quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
-seo-title: Fixar uma postagem no Storify 2
+description: Fixe uma publicação para focalizar a atenção em conteúdo específico quando você aterrissar pela primeira vez em uma página com o Storify 2 incorporado.
+seo-description: Fixe uma publicação para focalizar a atenção em conteúdo específico quando você aterrissar pela primeira vez em uma página com o Storify 2 incorporado.
+seo-title: Fixar uma publicação no Storify 2
 solution: Experience Manager
-title: Fixar uma postagem no Storify 2
-uuid: c 4043 ea 6-8763-4 afb-bc 1 b-d 69 e 1 c 8 eca 61
+title: Fixar uma publicação no Storify 2
+uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Fixar uma postagem no Storify 2{#pin-a-post-to-storify}
+# Fixar uma publicação no Storify 2{#pin-a-post-to-storify}
 
-Fixe uma publicação para concentrar a atenção em conteúdo específico quando você colocar uma página pela primeira vez com o Storify 2 incorporado.
+Fixe uma publicação para focalizar a atenção em conteúdo específico quando você aterrissar pela primeira vez em uma página com o Storify 2 incorporado.
 
-Você pode destacar informações importantes que os públicos-alvo podem focar primeiro, como um momento dinâmico em uma história de notícias ou pontuações de correspondência atuais e uma foto da última meta.
+Você pode destacar informações importantes que os públicos podem focar primeiro, como um momento central em uma notícia ou pontuação de correspondência atual e uma foto do último objetivo.
 
-Ao fixar uma publicação:
+Quando você prende uma publicação:
 
-* Só é possível fixar uma publicação por vez. Se você optar por fixar uma publicação diferente, a publicação fixada atual ficará inalterada.
-* O ícone de prino é exibido em uma publicação publicada imediatamente ao fixá-lo.
-* O conteúdo fixado permanece no topo da história e outros fluxos de conteúdo publicados são transmitidos após a postagem fixada.
-* Alterar a ordem de publicação da mais recente para a mais antiga não afeta a publicação fixa.
+* Você só pode fixar uma publicação por vez. Se você escolher prender uma publicação diferente, a publicação fixada atual se tornará não fixada.
+* O ícone de pino é exibido em uma publicação imediatamente quando você o prende.
+* O conteúdo fixado permanece na parte superior da história e outros fluxos de conteúdo publicados após a publicação fixada.
+* A alteração da ordem de publicação de mais recente para mais antiga não afeta a publicação fixada.
 
-1. Crie o Storify 2 poste e publique conteúdo.
-1. Clique no ícone de prino para prender a publicação.
-1. Confirme se você deseja prender a publicação na caixa de diálogo.
+1. Crie postagens do Storify 2 e publique conteúdo.
+1. Clique no ícone de pino para prender a publicação.
+1. Confirme se deseja prender a publicação na caixa de diálogo.
