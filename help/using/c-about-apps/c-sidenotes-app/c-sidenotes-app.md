@@ -1,25 +1,25 @@
 ---
-description: Use os auxiliares para permitir que os leitores comentem diretamente em consonância com o conteúdo.
-seo-description: Use os auxiliares para permitir que os leitores comentem diretamente em consonância com o conteúdo.
-seo-title: Auxiliares
+description: Use Sidenotes para permitir que seus leitores façam comentários diretamente em linha com o conteúdo.
+seo-description: Use Sidenotes para permitir que seus leitores façam comentários diretamente em linha com o conteúdo.
+seo-title: Sidenotes
 solution: Experience Manager
-title: Auxiliares
-uuid: 306294 e 9-1 b 4 e -44 cb-b 619-a 97840609 f 6 b
+title: Sidenotes
+uuid: 306294e9-1b4e-44cb-b619-a97840609f6b
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Auxiliares{#sidenotes}
+# Sidenotes{#sidenotes}
 
-Use os auxiliares para permitir que os leitores comentem diretamente em consonância com o conteúdo.
+Use Sidenotes para permitir que seus leitores façam comentários diretamente em linha com o conteúdo.
 
-Os auxiliares permitem que os usuários realçam e anotem as senhas, diretamente em linha com seu conteúdo, criando uma discussão envolvente e colaborativa direcionada ao site. Os leitores podem vincular qualquer parte de um artigo, de palavras individuais, a parágrafos e imagens. Os auxiliares podem ser compartilhados no Twitter e Facebook como um meio de trazer amigos, seguidores e especialistas para a conversa. Os usuários também podem aumentar o sidenotes, para trazer o conteúdo mais útil para o topo da lista. (Os sidenotes classificam o conteúdo por votos de usuário, apresentando notas com os mais altos votos, menos o total total na parte superior da lista.)
+As notas de identidade permitem que os usuários realçam e anotem as passagens, diretamente em linha com seu conteúdo, criando uma discussão envolvente e colaborativa direcionada para seu site. Os leitores podem designar qualquer parte de um artigo, de palavras individuais a parágrafos e imagens. Os votos podem ser compartilhados no Twitter e no Facebook como um meio de trazer amigos, seguidores e especialistas para a conversa. Os usuários também podem votar em Votos de identidade para trazer o conteúdo mais útil para o topo da lista. (O Sidenotes classifica o conteúdo por votos do usuário, apresentando notas com os votos mais altos menos o total de votos negativos no topo da lista.)
 
-Para fazer o sidenotad, clique no ícone que aparece no final de parágrafos e imagens, ou destaque qualquer parte de um parágrafo e clique no ícone «lápis». Ao realçar uma seção do artigo, você também pode compartilhá-la no Facebook e Twitter.
+Para identificar, clique no ícone que aparece no final dos parágrafos e imagens ou destaque qualquer parte de um parágrafo e clique no ícone "lápis" que aparece. Quando você destaca uma seção do artigo, também pode compartilhá-la no Facebook e no Twitter.
 
 >[!NOTE]
 >
->Em dispositivos móveis, o modo paisagem não é suportado e as sidenotes podem ser gravadas apenas para parágrafos, e não para trechos de texto individuais.
+>Em dispositivos móveis, o modo paisagem não é suportado e as Sidenotes podem ser escritas apenas para parágrafos, e não para trechos de texto individuais.
 
