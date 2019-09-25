@@ -1,35 +1,35 @@
 ---
-description: Crie um token exclusivo no seu servidor que identifica cada coleção criada.
-seo-description: Crie um token exclusivo no seu servidor que identifica cada coleção criada.
-seo-title: Collectionmeta token
+description: Crie um token exclusivo no servidor que identifique cada coleção criada.
+seo-description: Crie um token exclusivo no servidor que identifique cada coleção criada.
+seo-title: CollectionMeta Token
 solution: Experience Manager
-title: Collectionmeta token
-uuid: d 5 db 0 b 0 f -2807-4392-874 a -94 ac 3 c 1 e 7550
+title: CollectionMeta Token
+uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Collectionmeta token{#collectionmeta-token}
+# CollectionMeta Token{#collectionmeta-token}
 
-Crie um token exclusivo no seu servidor que identifica cada coleção criada.
+Crie um token exclusivo no servidor que identifique cada coleção criada.
 
-O Livefyre atribui um identificador exclusivo a cada coleção criada. O Livefyre atribui um título, URL e outros parâmetros, incluindo:
+O Livefyre atribui um identificador exclusivo a todas as Coleções que você criar. Livefyre atribui um título, URL e outros parâmetros, incluindo:
 
-## Parâmetros collectionmeta Token
+## Parâmetros do collectionMeta Token
 
 | Parâmetro | Tipo | Descrição |
 |--- |--- |--- |
-| Networkname | String (opcional) | O nome da rede Livefyre (disponível em {! UICONTROL Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais]). Isso é opcional ao usar a biblioteca para criar um token collectionmeta. |
-| Networkkey | String (opcional) | A chave secreta da rede específica (disponível em Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais). Isso é opcional ao usar a biblioteca para criar um token collectionmeta. |
-| Siteid | String (opcional) | A ID do site (disponível [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Opcional ao usar a biblioteca para criar um token collectionmeta. |
-| Sitekey | String (opcional) | A chave secreta do site (disponível em {! UICONTROL Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais]). |
-| Articleid | String (opcional) | Uma ID exclusiva para a Coleção. |
-| title | String (opcional) | O título que você deseja aplicar à Coleção. Geralmente, isso corresponde ao título da página que exibe o Aplicativo. <br>Por exemplo: «A integração é tão divertida! » <br>Observação: A extensão máxima de caracteres do título é de 255 caracteres. O campo de título não suporta entidades HTML. Codifice caracteres especiais usando UTF -8. |
-| url | String (opcional) | O URL canônico canônico que deseja anexar a esta coleção. Esse URL será usado para gerar links de volta ao aplicativo a partir de conteúdo compartilhado no Facebook e Twitter, notificações por email e Livefyre Studio. <br>Observação: Se estiver testando localmente, use um domínio de URL base válido (por exemplo: válido: `https://customer.com`; inválido: `https://localhost:5995`). |
-| tags | String (opcional) | Uma lista separada por vírgulas ou frases separadas. Pesquisar coleções por tags usando o Studio. </br>Observação: As tags não podem conter espaços. Use sublinhados se desejar que um espaço apareça na interface do usuário. |
-| extensões | JSON (opcional) | Um conjunto formatado JSON de params para passar para a coleção. |
+| networkName | Sequência (opcional) | O nome da rede Livefyre (disponível em {!UICONTROL Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais). Isso é opcional ao usar a biblioteca para criar um collectionMeta token. |
+| networkKey | Sequência (opcional) | A chave secreta para a rede específica (disponível em Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais ). Isso é opcional ao usar a biblioteca para criar um collectionMeta token. |
+| siteId | Sequência (opcional) | A ID do site (disponível em [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Opcional ao usar a biblioteca para criar um collectionMeta token. |
+| siteKey | Sequência (opcional) | A chave secreta para o site (disponível em {!UICONTROL Studio &gt; Configurações &gt; Configurações de integração &gt; Credenciais] ). |
+| articleId | Sequência (opcional) | Uma ID exclusiva para a coleção. |
+| title | Sequência (opcional) | O título que você deseja aplicar à Coleção. Normalmente, isso corresponde ao título da página que exibe o aplicativo. <br>Por exemplo: "A integração é tão divertida!" <br>Observação:  O comprimento máximo de caracteres para o título é de 255 caracteres. O campo de título não suporta entidades HTML. Codifique caracteres especiais usando UTF-8. |
+| url | String (opcional) | O URL absoluto canônico que você deseja anexar a esta coleção. Esse URL será usado para gerar links de volta ao aplicativo a partir de conteúdo compartilhado no Facebook e no Twitter, notificações por email e Livefyre Studio. <br>Observação:  Se estiver testando localmente, use um domínio de URL base válido (por exemplo: válido: `https://customer.com`; inválido: `https://localhost:5995`). |
+| específicos | Sequência (opcional) | Uma lista separada por vírgulas de palavras-chave únicas ou frases. Pesquisar coleções por tags usando o Studio.  </br>Observação:As tags não podem conter espaços. Use sublinhados se desejar que um espaço apareça na interface do usuário. |
+| extensões | JSON (opcional) | Um conjunto formatado de parâmetros JSON para passar para a coleção. |
 
 ## Java {#section_orz_m4n_sz}
 
@@ -47,7 +47,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_kpk_44n_sz}
+## NodeJS {#section_kpk_44n_sz}
 
 ```
 var livefyre = require('livefyre'); 
@@ -97,7 +97,7 @@ collection.data.tags = 'tags'
 collection_meta_token = collection.build_collection_meta_token 
 ```
 
->[!NOTE] {importance = &quot;high&quot;}
+>[!NOTE] {important="high"}
 >
->O Livefyre recebe o collectionmeta token que você cria e determina singularidade combinando siteid (Livefyre fornecido) e articleid (cliente especificado).
+>O Livefyre recebe a coleçãoMeta token que você cria e determina a exclusividade combinando o siteId (fornecido pelo Livefyre) e o articleId (especificado pelo cliente).
 
