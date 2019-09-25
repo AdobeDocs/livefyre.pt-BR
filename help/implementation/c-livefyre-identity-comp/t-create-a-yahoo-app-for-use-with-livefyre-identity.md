@@ -1,34 +1,34 @@
 ---
-description: Você pode usar a identidade do Livefyre com Yahoo! para permitir que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
-seo-description: Você pode usar a identidade do Livefyre com Yahoo! para permitir que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
-seo-title: Crie um Yahoo! Aplicativo para uso com a identidade do Livefyre
+description: Você pode usar a Livefyre Identity com o Yahoo! para permitir que os usuários usem seu Yahoo! faça logon para interagir com os aplicativos do site.
+seo-description: Você pode usar a Livefyre Identity com o Yahoo! para permitir que os usuários usem seu Yahoo! faça logon para interagir com os aplicativos do site.
+seo-title: Crie um Yahoo! Aplicativo para uso com Livefyre Identity
 solution: Experience Manager
-title: Crie um Yahoo! Aplicativo para uso com a identidade do Livefyre
-uuid: 6863 cd 2 e-eb 0 d -465 b-b 706-88 ecaccf 41 bc
+title: Crie um Yahoo! Aplicativo para uso com Livefyre Identity
+uuid: 6863cd2e-eb0d-465b-b706-88ecaccf41bc
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Crie um Yahoo! Aplicativo para uso com a identidade do Livefyre{#create-a-yahoo-app-for-use-with-livefyre-identity}
+# Crie um Yahoo! Aplicativo para uso com Livefyre Identity{#create-a-yahoo-app-for-use-with-livefyre-identity}
 
-Você pode usar a identidade do Livefyre com Yahoo! para permitir que os usuários usem o Yahoo! logons para interagir com aplicativos em seu site.
+Você pode usar a Livefyre Identity com o Yahoo! para permitir que os usuários usem seu Yahoo! faça logon para interagir com os aplicativos do site.
 
-Para permitir que os usuários façam logon com suas credenciais do Yahoo, o Livefyre exige as seguintes informações do Yahoo App:
+Para permitir que os usuários façam logon com suas credenciais do Yahoo, o Livefyre requer as seguintes informações do aplicativo do Yahoo:
 
 * ID do cliente (chave do consumidor)
-* Segredo do cliente (segredo do consumidor)
+* Segredo do cliente (Segredo do consumidor)
 
-Para criar um Yahoo! aplicativo para uso com a identidade do Livefyre:
+Para criar um Yahoo! aplicativo para uso com a Livefyre Identity:
 
-1. Acesse [https://developer.yahoo.com/apps/](https://developer.yahoo.com/apps/)e faça logon em seu Yahoo! para criar um novo aplicativo ou selecionar um aplicativo existente para uso com a identidade do Livefyre.
-1. Selecione **[!UICONTROL Application Type: Web Application]**.
-1. Enter **[!UICONTROL Callback Domain:]**`https://identity.livefyre.com`
+1. Vá para [https://developer.yahoo.com/apps/](https://developer.yahoo.com/apps/)e entre no seu Yahoo! para criar um novo aplicativo ou selecionar um aplicativo existente para uso com a Livefyre Identity.
+1. Select **[!UICONTROL Application Type: Web Application]**.
+1. Enter **[!UICONTROL Callback Domain:]** `https://identity.livefyre.com`
 1. Selecione **[!UICONTROL API Permissions: Profiles (Social Directory)]** e **[!UICONTROL Read Public]**.
 
-   Quando concluir, a página de detalhes do aplicativo do Yahoo listará a ID do cliente do aplicativo (chave do consumidor) e o segredo do cliente (segredo do consumidor) para uso na página Configurações de integração do Studio.
+   Quando concluída, a página de detalhes do aplicativo do Yahoo listará a ID do cliente (chave do consumidor) e o segredo do cliente (segredo do consumidor) do aplicativo para uso na página Configurações de integração do Studio.
 
    >[!NOTE]
    >
-   >Se você ativar o Yahoo! logon sem criar um Yahoo! aplicativo e, se você deixar os campos ID do cliente e Segredo do cliente em Estúdio em branco, o Livefyre usará openid para registrar esses usuários em seus Aplicativos do Livefyre. O oauth e a marca personalizada não estarão disponíveis nesse caso.
+   >Se você ativar o Yahoo! faça logon sem criar um Yahoo! e se você deixar os campos ID do cliente e Segredo do cliente no Studio em branco, o Livefyre usará o OpenID para registrar esses usuários nos aplicativos Livefyre. Neste caso, o OAuth e a marca personalizada não estarão disponíveis.
