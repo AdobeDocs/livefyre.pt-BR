@@ -1,38 +1,38 @@
 ---
-description: Adicione o sinalizador userprivacyoptout à página para permitir que um visitante do site opte por não participar desse rastreamento.
-seo-description: Adicione o sinalizador userprivacyoptout à página para permitir que um visitante do site opte por não participar desse rastreamento.
-seo-title: Userprivacyoptout
-title: Userprivacyoptout
-uuid: a 043 c 50 e -0 a 02-4 c 83-bbce -54 b 9 b 51316 a 5
+description: Adicione o sinalizador userPrivacyOptOut à página para permitir que um visitante do site exclua esse rastreamento.
+seo-description: Adicione o sinalizador userPrivacyOptOut à página para permitir que um visitante do site exclua esse rastreamento.
+seo-title: userPrivacyOptOut
+title: userPrivacyOptOut
+uuid: a043c50e-0a02-4c83-bce-54b9b51316a5
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
 
 ---
 
 
-# Userprivacyoptout{#userprivacyoptout}
+# userPrivacyOptOut{#userprivacyoptout}
 
-Adicione `userPrivacyOptOut` o sinalizador à página para permitir que um visitante do site opte por não participar desse rastreamento.
+Adicione o sinalizador `userPrivacyOptOut` à página para permitir que um visitante do site desative esse rastreamento.
 
-O Livefyre fornece eventos javascript para rastrear a atividade do usuário em seus Aplicativos do Livefyre.
+O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário nos aplicativos Livefyre.
 
-Se você incorporar Aplicativos do Livefyre e um visitante não aprovar o rastreamento, você poderá configurar dinamicamente o Livefyre para desativar a funcionalidade para garantir a privacidade do visitante.
+Se você incorporar aplicativos Livefyre e um visitante não consentir no rastreamento, poderá configurar dinamicamente o Livefyre para desativar a funcionalidade para garantir a privacidade do visitante.
 
 Quando configurado, o Livefyre:
 
-* Desativar o suporte a autenticação em Aplicativos.
-* Desativar a geração de Livecount e event
+* Desative o suporte de autenticação em Aplicativos.
+* Desabilitar a contagem de tempo e geração de eventos
 * Excluir cookies existentes criados por qualquer aplicativo que esteja na página
-* Mídia de proxy com imagens de domínios de terceiros para impedir que terceiros criem cookies
-* Habilitar click-through de máscara de vídeo para vídeos de terceiros que exigem um clique adicional para visualizar
+* Mídia proxy com imagens de domínios de terceiros para impedir que terceiros criem cookies
+* Ativar o click-through da máscara de vídeo para vídeos de terceiros que exigem um clique adicional para visualização
 
-## Configurar uma página para recusar
+## Configurar uma página para opção de não participação
 
-Integrações que incorporam aplicativos do Livefyre podem configurar o Livefyre quando um visitante do site não concedeu consentimento usando uma única variável javascript.
+As integrações que incorporam aplicativos Livefyre podem configurar o Livefyre quando um visitante do site não tiver concedido consentimento usando uma única variável JavaScript.
 
 Instruções:
 
-1. Adicione `userPrivacyOptOut` o sinalizador à página antes do `Livefyre.js` javascript:
+1. Adicione o sinalizador `userPrivacyOptOut` à página antes do `Livefyre.js` JavaScript:
 
    ```
    window.Livefyre = {userPrivacyOptOut: true};
@@ -40,10 +40,10 @@ Instruções:
 
 1. Adicione `Livefyre.js` à página em qualquer lugar depois `userPrivacyOptOut`.
 
-   Os aplicativos do Livefyre instanciam com as configurações de privacidade elevadas.
+   Os aplicativos Livefyre são instanciados com as configurações de privacidade elevadas.
 
    >[!NOTE]
    >
-   >Não altere o valor de `userPrivacyOptOut` uma vez que os Aplicativos do Livefyre carregaram.
+   >Não altere o valor de `userPrivacyOptOut` uma vez que os aplicativos Livefyre tenham sido carregados.
 
-Certifique-se de que seu fluxo de trabalho de consentimento define o `userPrivacyOptOut` verdadeiro se um visitante do site optar por recusar.
+Certifique-se de que seu fluxo de trabalho de consentimento defina o `userPrivacyOptOut` como verdadeiro se um visitante do site optar por recusar.
