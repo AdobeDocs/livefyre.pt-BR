@@ -1,19 +1,19 @@
 ---
-description: Crie uma soma de verificação usando as bibliotecas do Livefyre.
-seo-description: Crie uma soma de verificação usando as bibliotecas do Livefyre.
-seo-title: Criando uma soma de verificação
+description: Crie uma soma de verificação usando as bibliotecas Livefyre.
+seo-description: Crie uma soma de verificação usando as bibliotecas Livefyre.
+seo-title: Criação de uma soma de verificação
 solution: Livefyre
-title: Criando uma soma de verificação
-uuid: 2 dddedaa -7 a 6 d -434 a -8 db 8-dc 179935 f 810
+title: Criação de uma soma de verificação
+uuid: 2dddaa-7a6d-434a-8db8-dc179935f810
 translation-type: tm+mt
 source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
 
 ---
 
 
-# Criando uma soma de verificação {#creating-a-checksum}
+# Criação de uma soma de verificação {#creating-a-checksum}
 
-Crie uma soma de verificação usando as bibliotecas do Livefyre.
+Crie uma soma de verificação usando as bibliotecas Livefyre.
 
 ## Java {#section_pfr_lqj_tz}
 
@@ -31,7 +31,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_hnx_jqj_tz}
+## NodeJS {#section_hnx_jqj_tz}
 
 ```
 var livefyre = require('livefyre'); 
