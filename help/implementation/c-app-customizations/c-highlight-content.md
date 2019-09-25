@@ -1,10 +1,10 @@
 ---
-description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos de usuários.
-seo-description: Use o estilo para o recurso e promova o conteúdo selecionado ou grupos de usuários.
+description: Use o estilo para disponibilizar e promover conteúdo selecionado ou grupos de usuários.
+seo-description: Use o estilo para disponibilizar e promover conteúdo selecionado ou grupos de usuários.
 seo-title: Realçar conteúdo
 solution: Experience Manager
 title: Realçar conteúdo
-uuid: 89876 b 89-3 ee 2-40 cd -9431-377 e 43 ea 1 e 89
+uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,14 +13,14 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Realçar conteúdo{#highlight-content}
 
-Use o estilo para o recurso e promova o conteúdo selecionado ou grupos de usuários.
+Use o estilo para disponibilizar e promover conteúdo selecionado ou grupos de usuários.
 
-Destaque o conteúdo selecionado nos aplicativos para chamar as postagens mais relevantes e os usuários mais detalhados.
+Realce o conteúdo selecionado em seus aplicativos para chamar as publicações mais relevantes e a maioria dos usuários testados.
 
 >[!NOTE]
 >
->As personalizações estão disponíveis apenas para aplicativos que permitem publicações do usuário e são configuradas usando um objeto convconfig: por exemplo, Chat, Comments, Live Blog, Resenhas e Sidenotes.
+>As personalizações estão disponíveis somente para Aplicativos que permitem postagens de usuários e são configurados usando um objeto ConvConfig: por exemplo, Bate-papo, Comentários, Blog ao vivo, Revisões e Sidenotes.
 
-A representação do conteúdo permite chamar a atenção para as postagens selecionadas do usuário. O conteúdo em destaque pode ser um estilo diferente do outro conteúdo na página, e o conteúdo em destaque do Livefyre é exibido acima do editor.
+O conteúdo exibido permite chamar a atenção para postagens de usuário selecionadas. O conteúdo em destaque pode ter um estilo diferente do de outro conteúdo na página, e o conteúdo em destaque nativo do Livefyre aparece acima do editor.
 
-O conteúdo de Grupo de usuários de estilo permite destacar o conteúdo publicado por tipos de usuários específicos, como moderadores, editores ou qualquer outro Grupo de usuários que desejar definir.
+O conteúdo de estilo do grupo de usuários permite destacar o conteúdo publicado por tipos de usuários específicos, como moderadores, editores ou qualquer outro grupo de usuários que você deseja definir.
