@@ -1,9 +1,9 @@
 ---
-description: Notas de versão de April 3 de abril de 2017.
-seo-description: Notas de versão de April 3 de abril de 2017.
-seo-title: April 3 de abril de 2017
-title: April 3 de abril de 2017
-uuid: abc 591 bd -3385-40 f 5-99 a 5-3 f 4 c 8 ee 4 dc 6 b
+description: Notas de versão para a versão de 13 de abril de 2017.
+seo-description: Notas de versão para a versão de 13 de abril de 2017.
+seo-title: 13 de abril de 2017
+title: 13 de abril de 2017
+uuid: abc591bd-3385-40f5-99a5-3f4c8ee4dc6b
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
@@ -12,37 +12,37 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 # 13 de abril de 2017{#april}
 
-Notas de versão de 13 de abril de 2017.
+Notas de versão para a versão de 13 de abril de 2017.
 
 ## Versão de produção
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Apis | Correção de um bug para que arquivos grandes possam ser carregados por meio da API &quot;Postar para coleção&quot;. |
-| Bug | Apis | Correção de um bug que impedia o carregamento de vídeos mp 4 ao usar a API de upload de mídia. |
-| Bug | Biblioteca | Correção de um erro que fazia com que a pesquisa com hashtags falhasse intermitentemente. |
-| Bug | Mapas | Corrigido um erro em Mapas para suportar um grande número de conteúdo em clusters em dispositivos iOS. |
-| Aprimoramento | Modq | Correção de um bug para permitir que as novas tarefas do Instagram fossem executadas com eficácia no modq. |
-| Bug | Mosaico | Correção de um bug que permitia que os usuários fizessem alterações em aplicativos Mosaic no Designer. |
-| Aprimoramento | Solicitação de direitos | Foi adicionado um novo status de solicitação de direitos chamado &quot;Solicitação falha&quot; para realçar quando as mensagens de solicitação de direitos não são enviadas. |
-| Bug | Configurações S 1 | Correção de um bug que desativava a capacidade de convidar novos proprietários e moderadores que não tinham uma conta de comentário existente. |
-| Aprimoramento | Configurações | Foi adicionada a possibilidade de clientes criarem Regras de moderação de spam em Configurações. |
-| Aprimoramento | Pesquisa social | Correção de um erro que impedia que VK.com postagens fossem exibidas por meio de Pesquisas do Social. |
-| Bug | Storify 2 | Adição de um aprimoramento de usabilidade para que as publicações do Storify 2 fixas não renderizem ícones de sobreposição e fechamento de sobreposição ao usar a opção «Mostrar permalhas no modal». |
-| Bug | Fluxos | Corrigido um erro que fazia com que o banner &quot;Aplicativo não aceitasse novos conteúdos&quot; fosse exibido falsamente sobre as páginas de Regras de fluxo. |
-| Aprimoramento | Fluxos | O padrão de regras de fluxo recém-criadas foi alterado para Aplicar regras de segurança quando aplicável. |
-| Aprimoramento | Fluxos (anteriormente, Preparar regras) | A opção &quot;Árvores&quot; foi removida somente das regras Fluxo/Preparar do Twitter, pois agora a flor é exibida como vídeos do Twitter. |
+| Bug | APIs | Correção de um erro que fazia com que arquivos grandes fossem carregados pela API "Publicar na coleção". |
+| Bug | APIs | Correção de um bug que impedia o carregamento de vídeos mp4 ao usar a API Carregar mídia. |
+| Bug | Biblioteca | Correção de um bug que causava a falha intermitente de pesquisas de Biblioteca com hashtags. |
+| Bug | Mapas | Correção de um bug no Maps para suportar um grande número de conteúdo em clusters em dispositivos iOS. |
+| Aprimoramento | ModQ | Correção de um bug que permitia o fluxo de novas tarefas do Instagram no ModQ. |
+| Bug | Mosaico | Correção de um erro que permitia que os usuários fizessem alterações com êxito em aplicativos Mosaico no Designer. |
+| Aprimoramento | Solicitação de direitos | Adicionado um novo status de solicitação de direitos chamado "Falha na solicitação" para realçar quando as mensagens de solicitação de direitos não são enviadas. |
+| Bug | Configurações S1 | Correção de um bug que desativava a capacidade de convidar novos Proprietários e Moderadores que não tinham uma conta de comentários existente. |
+| Aprimoramento | Configurações | Adicionada a capacidade de os clientes criarem Regras de moderação de spam em Configurações. |
+| Aprimoramento | Pesquisa social | Correção de um erro que impedia a exibição de postagens VK.com por meio de Pesquisas sociais de URL. |
+| Bug | Storify 2 | Adicionado um aprimoramento de usabilidade para que as postagens fixadas do Storify 2 não renderizem os ícones de sobreposição de pinos e fechamento ao usar a opção "Mostrar Permalinks no Modal". |
+| Bug | Fluxos | Correção de um erro que fazia com que o banner "O aplicativo não está aceitando novo conteúdo" fosse exibido falsamente na parte superior das páginas de Regras de fluxo. |
+| Aprimoramento | Fluxos | Modificado o padrão de regras de fluxo recém-criadas para Aplicar regras SAFE quando aplicável. |
+| Aprimoramento | Streams (anteriormente, Regras de preparação) | Removida a opção somente "Vines" das regras de fluxo/preparação do Twitter, pois as Vinhas agora são exibidas como vídeos do Twitter. |
 
-## Versão do UAT
+## Versão UAT
 
-| **Tipo de edição** | **Componente** | **Nota de versão** |
+| **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | App Designer | Correção de um erro que impedia a capacidade de salvar novos nomes de Título do aplicativo em vários aplicativos no Designer. |
-| Bug | Gerenciador de aplicativos | Os resultados da pesquisa foram aprimorados ao pesquisar por ID de artigo no Gerenciador de aplicativos. |
-| Bug | Biblioteca de ativos | Correção de um erro que fazia com que o conteúdo unicode não fosse renderizado ao visualizar mais detalhes sobre um ativo na Biblioteca. |
-| Aprimoramento | Mosaico | A aparência do visual foi atualizada nos cartões Mosaico. |
-| Aprimoramento | Mosaico | Adicionada uma nova configuração no Designer Mosaico para que os detalhes de um cartão possam ser visualizados ao clicar. |
-| Bug | Revisões | Correção de alguns erros de usabilidade ao ativar o parâmetro alwaysshoweditor no aplicativo Revisões. |
-| Bug | Storify 2 | Corrigido um erro que evitava que o Storify 2 fosse renderizado durante a utilização da biblioteca requirejs na página. |
-| Bug | Fluxos | Correção de um erro que impedia a cópia de regras para um novo fluxo ao clonar um fluxo existente. |
+| Bug | App Designer | Correção de um bug que impedia a capacidade de salvar novos nomes de Título do aplicativo em vários aplicativos no Designer. |
+| Bug | Gerenciador de aplicativos | Os resultados da pesquisa foram aprimorados ao pesquisar pela ID do artigo no App Manager. |
+| Bug | Biblioteca de ativos | Correção de um erro que fazia com que o conteúdo unicode não fosse renderizado ao exibir mais detalhes em um ativo na Biblioteca. |
+| Aprimoramento | Mosaico | Atualização da aparência para o modal Details nos cartões Mosaic. |
+| Aprimoramento | Mosaico | Adicionada uma nova configuração no Mosaic Designer para que os detalhes em um cartão possam ser exibidos ao clicar. |
+| Bug | Resenhas | Correção de alguns erros de usabilidade ao ativar o parâmetro alwaysShowEditor no aplicativo Revisões. |
+| Bug | Storify 2 | Correção de um bug que impedia a renderização de incorporações do Storify 2 ao usar a biblioteca do requestJS na página. |
+| Bug | Fluxos | Correção de um bug que impedia que regras fossem copiadas para um novo fluxo ao clonar um fluxo existente. |
 
