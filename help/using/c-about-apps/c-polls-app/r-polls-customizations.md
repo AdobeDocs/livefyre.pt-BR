@@ -1,33 +1,33 @@
 ---
-description: Altere as opções de tamanho, largura e interação do aplicativo Pesquisas.
-seo-description: Altere as opções de tamanho, largura e interação do aplicativo Pesquisas.
-seo-title: Personalizações de Pesquisas
+description: Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas.
+seo-description: Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas.
+seo-title: Personalizações das pesquisas
 solution: Experience Manager
-title: Personalizações de Pesquisas
-uuid: 788 a 4 fa 7-aafb -4508-b 9 c 0-cd 54 e 4 cd 9 b 86
+title: Personalizações das pesquisas
+uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Personalizações de Pesquisas{#polls-customizations}
+# Personalizações das pesquisas{#polls-customizations}
 
-Altere as opções de tamanho, largura e interação do aplicativo Pesquisas.
+Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas.
 
 
 
 * **[!UICONTROL Type]**
 
-   Selecione o tipo de Pesquisa que deseja criar. **[!UICONTROL Single image]** permite adicionar uma imagem à pergunta da pesquisa. **[!UICONTROL Multiple image]** permite adicionar uma imagem para as respostas da Pesquisa. **[!UICONTROL Text only]** cria uma Pesquisa sem imagens.
+   Selecione o tipo de pesquisa que deseja criar. **[!UICONTROL Single image]** permite que você adicione uma imagem para a pergunta da pesquisa. **[!UICONTROL Multiple image]** permite que você adicione uma imagem para as respostas da Pesquisa. **[!UICONTROL Text only]** cria uma Pesquisa sem imagens.
 
-* **[!UICONTROL Question]***required*
+* **[!UICONTROL Question]**  *obrigatório*
 
-   Digite a pergunta que será exibida para a Pesquisa.
+   Insira a pergunta que será exibida para sua Pesquisa.
 
-* **[!UICONTROL Choices]** (2 mínimo)
+* **[!UICONTROL Choices]** (mínimo 2)
 
-   Digite as respostas que serão exibidas para a Pesquisa.
+   Insira as respostas que serão exibidas para sua Pesquisa.
 
 * **[!UICONTROL Display total votes]**
 
@@ -35,27 +35,27 @@ Altere as opções de tamanho, largura e interação do aplicativo Pesquisas.
 
 * **[!UICONTROL Users may share poll]**
 
-   Se ativado, a Pesquisa incluirá um link que os usuários podem compartilhar.
+   Se ativada, a Pesquisa incluirá um link que os usuários podem compartilhar.
 
-* **[!UICONTROL Link]***opcional*
+* **[!UICONTROL Link]** *opcional*
 
-   O link para exibir sua pesquisa.
+   O link a ser exibido para sua Pesquisa.
 
 * **[!UICONTROL Link title]**
 
-   O título para exibir com o link.
+   O título a ser exibido com o link.
 
 * **[!UICONTROL Show poll results]**
 
-   Se ativados, os visualizadores poderão ver os resultados da Pesquisa. Se estiver desativado, os eleitores verão apenas uma tela &quot;Obrigado&quot; depois de concluir a Pesquisa.
+   Se ativado, os visualizadores poderão ver os resultados da pesquisa. Se estiver desativado, os eleitores verão apenas uma tela "Obrigado" depois de concluir a pesquisa.
 
-* **[!UICONTROL Disclaimer]***opcional*
+* **[!UICONTROL Disclaimer]** *opcional*
 
-   Um aviso opcional a ser exibido com a Pesquisa.
+   Um aviso opcional a ser exibido com sua Pesquisa.
 
-Você pode personalizar Pesquisas utilizando:
+Você pode personalizar as pesquisas usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre o padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** as opções para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
 
-* Ferramentas de integração. Consulte Pesquisas para saber mais sobre como personalizar Aplicativos usando Ferramentas de integração.
+* Ferramentas de integração. Consulte Pesquisas para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
 
