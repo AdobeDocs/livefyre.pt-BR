@@ -1,10 +1,10 @@
 ---
-description: Adicione ações personalizadas aos seus aplicativos do Livefyre.
-seo-description: Adicione ações personalizadas aos seus aplicativos do Livefyre.
+description: Adicione ações personalizadas aos aplicativos do Livefyre.
+seo-description: Adicione ações personalizadas aos aplicativos do Livefyre.
 seo-title: Adicionar botões personalizados
 solution: Experience Manager
 title: Adicionar botões personalizados
-uuid: 27 d 24 c 21-d 83 f -49 df -9 b 3 f 3 f -15 d 7 abbd 2 bd 7
+uuid: 27d24c21-d83f-49df-9b3f-15d7abbd2bd7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Adicionar botões personalizados{#add-custom-buttons}
 
-Adicione ações personalizadas aos seus aplicativos do Livefyre.
+Adicione ações personalizadas aos aplicativos do Livefyre.
 
-O Livefyre permite adicionar botões personalizados ao lado dos botões de ação existentes (como **[!UICONTROL Share]** e **[!UICONTROL Flag]**) em um conteúdo.
+O Livefyre permite que você adicione botões personalizados ao lado dos botões de ação existentes (como **[!UICONTROL Share]**, e **[!UICONTROL Flag]**) em um conteúdo.
 
 Use o argumento móvel para definir se o botão será exibido em dispositivos móveis.
 
@@ -39,8 +39,8 @@ convConfig.actionButtons = [
 fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-1. Passe um argumento adicional no objeto convconfig chamado actionbuttons, contendo uma matriz de objetos que descrevem cada botão que você gostaria de adicionar.
-1. Defina uma chave para que o texto seja exibido para cada botão.
-1. Adicione um retorno de chamada que será invocado em um evento click para cada botão.
+1. Passe um argumento adicional em seu objeto ConvConfig chamado actionButtons, contendo uma matriz de objetos descrevendo cada botão que você gostaria de adicionar.
+1. Defina uma tecla para o texto a ser exibido para cada botão.
+1. Adicione um retorno de chamada que será chamado em um evento de clique para cada botão.
 
 O retorno de chamada é chamado com um objeto com duas chaves: `authorId` e `contentId`.
