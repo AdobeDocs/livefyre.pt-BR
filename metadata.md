@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Livefyre
+solution-title: Aprendizagem e suporte
 solution-hub-url: https://helpx.adobe.com/support/experience-manager/6-4.html
 solution-icon: assets/experience-cloud-logo-24.png
 getting-started-title: Introdução
@@ -10,28 +10,28 @@ tutorials-url: https://helpx.adobe.com/experience-manager/kt/index/aem-6-4-video
 mini-toc-levels: '2'
 git-repo: https://github.com/AdobeDocs/livefyre.en
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 170fa6b446345d5e2e272294a3267d1ebbb0cd09
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata. md inclui metadados de nível de reposição que passam até o guia TOC. md do guia do usuário no repo. Se desejar alterar o conteúdo metadata. md para qualquer guia do usuário, faça isso em qualquer arquivo TOC. md.
+O arquivo metadata.md inclui metadados de nível de acordo de recompra que passam para os arquivos TOC.md do guia do usuário no repo. Se desejar alterar o conteúdo de metadata.md de qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-| metadata | o que faz |
+| metadata | what it does |
 |--- |--- |
 | título da solução | Usado no cabeçalho do artigo como link |
-| solução-hub-url | Abre a página helpx hub |
-| ícone de solução | Exibe o ícone da solução próximo ao título da solução. Ainda não implementado |
+| solution-hub-url | Abre a página do hub helpx |
+| ícone da solução | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
 | getting-started-url | Link para a página de introdução ao helpx |
-| tutorials-url | Tutoriais de link para tutoriais em vídeo—tutoriais helpx ou tutoriais do KT |
-| mini-toc-levels | Determina o número de níveis de cabeçalho que aparecem no painel à direita. o padrão é 2 |
-| git-repo | Especifica o local do repo mestre para uso interno |
+| tutoriais-url | Link para tutoriais em vídeo — tutoriais do helpx ou tutoriais do KT |
+| níveis minitoctoc | Determina o número de níveis de cabeçalho exibidos no painel direito. o padrão é 2 |
+| repo git | Especifica o local do acordo principal para uso interno |
 
-No arquivo TOC. md
+No arquivo TOC.md
 
-| metadata | o que faz |
+| metadata | what it does |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
-| user-guide-url | Abre a página helpx hub |
+| user-guide-url | Opens helpx hub page |
