@@ -6,12 +6,18 @@ solution: Experience Manager
 title: Anúncios
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
+source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
 
 ---
 
 
 # Anúncios{#announcements}
+
+## 25 de outubro de 2019
+
+Em 4 de setembro de 2019, o Facebook removeu inesperadamente o acesso a certas permissões e recursos do fluxo de trabalho do Livefyre, que interrompeu a capacidade de pesquisar ou transmitir conteúdo do Facebook. Se o aplicativo precisar acessar publish_pages, user_friends ou acesso de conteúdo público da página, solicite-os pelo processo de revisão do aplicativo existente. Solicitamos formalmente o acesso restaurado a essas permissões e estamos aguardando aprovação do Facebook. Informaremos você assim que a aprovação for concedida e o conteúdo estiver novamente disponível.
+
+O conteúdo que já está publicado em seu site não será afetado.
 
 ## 11 de junho de 2019
 
@@ -70,7 +76,7 @@ Leia as atualizações mais recentes sobre o status da funcionalidade relacionad
 
 * **Fluxo de trabalho de solicitação de direitos de uso**
 
-   Em 24 de maio, oferecemos uma solução manual no fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram. Continuamos trabalhando na restauração da funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades. Nós prevemos que essa funcionalidade esteja disponível no final deste verão e o notificaremos assim que ela estiver ativa.
+   Em 24 de maio, oferecemos uma solução manual no fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram. Continuamos trabalhando na restauração da funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades. Nós prevemos que essa funcionalidade esteja disponível no final deste verão e o notificaremos assim que estiver disponível.
 
 ## May 24, 2018 {#section_xbk_wvd_ydb}
 
@@ -103,7 +109,7 @@ Após uma análise completa do sistema, veja os recursos afetados pela desaprova
 * Visualize detalhes, salve e publique o conteúdo do Instagram em pastas e aplicativos na Pesquisa Social.
 * Execute ações no conteúdo do Instagram no ModQ.
 
-**Espera-se que as soluções alternativas para a seguinte funcionalidade sejam disponibilizadas nas datas mostradas abaixo:**
+**Espera-se que as soluções alternativas para a seguinte funcionalidade estejam disponíveis nas datas mostradas abaixo:**
 
 * **Fluxo de trabalho da solicitação de direitos de uso — 24 de maio de 2018**
 
