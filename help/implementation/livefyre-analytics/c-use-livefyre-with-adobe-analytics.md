@@ -4,7 +4,7 @@ seo-description: 'null'
 seo-title: Use o Livefyre com o Adobe Analytics e o Dynamic Tag Manager (DTM) lk xavvn vefyre com o Adobe Analytics e o Dynamic Tag Manager (DTM)
 uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
 translation-type: tm+mt
-source-git-commit: 987482066f1ca3c021a5c9f0fc0109edff616c0a
+source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 ---
 
@@ -13,17 +13,17 @@ source-git-commit: 987482066f1ca3c021a5c9f0fc0109edff616c0a
 
 Configure o Adobe Analytics e o Gerenciador dinâmico de tags (DTM) para coletar dados dos aplicativos Livefyre.
 
-## Etapa 1: Configurar eventos no Adobe Analytics {#section_iks_kgd_4cb}
+## Etapa 1: Configurar Eventos no Adobe Analytics {#section_iks_kgd_4cb}
 
 Mapeie eventos do Livefyre para um ou mais Eventos de sucesso personalizados no Gerenciador de conjunto de relatórios do Adobe Analytics.
 
-Para obter mais informações sobre o Gerenciador de conjuntos de relatórios, consulte Gerenciador [de conjuntos de](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)relatórios.
+Para obter mais informações sobre o Gerenciador de conjuntos de relatórios, consulte Gerenciador [de conjuntos de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)relatórios.
 
 1. Faça logon no Adobe Analytics como um usuário administrador.
 1. Abra o Gerenciador de conjunto de relatórios de administração do Adobe Analytics.
 1. Crie um novo conjunto de relatórios ou escolha um existente.
 1. Edite o conjunto de relatórios clicando no conjunto de relatórios para modificá-lo e, em seguida, navegue até **[!UICONTROL Edit Settings > Conversion > Success Events]**.
-1. Mapeie os eventos do Livefyre para um ou mais Eventos de sucesso personalizados.
+1. Mapeie os eventos do Livefyre para um ou mais Eventos personalizados de sucesso.
 
 ## Etapa 2: Configurar variáveis de conversão
 
@@ -36,9 +36,9 @@ Mapeie as variáveis de conversão do Livefyre (eVars) para variáveis de conver
 * Fornecer um tipo para a variável de conversão
 1. Salve as variáveis de conversão personalizadas.
 
-## Etapa 3: Usar o DTM para adicionar seu conjunto de relatórios com eventos do Livefyre {#section_t15_2hd_4cb}
+## Etapa 3: Usar o DTM para adicionar seu conjunto de relatórios com Eventos do Livefyre {#section_t15_2hd_4cb}
 
-Adicione o Adobe Analytics ao DTM para fazer com que o Analytics funcione. Para fazer isso, crie uma nova propriedade e ferramenta e adicione o novo conjunto de relatórios com eventos do Livefyre à propriedade. Para obter mais informações sobre o DTM, consulte [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html).
+Adicione o Adobe Analytics ao DTM para fazer com que o Analytics funcione. Para fazer isso, crie uma nova propriedade e ferramenta e adicione o novo conjunto de relatórios com eventos do Livefyre à propriedade. Para obter mais informações sobre o DTM, consulte [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 
 Não é necessário executar essa etapa se você já tiver uma propriedade ou ferramenta configurada para o conjunto de relatórios configurado com eventos do Livefyre.
 
@@ -48,8 +48,8 @@ Não é necessário executar essa etapa se você já tiver uma propriedade ou fe
 Defina os seguintes parâmetros para a ferramenta:
 
    * Set **[!UICONTROL Tool Type]** to **[!UICONTROL Adobe Analytics]**.
-   * Enable **[!UICONTROL Automatic Configuration]**.
-   * Enable **[!UICONTROL Authenticate via Marketing Cloud]**.
+   * Ativar **[!UICONTROL Automatic Configuration]**.
+   * Ativar **[!UICONTROL Authenticate via Marketing Cloud]**.
 1. Adicione ou confirme o nome do conjunto de relatórios com eventos Livefyre ao **[!UICONTROL Report Suites]** campo.
 
 ## Etapa 4: Configurar uma regra de carregamento de página para configurar o processamento do Analytics {#section_jfj_j3d_4cb}
@@ -58,16 +58,16 @@ Configure uma regra de carregamento de página para extrair todos os dados. A re
 
 >[!NOTE]
 >
->Não use Regras baseadas em eventos ou Regras de chamada direta.
+>Não use regras baseadas em Eventos ou regras de chamada direta.
 
 1. No DTM, selecione a **[!UICONTROL Rules]** guia.
 1. Clique em **[!UICONTROL Page Load Rules]**.
 1. Clique no **[!UICONTROL Create New Rule]** botão.
 1. Abra a **[!UICONTROL Conditions]** seção clicando no **[!UICONTROL Plus]** botão.
-1. Acione a regra. Escolha os tipos **[!UICONTROL DOM Ready]** ou **[!UICONTROL Onload]** acionadores se desejar atrasar ou implementar a regra de forma assíncrona.
-1. (Opcional) Adicione outros parâmetros para limitar as páginas que exibem os aplicativos Livefyre. Para obter mais informações sobre opções de configuração adicionais, consulte [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html).
+1. Acione a regra. Escolha os tipos **[!UICONTROL DOM Ready]** ou **[!UICONTROL Onload]** os acionadores se desejar atrasar ou implementar a regra de forma assíncrona.
+1. (Opcional) Adicione outros parâmetros para limitar as páginas que exibem os aplicativos Livefyre. Para obter mais informações sobre opções de configuração adicionais, consulte [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 1. Em **[!UICONTROL Javascript/ Third Party Tags]**, clique na **[!UICONTROL Non-sequential]** guia e, em seguida, clique em **[!UICONTROL Add New Script]**.
-1. Selecione **[!UICONTROL Sequential HTML]** o tipo de script.
+1. Selecione **[!UICONTROL Sequential HTML]** como o tipo de script.
 1. Adicione o script a seguir ao editor de código e clique em **[!UICONTROL Save Code]**.
 
    O script a seguir chama a regra de chamada `livefyre_analytics` direta depois que o Livefyre JavaScript é carregado. O exemplo de script a seguir verifica a cada 400 ms para ver se `livefyre.analytics` está na página. Depois que a página é carregada, o livefyre.analytics envia informações de rastreamento.
@@ -93,7 +93,7 @@ Configure uma regra de carregamento de página para extrair todos os dados. A re
 
 ## Etapa 5: Criar uma regra de chamada direta para construir a configuração de mapeamento do Adobe Analytics para o Livefyre {#section_gvp_b1g_pdb}
 
-Existem outras maneiras de implementar o Livefyre com o DTM usando eventos personalizados, campos de interface do usuário do Adobe Analytics no DTM e elementos de dados. Este documento usa o Javascript personalizado para realizar o mesmo efeito.
+Há outras maneiras de implementar o Livefyre com o DTM usando eventos personalizados, campos de interface do usuário do Adobe Analytics no DTM e elementos de dados. Esse documento usa o Javascript personalizado para realizar o mesmo efeito.
 
 1. No DTM, selecione a guia **Regras** e clique em Regras **de chamada** direta.
 1. Click on the **Create New Rule** button.
@@ -173,7 +173,7 @@ Existem outras maneiras de implementar o Livefyre com o DTM usando eventos perso
      /** 
    ```
 
-   * Adiciona um manipulador de análises para todos os eventos de análise do Livefyre. Para cada evento, ele define os dados em um objeto global e despacha o evento.
+   * Adiciona um manipulador de análise para todos os eventos de análise do Livefyre. Para cada evento, ele define os dados em um objeto global e despacha o evento.
 
    ```
    */ 
@@ -239,7 +239,7 @@ var eventMap = {
 };
 ```
 
-A amostra a seguir indica que, se não houver um evento nessa lista, não faça nada. Não é necessário modificar esta seção do código.
+A amostra a seguir indica que se não houver um evento nessa lista, não faça nada. Não é necessário modificar esta seção do código.
 
 ```
 function trackLivefyreEvent(data) {  
@@ -252,7 +252,7 @@ function trackLivefyreEvent(data) {
   }
 ```
 
-O código a seguir diferencia os tipos de eventos que `event82` registram. A variável de conversão registra o tipo de interação do usuário e o script é configurado `eVar83` `eVar83` para separar os dados de interação do usuário por tipo. Assim, `eVar83` você pode dividir os dados gravados em tipos específicos de interações do usuário.
+O código a seguir diferencia os tipos de evento que `event82` registram. A variável de conversão, `eVar83` registra o tipo de interação do usuário e o script é configurado `eVar83` para separar os dados de interação do usuário por tipo. Assim, `eVar83` você pode dividir os dados gravados em tipos específicos de interações do usuário.
 
 ```
   var vars = ['events'];  
@@ -285,7 +285,7 @@ O código a seguir diferencia os tipos de eventos que `event82` registram. A var
 }
 ```
 
-A amostra de código a seguir adiciona um manipulador para ouvir todos os eventos que ocorrem. Ele usa a regra de carregamento da página ao carregar, aguarda a existência de eventos e configura o manipulador para todos os eventos do aplicativo e os rastreia. Não é necessário modificar esse código.
+A amostra de código a seguir adiciona um manipulador para ouvir todos os eventos que ocorrem. Ela usa a regra de carregamento da página quando carregada, aguarda a existência de eventos e configura o manipulador para todos os eventos do aplicativo e os rastreia. Não é necessário modificar esse código.
 
 ```
 /** 
@@ -305,7 +305,7 @@ function addAnalyticsHandler() {
 
 Para obter mais informações sobre os tópicos discutidos nesta página, consulte:
 
-* [Gerenciador do Conjunto de relatórios](https://marketing.adobe.com/resources/help/en_US/reference/report_suites_admin.html)
-* [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html)
-* [Regras](https://marketing.adobe.com/resources/help/en_US/dtm/rules.html)
+* [Gerenciador do Conjunto de relatórios](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)
+* [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html)
+* [Regras](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
