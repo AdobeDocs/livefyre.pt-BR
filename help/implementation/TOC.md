@@ -1,14 +1,17 @@
 ---
 product: livefyre
-audience: usuário final
-user-guide-title: Guia de implementação do Experience Manager Livefyre
+audience: end-user
+user-guide-title: Guia de implementação do Livefyre
 translation-type: tm+mt
-source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
 
-# Guia de implementação do Experience Manager Livefyre {#implementation}
+# Guia de implementação do Livefyre {#implementation}
 
 + [Guia de implementação do Livefyre](home.md)
 + Introdução {#getting-started}
@@ -77,7 +80,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [método de coleta buildCollectionMetaToken](c-installing-libraries/r-buildcollectionmetatoken-collection-method.md)
       + [método de coleta buildChecksum](c-installing-libraries/r-buildchecksum-collection-method.md)
       + [Método de coleta getCollectionContent](c-installing-libraries/t-getcollectioncontent-collection-method.md)
-      + [Método de coleta getUrn](c-installing-libraries/r-geturn-collection-method.md)
+      + [Método de Coleção getUrn](c-installing-libraries/r-geturn-collection-method.md)
       + [Métodos de classe do site](c-installing-libraries/c-site-methods.md)
       + [método de site buildBlogCollection](c-installing-libraries/r-buildblogcollection-site-method.md)
       + [método de site buildChatCollection](c-installing-libraries/r-buildchatcollection-site-method.md)
@@ -141,9 +144,9 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [Aplicação de estilos personalizados](c-app-customizations/c-applying-custom-styles-.md)
       + [Adicionar botões personalizados](c-app-customizations/t-add-custom-buttons.md)
    + Eventos Javascript {#javascript-events}
-      + [Definições e exemplos de eventos JavaScript](c-app-customizations/c-javascript-events.md)
+      + [Definições e exemplos de Eventos JavaScript](c-app-customizations/c-javascript-events.md)
       + [Eventos Javascript para aplicativos de visualização](c-app-customizations/c-javascript-events-for-visualization-apps.md)
-      + [Eventos Javascript para mural de mídia](c-app-customizations/c-javascript-events-media-wall.md)
+      + [Eventos Javascript para Media Wall](c-app-customizations/c-javascript-events-media-wall.md)
       + [Eventos Javascript para aplicativos de conversa](c-app-customizations/c-javascript-events-for-conversation-apps.md)
    + [Incorporar um aplicativo de comentários](c-app-customizations/c-embed-a-comments-app.md)
    + [Rastreamento de referência](c-app-customizations/c-referral-tracking.md)
@@ -159,7 +162,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
 + Tópicos avançados {#advanced-topics}
    + [Exibir contagem de comentários](c-advanced-topics/t-display-comment-count.md)
    + [Habilitar compartilhamento em redes sociais](c-advanced-topics/c-enabling-social-sharing.md)
-   + [Fluxo de atividade](c-advanced-topics/c-activity-stream.md)
+   + [Fluxo de Atividade](c-advanced-topics/c-activity-stream.md)
    + [HTML de inicialização](c-advanced-topics/c-bootstrap-html.md)
    + [Alterar coleção](c-advanced-topics/c-change-collection.md)
    + [Várias coleções](c-advanced-topics/c-multiple-collections.md)
