@@ -2,18 +2,21 @@
 seo-title: Guia do usuário do Livefyre
 solution: Experience Manager
 title: Guia do usuário do Livefyre
-uuid: ccode9b-88d3-4e6e-9105-662e984002d5
+uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 4%
 
 ---
 
 
-# Guia do usuário do Experience Manager Livefyre {#livefyre-help}
+# Guia do usuário do Livefyre {#livefyre-help}
 
 Use o Livefyre Studio para criar aplicativos, coletar conteúdo gerado pelo usuário e moderar conteúdo.
 
-Para obter informações sobre como implementar e personalizar aplicativos Livefyre em seu site usando ferramentas de desenvolvedor, consulte o Guia [*de implementação do*](/help/implementation/home.md)Adobe Experience Manager Livefyre.
+Para obter informações sobre como implementar e personalizar aplicativos Livefyre em seu site usando ferramentas de desenvolvedor, consulte o Guia [*de implementação do *](/help/implementation/home.md)Adobe Experience Manager Livefyre.
 
 ## Tópicos populares
 
@@ -30,7 +33,7 @@ Para obter informações sobre como implementar e personalizar aplicativos Livef
 * [Usar aplicativos Livefyre com o Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 
-* [Usar o Livefyre com o Adobe Target](/help/using/c-library/livefyre-target.md)
+* [Use o Livefyre com o Público alvo da Adobe](/help/using/c-library/livefyre-target.md)
 
 * [Use o Livefyre com o Adobe Launch Livefyre Extension](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
