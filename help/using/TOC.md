@@ -1,14 +1,17 @@
 ---
 product: livefyre
-audience: usuário final
-user-guide-title: Guia do usuário do Experience Manager Livefyre
+audience: end-user
+user-guide-title: Documentação do Livefyre
 translation-type: tm+mt
-source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '843'
+ht-degree: 5%
 
 ---
 
 
-# Guia do usuário do Experience Manager Livefyre {#using}
+# Documentação do Livefyre {#using}
 
 + [Ajuda do Livefyre](home.md)
 + [Anúncios](c-anouncements.md)
@@ -75,7 +78,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [Criar uma história](c-about-apps/c-storify2/t-create-a-story.md)
       + [Adicionar conteúdo social](c-about-apps/c-storify2/t-add-social-content.md)
       + [Adicionar texto](c-about-apps/c-storify2/t-add-local-content.md)
-      + [Visualizar uma história](c-about-apps/c-storify2/t-preview-a-story.md)
+      + [Pré-visualização de uma história](c-about-apps/c-storify2/t-preview-a-story.md)
       + [Publicar uma história](c-about-apps/c-storify2/t-publish-a-story.md)
       + [Histórico de revisões](c-about-apps/c-storify2/t-review-storify2-history.md)
       + [Trabalhar com vários editores na mesma história](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
@@ -85,7 +88,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
          + [Guia de navegação](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Adicionar um guia de navegação a um Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
          + [Adicionar um título ao Guia de navegação](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
-         + [Adicionar publicações ao guia de navegação](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
+         + [Adicionar postagens ao guia de navegação](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
          + [Defina o número de publicações no Guia de navegação](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [Torne o Guia de navegação fixo](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
          + [Mover o guia de navegação](c-about-apps/c-storify2/t-move-navigation-guide.md)
@@ -110,7 +113,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [Alterar coleção](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
       + [Filtrar pesquisa por coleção ou tag de conteúdo](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
       + [Filtrar pesquisa por tag de conteúdo](c-features-livefyre/c-content-collection-tags/t-filter-search-by-content-tag.md)
-      + [Integração do Embedly](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
+      + [Integração do Embedly ](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
       + [Conteúdo em destaque](c-features-livefyre/c-content-collection-tags/c-featured-content.md)
       + [Conteúdo do recurso](c-features-livefyre/c-content-collection-tags/t-feature-content.md)
       + [Selecionar conteúdo para o recurso do Studio](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature-from-studio.md)
@@ -121,7 +124,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [HTML personalizado](c-features-livefyre/c-custom-html/c-custom-html.md)
       + [Incorporar HTML personalizado em comentários](c-features-livefyre/c-custom-html/t-embed-custom-html.md)
       + [Incorporar pesquisas em comentários](c-features-livefyre/c-custom-html/t-embed-polls-in-comments.md)
-      + [Exibir comentários HTML personalizados no Studio](c-features-livefyre/c-custom-html/t-view-custom-html-comments-in-studio.md)
+      + [Visualização de comentários HTML personalizados no Studio](c-features-livefyre/c-custom-html/t-view-custom-html-comments-in-studio.md)
    + [Recursos de Envolvimento](c-features-livefyre/c-enagement-features.md)
    + [Contagem de Listener](c-features-livefyre/c-listener-count.md)
    + [Vários recursos](c-features-livefyre/c-miscellaneous-features.md)
@@ -145,7 +148,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [Rastreamento de referência](c-features-livefyre/c-referral-tracking.md)
    + Tags inteligentes {#smart-tags}
       + [Tags inteligentes](c-features-livefyre/c-smart-tags/c-smart-tags.md)
-      + [Exibir tags inteligentes](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
+      + [Tags inteligentes de Visualização](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
    + Compartilhamento em redes sociais {#social-sharing}
       + [Compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Configuração do compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
@@ -171,7 +174,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [Ativos](c-library/c-assets/c-assets.md)
       + [Criar pastas de ativos](c-library/c-assets/t-create-folders.md)
       + [Gerenciar pastas de ativos](c-library/c-assets/t-manage-folders.md)
-      + [Exibir detalhes do ativo](c-library/c-assets/t-manage-assets.md)
+      + [Detalhes do ativo de Visualização](c-library/c-assets/t-manage-assets.md)
       + [Publicar ativos em aplicativos](c-library/c-assets/t-publish-assets-to-apps.md)
       + [Pesquisar ativos salvos na biblioteca](c-library/c-assets/t-search-for-assets.md)
       + [Carregar fotos](c-features-livefyre/c-content-behavior-features/t-upload-photos.md)
@@ -179,18 +182,18 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [Procurar conteúdo no YouTube](c-library/t-search-for-youtube-content.md)
    + [Pesquisar conteúdo do Twitter](c-streams/c-youtube-rules/t-search-for-twitter-content.md)
    + [Procurar conteúdo do Instagram](c-library/t-search-for-content.md)
-   + [Exibir detalhes do conteúdo](c-library/c-view-content-details.md)
+   + [Detalhes do conteúdo da Visualização](c-library/c-view-content-details.md)
    + [Salvar conteúdo na biblioteca de ativos](c-library/t-save-content-to-asset-library.md)
    + [Associar produtos ao conteúdo usando a biblioteca](c-library/t-associate-products-with-content-using-the-library.md)
    + [Publicar conteúdo](c-library/t-publish-content.md)
    + [Guia Conteúdo do aplicativo](c-library/c-app-content.md)
    + [Usar o Adobe Experience Manager Livefyre com o Hootsuite](c-library/c-hootsuite-livefyre.md)
-   + [Usar o Adobe Experience Manager Livefyre com o Adobe Target](c-library/livefyre-target.md)
+   + [Usar o Adobe Experience Manager Livefyre com o Público alvo da Adobe](c-library/livefyre-target.md)
    + [Usar o Adobe Launch Livefyre Extension](c-library/launch-extension.md)
 + Fluxos {#streams}
    + [Fluxos](c-streams/c-streams.md)
    + [Criar um novo fluxo](c-streams/t-create-a-new-stream.md)
-   + [Adicionar regras para seu fluxo](c-streams/t-add-rules-for-your-stream.md)
+   + [Adicionar regras para o seu fluxo](c-streams/t-add-rules-for-your-stream.md)
    + [Opções de regras de fluxo para todas as regras de fluxo](c-streams/c-stream-rule-options-for-all-stream-rules.md)
    + [Regras de página do Facebook](c-streams/c-facebook-page-rules.md)
    + [Regras de email](c-streams/c-email-rules.md)
@@ -209,9 +212,9 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [Enviar uma solicitação de direitos do Twitter](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Enviar uma solicitação de direitos do Instagram parcialmente automatizada](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [Enviar solicitação de direitos do Instagram manualmente](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
-   + [Exibir histórico de atividades de direitos](c-how-requesting-rights-works/c-view-rights-activity-history.md)
+   + [Histórico da Atividade de Direitos da Visualização](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gerenciar conteúdo com solicitações de direitos pendentes na biblioteca de ativos](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
-   + [Conceder ou revogar direitos manualmente para um ativo da biblioteca de ativos](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
+   + [Conceder ou revogar manualmente direitos para um ativo da biblioteca de ativos](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
 + Usuários: Gerenciamento de usuários do Studio e do Livefyre Network {#users-managing}
    + [Usuários: Gerenciamento de usuários do Studio e do Livefyre Network](c-users/c-users.md)
    + [Procurar usuários](c-users/t-search-for-users.md)
@@ -223,7 +226,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [Sincronização do usuário](c-users/t-set-up-user-sync.md)
 + Usuários: Criando contas de usuário {#users-creating-accounts}
    + [Usuários: Criando contas de usuário](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
-   + [Convidar um usuário para criar uma conta Studio](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
+   + [Convidar um usuário para criar uma conta do Studio](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
    + [Aceitar um convite para criar uma conta do Studio](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
    + [Fazer logon no Studio](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [Gerenciar permissões do Studio para usuários](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
@@ -237,7 +240,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [Adicionar um site a uma rede](c-settings-other/t-add-a-site.md)
    + Conjuntos de Tradução {#translation-sets}
       + [Conjuntos de Tradução](c-settings-other/c-translation-sets/c-translation-sets.md)
-      + [Criar e modificar conjuntos de tradução](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
+      + [Criar e modificar conjuntos de traduções](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
       + [Aplicar um conjunto de traduções a uma rede](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
       + [Aplicar um conjunto de traduções a um site](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
       + [Excluir um conjunto de traduções](c-settings-other/c-translation-sets/t-delete-a-translation-set.md)
@@ -251,7 +254,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [Solicitações de privacidade (pronto para RGPD)](c-settings-other/c-gdpr-compliance/c-gdpr-compliance.md)
       + [Perguntas frequentes sobre a solicitação de privacidade](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
       + [Criar uma solicitação de privacidade](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
-      + [Exibir um relatório de privacidade](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
+      + [Visualização de um Relatório de privacidade](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
       + [userPrivacyOptOut](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Notas de versão {#release-notes}
    + [Notas de versão mais recentes](c-rn/c-rn.md)
