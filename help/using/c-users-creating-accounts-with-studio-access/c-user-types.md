@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Funções e permissões do usuário
 uuid: d9261cfd-ae60-40d8-9816-25aef541506f
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 0%
 
 ---
 
@@ -24,14 +27,14 @@ As seguintes funções de usuário e privilégios de acesso listados estão disp
 * **Administrador do Studio**
    * Acesso a todos os direitos e permissões no Studio
    * Gerenciar funções de usuário
-   * Exibir e editar configurações de integração
-   * Exibir e editar todas as pastas públicas e privadas, aplicativos e fluxos
+   * Visualização e edição das configurações de integração
+   * Visualização e edição de todas as pastas públicas e privadas, aplicativos e fluxos
 
 * **Studio Manager**
    * Criar novos sites
    * Convidar usuários para o Studio
-   * Exibir e editar funções de usuário
-   * Navegadores de BANDA e endereços IP
+   * Visualização e edição de funções de usuário
+   * Navegadores de BANDA e Endereços IP
 
 * **Gerenciador de ativos**
    * Adicionar ativos à biblioteca usando a pesquisa social
@@ -39,17 +42,17 @@ As seguintes funções de usuário e privilégios de acesso listados estão disp
    * Criar e editar pastas compartilhadas e os Ativos em pastas compartilhadas
 
 * **Gerenciador de usuários**
-   * Exibir e editar detalhes da conta do usuário final
-   * Interromper usuários finais da lista de permissões
+   * Visualização e edição de detalhes da conta do usuário final
+   * Proibir ou permitir a lista de usuários finais
 
-* **** Gerenciador de dados: concede acesso para usar o painel do Livefyre Analytics.
+* **Gerenciador de dados:** concede acesso para usar o painel do Livefyre Analytics.
 * **Gerenciador de aplicativos**
    * Criar e editar aplicativos
    * Criar e editar fluxos que apontam para aplicativos
    * Adicionar ativos diretamente aos aplicativos usando a Pesquisa social
 
 * **Gerenciador de conteúdo:**
-   * Exibir e moderar conteúdo usando a página Conteúdo do aplicativo
+   * Visualização e moderação de conteúdo usando a página Conteúdo do aplicativo
    * Adicionar e editar tags, sinalizadores, notas e solicitações de direitos para conteúdo
 
 * **Moderador:**
