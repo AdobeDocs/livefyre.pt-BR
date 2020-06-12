@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Configuração da moderação
 uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+workflow-type: tm+mt
+source-wordcount: '1299'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +24,8 @@ Use a guia Moderação para definir regras de pré-moderação para conteúdo re
 
 * Pré-moderar automaticamente o conteúdo para filtrar o conteúdo indesejado com base nas regras que você configurou antes de publicar o conteúdo.
 * Exclua ou aprove manualmente o conteúdo que foi sinalizado usando a pré-moderação automática usando o ModQ ou o Conteúdo do aplicativo na Biblioteca.
-* Identifique visitantes do site que publicam repetidamente conteúdo ofensivo para impedir sua publicação, proibindo usuários específicos do Livefyre, usuários sociais ou endereços IP.
-* Identifique pessoas e conteúdo que podem ser sempre exibidos por usuários que utilizam a lista de permissões ou desligando filtros para fluxos, sites ou redes específicos.
+* Identifique os visitantes do site que publicam repetidamente conteúdo ofensivo para impedir sua publicação, proibindo usuários específicos do Livefyre, usuários sociais ou endereços IP.
+* Identifique pessoas e conteúdo que podem sempre ser exibidos permitindo a lista de usuários ou desativando filtros para fluxos, sites ou redes específicos.
 
 Você pode pré-moderar automaticamente o conteúdo das seguintes maneiras:
 
@@ -34,10 +37,10 @@ Você pode pré-moderar automaticamente o conteúdo das seguintes maneiras:
    * Proibir endereços IP usando **[!UICONTROL Settings > Bans]**
    * Proibir regiões IP por código de país por solicitação. O conteúdo proibido será marcado como SPAM.
 
-* Crie uma lista de palavras que você considera profanidade na Lista de profissões em **[!UICONTROL Settings > Moderation > Rules]** sua Rede ou Site.
-* Os usuários da lista de permissões (sempre permitem que o conteúdo desses usuários seja exibido) usando ou desativando filtros para fluxos, sites ou redes específicos.
+* Crie uma lista de palavras que você considera profanidade na Lista Profanity em **[!UICONTROL Settings > Moderation > Rules]** para sua Rede ou Site.
+* Permitir que usuários de lista (sempre permitir que o conteúdo desses usuários seja exibido) usando ou desativando filtros para fluxos, sites ou redes específicos.
 
-Depois de configurar suas listas de profanidade, filtros SAFE e regras, você pode escolher se deseja pré-moderar o conteúdo e aplicar os filtros SAFE em fluxos. Para obter mais informações, consulte Opções de regra de [fluxo para todas as regras](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
+Depois de configurar suas listas de profanidade, filtros SAFE e regras, você pode escolher pré-moderar o conteúdo e aplicar os filtros SAFE em fluxos. Para obter mais informações, consulte Opções de regra de [fluxo para todas as regras](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
 
 Livefyre marca o conteúdo como **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]**, etc. dependendo de onde o conteúdo vem, de onde ele será publicado e de quais regras você configurou no sistema. A tabela a seguir descreve as ações que Livefyre toma, dependendo desses fatores, em detalhes.
 
@@ -64,7 +67,7 @@ Antes que o conteúdo de um fluxo seja publicado em um aplicativo, o Livefyre re
 1. Se a pré-moderação estiver ativada, o Livefyre marca o conteúdo como pendente.
 1. Se você configurar as regras do ModQ, o Livefyre enviará o conteúdo para o ModQ.
 1. Se a pré-moderação não estiver ativada, o Livefyre verifica se o SAFE sinalizou o conteúdo.
-1. Se o SAFE sinalizou o conteúdo, o Livefyre aprova o conteúdo e o publica no aplicativo.
+1. Se o SAFE sinalizou o conteúdo, o Livefyre aprova o conteúdo e publica-o no aplicativo.
 1. Se SAFE sinaliza o conteúdo e você não configurou regras SAFE, o Livefyre aprova o conteúdo e publica o conteúdo no aplicativo.
 1. Se SAFE sinalizar o conteúdo e você configurar regras SAFE, o Livefyre verificará se você configurou regras SAFE para o Stream.
 1. Se você configurar regras SAFE para o fluxo, o Livefyre aprova o conteúdo e publica o conteúdo no aplicativo. Se você não configurou as regras SAFE para o fluxo, o Livefyre usa as regras SAFE de moderação para determinar como lidar com o conteúdo (enviar para ModQ, lixo, etc.).
@@ -82,11 +85,11 @@ Antes que o conteúdo de uma publicação do aplicativo seja publicado em um apl
 
 ## Filtros em massa {#section_lyk_ktx_vy}
 
-O Filtro em massa procura conteúdo repetitivo publicado em todas as redes Livefyre em um curto período de tempo. Se detectado, esse conteúdo é sinalizado como em massa e depois descartado por padrão. Embora o conteúdo em massa possa ser gerado pelo usuário (como "Touchdown!") postada repetidamente em um bate-papo durante um jogo popular de futebol), a maioria se origina de campanhas de spam. Esse filtro não depende da linguagem e funciona com qualquer idioma. Para personalizar o filtro em massa, entre em contato com o suporte do Livefyre.
+O Filtro em massa procura conteúdo repetitivo publicado em todas as redes Livefyre em um curto período de tempo. Se detectado, esse conteúdo é sinalizado como em massa e depois descartado por padrão. Embora o conteúdo em massa possa ser gerado pelo usuário (como &quot;Touchdown!&quot;) publicado repetidamente em um bate-papo durante um jogo popular de futebol), a maioria se origina de campanhas de spam. Esse filtro não depende da linguagem e funciona com qualquer idioma. Para personalizar o filtro em massa, entre em contato com o suporte do Livefyre.
 
 ## Regras {#section_gqz_ksk_f1b}
 
-Use a seção Regras para criar regras de pré-moderação, com base em sinalizadores SAFE e aplicados pelo usuário. Esse painel oferece dois tipos de regras:
+Use a seção Regras para criar regras de pré-moderação, com base em sinalizadores SAFE e aplicados pelo usuário. Esse painel oferta dois tipos de regras:
 
 * **[!UICONTROL Flag Rules:]** especifique uma ação que deve ser executada em um comentário sinalizado por usuários um número definido de vezes.
 * **[!UICONTROL SAFE Rules:]**combine sinalizadores SAFE com ações para executar o conteúdo sinalizado.
@@ -107,7 +110,7 @@ Ações disponíveis:
 
 ## Recomendações de moderação {#section_ec3_vr3_2cb}
 
-Você pode usar as recomendações de moderação para ajudar a determinar como moderar o conteúdo publicado pelos visitantes do site nos aplicativos Livefyre. O Indicador de recomendação de moderação recomenda quando é provável que um conteúdo seja descartado, com base em quais ações você tomou anteriormente em conteúdo semelhante. Para usar as Recomendações de moderação:
+Você pode usar as recomendações de moderação para ajudar a determinar como moderar o conteúdo publicado por visitantes do site nos aplicativos Livefyre. O Indicador de recomendação de moderação recomenda quando é provável que um conteúdo seja descartado, com base em quais ações você tomou anteriormente em conteúdo semelhante. Para usar as Recomendações de moderação:
 
 1. Ative a funcionalidade Recomendações de moderação entrando em contato com seu profissional de suporte do Adobe Livefyre.
 1. Configure as recomendações de moderação nas Configurações de rede.
