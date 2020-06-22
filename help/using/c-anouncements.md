@@ -6,31 +6,52 @@ solution: Experience Manager
 title: Anúncios
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
+source-git-commit: 7a36b890dd828b0da2c95acce5a074eeacb7ea5d
+workflow-type: tm+mt
+source-wordcount: '1587'
+ht-degree: 0%
 
 ---
 
 
 # Anúncios{#announcements}
 
+## 22 de junho de 2020
+
+Queremos fornecer uma atualização sobre a dinâmica em mudança do conteúdo gerado pelo usuário (UGC) e o impacto que isso está causando no conteúdo do Facebook e do Twitter no produto.
+
+No ano passado, o Facebook substituiu a API de Feed Público. Estivemos em conversas para tentar encontrar um caminho a seguir. Pediram-nos para remover os dados do Facebook do produto Livefyre. Estamos cumprindo a solicitação do Facebook e a Adobe está trabalhando prontamente para garantir que estamos protegendo nossos clientes.
+
+Esteja ciente de que o acesso a conteúdo novo e salvo do Facebook será removido durante as próximas semanas.
+
+* 22 de junho de 2020: a capacidade de pesquisar novos conteúdos do Facebook no Livefyre terminará.
+* 7 de julho de 2020: o acesso ao conteúdo salvo na biblioteca de ativos do Livefyre e o conteúdo do aplicativo serão encerrados.
+* 10 de agosto de 2020: O conteúdo do Facebook publicado em sites que residem nas visualizações do Livefyre, como paredes de mídia, cartões de recursos, mosaicos, carrosséis e muito mais, será removido.
+
+Esta alteração não afeta o conteúdo do Instagram que continuará a ser acessível no Livefyre.
+
+Também queremos compartilhar que, devido à demanda limitada dos clientes por conteúdo do Twitter, o acesso ao Twitter será removido da Livefyre no próximo ano, em 3 de maio de 2021. Você continuará a ter acesso total ao conteúdo novo e salvo do Twitter até essa data.
+
+Além disso, todos os outros recursos, incluindo Classificações e Revisões, Comentários, Sidenotes e Blogs ao vivo continuarão disponíveis. A Adobe também continuará fornecendo suporte contínuo para correções de erros e atualizações de sistema operacional e de segurança.
+
 ## 25 de outubro de 2019
 
 Em 4 de setembro de 2019, o Facebook removeu inesperadamente o acesso a certas permissões e recursos do fluxo de trabalho do Livefyre, que interrompeu a capacidade de pesquisar ou transmitir conteúdo do Facebook. Se o aplicativo precisar acessar publish_pages, user_friends ou acesso de conteúdo público da página, solicite-os pelo processo de revisão do aplicativo existente. Solicitamos formalmente o acesso restaurado a essas permissões e estamos aguardando aprovação do Facebook. Informaremos você assim que a aprovação for concedida e o conteúdo estiver novamente disponível.
 
-O conteúdo que já está publicado em seu site não será afetado.
+O conteúdo que já está publicado em seu(s) site(s) não será afetado.
 
 ## 11 de junho de 2019
 
 Temos o prazer de informá-lo de que o conteúdo do Facebook Fanpage retomou o streaming em pastas e aplicativos no Livefyre. Não há ações necessárias de sua parte para habilitar o fluxo deste conteúdo.
 
-Apreciamos muito a sua paciência durante esta inesperada interrupção.
+Apreciamos muito sua paciência durante essa inesperada paralisação.
 
 ## 7 de junho de 2019
 
-Estamos felizes em informar que os fluxos do Instagram e a busca foram restaurados em Livefyre. Você pode continuar usando o Social Search for Instagram content e retomar a transmissão de conteúdo do Instagram para pastas e aplicativos. Para reiniciar o streaming de conteúdo, é necessário executar as seguintes etapas:
+Estamos felizes em informar que os fluxos do Instagram e as buscas foram restaurados em Livefyre. Você pode continuar usando o Social Search for Instagram content e retomar a transmissão de conteúdo do Instagram para pastas e aplicativos. Para que o conteúdo de streaming seja start novamente, é necessário executar as seguintes etapas:
 * Faça logon no Livefyre
 * Visite Configurações para autorizar e atualizar novamente seus tokens de acesso vinculados à sua conta do Instagram Business
-* Aguarde de uma a duas horas para que o conteúdo inicie o streaming novamente
+* Aguarde de uma a duas horas para que o conteúdo seja reproduzido no start
 * Entre em contato com o suporte Se tiver problemas
 
 Os fluxos do Facebook ainda não foram restaurados, mas ainda estamos trabalhando ativamente com o Facebook para reinstalar esse recurso e o atualizaremos assim que soubermos mais.
@@ -76,7 +97,7 @@ Leia as atualizações mais recentes sobre o status da funcionalidade relacionad
 
 * **Fluxo de trabalho de solicitação de direitos de uso**
 
-   Em 24 de maio, oferecemos uma solução manual no fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram. Continuamos trabalhando na restauração da funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades. Nós prevemos que essa funcionalidade esteja disponível no final deste verão e o notificaremos assim que estiver disponível.
+   Em 24 de maio, oferecemos uma solução manual no fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram. Continuamos trabalhando na restauração da funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades. Nós prevemos que essa funcionalidade esteja disponível no final deste verão e o notificaremos assim que ela estiver ativa.
 
 ## May 24, 2018 {#section_xbk_wvd_ydb}
 
@@ -86,10 +107,10 @@ Leia as notas [de versão de 24](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-
 
 ## May 17, 2018 {#section_hwb_1qz_wdb}
 
-Temos o prazer de informá-lo que a capacidade de executar os seguintes recursos do Instagram no Livefyre está disponível novamente:
+Temos o prazer de informá-lo de que a capacidade de executar os seguintes recursos do Instagram no Livefyre está disponível novamente:
 
 * Publicar e salvar conteúdo do Instagram em pastas e aplicativos no Social Search
-* Exibir detalhes de cada parte do conteúdo
+* Detalhes da Visualização de cada parte do conteúdo
 * Executar ações de moderação no novo conteúdo do Instagram no ModQ
 
 ## May 7, 2018 {#section_dms_ypz_wdb}
@@ -102,22 +123,22 @@ Apreciamos a sua paciência ao analisar o impacto no sistema Livefyre. A visão 
 
 Primeiro, tenha a certeza de que a maioria das capacidades do Instagram de Livefyre não é afetada. O conteúdo do Instagram ainda pode ser transmitido por hashtag e localização e será publicado em pastas e aplicativos de visualização do Livefyre. O conteúdo de transmissão para todas as outras fontes (Twitter, Facebook, YouTube, Tumblr, RSS e email) permanece inalterado.
 
-Após uma análise completa do sistema, veja os recursos afetados pela desaprovação da API e as datas em que prevemos que eles serão abordados.
+Após uma análise completa do sistema, veja os recursos afetados pela desaprovação da API e as datas em que prevemos que eles serão endereçados.
 
 **As seguintes funções estão indisponíveis no momento e devem estar disponíveis até 17 de maio de 2018:**
 
-* Visualize detalhes, salve e publique o conteúdo do Instagram em pastas e aplicativos na Pesquisa Social.
+* Detalhes da Visualização, salve e publique o conteúdo do Instagram em pastas e aplicativos na Pesquisa Social.
 * Execute ações no conteúdo do Instagram no ModQ.
 
-**Espera-se que as soluções alternativas para a seguinte funcionalidade estejam disponíveis nas datas mostradas abaixo:**
+**Espera-se que as soluções alternativas para a seguinte funcionalidade sejam disponibilizadas nas datas mostradas abaixo:**
 
 * **Fluxo de trabalho da solicitação de direitos de uso — 24 de maio de 2018**
 
-   O Livefyre não pode mais enviar mensagens em nome de uma conta de usuário. A solicitação de direitos de uso para conteúdo do Instagram agora deve ser feita manualmente. O Livefyre fornecerá um fluxo de trabalho simples de recorte e colagem para ajudar os clientes a rastrear as aprovações e a manter registros de auditoria.
+   O Livefyre não pode mais enviar mensagens em nome de uma conta de usuário. A solicitação de direitos de uso para conteúdo do Instagram agora deve ser feita manualmente. O Livefyre fornecerá um fluxo de trabalho simples de recorte e colagem para ajudar os clientes a rastrear as aprovações e a manter os registros de auditoria.
 
 * **Fluxo de trabalho de pesquisa e streams do usuário — 14 de junho de 2018**
 
-   Embora ainda seja possível pesquisar por hashtag e palavra-chave, a capacidade de pesquisar contas pessoais do Instagram foi eliminada. Como alternativa, o Livefyre criará uma funcionalidade que permite pesquisar e fazer o stream de conteúdo de contas comerciais. Se você usar o Livefyre para pesquisar e transmitir o conteúdo do Instagram de sua própria organização, certifique-se de [atualizar](https://help.instagram.com/502981923235522?helpref=search&sr=2&query=change%20personal%20account%20to%20business%20account) para uma conta comercial para aproveitar essa funcionalidade.
+   Embora ainda seja possível pesquisar por hashtag e palavra-chave, a capacidade de pesquisar contas pessoais do Instagram foi eliminada. Como alternativa, o Livefyre criará uma funcionalidade que permite pesquisar e fazer o stream de conteúdo de contas comerciais. Se você usar o Livefyre para pesquisar e transmitir o conteúdo do Instagram de sua própria organização, certifique-se de [atualizar](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) para uma conta comercial para aproveitar essa funcionalidade.
 
 **Continuamos a avaliar soluções para a seguinte funcionalidade que não podemos substituir a curto prazo:**
 
