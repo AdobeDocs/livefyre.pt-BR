@@ -1,19 +1,22 @@
 ---
-description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas nas páginas de índice.
-seo-description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas nas páginas de índice.
+description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
+seo-description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
 seo-title: Exibir contagem de comentários
 solution: Experience Manager
 title: Exibir contagem de comentários
 uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
 translation-type: tm+mt
-source-git-commit: c287e7a880f956f0444af746adee682571fe5a72
+source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 0%
 
 ---
 
 
 # Exibir contagem de comentários{#display-comment-count}
 
-Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas nas páginas de índice.
+Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
 
 O Livefyre `CommentCount.js` permite que você busque a contagem de conteúdo para coleções em seu site. Embora os Aplicativos mostrem a contagem de comentários para a coleção atual, ter essas contagens sindicalizadas no site pode ser útil. Esse recurso é especialmente útil se você não persistir no conteúdo do banco de dados (ou se o banco de dados do CMS não estiver sincronizado com o Livefyre).
 
@@ -31,7 +34,7 @@ O Livefyre `CommentCount.js` permite que você busque a contagem de conteúdo pa
 
 1. Vincule o elemento HTML.
 
-   Depois que o script é carregado, ele tentará encontrar outros elementos na página com um nome de classe de `livefyre-commentcount`. Para cada um desses elementos, o script procurará atributos `data-lf-site-id` e `data-lf-article-id` HTML, e os usará para buscar conteúdo do Livefyre e atualizar cada elemento com o valor mais recente.
+   Depois que o script é carregado, ele tentará encontrar outros elementos na página com um nome de classe de `livefyre-commentcount`. Para cada um desses elementos, o script procurará por atributos `data-lf-site-id` e `data-lf-article-id` HTML, e os usará para buscar conteúdo do Livefyre e atualizar cada elemento com o valor mais recente.
 
    Por exemplo, o seguinte elemento seria atualizado:
 
@@ -41,9 +44,9 @@ O Livefyre `CommentCount.js` permite que você busque a contagem de conteúdo pa
    </span>
    ```
 
-   >[!NOTE] {important="high"}
+   >[!NOTE]
    >
-   >O `CommentCount.js` código verifica um valor numérico para atualizar com a contagem real. Certifique-se de incluir um valor numérico entre as tags.
+   >O `CommentCount.js` código verifica se há um valor numérico para atualizar com a contagem real. Certifique-se de incluir um valor numérico entre as tags.
 
    **Exemplo 1** (Usar o URL como a ID do artigo):
 
@@ -61,18 +64,18 @@ O Livefyre `CommentCount.js` permite que você busque a contagem de conteúdo pa
 
 1. Configurar opções.
 
-   Para ter mais controle sobre como as contagens de conteúdo são substituídas, chame `LF.CommentCount()` e passe em um objeto que contém as opções de configuração. Certifique-se de chamar a função depois que todos os elementos que precisam ser substituídos estiverem no DOM. O melhor local para chamar esse método é no rodapé, portanto, isso ocorre quando o DOM é carregado, mas antes dos eventos document e window ready.
+   Para ter mais controle sobre como as contagens de conteúdo são substituídas, chame `LF.CommentCount()` e passe em um objeto que contém as opções de configuração. Certifique-se de chamar a função depois que todos os elementos que precisam ser substituídos estiverem no DOM. O melhor local para chamar esse método é no rodapé, portanto, isso acontece quando o DOM é carregado, mas antes dos eventos prontos para documentos e janelas.
 
    Permitimos as seguintes opções de configuração:
 
-* **** substituto: Função ou Regex usado para substituir o texto de cada contagem de conteúdo.
+* **substituto:** Função ou Regex usado para substituir o texto de cada contagem de conteúdo.
 
-* **** função: Usado para fazer a substituição em cada elemento. Os argumentos da função são:
+* **função:** Usado para fazer a substituição em cada elemento. Os argumentos da função são:
 
-   **** elemento: O elemento HTML que está sendo atualizado.
-   **** contagem: A contagem de conteúdo para este elemento.
+   **elemento:** O elemento HTML que está sendo atualizado.
+   **contagem:** A contagem de conteúdo para este elemento.
 
-* **** regex: Usado para determinar qual parte do texto do elemento deve ser substituída pela contagem.
+* **regex:** Usado para determinar qual parte do texto do elemento deve ser substituída pela contagem.
 
    **Exemplo**:
 
