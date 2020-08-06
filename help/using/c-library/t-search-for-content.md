@@ -1,19 +1,22 @@
 ---
-description: Use a pesquisa social para procurar conteúdo do Instagram para incluir na Biblioteca de ativos ou publicar em Aplicativos.
-seo-description: Use a pesquisa social para procurar conteúdo do Instagram para incluir na Biblioteca de ativos ou publicar em Aplicativos.
+description: Use a pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na Biblioteca de ativos ou publicado nos aplicativos.
+seo-description: Use a pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na Biblioteca de ativos ou publicado nos aplicativos.
 seo-title: Procurar conteúdo do Instagram
 solution: Experience Manager
 title: Procurar conteúdo do Instagram
-uuid: 38a7185d-9936-4eaa-97e9-5b23b356496
+uuid: 38a7185d-9936-4eaa-97e9-5b23b3566496
 translation-type: tm+mt
-source-git-commit: e60a58bf949e6e4f6f4f8d2fad1bd8985a593677
+source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+workflow-type: tm+mt
+source-wordcount: '255'
+ht-degree: 0%
 
 ---
 
 
 # Procurar conteúdo do Instagram{#search-for-instagram-content}
 
-Use a pesquisa social para procurar conteúdo do Instagram para incluir na Biblioteca de ativos ou publicar em Aplicativos.
+Use a pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na Biblioteca de ativos ou publicado nos aplicativos.
 
 >[!NOTE]
 >
@@ -24,7 +27,7 @@ Use a pesquisa social para procurar conteúdo do Instagram para incluir na Bibli
 Quando você adiciona novos ativos à biblioteca, os ativos que já estão incluídos na biblioteca são marcados com uma marca de seleção.
 
 1. Configure uma conta comercial do Instagram.
-1. Navegue até **[!UICONTROL Library]** &gt; **[!UICONTROL Social Search]**.
+1. Navegue até **[!UICONTROL Library]** > **[!UICONTROL Social Search]**.
 1. Selecione **[!UICONTROL Instagram]** para pesquisar o conteúdo do Instagram.
 1. Insira os critérios de pesquisa e clique **[!UICONTROL Show Filter]** para refinar a pesquisa.
 
@@ -38,5 +41,4 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 
    * **[!UICONTROL Recent Tags Search]**: Pesquise as publicações mais recentes com a hashtag.
 
->Os itens são exibidos que correspondem à sua pesquisa. Passe o mouse sobre um item para **[!UICONTROL View Details]**, adicione-o à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.
-
+Os itens são exibidos que correspondem à sua pesquisa. Passe o mouse sobre um item para **[!UICONTROL View Details]**, adicione-o à sua Biblioteca de ativos ou **[!UICONTROL Publish]** a um aplicativo.
