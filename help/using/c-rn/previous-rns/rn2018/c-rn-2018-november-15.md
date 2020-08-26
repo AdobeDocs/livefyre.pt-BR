@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Notas de versão
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 7%
 
 ---
 
@@ -33,7 +36,7 @@ Os novos recursos a seguir foram lançados na versão de produção desta versã
 
 Para obter mais informações sobre como solicitar direitos para contas do Instagram, consulte [Enviar solicitação de direitos do Instagram manualmente](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) e [Enviar uma solicitação](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)de direitos do Instagram parcialmente automatizada.
 
-* **Integração com o Adobe Target.** Adicionada integração com o Público alvo da Adobe que permite que você compartilhe aplicativos Livefyre diretamente na sua biblioteca do Público alvo Oferta. Para obter mais informações sobre como usar o Livefyre com o Público alvo da Adobe, consulte a documentação [do](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html)Público alvo.
+* **Integração com o Adobe Target.** Adicionada integração com a Adobe Target que permite compartilhar aplicativos Livefyre diretamente na sua biblioteca do Adobe Target Oferta. Para obter mais informações sobre como usar o Livefyre com a Adobe Target, consulte a documentação [do](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html)Público alvo.
 
 ## Problemas {#section_ehw_ndt_wcb}
 
@@ -43,7 +46,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 | Tipo de problema | Componente | Nota de versão |
 |--- |--- |--- |
-| Problema | AppService: Identidade do Livefyre | Corrigido um problema no qual clicar em [! O UICONTROL Reset Default] não redefiniu o logotipo em Login Modal em Studio > Configurações de integração > Livefyre Identity para a imagem padrão. |
+| Problema | AppService: Identidade do Livefyre | Correção de um problema em que clicar em não [!UICONTROL Reset to Default] redefinia o logotipo em Login Modal em Studio > Configurações de integração > Identidade do Livefyre na imagem padrão. |
 | Problema | Biblioteca | Correção de um problema em que um vídeo carregado na Biblioteca e exibido em detalhes do ativo não era exibido corretamente. |
 | Problema | Fluxos | Correção de um problema que impedia que os produtos fossem exibidos em uma regra de fluxo. |
 | Problema | Fluxos | Correção de um problema em que as tags de produto não estavam disponíveis para uma regra de fluxo. |
