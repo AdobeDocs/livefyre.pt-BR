@@ -1,9 +1,9 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Documentação do Livefyre
+user-guide-title: Guia Livefyre
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# Documentação do Livefyre {#using}
+# Guia Livefyre {#using}
 
 + [Ajuda do Livefyre](home.md)
 + [Anúncios](c-anouncements.md)
@@ -148,7 +148,7 @@ ht-degree: 5%
    + [Rastreamento de referência](c-features-livefyre/c-referral-tracking.md)
    + Tags inteligentes {#smart-tags}
       + [Tags inteligentes](c-features-livefyre/c-smart-tags/c-smart-tags.md)
-      + [Tags inteligentes de Visualização](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
+      + [Tags inteligentes de visualização](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
    + Compartilhamento em redes sociais {#social-sharing}
       + [Compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Configuração do compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
@@ -174,7 +174,7 @@ ht-degree: 5%
       + [Ativos](c-library/c-assets/c-assets.md)
       + [Criar pastas de ativos](c-library/c-assets/t-create-folders.md)
       + [Gerenciar pastas de ativos](c-library/c-assets/t-manage-folders.md)
-      + [Detalhes do ativo de Visualização](c-library/c-assets/t-manage-assets.md)
+      + [Detalhes do ativo de visualização](c-library/c-assets/t-manage-assets.md)
       + [Publicar ativos em aplicativos](c-library/c-assets/t-publish-assets-to-apps.md)
       + [Pesquisar ativos salvos na biblioteca](c-library/c-assets/t-search-for-assets.md)
       + [Carregar fotos](c-features-livefyre/c-content-behavior-features/t-upload-photos.md)
@@ -182,13 +182,13 @@ ht-degree: 5%
    + [Procurar conteúdo no YouTube](c-library/t-search-for-youtube-content.md)
    + [Pesquisar conteúdo do Twitter](c-streams/c-youtube-rules/t-search-for-twitter-content.md)
    + [Procurar conteúdo do Instagram](c-library/t-search-for-content.md)
-   + [Detalhes do conteúdo da Visualização](c-library/c-view-content-details.md)
+   + [Detalhes do conteúdo da visualização](c-library/c-view-content-details.md)
    + [Salvar conteúdo na biblioteca de ativos](c-library/t-save-content-to-asset-library.md)
    + [Associar produtos ao conteúdo usando a biblioteca](c-library/t-associate-products-with-content-using-the-library.md)
    + [Publicar conteúdo](c-library/t-publish-content.md)
    + [Guia Conteúdo do aplicativo](c-library/c-app-content.md)
    + [Usar o Adobe Experience Manager Livefyre com o Hootsuite](c-library/c-hootsuite-livefyre.md)
-   + [Usar o Adobe Experience Manager Livefyre com o Adobe Target](c-library/livefyre-target.md)
+   + [Use o Adobe Experience Manager Livefyre com o Adobe Target](c-library/livefyre-target.md)
    + [Usar o Adobe Launch Livefyre Extension](c-library/launch-extension.md)
 + Fluxos {#streams}
    + [Fluxos](c-streams/c-streams.md)
@@ -196,7 +196,7 @@ ht-degree: 5%
    + [Adicionar regras para o seu fluxo](c-streams/t-add-rules-for-your-stream.md)
    + [Opções de regras de fluxo para todas as regras de fluxo](c-streams/c-stream-rule-options-for-all-stream-rules.md)
    + [Regras de página do Facebook](c-streams/c-facebook-page-rules.md)
-   + [Regras de email](c-streams/c-email-rules.md)
+   + [regras de email](c-streams/c-email-rules.md)
    + [Regras do Instagram](c-streams/c-instagram-rules.md)
    + [Diretrizes de conteúdo do Instagram](c-streams/c-instagram-content-guidelines.md)
    + [Limite da taxa do Instagram](c-streams/c-instagram-rate-limiting.md)
@@ -208,11 +208,11 @@ ht-degree: 5%
 + Solicitações de direitos {#rights-requests}
    + [Direitos de solicitação](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [Gerenciando solicitações de direitos](c-how-requesting-rights-works/c-managing-rights-requests.md)
-   + [Configurar o Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
+   + [Configurar Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Enviar uma solicitação de direitos do Twitter](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Enviar uma solicitação de direitos do Instagram parcialmente automatizada](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [Enviar solicitação de direitos do Instagram manualmente](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
-   + [Histórico da Atividade de Direitos da Visualização](c-how-requesting-rights-works/c-view-rights-activity-history.md)
+   + [Histórico da Atividade de Direitos da visualização](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gerenciar conteúdo com solicitações de direitos pendentes na biblioteca de ativos](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Conceder ou revogar manualmente direitos para um ativo da biblioteca de ativos](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
 + Usuários: Gerenciamento de usuários do Studio e do Livefyre Network {#users-managing}
@@ -220,7 +220,7 @@ ht-degree: 5%
    + [Procurar usuários](c-users/t-search-for-users.md)
    + [Exibindo Detalhes da Conta](c-users/c-viewing-account-details.md)
    + [Banir um usuário](c-users/t-ban-a-user.md)
-   + [Permitir lista de um usuário](c-users/allow-list-a-user.md)
+   + [Permitir a lista de um usuário](c-users/allow-list-a-user.md)
    + [Vincular contas de usuário](c-users/t-link-user-accounts.md)
    + [Redes de troca de usuários](c-users/c-users-switching-networks.md)
    + [Sincronização do usuário](c-users/t-set-up-user-sync.md)
