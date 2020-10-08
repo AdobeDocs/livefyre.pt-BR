@@ -6,7 +6,10 @@ solution: Experience Manager
 title: Integre o Livefyre em um CMS
 uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
 translation-type: tm+mt
-source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
+source-git-commit: 2436c389cbe14c7d64dd8c0392a3e0f031468836
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +18,13 @@ source-git-commit: 40cd8c2c89c17134bfcda510527dd6fff41400b5
 
 Crie aplicativos Livefyre do zero para criar experiências e visualizações de dados personalizadas.
 
-Você pode criar um aplicativo Livefyre do zero, usando o Livefyre e os dados sociais usando a Bootstrap e a Stream API.
+Você pode criar um aplicativo Livefyre do zero, usando o Livefyre e os dados sociais usando a API Bootstrap e Stream.
 
 Para aplicativos Livefyre que exigem autenticação, consulte Integração de identidade para obter informações sobre plataformas de autenticação de terceiros suportadas.
 
 Para implementar aplicativos de conversa (Comentários, bate-papo, Blog ao vivo, Sidenotes):
 
-1. Execute a integração do aplicativo.
+1. Realize a integração do aplicativo.
 a. Crie uma coleção usando o CollectionMeta Token.
 b. Integre aplicativos Livefyre a sites usando a estrutura de código incorporada do Livefyre.js.
 
@@ -37,13 +40,13 @@ b. Integre aplicativos Livefyre a sites usando a estrutura de código incorporad
 
 1. Realize a integração de autenticação.
 a. Crie tokens de autenticação de usuário para transmitir e armazenar dados de usuário no Livefyre.
-b. Integre plataformas de autenticação e de usuário de terceiros. Para obter uma lista das plataformas compatíveis, consulte Integração [de](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)identidade.
+b. Integre plataformas de autenticação e de usuário de terceiros. Para obter uma lista de plataformas compatíveis, consulte Integração [de](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)identidade.
 
 1. Execute personalizações do aplicativo. Opções de personalização do aplicativo para corresponder à sua marca e estilo e adicionar funcionalidade personalizada.
 
 Para criar um aplicativo de visualização (Mapa, Mídia, Mural, Tendência, Carrossel, Película fotográfica, Storify, Cartão de recurso, Mosaico, Pesquisas):
 
-1. Execute a integração do aplicativo.
+1. Realize a integração do aplicativo.
 a. Crie uma coleção usando o CollectionMeta Token.
 b. Integre aplicativos Livefyre a sites usando a estrutura de código incorporada do Livefyre.js. Para obter mais informações sobre como usar a estrutura de código incorporado Livefyre.js, consulte [Incorporar um aplicativo](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
 
@@ -55,9 +58,10 @@ b. Integre aplicativos Livefyre a sites usando a estrutura de código incorporad
 
 1. Realize a integração de autenticação.
 a. Crie tokens de autenticação de usuário para enviar e armazenar dados de usuário no Livefyre.
-b. Integre plataformas de autenticação e de usuário de terceiros. Para obter uma lista das plataformas compatíveis, consulte Integração [de](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)identidade.
+b. Integre plataformas de autenticação e de usuário de terceiros. Para obter uma lista de plataformas compatíveis, consulte Integração [de](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)identidade.
 
 >[!NOTE]
 >
 >O Livefyre não é compatível com os aplicativos Carousel, Filmstrip, Storify, Feature Card, Mosaic e Polls usando o Livefyre.js.
+
 Integre esses aplicativos usando o processo [Criar um aplicativo](/help/using/c-about-apps/c-create-an-app.md) .
