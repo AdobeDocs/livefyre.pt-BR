@@ -1,18 +1,18 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Guia Livefyre
-user-guide-description: Use Livefyre Studio to create apps, gather user-generated content, and moderate content.
+user-guide-title: Guia do Livefyre
+user-guide-description: Use o Livefyre Studio para criar aplicativos, coletar conteúdo gerado pelo usuário e moderar conteúdo.
 translation-type: tm+mt
 source-git-commit: 9b568a6bbe638fae816c6992e33180f9349157f1
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 5%
+source-wordcount: '855'
+ht-degree: 7%
 
 ---
 
 
-# Guia Livefyre {#using}
+# Guia do Livefyre {#using}
 
 + [Ajuda do Livefyre](home.md)
 + [Anúncios](c-anouncements.md)
@@ -34,10 +34,10 @@ ht-degree: 5%
       + [Comentários](c-about-apps/c-comments/c-comments.md)
       + [Recursos de comentários](c-about-apps/c-comments/r-comments-features.md)
       + [Personalizações de comentários](c-about-apps/c-comments/r-comments-customizations.md)
-   + Postagem {#featurecard}
+   + Placa de recurso {#featurecard}
       + [Placa de recurso](c-about-apps/c-feature-card-app/c-feature-card-app.md)
       + [Personalizações da placa de recurso](c-about-apps/c-feature-card-app/r-feature-card-customizations.md)
-   + Adicionar {#filmstrip}
+   + Película fotográfica {#filmstrip}
       + [Película fotográfica](c-about-apps/c-filmstrip-app/c-filmstrip-app.md)
       + [Recursos da Película fotográfica](c-about-apps/c-filmstrip-app/c-filmstrip-features.md)
       + [Personalizações de Película fotográfica](c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md)
