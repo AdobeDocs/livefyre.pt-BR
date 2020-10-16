@@ -6,14 +6,17 @@ solution: Experience Manager
 title: Eventos do Livefyre Analytics
 uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 4%
 
 ---
 
 
-# Eventos do Livefyre Analytics {#livefyre-analytics-events}
+# Eventos do Livefyre Analytics
 
-## Definição de objeto de Evento {#section_dh1_yhn_pdb}
+## Definição de objeto de evento {#section_dh1_yhn_pdb}
 
 O código a seguir define os campos no objeto de evento que são recebidos pelo manipulador do Analytics em uma página.
 
@@ -44,7 +47,7 @@ O código a seguir define os campos no objeto de evento que são recebidos pelo 
 
 ## Eventos e eVars do Livefyre Analytics {#section_u3k_tft_mcb}
 
-Os seguintes eventos do Livefyre para mapear para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Report Suites no Adobe Analytics, consulte Gerenciador [](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)de report suite. Para obter mais informações sobre como usar eventos Livefyre com o Gerenciador de conjunto de relatórios, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+Os seguintes eventos do Livefyre para mapear para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Conjuntos de relatórios no Adobe Analytics, consulte Gerenciador [de conjuntos de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)relatórios. Para obter mais informações sobre como usar eventos Livefyre com o Gerenciador de conjunto de relatórios, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
 
 ## Eventos do Livefyre Analytics
 
