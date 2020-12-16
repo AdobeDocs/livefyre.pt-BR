@@ -7,11 +7,14 @@ title: Fluxos
 uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
 
-# Fluxos{#streams}
+# Streams{#streams}
 
 Carregue o conteúdo selecionado nos aplicativos do Livefyre ou na biblioteca do Studio.
 
