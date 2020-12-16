@@ -7,6 +7,9 @@ title: método de site buildChatCollection
 uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
 translation-type: tm+mt
 source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +30,7 @@ Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or
 Collection collection = site.buildChatCollection(title, articleId, url); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildChatCollection(title, articleId, url); 
@@ -39,7 +42,7 @@ var collection = site.buildChatCollection(title, articleId, url);
 $collection = site->buildChatCollection(title, articleId, url); 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_chat_collection(title, articleId, url) 
