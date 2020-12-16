@@ -7,6 +7,9 @@ title: Conjuntos de Tradução
 uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1347'
+ht-degree: 7%
 
 ---
 
@@ -25,16 +28,23 @@ Especifique um conjunto de traduções para uma rede, site, aplicativo ou usando
 
 Os conjuntos de tradução em níveis diferentes substituem-se uns aos outros seguindo este padrão:
 
-O conjunto de traduções da API substitui todos os conjuntos de traduções em qualquer nível (Aplicativo, rede e site)O conjunto de traduções do aplicativo substitui os conjuntos de traduções em nível de rede e em nível de site.
+O conjunto de traduções da API substitui todos os conjuntos de traduções em qualquer nível (aplicativo, rede e site)
+O conjunto de tradução do aplicativo substitui os conjuntos de tradução no nível da rede e no nível do site.
 Os conjuntos de tradução no nível do site substituem os conjuntos de tradução no nível da rede.
 
-## Rever strings de texto {#c_review_text_strings}
+## Revisar sequências de texto {#c_review_text_strings}
 
 Personalização das strings de texto para revisões do Livefyre.
 
-Esta página lista e descreve as strings disponíveis para personalização em aplicativos de revisão. As strings listadas aqui são além e substituem as strings padrão para os aplicativos principais do Livefyre, listadas em Personalizações de string. Quando duplicatas são listadas, as sequências listadas nessas tabelas são o padrão para aplicativos de revisões.
+Esta página lista e descreve as sequências de caracteres disponíveis para personalização em aplicativos de revisão. As strings listadas aqui são além e substituem as strings padrão para os aplicativos principais do Livefyre, listadas em Personalizações de string. Onde os duplicados são listados, as strings listadas nessas tabelas são o padrão para aplicativos de revisões.
 
-ImplementaçãoRevisão / Interface de classificaçãoInformações de fluxoAutor / Informações do conteúdo Ações do usuárioFunções de publicaçãoErros
+Implementação
+Interface de análise/classificação
+Informações de fluxo
+Informações do autor/conteúdo
+Ações do usuário
+Funções de publicação
+Erros
 
 ## Implementação {#section-vsy-1k4-xz}
 
@@ -65,7 +75,7 @@ Strings disponíveis para a interface do usuário Revisar e Classificar.
 |  | showReviewBtn | Mostrar revisão |
 |  | follow | Estou interessado |
 |  | shareText | Acabei de escrever uma resenha. Confira! |
-| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Observação: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
+| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Nota: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
 | Subpartes de classificação | ratingSubpartPlaceholder | Uma matriz. Padrão = [] |
 |  | ratingSubpartTitle | Uma matriz. Padrão = [] |
 |  | reviewStreamTitle | Em branco por padrão. Título da seção de resumo da revisão. |
@@ -82,7 +92,7 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Classificação |  sortBy | *Em branco por padrão.* |
+| Classificação | sortBy | *Em branco por padrão.* |
 |  | sortHighestRated | [Classificação mais alta](https://d.pr/i/huTd) |
 |  | sortLowestRated | [Classificação mais baixa](https://d.pr/i/huTd) |
 |  | sortMostHelpful | [Mais úteis](https://d.pr/i/huTd) |
@@ -172,13 +182,20 @@ Strings disponíveis para mensagens de erro gerais.
 |  | errorTitleMaxChars | Desculpe, seu título é muito longo. Edite e tente novamente. |
 |  | errorVoteOwnComment | Não pode votar na sua própria revisão |
 
-## Separa strings de texto {#c_sidenotes_text_strings}
+## Indica strings de texto {#c_sidenotes_text_strings}
 
 Personalização das strings de texto para Livefyre Sidenotes
 
-Esta página lista e descreve todas as strings disponíveis para personalização em aplicativos Sidenotes. Para obter informações sobre strings disponíveis para os principais aplicativos Livefyre, consulte Personalizações de string.
+Esta página lista e descreve todas as sequências de caracteres disponíveis para personalização em aplicativos Sidenotes. Para obter informações sobre strings disponíveis para os principais aplicativos Livefyre, consulte Personalizações de string.
 
-ImplementaçãoAuthStream InfoAuthor / Content InfoAções do usuárioFunções de publicaçãoErros de interface do moderador
+Implementação
+Auth
+Informações de fluxo
+Informações do autor/conteúdo
+Ações do usuário
+Funções de publicação
+Interface do moderador
+Erros
 
 ## Implementação {#section_wp2_ql4_xz}
 
@@ -235,9 +252,9 @@ As strings estão disponíveis para informações de autor e conteúdo individua
 |  | commentVoteCount | votação |
 |  | commentVoteCountSing | voto |
 |  | datetimeMinutePrefix | m |
-|  | datetimeMonths | Uma matriz. Default =[ ‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’ ] |
-|  | questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto</span> e clique no <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou no <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
-|  | questionMockText | O que é "conhecido familiar" não é propriamente conhecido, apenas pelo fato de ser "familiar". |
+|  | datetimeMonths | Uma matriz. Padrão =[ &quot;Janeiro&quot;, &quot;fevereiro&quot;, &quot;março&quot;, &quot;abril&quot;, &quot;maio&quot;, &quot;junho&quot;, &quot;julho&quot;, &quot;agosto&quot;, &quot;setembro&quot;, &quot;outubro&quot;, &quot;novembro&quot;, &quot;dezembro&quot; ] |
+|  | questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto </span> e clique no  <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou no  <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
+|  | questionMockText | O que é &quot;conhecido familiar&quot; não é propriamente conhecido, apenas pelo fato de ser &quot;familiar&quot;. |
 |  | questionTitle | O que é um Sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}
@@ -256,7 +273,7 @@ Strings disponíveis para ações do usuário: marcar, compartilhar e curtir o c
 |  | menuFlagOptionOffTopic | Tópico desativado |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Sinalizar como... |
-|  | facebookShareCaption | Notas de identidade em "{title}" |
+|  | facebookShareCaption | Notas de identidade em &quot;{title}&quot; |
 | Opções do usuário móvel | sliderCommentTally | of |
 |  | sliderInviteRead | Lido |
 |  | sliderInviteWrite | Gravar |
@@ -279,7 +296,7 @@ Strings disponíveis para usuários que postam conteúdo.
 |  | editorPostagem | Postando… |
 |  | editorReplyBtn | Postar resposta |
 |  | editorReplyTitle | Gravar resposta |
-|  | editorTitle | Gravar Sidenote |
+|  | editorTitle | Gravar nota secundária |
 |  | emptyImageBlockTxt | O que você acha? |
 |  | emptyTextBlockTxt | + |
 |  | replyBtn | Responder |
