@@ -4,9 +4,12 @@ seo-description: Mostre as coleções mais ativas em seu site ou rede.
 seo-title: Tendência
 solution: Experience Manager
 title: Tendência
-uuid: 3031523d-b487-4eea-bba6-5d8f971874f
+uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
@@ -49,13 +52,13 @@ Livefyre.require([
 </script>
 ```
 
-Agora você tem um aplicativo de tendência! Veja tudo isso em ação [neste exemplo](https://codepen.io/gobengo/pen/GijEy).
+Agora você tem um aplicativo de tendência! Veja tudo isso em ação em [este exemplo](https://codepen.io/gobengo/pen/GijEy).
 
 ## Configuração {#section_k5k_qhb_c1b}
 
 `network`
 
-A rede da qual as coleções serão obtidas. (Obrigatório.)
+A rede da qual as coleções serão extraídas. (Obrigatório.)
 
 ```
 var trending = new Trending({ 
