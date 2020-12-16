@@ -7,6 +7,9 @@ title: Ocultar elementos do aplicativo
 uuid: ea090b6e-99f5-4bd7-aa9e-d39a4dff1543
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Remova os componentes padrão do aplicativo Livefyre do aplicativo.
 
-Use o CSS para ocultar os elementos padrão do aplicativo Livefyre da sua página, permitindo personalizar a experiência do usuário para atender às suas necessidades.
+Use o CSS para ocultar os elementos padrão do aplicativo Livefyre da sua página, permitindo que você personalize a experiência do usuário para atender às suas necessidades.
 
 Para ocultar elementos do aplicativo, basta definir a exibição como nenhum.
 
