@@ -7,6 +7,9 @@ title: Personalizações de comentários
 uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +32,7 @@ Use as opções disponíveis para permitir que seus usuários compartilhem conte
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Se ativada, as postagens serão exibidas dentro de uma caixa ao redor e a cor do plano de fundo será ditada pela **[!UICONTROL Theme]** seleção aplicada.
+   Se ativada, as postagens serão exibidas dentro de uma caixa ao redor e a cor do plano de fundo será definida pela seleção **[!UICONTROL Theme]** aplicada.
 
 * **[!UICONTROL Expand media]**
 
@@ -57,7 +60,7 @@ Use as opções disponíveis para permitir que seus usuários compartilhem conte
 
 * **[!UICONTROL Users may share posts]**
 
-   Se os usuários ativados puderem compartilhar publicações. Se ativados, os usuários podem compartilhar conteúdo publicado no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
+   Se os usuários ativados puderem compartilhar publicações. Se ativados, os usuários podem compartilhar conteúdo publicado no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
 
 * **[!UICONTROL Featured content at top of stream]**
 
@@ -65,15 +68,15 @@ Use as opções disponíveis para permitir que seus usuários compartilhem conte
 
 * **[!UICONTROL High velocity comment queuing]**
 
-   Permite controlar a velocidade com que os comentários são exibidos na página e é melhor usado para conversas de alta velocidade. Quando ativado, o Livefyre listará o número de novos comentários na parte superior do fluxo, em vez de exibir o conteúdo inteiro. Clicar nesse número exibirá os 10 comentários mais antigos no stream.
+   Permite controlar a velocidade com que os comentários são exibidos na página e é melhor usado para conversas de alta velocidade. Quando ativado, o Livefyre lista o número de novos comentários na parte superior do fluxo, em vez de exibir o conteúdo inteiro. Clicar nesse número exibirá os 10 comentários mais antigos no stream.
 
 * **[!UICONTROL Most liked comment sort]**
 
-   Se ativada, permite que os usuários classifiquem por **[!UICONTROL Top Comments]** ou **[!UICONTROL Hot Threads]** (além das opções padrão **[!UICONTROL Newest]** e de **[!UICONTROL Oldest]** classificação).
+   Se ativada, permite que os usuários classifiquem por **[!UICONTROL Top Comments]** ou **[!UICONTROL Hot Threads]** (além das opções de classificação padrão **[!UICONTROL Newest]** e **[!UICONTROL Oldest]**).
 
 Você pode personalizar Comentários usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
 
 * **[!UICONTROL Integration tools]**. Consulte Comentários para obter mais informações sobre como personalizar comentários usando as Ferramentas de integração.
 
