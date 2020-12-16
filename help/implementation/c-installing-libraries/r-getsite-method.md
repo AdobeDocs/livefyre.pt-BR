@@ -7,14 +7,20 @@ title: Método de rede getSite
 uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '62'
+ht-degree: 0%
 
 ---
 
 
-# Método de rede getSite{#getsite-network-method}
+# Método de Rede getSite{#getsite-network-method}
 
 Retorna um novo objeto Site.
-|Variável|Tipo|Descrição||—|—|—||siteId|String|A ID fornecida pelo Livefyre para o site ou aplicativo ao qual a Coleção pertence. Por exemplo: 303617.  ||siteKey|String|A chave secreta fornecida pelo Livefyre para siteId.  |
+|Variável|Tipo|Descrição|
+|— |— |— |
+|siteId|String|A ID fornecida pelo Livefyre para o site ou aplicativo ao qual a Coleção pertence. Por exemplo: 303617.  |
+|siteKey|String|A chave secreta fornecida pelo Livefyre para siteId.  |
 
 ## Exemplo de Java {#section_nyl_ycs_rz}
 
@@ -22,7 +28,7 @@ Retorna um novo objeto Site.
 Site site = network.getSite(siteId, siteKey); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 var site = network.getSite(siteId, siteKey); 
@@ -34,7 +40,7 @@ var site = network.getSite(siteId, siteKey);
 $site = $network->getSite(siteId, siteKey);
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 site = network.get_site(siteId, siteKey) 
