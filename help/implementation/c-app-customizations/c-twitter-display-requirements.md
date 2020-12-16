@@ -7,6 +7,9 @@ title: Requisitos de exibição do Twitter
 uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '187'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 As redes de mídia social geralmente exigem que seu conteúdo seja exibido de acordo com os padrões da marca. Ao usar a plataforma Livefyre para apresentar novamente o conteúdo do Twitter, você é sempre responsável pela conformidade com seus termos de uso, incluindo os requisitos de exibição. Certifique-se de ler e entender seus termos e condições antes de exibir seu conteúdo nos aplicativos Livefyre.
 
-Para obter mais informações, consulte a documentação Requisitos [de exibição do](https://about.twitter.com/company/display-requirements) Twitter.
+Para obter mais informações, consulte a documentação [Requisitos de exibição do Twitter](https://about.twitter.com/company/display-requirements).
 
 O Twitter determina os seguintes requisitos de apresentação:
 
