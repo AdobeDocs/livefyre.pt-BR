@@ -7,6 +7,9 @@ title: Alterar coleção
 uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Use o delegado Alterar coleção para alterar a coleção exibida em uma página
 
 Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma coleção específica para essa seleção, enquanto o URL da página não será alterado.
 
-Para carregar uma das três coleções de uma única página de contagem [de](/help/implementation/c-advanced-topics/t-display-comment-count.md) comentários:
+Para carregar uma das três coleções de uma única página [de contagem de comentários](/help/implementation/c-advanced-topics/t-display-comment-count.md):
 
 ```
 <html> 
