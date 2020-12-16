@@ -6,11 +6,14 @@ title: Suporte a dispositivos e navegadores
 uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
 source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 8%
 
 ---
 
 
-# Suporte a dispositivos e navegadores{#device-and-browser-support}
+# Suporte a dispositivo e navegador{#device-and-browser-support}
 
 Uma lista de navegadores e dispositivos compatíveis com o Livefyre App suite.
 
@@ -19,11 +22,11 @@ O Livefyre suporta os seguintes dispositivos, sistemas operacionais e navegadore
 |  | Principais aplicativos | Storify 2 | Studio | ModQ |
 |---|---|---|---|---|
 | **Navegadores de desktop** |  |  |  |  |
-| Chrome | ✓ | ✓ | ✓ | ✓ |
-| Edge | ✓ | ✓ | ✓ | ✓ |
+| Chrome | Satélite | Satélite | Satélite | Satélite |
+| Edge | Satélite | Satélite | Satélite | Satélite |
 | IE 11 | Limitado | Limitado | Limitado | Limitado |
-| Firefox | ✓ | ✓ | ✓ | ✓ |
-| Safari | ✓ | ✓ | ✓ | ✓ |
+| Firefox | Satélite | Satélite | Satélite | Satélite |
+| Safari | Satélite | Satélite | Satélite | Satélite |
 |  |  |  |  |  |
 | **Dispositivos** |  |  |  |  |
 | Android Browser 2.3+ | Limitado | Limitado | N/A | Limitado |
@@ -33,7 +36,7 @@ O Livefyre suporta os seguintes dispositivos, sistemas operacionais e navegadore
 
 >[!NOTE]
 >
->Embora o Livefyre se esforce para manter a funcionalidade existente, os novos produtos e recursos podem não ser totalmente suportados nos navegadores listados aqui com suporte limitado.
+>Embora o Livefyre se esforce para manter a funcionalidade existente, os novos produtos e recursos podem não ser totalmente compatíveis com os navegadores listados aqui com suporte limitado.
 
 >[!NOTE]
 >
