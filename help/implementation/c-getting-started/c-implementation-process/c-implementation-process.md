@@ -7,6 +7,9 @@ title: Processo de implementação
 uuid: 9a0f394e-3467-47d1-9816-45e2130db440
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '300'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +32,7 @@ O diagrama a seguir mostra a relação entre Rede, Sites, Aplicativos e Conteúd
 
 ![](assets/network_site_architecture.png)
 
-Você tem sua própria instância do Livefyre, que é seu painel central para moderar conteúdo, gerenciar usuários e muito mais. Entre em contato com o CSM para obter acesso à sua instância do Livefyre.
+Você tem sua própria instância do Livefyre, que é seu painel central para moderar o conteúdo, gerenciar usuários e muito mais. Entre em contato com o CSM para obter acesso à sua instância do Livefyre.
 
 ## Etapas de integração {#section_s2j_d2x_tz}
 
@@ -37,11 +40,11 @@ Existem três etapas principais para a integração do Livefyre:
 
 * Integração de aplicativos
 
-   Quando você implementa o Livefyre, o estilo de implementação depende do caso de uso. Para obter [mais informações sobre cada tipo](/help/implementation/c-getting-started/c-implementation-process/c-app-integration-types.md#c_app_integration_types)de implementação.
+   Quando você implementa o Livefyre, o estilo de implementação depende do caso de uso. Para [mais em cada tipo de implementação](/help/implementation/c-getting-started/c-implementation-process/c-app-integration-types.md#c_app_integration_types).
 
 * Integração de autenticação
 
-   Você deve integrar seu sistema de gerenciamento de usuários existente ao Livefyre para aplicativos de conversa e outros aplicativos que exigem autenticação de usuário final em seu site. Se você não usar atualmente uma ferramenta de gerenciamento de usuários, poderá usar o Livefyre Identity. Para obter [mais informações sobre a identidade do Livefyre, o que é e como configurá-la](/help/implementation/c-livefyre-identity-comp/c-livefyre-identity-comp.md#c_livefyre_identity).
+   Você deve integrar seu sistema de gerenciamento de usuários existente ao Livefyre para aplicativos de conversação e outros aplicativos que exigem autenticação de usuário final em seu site. Se você não usar atualmente uma ferramenta de gerenciamento de usuários, poderá usar o Livefyre Identity. Para [obter mais informações sobre a identidade do Livefyre, o que é e como configurá-la](/help/implementation/c-livefyre-identity-comp/c-livefyre-identity-comp.md#c_livefyre_identity).
 
 * Personalização
 
