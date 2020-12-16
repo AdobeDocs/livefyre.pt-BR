@@ -7,6 +7,9 @@ title: Carregamento de foto
 uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +22,7 @@ As fotos podem ser carregadas diretamente em qualquer aplicativo da biblioteca d
 
 As Configurações de uma coleção ou site permitem que você defina se os usuários podem carregar fotos em um aplicativo. Essa opção pode estar ativada no nível de rede, site ou Coleção. Os proprietários e moderadores sempre podem carregar fotos em qualquer aplicativo.
 
-Este recurso de upload de fotos pode ser usado em conjunto com a configuração "Mídia pré-carregada".
+Este recurso de upload de fotos pode ser usado em conjunto com a configuração &quot;Mídia pré-carregada&quot;.
 
 Aplicativos que usam este recurso:
 
