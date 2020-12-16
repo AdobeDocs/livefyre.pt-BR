@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# User Roles and Permissions{#user-roles-and-permissions}
+# Funções e permissões do usuário{#user-roles-and-permissions}
 
 O Livefyre fornece vários tipos de usuários com níveis variados de permissões.
 
@@ -45,7 +45,7 @@ As seguintes funções de usuário e privilégios de acesso listados estão disp
    * Visualização e edição de detalhes da conta do usuário final
    * Proibir ou permitir a lista de usuários finais
 
-* **Gerenciador de dados:** concede acesso para usar o painel do Livefyre Analytics.
+* **Data Manager:** concede acesso para usar o painel do Livefyre Analytics.
 * **Gerenciador de aplicativos**
    * Criar e editar aplicativos
    * Criar e editar fluxos que apontam para aplicativos
