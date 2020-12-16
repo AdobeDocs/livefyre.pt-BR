@@ -32,17 +32,17 @@ Você pode pré-moderar automaticamente o conteúdo das seguintes maneiras:
 * Configure regras para sinalizar automaticamente certos tipos de conteúdo:
 
    * Configurar regras de sinalização para conteúdo que é sinalizado pelo sinalizador de visitantes do site usando **[!UICONTROL Settings > Moderation > Rules]**
-   * Configurar regras SAFE usando **[!UICONTROL Settings > Moderation > Rules]**
+   * Configure regras SAFE usando **[!UICONTROL Settings > Moderation > Rules]**
    * Bloquear usuários específicos do Twitter usando **[!UICONTROL Settings > Streams]**
    * Proibir endereços IP usando **[!UICONTROL Settings > Bans]**
    * Proibir regiões IP por código de país por solicitação. O conteúdo proibido será marcado como SPAM.
 
 * Crie uma lista de palavras que você considera profanidade na Lista Profanity em **[!UICONTROL Settings > Moderation > Rules]** para sua Rede ou Site.
-* Permitir que usuários de lista (sempre permitir que o conteúdo desses usuários seja exibido) usando ou desativando filtros para fluxos, sites ou redes específicos.
+* Permitir que usuários da lista (sempre permitir que o conteúdo desses usuários seja exibido) usando ou desativando filtros para fluxos, sites ou redes específicos.
 
-Depois de configurar suas listas de profanidade, filtros SAFE e regras, você pode escolher pré-moderar o conteúdo e aplicar os filtros SAFE em fluxos. Para obter mais informações, consulte Opções de regra de [fluxo para todas as regras](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
+Depois de configurar suas listas de profanidade, filtros SAFE e regras, você pode escolher pré-moderar o conteúdo e aplicar os filtros SAFE em fluxos. Para obter mais informações, consulte [Opções de regras de fluxo para todas as regras de fluxo](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
-Livefyre marca o conteúdo como **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]**, etc. dependendo de onde o conteúdo vem, de onde ele será publicado e de quais regras você configurou no sistema. A tabela a seguir descreve as ações que Livefyre toma, dependendo desses fatores, em detalhes.
+Livefyre marca o conteúdo como **[!UICONTROL Approved]**, **[!UICONTROL Pending]**, **[!UICONTROL Junk]** etc. dependendo de onde o conteúdo vem, de onde ele será publicado e de quais regras você configurou no sistema. A tabela a seguir descreve as ações que Livefyre toma, dependendo desses fatores, em detalhes.
 
 ## Como a moderação funciona
 
@@ -92,7 +92,7 @@ O Filtro em massa procura conteúdo repetitivo publicado em todas as redes Livef
 Use a seção Regras para criar regras de pré-moderação, com base em sinalizadores SAFE e aplicados pelo usuário. Esse painel oferta dois tipos de regras:
 
 * **[!UICONTROL Flag Rules:]** especifique uma ação que deve ser executada em um comentário sinalizado por usuários um número definido de vezes.
-* **[!UICONTROL SAFE Rules:]**combine sinalizadores SAFE com ações para executar o conteúdo sinalizado.
+* **[!UICONTROL SAFE Rules:]**combina sinalizadores SAFE com ações para executar o conteúdo sinalizado.
 
 Para criar Regras de sinalização, selecione o sinalizador (Ofensivo, Sem tópico, Discordar ou Spam), digite o número de vezes que ele deve ser aplicado a um conteúdo e selecione a ação a ser executada. É possível definir uma Regra de Sinalizador para cada opção de sinalizador (Ofensivo, Desativado, Discordo ou Spam).
 
@@ -102,33 +102,33 @@ Ações disponíveis:
 
 * **[!UICONTROL Trash it:]**envia o comentário sinalizado para o lixo.
 * **[!UICONTROL Bozo it:]** oculta o comentário sinalizado de todos os usuários, exceto seu autor, para quem ele permanece visível.
-* **[!UICONTROL Pending:]** define o conteúdo como pendente. Se você definir Premoderation como ON (Ativado) **[!UICONTROL Settings > ModQ]**, então ele estará no ModQ. Caso contrário, estará somente no Conteúdo do aplicativo.
+* **[!UICONTROL Pending:]** define o conteúdo como pendente. Se você definir Premoderation como ON em **[!UICONTROL Settings > ModQ]**, ele estará no ModQ. Caso contrário, estará somente no Conteúdo do aplicativo.
 
 >[!NOTE]
 >
 >Livefyre recomenda que você crie regras para comentários do Bozo que são marcados como Spam ou Ofensivo por cinco usuários.
 
-## Recomendações de moderação {#section_ec3_vr3_2cb}
+## Moderação Recommendations {#section_ec3_vr3_2cb}
 
-Você pode usar as recomendações de moderação para ajudar a determinar como moderar o conteúdo publicado por visitantes do site nos aplicativos Livefyre. O Indicador de recomendação de moderação recomenda quando é provável que um conteúdo seja descartado, com base em quais ações você tomou anteriormente em conteúdo semelhante. Para usar as Recomendações de moderação:
+Você pode usar as recomendações de moderação para ajudar a determinar como moderar o conteúdo publicado por visitantes do site nos aplicativos Livefyre. O Indicador de recomendação de moderação recomenda quando é provável que um conteúdo seja descartado, com base em quais ações você tomou anteriormente em conteúdo semelhante. Para usar o Recommendations de moderação:
 
-1. Ative a funcionalidade Recomendações de moderação entrando em contato com seu profissional de suporte do Adobe Livefyre.
+1. Ative a funcionalidade de Moderação do Recommendations entrando em contato com o profissional de suporte do Adobe Livefyre.
 1. Configure as recomendações de moderação nas Configurações de rede.
 
-   Configure as recomendações de moderação usando a **[!UICONTROL Livefyre Recommends Trash]** configuração em **[!UICONTROL Network Settings]**.
+   Configure as recomendações de moderação usando a configuração **[!UICONTROL Livefyre Recommends Trash]** em **[!UICONTROL Network Settings]**.
 
    ![](assets/image_mod_reco_trash.png)
 
-1. Configure uma regra SAFE para informar ao Livefyre o que fazer com o conteúdo que a recomendação de moderação identifica como conteúdo que provavelmente será descartado. Para obter mais informações sobre como configurar uma regra SAFE para a **[!UICONTROL Livefyre Recommends Trash]** opção, consulte [Moderação](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation).
+1. Configure uma regra SAFE para informar ao Livefyre o que fazer com o conteúdo que a recomendação de moderação identifica como conteúdo que provavelmente será descartado. Para obter mais informações sobre como configurar uma regra SAFE para a opção **[!UICONTROL Livefyre Recommends Trash]**, consulte [Moderação](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation).
 
    ![](assets/modreco4.png)
 
-1. Use o **[!UICONTROL Moderation Recommendation Indicator]** no ModQ ou no Conteúdo do aplicativo para filtrar o conteúdo que a recomendação de moderação identifica como susceptível de ser descartado.
+1. Use o **[!UICONTROL Moderation Recommendation Indicator]** no ModQ ou no Conteúdo do aplicativo para filtrar o conteúdo que a recomendação de moderação identifica como susceptível de ser arrastado.
 
    No ModQ, o indicador tem a seguinte aparência:  ![](assets/mod_reco1.png)
 
-   Para obter mais informações sobre como usar o Moderation Recommendations para moderar o conteúdo no ModQ, consulte [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq).
+   Para obter mais informações sobre como usar o Recommendations de moderação para moderar o conteúdo no ModQ, consulte [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq).
 
    No conteúdo do aplicativo, as recomendações de moderação são as seguintes:  ![](assets/modreco3.png)
 
-   Para obter mais informações sobre como usar o Recomendações de moderação no conteúdo do aplicativo, consulte [Moderar conteúdo usando conteúdo](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)do aplicativo.
+   Para obter mais informações sobre como usar o Recommendations de moderação no conteúdo do aplicativo, consulte [Moderar conteúdo usando conteúdo do aplicativo](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
