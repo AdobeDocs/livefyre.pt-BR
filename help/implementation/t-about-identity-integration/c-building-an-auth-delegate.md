@@ -4,9 +4,12 @@ seo-description: O objeto AuthDelegate implementa o comportamento desejado para 
 seo-title: Objeto AuthDelegate
 solution: Experience Manager
 title: Objeto AuthDelegate
-uuid: a6acc4ef-d442-4782-9bfa-bfa-bbe494547c2e
+uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ O objeto AuthDelegate implementa o comportamento desejado para saber como execut
 
 O pacote auth deve ser fornecido com um delegado auth antes de poder executar uma ação. Um delegado de autenticação é qualquer objeto JavaScript que implementa um dos métodos neste tópico.
 
-## .login(completeLogin) {#section_mpk_lv2_gz}
+## .login(endLogin) {#section_mpk_lv2_gz}
 
 Faça logon em um usuário válido e chame a função completeLogin com um objeto Error se houver um erro ou as credenciais do Livefyre do usuário. As implementações comuns deste método redirecionam o usuário para uma página de logon ou abrem uma nova janela ou modal.
 
@@ -62,7 +65,7 @@ authDelegate.logout = function (finishLogout) {
 
 ## .viewProfile(user) {#section_kkv_dv2_gz}
 
-Execute uma ação para exibir o perfil de um usuário.
+Agir para visualização do perfil de um usuário.
 
 ```
 authDelegate.viewProfile = function (user) { 
@@ -72,7 +75,7 @@ authDelegate.viewProfile = function (user) {
 
 ## .editProfile(user) {#section_bkx_pq2_gz}
 
-Execute uma ação para editar o perfil de um usuário.
+Execute ações para editar o perfil de um usuário.
 
 ```
 authDelegate.editProfile = function (user) { 
