@@ -13,7 +13,7 @@ ht-degree: 8%
 ---
 
 
-# January 26, 2017{#january}
+# 26 de janeiro de 2017{#january}
 
 Notas de versão de 26 de janeiro de 2017.
 
@@ -34,7 +34,7 @@ Notas de versão de 26 de janeiro de 2017.
 
 | Tipo de problema | Componente | Nota de versão |
 |--- |--- |--- |
-| Bug | ModQ | Correção de um bug que impedia que os objetos de email não fossem exibidos no Conteúdo de fluxo de email. |
+| Bug | ModQ | Correção de um erro que impedia que os objetos de email não fossem exibidos no Conteúdo de fluxo de email. |
 | Bug | Mosaico | Adicionado suporte adicional de acessibilidade ao Mosaic para permitir que os usuários alternem a guia entre cartões de conteúdo. |
 | Bug | Resenhas | Correção de um erro que impedia que as edições de classificação fossem exibidas corretamente. |
 | Bug | Pesquisa social | Correção de um bug que fazia com que o botão Mostrar mais fosse cortado nos resultados da Pesquisa de Lista do Twitter. |
