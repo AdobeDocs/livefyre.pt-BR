@@ -1,23 +1,26 @@
 ---
 description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
-seo-title: Definições e exemplos de eventos JavaScript
+seo-title: Definições e exemplos de Eventos JavaScript
 solution: Experience Manager
-title: Definições e exemplos de eventos JavaScript
+title: Definições e exemplos de Eventos JavaScript
 uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '401'
+ht-degree: 15%
 
 ---
 
 
-# Definições e exemplos de eventos JavaScript{#javascript-events-definitions-and-examples}
+# Definições e exemplos de Eventos JavaScript{#javascript-events-definitions-and-examples}
 
 Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 
-O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário nos aplicativos Livefyre. Por exemplo, você pode desejar atualizar a página quando os usuários curtirem ou compartilharem conteúdo no Twitter ou Facebook, ou quando novo conteúdo for publicado.
+O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário em seus aplicativos Livefyre. Por exemplo, você pode desejar atualizar a página quando os usuários curtirem ou compartilharem conteúdo no Twitter ou Facebook, ou quando novo conteúdo for publicado.
 
-O Livefyre também permite que você adicione eventos a integrações de análises de terceiros (Adobe Analytics JS, Google Analytics, Gerenciamento dinâmico de tags etc.) para rastrear eventos do aplicativo. Para obter mais informações, entre em contato com o gerente de integração de terceiros para fornecer os eventos corretos.
+O Livefyre também permite que você adicione eventos a integrações de análise de terceiros (Adobe Analytics JS, Google Analytics, Gerenciamento dinâmico de tags etc.) para rastrear eventos de aplicativos. Para obter mais informações, entre em contato com o gerente de integração de terceiros para fornecer os eventos corretos.
 
 Para vincular a esses eventos, adicione o seguinte código à página ao instanciar seu aplicativo em uma página. Substitua o nome do evento por `{eventName}`:
 
@@ -33,7 +36,7 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->Objetos de dados são fornecidos para todos os manipuladores de eventos. Objetos de dados de exemplo seguem cada evento.
+>Objetos de dados são fornecidos para todos os manipuladores de evento. Objetos de dados de exemplo seguem cada evento.
 
 ## commentPosted {#section_qfr_51p_xz}
 
@@ -154,13 +157,13 @@ os dados não estão definidos.
 
 ## showMore {#section_pqg_nz4_xz}
 
-Um usuário clicou no **[!UICONTROL Show More]** botão.
+Um usuário clicou no botão **[!UICONTROL Show More]**.
 
 os dados não estão definidos.
 
-## userSegulowed {#section_xxw_jz4_xz}
+## userSeguido {#section_xxw_jz4_xz}
 
-Retorna true quando um usuário clica no **[!UICONTROL Follow]** botão e false quando o conteúdo é publicado no fluxo.
+Retorna true quando um usuário clica no botão **[!UICONTROL Follow]** e false quando o conteúdo é postado no fluxo.
 
 ```
 data = { 
@@ -171,7 +174,7 @@ data = {
 
 ## userUnfollow {#section_wm1_gz4_xz}
 
-Retorna true quando um usuário clica no botão **Desseguir** e false quando o conteúdo é postado no fluxo.
+Retorna true quando um usuário clica no botão **Unfollow** e false quando o conteúdo é postado no fluxo.
 
 ```
 data = { 
