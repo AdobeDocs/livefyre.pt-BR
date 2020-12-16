@@ -6,11 +6,14 @@ title: 29 de junho de 2017
 uuid: f7d901fc-fe5a-463c-92ac-b77cda3bff1b
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '321'
+ht-degree: 8%
 
 ---
 
 
-# June 29, 2017{#june}
+# 29 de junho de 2017{#june}
 
 Notas de versão para a versão de 29 de junho de 2017.
 
@@ -18,7 +21,7 @@ Notas de versão para a versão de 29 de junho de 2017.
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Biblioteca | Ao limpar os filtros na biblioteca, você permanecerá na mesma seleção de pasta, em vez de ser redirecionado para outra página. |
+| Bug | Biblioteca | Ao limpar filtros na biblioteca, você permanecerá na mesma seleção de pasta, em vez de ser redirecionado para outra página. |
 | Bug | Resenhas | Correção de um bug no Reviews para garantir que a mídia fosse carregada por HTTPS em todas as implementações. |
 | Bug | Resenhas | Correção de um erro em Revisões que impedia o carregamento correto de algumas imagens devido a erros de HTTPS. |
 | Aprimoramento | Sincronização social | Sincronização social obsoleta do Twitter. |
