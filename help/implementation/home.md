@@ -16,13 +16,13 @@ ht-degree: 6%
 
 Implemente o Livefyre Studio e os aplicativos Livefyre no seu site usando as ferramentas do desenvolvedor para personalizar sua experiência.
 
-Para obter informações sobre como usar o Livefyre Studio e os aplicativos Livefyre no Livefyre Studio, consulte o Guia [*do Usuário do *](/help/using/home.md)Adobe Experience Manager Livefyre.
+Para obter informações sobre como usar o Livefyre Studio e os aplicativos Livefyre no Livefyre Studio, consulte o [*Guia do Usuário do Adobe Experience Manager Livefyre*](/help/using/home.md).
 
 ## Tópicos populares
 
 * [Introdução à implementação](c-getting-started/c-getting-started.md)
 
-* [Usar aplicativos Livefyre com o Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
+* [Usar aplicativos Livefyre com Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 * [Android SDK para dispositivos móveis](c-mobile-sdks/c-android-sdk.md)
 
