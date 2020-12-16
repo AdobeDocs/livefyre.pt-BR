@@ -7,11 +7,14 @@ title: 1 de fevereiro de 2018
 uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 9%
 
 ---
 
 
-# February 1, 2018 {#february}
+# 1 de fevereiro de 2018 {#february}
 
 Notas de versão para a versão de 1º de fevereiro de 2018.
 
@@ -22,7 +25,7 @@ Notas de versão para a versão de 1º de fevereiro de 2018.
 | Bug | Mídia | Correção de um problema em que alguns vídeos não eram reproduzidos em um mural de mídia. |
 | Aprimoramento | Fluxos | Criada uma nova funcionalidade para filtrar fluxos por Tags inteligentes. |
 | Bug | Fluxos | Corrigido um problema no qual as regras de fluxo do Instagram não reconheciam caracteres japoneses. |
-| Aprimoramento | Fluxos | O conteúdo em sequência agora é automaticamente marcado com tags inteligentes pelo Adobe Sensei, pois é salvo em uma pasta ou publicado em um aplicativo. |
+| Aprimoramento | Fluxos | O conteúdo em sequência agora é automaticamente marcado de forma inteligente pela Adobe Sensei, pois é salvo em uma pasta ou publicado em um aplicativo. |
 | Bug | Studio | Correção de um erro reportado pela Nat Geo que mostrava caracteres especiais em nomes como HTML. |
 
 ## Versão UAT
