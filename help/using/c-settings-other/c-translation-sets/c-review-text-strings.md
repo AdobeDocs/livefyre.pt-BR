@@ -7,17 +7,26 @@ title: Rever strings de texto
 uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '710'
+ht-degree: 5%
 
 ---
 
 
-# Rever strings de texto{#review-text-strings}
+# Revisar sequências de texto{#review-text-strings}
 
 Personalização das strings de texto para revisões do Livefyre.
 
-Esta página lista e descreve as strings disponíveis para personalização em aplicativos de revisão. As strings listadas aqui são além e substituem as strings padrão para os aplicativos principais do Livefyre, listadas em Personalizações de string. Quando duplicatas são listadas, as sequências listadas nessas tabelas são o padrão para aplicativos de revisões.
+Esta página lista e descreve as sequências de caracteres disponíveis para personalização em aplicativos de revisão. As strings listadas aqui são além e substituem as strings padrão para os aplicativos principais do Livefyre, listadas em Personalizações de string. Onde os duplicados são listados, as strings listadas nessas tabelas são o padrão para aplicativos de revisões.
 
-ImplementaçãoRevisão / Interface de classificaçãoInformações de fluxoAutor / Informações do conteúdo Ações do usuárioFunções de publicaçãoErros
+Implementação
+Interface de análise/classificação
+Informações de fluxo
+Informações do autor/conteúdo
+Ações do usuário
+Funções de publicação
+Erros
 
 ## Implementação {#section-vsy-1k4-xz}
 
@@ -48,7 +57,7 @@ Strings disponíveis para a interface do usuário Revisar e Classificar.
 |  | showReviewBtn | [Mostrar revisão](https://d.pr/i/onxU) |
 |  | follow | Estou interessado |
 |  | shareText | Acabei de escrever uma resenha. Confira! |
-| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Observação: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
+| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Nota: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
 | Subpartes de classificação | ratingSubpartPlaceholder | Uma matriz. Padrão = `[]` |
 |  | ratingSubpartTitle | Uma matriz. Padrão = `[]` |
 |  | reviewStreamTitle | Em branco por padrão. Título da seção de resumo da revisão. |
