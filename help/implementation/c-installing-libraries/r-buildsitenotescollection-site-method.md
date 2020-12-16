@@ -7,6 +7,9 @@ title: método de site buildSitenotesCollection
 uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +30,7 @@ Retorna um objeto Collection instanciado como um tipo Sidenotes. Execute create_
 Collection collection = site.buildSidenotesCollection(title, articleId, url); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildSidenotesCollection(title, articleId, url); 
@@ -39,7 +42,7 @@ var collection = site.buildSidenotesCollection(title, articleId, url);
 $collection = site->buildSidenotesCollection(title, articleId, url); 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_sidenotes_collection(title, articleId, url) 
