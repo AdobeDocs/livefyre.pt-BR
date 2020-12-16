@@ -7,11 +7,14 @@ title: Placa de recurso
 uuid: 8c44edad-d8a5-452e-952c-5d6818e5c0b0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 0%
 
 ---
 
 
-# Placa de recurso{#feature-card}
+# Cartão de recurso{#feature-card}
 
 Adicione partes únicas do conteúdo em destaque à sua página.
 
