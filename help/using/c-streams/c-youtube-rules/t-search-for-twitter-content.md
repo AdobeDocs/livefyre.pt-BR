@@ -13,7 +13,7 @@ ht-degree: 0%
 ---
 
 
-# Pesquisar conteúdo do Twitter{#search-for-twitter-content}
+# Procurar conteúdo do Twitter{#search-for-twitter-content}
 
 Use a pesquisa social para procurar conteúdo do Twitter para incluir na Biblioteca de ativos ou publicar em Aplicativos.
 
@@ -31,9 +31,9 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 
 1. Depois de inserir os critérios de pesquisa, clique em **[!UICONTROL Show Filter]** para refinar a pesquisa.
 
-   * **[!UICONTROL Sort By:]** permite que você selecione se deseja classificar os resultados retornados por **[!UICONTROL Recently Added]** ou **[!UICONTROL Most Popular]**.
+   * **[!UICONTROL Sort By:]** permite que você selecione se deseja classificar os resultados retornados por  **[!UICONTROL Recently Added]** ou  **[!UICONTROL Most Popular]**.
 
-   * **[!UICONTROL Only Include:]** permite limitar o conteúdo retornado somente ao que inclui **[!UICONTROL Links]** ou **[!UICONTROL Media]**.
+   * **[!UICONTROL Only Include:]** permite limitar o conteúdo retornado somente ao que inclui  **[!UICONTROL Links]** ou  **[!UICONTROL Media]**.
 
    * **[!UICONTROL Tweet Types:]** permite limitar retornos somente a Retweets.
    * **[!UICONTROL Location:]** permite definir um raio dentro do qual o conteúdo com tags geográficas será incluído. Use o modal Local para informar uma Cidade e use a barra deslizante para definir o raio dentro do qual o conteúdo será originado.
@@ -41,7 +41,7 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 
       >[!NOTE]
       >
-      >A Pesquisa Social suporta query de pesquisa complexos do Twitter e todas as entradas padrão da sintaxe do Twitter. Por padrão, várias strings serão tratadas como um query AND. Clique no **[!UICONTROL info]** botão para ver exemplos de entrada válida.
+      >A Pesquisa Social suporta query de pesquisa complexos do Twitter e todas as entradas padrão da sintaxe do Twitter. Por padrão, várias strings serão tratadas como um query AND. Clique no botão **[!UICONTROL info]** para ver exemplos de entrada válida.
       >
       >=Os resultados retornados serão listados da mais recente para a menos.
 
