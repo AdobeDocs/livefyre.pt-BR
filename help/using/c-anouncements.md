@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Queremos fornecer uma atualização sobre a dinâmica em mudança do conteúdo gerado pelo usuário (UGC) e o impacto que isso está causando no conteúdo do Facebook e do Twitter no produto.
 
-No ano passado, o Facebook substituiu a API de Feed Público. Estivemos em conversas para tentar encontrar um caminho a seguir. Pediram-nos para remover os dados do Facebook do produto Livefyre. Estamos cumprindo a solicitação do Facebook e a Adobe está trabalhando prontamente para garantir que estamos protegendo nossos clientes.
+No ano passado, o Facebook substituiu a API de Feed Público. Estivemos em conversas para tentar encontrar um caminho a seguir. Pediram-nos para remover os dados do Facebook do produto Livefyre. Estamos cumprindo a solicitação do Facebook, e a Adobe está trabalhando rapidamente para garantir que estamos protegendo nossos clientes.
 
 Esteja ciente de que o acesso a conteúdo novo e salvo do Facebook será removido durante as próximas semanas.
 
@@ -32,7 +32,7 @@ Esta alteração não afeta o conteúdo do Instagram que continuará a ser acess
 
 Também queremos compartilhar que, devido à demanda limitada dos clientes por conteúdo do Twitter, o acesso ao Twitter será removido da Livefyre no próximo ano, em 3 de maio de 2021. Você continuará a ter acesso total ao conteúdo novo e salvo do Twitter até essa data.
 
-Além disso, todos os outros recursos, incluindo Classificações e Revisões, Comentários, Sidenotes e Blogs ao vivo continuarão disponíveis. A Adobe também continuará fornecendo suporte contínuo para correções de erros e atualizações de sistema operacional e de segurança.
+Além disso, todos os outros recursos, incluindo Classificações e Revisões, Comentários, Sidenotes e Blogs ao vivo continuarão disponíveis. O Adobe também continuará fornecendo suporte contínuo para correções de erros e atualizações de sistema operacional e de segurança.
 
 ## 25 de outubro de 2019
 
@@ -71,7 +71,7 @@ Estamos trabalhando em estreita colaboração com o Facebook para restabelecer e
 
 
 
-## November 15, 2018 {#section_yx3_hnp_5fb}
+## 15 de novembro de 2018 {#section_yx3_hnp_5fb}
 
 Dois recursos adicionais que abordam as desaprovações da API do Instagram no início de maio estão agora disponíveis:
 
@@ -81,13 +81,13 @@ Dois recursos adicionais que abordam as desaprovações da API do Instagram no i
 
 * **Monitoramento automático de respostas de solicitação de direitos de uso para pesquisas baseadas em conta de negócios**
 
-   O Facebook também removeu a capacidade de parceiros como a Adobe enviarem mensagens de solicitação de direitos da Instagram em nome de seus clientes, eliminando a capacidade de fazer gerenciamento de direitos totalmente automatizado da Livefyre. Em maio, fornecemos funcionalidade manual, recortar e colar para dar aos clientes a capacidade de retomar as aprovações de direitos de rastreamento e manter registros para auditoria. A partir de hoje — somente para pesquisas baseadas em contas de negócios — a capacidade de monitorar automaticamente as respostas às solicitações de direitos e atualizar o histórico de atividades no Livefyre está disponível.
+   O Facebook também removeu a capacidade de parceiros como o Adobe enviarem mensagens de solicitação de direitos do Instagram em nome de seus clientes, eliminando a capacidade de fazer gerenciamento de direitos totalmente automatizado do Livefyre. Em maio, fornecemos funcionalidade manual, recortar e colar para dar aos clientes a capacidade de retomar as aprovações de direitos de rastreamento e manter registros para auditoria. A partir de hoje — somente para pesquisas baseadas em contas de negócios — a capacidade de monitorar automaticamente as respostas às solicitações de direitos e atualizar o histórico de atividades no Livefyre está disponível.
 
-## June 22, 2018 {#section_k1t_vmv_g2b}
+## 22 de junho de 2018 {#section_k1t_vmv_g2b}
 
 Estamos felizes em anunciar que a capacidade de pesquisar por conteúdo de vídeo no Instagram foi restabelecida.
 
-## June 14, 2018 {#section_kk5_qpz_d2b}
+## 14 de junho de 2018 {#section_kk5_qpz_d2b}
 
 Leia as atualizações mais recentes sobre o status da funcionalidade relacionada às substituições da API do Instagram:
 
@@ -99,21 +99,21 @@ Leia as atualizações mais recentes sobre o status da funcionalidade relacionad
 
    Em 24 de maio, oferecemos uma solução manual no fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram. Continuamos trabalhando na restauração da funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades. Nós prevemos que essa funcionalidade esteja disponível no final deste verão e o notificaremos assim que ela estiver ativa.
 
-## May 24, 2018 {#section_xbk_wvd_ydb}
+## 24 de maio de 2018 {#section_xbk_wvd_ydb}
 
 Parte um de duas atualizações ao fluxo de trabalho de solicitação de direitos de uso para conteúdo do Instagram agora está disponível. Do Conteúdo do aplicativo e da Biblioteca, agora é possível copiar a mensagem de direitos de solicitação do Livefyre Studio e colá-la na publicação exata do Instagram que você está procurando aprovação para usar. A capacidade de fazer isso no ModQ será disponibilizada em uma versão futura. Até 14 de junho de 2018, restauraremos a funcionalidade que monitora automaticamente a resposta à sua solicitação de direitos e atualiza o histórico de atividades.
 
-Leia as notas [de versão de 24](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) de maio de 2018 para obter mais informações e instruções sobre como usar esse recurso.
+Leia as [notas de versão de 24 de maio de 2018](/help/using/c-rn/previous-rns/rn2018/c-rn-2018-may-24.md#c_rn) para obter mais informações e instruções sobre como usar esse recurso.
 
-## May 17, 2018 {#section_hwb_1qz_wdb}
+## 17 de maio de 2018 {#section_hwb_1qz_wdb}
 
 Temos o prazer de informá-lo de que a capacidade de executar os seguintes recursos do Instagram no Livefyre está disponível novamente:
 
 * Publicar e salvar conteúdo do Instagram em pastas e aplicativos no Social Search
-* Detalhes da Visualização de cada parte do conteúdo
+* Detalhes da visualização de cada parte do conteúdo
 * Executar ações de moderação no novo conteúdo do Instagram no ModQ
 
-## May 7, 2018 {#section_dms_ypz_wdb}
+## 7 de maio de 2018 {#section_dms_ypz_wdb}
 
 Para todos os clientes da Livefyre,
 
@@ -127,7 +127,7 @@ Após uma análise completa do sistema, veja os recursos afetados pela desaprova
 
 **As seguintes funções estão indisponíveis no momento e devem estar disponíveis até 17 de maio de 2018:**
 
-* Detalhes da Visualização, salve e publique o conteúdo do Instagram em pastas e aplicativos na Pesquisa Social.
+* Detalhes da visualização, salve e publique o conteúdo do Instagram em pastas e aplicativos na Pesquisa Social.
 * Execute ações no conteúdo do Instagram no ModQ.
 
 **Espera-se que as soluções alternativas para a seguinte funcionalidade sejam disponibilizadas nas datas mostradas abaixo:**
@@ -138,7 +138,7 @@ Após uma análise completa do sistema, veja os recursos afetados pela desaprova
 
 * **Fluxo de trabalho de pesquisa e streams do usuário — 14 de junho de 2018**
 
-   Embora ainda seja possível pesquisar por hashtag e palavra-chave, a capacidade de pesquisar contas pessoais do Instagram foi eliminada. Como alternativa, o Livefyre criará uma funcionalidade que permite pesquisar e fazer o stream de conteúdo de contas comerciais. Se você usar o Livefyre para pesquisar e transmitir o conteúdo do Instagram de sua própria organização, certifique-se de [atualizar](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) para uma conta comercial para aproveitar essa funcionalidade.
+   Embora ainda seja possível pesquisar por hashtag e palavra-chave, a capacidade de pesquisar contas pessoais do Instagram foi eliminada. Como alternativa, o Livefyre criará uma funcionalidade que permite pesquisar e fazer o stream de conteúdo de contas comerciais. Se você usar o Livefyre para pesquisar e transmitir o conteúdo do Instagram de sua própria organização, certifique-se de [atualizar](https://help.instagram.com/502981923235522?helpref=search&amp;sr=2&amp;query=change%20personal%20account%20to%20business%20account) para uma conta de negócios para aproveitar essa funcionalidade.
 
 **Continuamos a avaliar soluções para a seguinte funcionalidade que não podemos substituir a curto prazo:**
 
