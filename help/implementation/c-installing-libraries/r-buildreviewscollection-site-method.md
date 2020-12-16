@@ -7,6 +7,9 @@ title: método de site buildReviewsCollection
 uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
@@ -28,7 +31,7 @@ Retorna um objeto Collection instanciado como um tipo de Revisões. Execute crea
 Collection collection = site.buildReviewsCollection(title, articleId, url); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildReviewsCollection(title, articleId, url); 
@@ -40,7 +43,7 @@ var collection = site.buildReviewsCollection(title, articleId, url);
 $collection = site->buildReviewsCollection(title, articleId, url); 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_reviews_collection(title, articleId, url) 
