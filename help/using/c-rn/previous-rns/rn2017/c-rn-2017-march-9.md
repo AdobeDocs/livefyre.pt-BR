@@ -6,6 +6,9 @@ title: 9 de março de 2017
 uuid: 14c770e7-ff6f-4c56-9c88-677e2bfb7362
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 8%
 
 ---
 
@@ -31,10 +34,10 @@ Notas de versão para a versão de 9 de março de 2017.
 |---|---|---|
 | Bug | Mídia | Correção de um bug que fazia com que o Media Walls não fosse renderizado se caracteres estrangeiros específicos fossem incluídos. |
 | Bug | Pesquisa social | Correção de um bug que impedia a publicação de ativos salvos do YouTube no Social Search. |
-| Bug | Pesquisa social | Correção de um erro que fazia com que o ícone "Ocultar imagens explícitas" nos ativos fosse deslocado para fora de um ativo ao passar o mouse. |
-| Aprimoramento | Storify 2 | Adicionado um aprimoramento para exibir a mensagem "Nenhum resultado encontrado" na pesquisa Tópico do Facebook quando nenhum resultado é encontrado. |
-| Aprimoramento | Fluxos | Adicionadas regras de resumo para regras SAFE na parte inferior da página de fluxo do Twitter. |
-| Bug | Fluxos | Adicionado um aprimoramento para desativar visivelmente a caixa de seleção "usuário verificado" nas Regras de fluxo do Twitter quando autores excluídos são fornecidos. |
-| Bug | Studio | Correção de um erro que impedia que a "Tag de recurso" fosse salva corretamente quando aplicada. |
-| Bug | Usuários | Correção de um erro que fazia com que o filtro de classificação "Atividade recente" em Usuários aparecesse fora de ordem. |
+| Bug | Pesquisa social | Correção de um erro que fazia com que o ícone &quot;Ocultar imagens explícitas&quot; nos ativos fosse deslocado para fora de um ativo ao passar o mouse. |
+| Aprimoramento | Storify 2 | Adicionado um aprimoramento para exibir a mensagem &quot;Nenhum resultado encontrado&quot; na pesquisa Tópico do Facebook quando nenhum resultado é encontrado. |
+| Aprimoramento | Fluxos | Adicionadas regras de resumo para regras SAFE na parte inferior de uma página de fluxo do Twitter. |
+| Bug | Fluxos | Adicionado um aprimoramento para desativar visivelmente a caixa de seleção &quot;usuário verificado&quot; nas Regras de fluxo do Twitter quando autores excluídos são fornecidos. |
+| Bug | Studio | Correção de um erro que impedia que a &quot;Tag de recurso&quot; fosse salva corretamente quando aplicada. |
+| Bug | Usuários | Correção de um erro que fazia com que o filtro de classificação &quot;Atividade recente&quot; em Usuários aparecesse fora de ordem. |
 
