@@ -6,6 +6,9 @@ title: 20 de julho de 2017
 uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 7%
 
 ---
 
@@ -16,11 +19,11 @@ Notas de versão para a versão de 20 de julho de 2017.
 
 ## Novo recurso {#section_swl_jsm_p1b}
 
-O Comércio UGC permite que você adicione um botão Chamada para ação diretamente dos seus aplicativos Livefyre. Para obter mais informações sobre Comércio UGC, consulte Comércio [UGC](../../../c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce).
+O Comércio UGC permite que você adicione um botão Chamada para ação diretamente dos seus aplicativos Livefyre. Para obter mais informações sobre Comércio UGC, consulte [Comércio UGC](../../../c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce).
 
 ## Notas de versão {#section_bjq_3sm_p1b}
 
-As tabelas a seguir listam as Notas de versão de Produção e UAT para a versão de 20 de julho de 2017.
+As tabelas a seguir listas as Notas de versão de Produção e UAT para a versão de 20 de julho de 2017.
 
 ## Versão de produção
 
