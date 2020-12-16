@@ -7,17 +7,20 @@ title: Alternar entre os principais tipos de aplicativos
 uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
 
-# Alternar entre os principais tipos de aplicativos{#switch-core-app-types}
+# Alternar entre os tipos de aplicativos principais{#switch-core-app-types}
 
 Saiba como mudar de um tipo de aplicativo de conversa para outro.
 
-O Lifefyre permite que você altere Coleções de um tipo de aplicativo Livefyre Core para outro (Comentários, Blog ao vivo ou Bate-papo) simplesmente alterando algumas configurações nos seus `collectionMeta` dados.
+O Lifefyre permite que você altere Coleções de um tipo de aplicativo Livefyre Core para outro (Comentários, Blog ao vivo ou Bate-papo) simplesmente alterando algumas configurações nos seus dados `collectionMeta`.
 
-Para implementar um tipo específico de aplicativo, adicione um novo campo ao seu `collectionMeta` objeto. Os comentários são o padrão, portanto, não será necessário fazer essas atualizações se esse for o aplicativo desejado. Para alterar para um aplicativo diferente após a criação de uma coleção, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação do `collectionMeta` token.
+Para implementar um tipo específico de aplicativo, adicione um novo campo ao objeto `collectionMeta`. Os comentários são o padrão, portanto, não será necessário fazer essas atualizações se esse for o aplicativo desejado. Para alterar para um aplicativo diferente após a criação de uma coleção, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação do token `collectionMeta`.
 
 ## Blog ao vivo {#section_kvj_3jj_11b}
 
