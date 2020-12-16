@@ -7,6 +7,9 @@ title: Conversão e strings de texto personalizadas
 uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Personalize quaisquer strings de texto no aplicativo para internacionalização ou marca.
 
-Para melhorar a experiência de sua comunidade, você pode personalizar a string de texto para qualquer rótulo de texto que corresponda ao idioma ou marca do site. Por exemplo, você pode alterar "Curtir" para "Recomendar" ou "Excluir" para "Borrar".
+Para melhorar a experiência de sua comunidade, você pode personalizar a string de texto para qualquer rótulo de texto que corresponda ao idioma ou marca do site. Por exemplo, você pode alterar &quot;Curtir&quot; para &quot;Recomendar&quot; ou &quot;Excluir&quot; para &quot;Borrar&quot;.
 
 Para obter mais informações, consulte [](../c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets).
 
