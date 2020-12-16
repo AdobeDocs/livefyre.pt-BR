@@ -7,6 +7,9 @@ title: Publicações do usuário
 uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '656'
+ht-degree: 1%
 
 ---
 
@@ -19,9 +22,9 @@ Os aplicativos Livefyre permitem que os usuários postem e interajam com conteú
 
 ## Publicar {#section_bty_ww2_wy}
 
-Os usuários podem publicar o conteúdo quando conectados inserindo um comentário ou link de mídia na caixa do editor e clicando em **[!UICONTROL Post comment]**.
+Os usuários podem postar o conteúdo quando conectados inserindo um comentário ou link de mídia na caixa do editor e clicando em **[!UICONTROL Post comment]**.
 
-Para postar o conteúdo quando não conectado, os usuários inserem um comentário ou link de mídia no editor e clicam em **[!UICONTROL Post comment as…]**. A janela de login será exibida para solicitar um login.
+Para postar o conteúdo quando não conectado, os usuários inserem um comentário ou link de mídia no editor e clique em **[!UICONTROL Post comment as…]**. A janela de login será exibida para solicitar um login.
 
 (A maioria dos navegadores permite comentários de 8.000 caracteres; O Internet Explorer permite 1.500 caracteres.)
 
@@ -43,13 +46,13 @@ Para bate-papo e Blog ao vivo, as respostas podem ser ativadas ou desativadas us
 
 Os usuários devem estar conectados para curtir o conteúdo de outro usuário e podem não gostar do próprio conteúdo.
 
-O número de curtidas e até quatro avatares do usuário são exibidos ao lado do **[!UICONTROL Like]** botão.
+O número de curtidas e até quatro avatares de usuário são exibidos ao lado do botão **[!UICONTROL Like]**.
 
-Ao curtir o conteúdo, o **[!UICONTROL Like]** link será alterado para **[!UICONTROL Unlike]**. Clicar **[!UICONTROL Unlike]** removerá o avatar para esse usuário e diminuirá o número em 1.
+Ao curtir o conteúdo, o link **[!UICONTROL Like]** será alterado para **[!UICONTROL Unlike]**. Clicar em **[!UICONTROL Unlike]** removerá o avatar desse usuário e diminuirá o número em 1.
 
 ## Editar  {#section_ubt_qwx_vy}
 
-Por padrão, os usuários podem editar seu próprio conteúdo em até 5 minutos após a publicação, clicando no **[!UICONTROL Edit]** link para abrir uma caixa de texto Editar.
+Por padrão, os usuários podem editar seu próprio conteúdo em até 5 minutos após a publicação, clicando no link **[!UICONTROL Edit]** para abrir uma caixa de texto Editar.
 
 Você pode desativar esse recurso no nível da coleção usando o painel Configurações do Studio. O painel Configurações também pode ser usado para alterar o tempo durante o qual os comentários podem ser editados no nível da rede.
 
@@ -57,7 +60,7 @@ Os moderadores podem editar o conteúdo do usuário a qualquer momento, tanto em
 
 ## Excluir {#section_gbr_pwx_vy}
 
-Os usuários podem excluir seu próprio conteúdo a qualquer momento clicando em **[!UICONTROL Delete]** (exibido ao passar o mouse sobre o conteúdo). Os moderadores podem clicar em **[!UICONTROL Delete]** para remover qualquer conteúdo do usuário. (não **[!UICONTROL Delete]** está disponível em dispositivos móveis.)
+Os usuários podem excluir seu próprio conteúdo a qualquer momento clicando em **[!UICONTROL Delete]** (exibido ao passar o mouse sobre o conteúdo). Os moderadores podem clicar em **[!UICONTROL Delete]** para remover o conteúdo de qualquer usuário. ( **[!UICONTROL Delete]** não está disponível em dispositivos móveis.)
 
 >[!NOTE]
 >
@@ -65,13 +68,13 @@ Os usuários podem excluir seu próprio conteúdo a qualquer momento clicando em
 
 ## Segnalato {#section_j3l_qvx_vy}
 
-Os usuários podem sinalizar o conteúdo de outro usuário clicando no **[!UICONTROL Flag]** link exibido ao passar o mouse sobre o conteúdo.
+Os usuários podem sinalizar o conteúdo de outro usuário clicando no link **[!UICONTROL Flag]** exibido ao passar o mouse sobre o conteúdo.
 
-Clicar neste link exibirá o modal Sinalizar, permitindo que os usuários sinalizem o conteúdo como **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** ou **[!UICONTROL Spam]**. Uma Nota opcional e um endereço de email podem ser adicionados com o sinalizador.
+Clicar neste link exibirá o modal Sinalizador, permitindo que os usuários sinalizem o conteúdo como **[!UICONTROL Offensive]**, **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** ou **[!UICONTROL Spam]**. Uma Nota opcional e um endereço de email podem ser adicionados com o sinalizador.
 
 Os usuários não precisam fazer logon para sinalizar um comentário, permitindo que qualquer pessoa sinalize um comentário para moderação, sem precisar criar uma conta.
 
-Para desencorajar outros usuários de simplesmente sinalizar o conteúdo sinalizado, sinalizar um comentário não altera sua exibição. Sinalizadores são visíveis somente para moderadores, que podem usar o Studio para pesquisar e exibir por sinalizador. Os moderadores também podem permitir que emails os notifiquem imediatamente quando um comentário for sinalizado em conversas moderadas.
+Para desencorajar outros usuários de simplesmente sinalizar o conteúdo sinalizado, sinalizar um comentário não altera sua exibição. Sinalizadores são visíveis somente para moderadores, que podem usar o Studio para pesquisar e visualização por sinalizador. Os moderadores também podem permitir que emails os notifiquem imediatamente quando um comentário for sinalizado em conversas moderadas.
 
 Se um moderador sinalizar um comentário como Spam, o comentário será definido imediatamente para o estado Bozo e removido do fluxo. O Filtro de Spam será atualizado e melhorado para a sua rede, com base nesta ação.
 
