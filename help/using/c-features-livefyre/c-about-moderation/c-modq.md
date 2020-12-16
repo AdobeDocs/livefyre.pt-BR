@@ -13,7 +13,7 @@ ht-degree: 0%
 ---
 
 
-# Moderar conteúdo usando o ModQ{#moderate-content-using-modq}
+# Moderar conteúdo usando ModQ{#moderate-content-using-modq}
 
 Modere o conteúdo de uma interface única e inteligente.
 
@@ -50,8 +50,8 @@ O ModQ é dividido em dois painéis com guias:
 Ambas as guias oferta muitos dos mesmos filtros e ferramentas de moderação.
 
 * **[!UICONTROL Item Count]** O número de itens restantes na fila é exibido no canto superior esquerdo do ModQ.
-* **[!UICONTROL Filter]** Clique em **[!UICONTROL Filter]** para definir os parâmetros pelos quais o conteúdo será listado no painel.
-* **[!UICONTROL History]** Clique no **[!UICONTROL History]** botão na parte superior direita da tela para abrir uma lista de conteúdo moderado recentemente, permitindo que você reveja seu trabalho ou altere uma ação de moderação recente. Clique novamente no botão para retornar ao seu conteúdo na fila. Somente suas 100 ações mais recentes serão exibidas. **A história** não lista ações tomadas por outro moderador.
+* **[!UICONTROL Filter]** Clique  **[!UICONTROL Filter]** para definir os parâmetros pelos quais o conteúdo será listado no painel.
+* **[!UICONTROL History]** Clique no  **[!UICONTROL History]** botão na parte superior direita da tela para abrir uma lista de conteúdo moderado recentemente, permitindo que você reveja seu trabalho ou altere uma ação de moderação recente. Clique novamente no botão para retornar ao seu conteúdo na fila. Somente suas 100 ações mais recentes serão exibidas. **A** história não vai lista ações tomadas por outro moderador.
 
 * **[!UICONTROL User Pane]** Clique nos botões expandir ou recolher na parte superior direita da página para abrir ou fechar o painel Usuário.
 
@@ -83,19 +83,19 @@ As seguintes informações são exibidas quando você seleciona um item:
 
 ## Opções de filtro no ModQ {#section_r2c_qc2_yy}
 
-Clique **[!UICONTROL Filter]** na parte superior esquerda da janela ModQ para abrir um painel com opções de filtro disponíveis para o conteúdo listado. À medida que você seleciona opções, o ModQ será atualizado automaticamente para lista somente do conteúdo filtrado. Clique **[!UICONTROL Clear filters]** para apagar todas as opções selecionadas e recarregar a lista completa dos itens.
+Clique em **[!UICONTROL Filter]** na parte superior esquerda da janela ModQ para abrir um painel com opções de filtro disponíveis para o conteúdo listado. À medida que você seleciona opções, o ModQ será atualizado automaticamente para lista somente do conteúdo filtrado. Clique em **[!UICONTROL Clear filters]** para apagar todas as opções selecionadas e recarregue a lista completa dos itens.
 
-Diferentes opções de filtro estão disponíveis para as guias **[!UICONTROL Items]** e **[!UICONTROL Streams Premoderation]** .
+Diferentes opções de filtro estão disponíveis para as guias **[!UICONTROL Items]** e **[!UICONTROL Streams Premoderation]**.
 
-As seguintes opções estão disponíveis para o ModQ em ambos **[!UICONTROL Items]** e **[!UICONTROL Streams Premoderation]**:
+As seguintes opções estão disponíveis para o ModQ em **[!UICONTROL Items]** e **[!UICONTROL Streams Premoderation]**:
 
 * **[!UICONTROL App]**. Use o campo Pesquisar aplicativos para filtrar os resultados por aplicativo. Vários aplicativos podem ser selecionados.
 * **[!UICONTROL System Flags]**. Filtre o conteúdo por regras como Spam, Profanity, SAFE e Premoderation.
 
-   * Selecionar **[!UICONTROL Spam]** fará a lista de todo o conteúdo marcado como Spam pelo SAFE.
-   * Selecionar **[!UICONTROL Profanity]** fará a lista de todo o conteúdo marcado como Profane pela Lista de Rede ou Profanidade do site.
-   * A seleção **[!UICONTROL SAFE]** fará a lista de todo o conteúdo inserido no ModQ como resultado das Regras SAFE.
-   * A seleção **[!UICONTROL Premoderation]** fará a lista de todo o conteúdo marcado para Premoderação por sua rede, fluxo ou configurações do aplicativo.
+   * Selecionar **[!UICONTROL Spam]** irá lista todo o conteúdo marcado como Spam pelo SAFE.
+   * Selecionar **[!UICONTROL Profanity]** irá lista todo o conteúdo marcado como Profane pela sua Lista de Rede ou Profanidade do Site.
+   * Selecionar **[!UICONTROL SAFE]** irá lista todo o conteúdo que entrar no ModQ como resultado das Regras SAFE.
+   * Selecionar **[!UICONTROL Premoderation]** irá lista todo o conteúdo marcado para Premoderação pelas suas Configurações de rede, fluxo ou aplicativo.
 
 * **[!UICONTROL User Flags]** Filtre o conteúdo por sinalizadores de usuário. As opções incluem Ofensivo, Spam, Off-tópico e Discordar.
 * **[!UICONTROL Rights Requests.]** Exiba somente o conteúdo com direitos concedidos clicando na caixa de seleção.
@@ -109,7 +109,7 @@ A seguinte opção está disponível para o ModQ em **[!UICONTROL Items]**:
 
 **[!UICONTROL Moderation Recommendations]**. Filtre o conteúdo pela recomendação fornecida pela Recomendação de moderação automática.
 
-As imagens a seguir mostram a aparência das Recomendações de moderação no ModQ:  ![](assets/mod_reco1.png)
+As imagens a seguir mostram a aparência do Recommendations de moderação no ModQ:  ![](assets/mod_reco1.png)
 
 A recomendação de moderação é fornecida para o conteúdo quando ele é configurado em **[!UICONTROL Network Settings > Moderation]** e **[!UICONTROL Network Settings > ModQ]**.
 
@@ -119,8 +119,8 @@ Você pode decidir o que fazer com cada parte do conteúdo no ModQ.
 
 Selecione uma das seguintes opções:
 
-* O **[!UICONTROL Checkbox]** ícone para aprovar o conteúdo
-* O **[!UICONTROL Trash can]** ícone para enviar o conteúdo para o lixo
+* O ícone **[!UICONTROL Checkbox]** para aprovar o conteúdo
+* O ícone **[!UICONTROL Trash can]** para enviar o conteúdo para o lixo
 * **[!UICONTROL Request Rights]** para solicitar os direitos ao conteúdo do proprietário do conteúdo.
 
    >[!NOTE]
@@ -141,25 +141,25 @@ Se o conteúdo já estiver no estado desejado, escolher Lixeira, Ocupação ou A
 >
 >O conteúdo de fluxo pode não ser Bozo. O conteúdo de Transmissão em sequência o removerá permanentemente do Fluxo e não poderá ser desfeito.
 
-Depois que o conteúdo for moderado, ele será removido do ModQ do moderador e seu autor não poderá mais editá-lo no fluxo. Se um moderador rejeitar um item ou se um usuário excluir seu comentário, ele aparecerá esmaecido nas filas de outros moderadores em tempo real. Quando o conteúdo estiver acinzentado, o **[!UICONTROL Clear Moderated]** botão será exibido na página, permitindo que os moderadores o removam de suas listas e mantenham seu lugar na página, independentemente de outra atividade do moderador.
+Depois que o conteúdo for moderado, ele será removido do ModQ do moderador e seu autor não poderá mais editá-lo no fluxo. Se um moderador rejeitar um item ou se um usuário excluir seu comentário, ele aparecerá esmaecido nas filas de outros moderadores em tempo real. Quando o conteúdo estiver acinzentado, o botão **[!UICONTROL Clear Moderated]** será exibido na página, permitindo que os moderadores o removam de suas listas e mantenham seu lugar na página independentemente de outra atividade do moderador.
 
 ## Uso da função de lixeira no ModQ {#section_tpx_qgz_y1b}
 
 Use a seção de configurações para selecionar opções disponíveis quando o conteúdo estiver marcado como Tracejado.
 
-* ****[!UICONTROL Confirm Trash]**** Ative essa opção para exigir que os Moderadores confirmem sua ação ao configurar o conteúdo como Lixeira. Quando ativada, a seleção **[!UICONTROL Trash]** de conteúdo exibirá uma caixa de diálogo solicitando uma **[!UICONTROL Reason for Moderation]** e a oferta de um campo no qual uma **[!UICONTROL Note]** opção pode ser inserida.
+* ****[!UICONTROL Confirm Trash]**** Ative essa opção para exigir que os Moderadores confirmem sua ação ao configurar o conteúdo como Lixeira. Quando ativada, selecionar **[!UICONTROL Trash]** para conteúdo exibirá uma caixa de diálogo solicitando **[!UICONTROL Reason for Moderation]** e oferta um campo no qual **[!UICONTROL Note]** poderá ser inserido.
 
-   (Esta configuração está disponível **[!UICONTROL only]** no nível da rede e será aplicada a todos os sites da rede.)
+   (Essa configuração está disponível **[!UICONTROL only]** no nível da rede e será aplicada para todos os sites em sua rede.)
 
 * ****[!UICONTROL Hide Replies]**** Habilite essa opção para eliminar automaticamente as respostas quando um comentário pai for descartado ou se o Bozo for descartado.
 
 ## Alterar o status do usuário no ModQ {#section_tmw_lg1_z1b}
 
-Clique no **[!UICONTROL User actions]** botão do painel Resumo do usuário para Silenciar, Banir ou Permitir a lista do usuário.
+Clique no botão **[!UICONTROL User actions]** do painel Resumo do usuário para Silenciar, Banir ou Permitir listar o usuário.
 
 * **[!UICONTROL Mute:]** permite silenciar sinalizadores do usuário que sinalizou o conteúdo listado. Use essa opção para excluir os sinalizadores do usuário dos filtros de pré-moderação. O conteúdo que eles sinalizam não entrará no ModQ como resultado do sinalizador, e seus sinalizadores não serão incluídos nas Regras de sinalizador.
 * **[!UICONTROL Ban:]** permite que você proíba o usuário listado de seu site ou rede. (Somente os Administradores do Studio ou Gerentes de usuários podem proibir a rede de um usuário.)
-* **[!UICONTROL Whitelist:]** permite que você lista o usuário listado para seu site ou rede. (Somente os Administradores do Studio ou Gerentes de Usuário podem permitir a lista de um usuário na rede.)
+* **[!UICONTROL Whitelist:]** permite que você permita a lista do usuário listado para seu site ou rede. (Somente os Administradores do Studio ou Gerentes de Usuário podem permitir a lista de usuários na rede.)
 
 
 
