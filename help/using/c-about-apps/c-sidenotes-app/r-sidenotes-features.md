@@ -1,19 +1,22 @@
 ---
-description: O aplicativo Sidenotes oferece esses recursos para seu site.
-seo-description: O aplicativo Sidenotes oferece esses recursos para seu site.
+description: O aplicativo Sidenotes oferta esses recursos para seu site.
+seo-description: O aplicativo Sidenotes oferta esses recursos para seu site.
 seo-title: Recursos do Sidenotes
 solution: Experience Manager
 title: Recursos do Sidenotes
 uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
 
 # Recursos do Sidenotes{#sidenotes-features}
 
-O aplicativo Sidenotes oferece esses recursos para seu site.
+O aplicativo Sidenotes oferta esses recursos para seu site.
 
 
 
@@ -23,6 +26,6 @@ O aplicativo Sidenotes oferece esses recursos para seu site.
 * Compartilhe texto no Facebook ou no Twitter, selecionando o texto e clicando no ícone Compartilhar no Facebook ou Compartilhar no Twitter. O compartilhamento de conteúdo destacado permite que os usuários editem o texto que será compartilhado e envia um link para o conteúdo original com o compartilhamento.
 * Leia os comentários de outras pessoas, clicando na bolha de pensamento do Livefyre que mostra o número de comentários incluídos em qualquer parte da página.
 * Responder a Sidenotes existentes.
-* Votar a utilidade das notas e, assim, encaminhar notas mais úteis para o topo da lista de anotações.
+* Votem sobre a utilidade das notas e, assim, encaminhem notas mais úteis para o topo da lista das anotações.
 * Compartilhe notas de identidade específicas no Facebook ou Twitter clicando nas elipses que aparecem ao passar o mouse sobre a nota.
 
