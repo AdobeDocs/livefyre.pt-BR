@@ -7,6 +7,9 @@ title: Recursos de contribuição no site
 uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +20,7 @@ Escolha como os visitantes do site interagem com os aplicativos e de que maneira
 
 ## Contribuição da pesquisa {#section_tdg_zsr_d1b}
 
-Você pode adicionar a capacidade de os usuários finais votarem em uma pesquisa. Incorpore a pesquisa em uma página para que os visitantes do site contribuam e façam uma votação.
+Você pode adicionar a capacidade de os usuários finais votarem em uma pesquisa. Incorpore a pesquisa em uma página para que os visitantes do site contribuam e façam votação.
 
 Não é necessário configurar a autenticação para usar esse recurso.
 
@@ -41,9 +44,9 @@ Aplicativos que usam este recurso:
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Botão Upload](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
-## Upload de vídeo {#section_mlm_42s_d1b}
+## Carregamento de vídeo {#section_mlm_42s_d1b}
 
-Os visitantes do site podem contribuir com o aplicativo fazendo upload de vídeos. Isso pode ser feito usando aplicativos de conversa ou o "botão de upload" para aplicativos de visualização. Consulte a documentação para obter mais informações sobre se um aplicativo suporta esse recurso. requer autenticação
+Visitantes do site podem contribuir com o aplicativo fazendo upload de vídeos. Isso pode ser feito usando aplicativos de conversa ou o &quot;botão de upload&quot; para aplicativos de visualização. Consulte a documentação para obter mais informações sobre se um aplicativo suporta esse recurso. requer autenticação
 
 Você deve configurar a autenticação para usar esse recurso.
 
@@ -72,7 +75,7 @@ Aplicativos que usam este recurso:
 
 ## Resultados do usuário {#section_azw_dx4_h1b}
 
-Exibir o número de vezes que um usuário selecionou cada resposta em uma pesquisa.
+Visualização do número de vezes que um usuário selecionou cada resposta em uma pesquisa.
 
 Aplicativos que usam este recurso:
 
