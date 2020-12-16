@@ -7,6 +7,9 @@ title: Recursos de comentários
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
@@ -25,13 +28,13 @@ Muitos recursos vêm com o aplicativo Comentários para incorporar conversas em 
 * [Strings de texto personalizadas](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
 * [Data e carimbo de data e hora](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md#c_date_and_timestamp)
 * [Notificações por e-mail](/help/using/c-features-livefyre/c-notifications-features/c-email-notifications.md#c_email_notifications)
-* [Integração do Embedly](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
+* [Integração do Embedly ](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
 * [Conteúdo em destaque](/help/using/c-features-livefyre/c-content-collection-tags/c-featured-content.md#c_featured_content)
 * [Menções de amigo](/help/using/c-features-livefyre/c-enagement-features.md#section_yw5_fdm_d1b)
 * [Seguir conversa](/help/using/c-features-livefyre/c-enagement-features.md#section_bw3_ndm_d1b)
 * [Threads instantâneos](/help/using/c-features-livefyre/c-sort-features-composite/c-hot-threads.md#c_hot_threads)
 * [Cartões](/help/using/c-features-livefyre/c-styling-features/c-hovercards.md#c_hovercards)
-* [Itens a carregar](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_q5w_mzl_d1b)
+* [Itens a serem carregados](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_q5w_mzl_d1b)
 * [Curtir](/help/using/c-features-livefyre/c-enagement-features.md#section_q4j_ycm_d1b)
 * [Contagem de Listener](/help/using/c-features-livefyre/c-listener-count.md#c_listener_count)
 * [Expansão de mídia](/help/using/c-features-livefyre/c-enagement-features.md#section_pmq_ycm_d1b)
