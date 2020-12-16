@@ -1,26 +1,29 @@
 ---
-description: Use o CSS para estilizar elementos de um aplicativo Livefyre para se ajustar à sua marca.
-seo-description: Use o CSS para estilizar elementos de um aplicativo Livefyre para se ajustar à sua marca.
+description: Use o CSS para estilizar os elementos de um aplicativo Livefyre para se ajustar à sua marca.
+seo-description: Use o CSS para estilizar os elementos de um aplicativo Livefyre para se ajustar à sua marca.
 seo-title: Estilo e marca CSS
 title: Estilo e marca CSS
 uuid: 729a2780-f757-4c54-b446-ff832cecf620
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
 
 # Estilo e marca CSS{#css-styling-and-branding}
 
-Use o CSS para estilizar elementos de um aplicativo Livefyre para se ajustar à sua marca.
+Use o CSS para estilizar os elementos de um aplicativo Livefyre para se ajustar à sua marca.
 
-Os aplicativos Livefyre oferecem uma ampla interface de estilo CSS, permitindo que você personalize sua experiência de usuário para atender aos seus padrões de design atuais.
+Aplicativos Livefyre ofertas uma interface de estilo CSS abrangente, que permite personalizar sua experiência de usuário para atender aos padrões de design atuais.
 
 As opções de estilo incluem:
 
 * **[!UICONTROL Styling the Stream:]** Os fluxos do Livefyre podem ser estilizados e personalizados para se ajustarem à sua marca e ao resto do seu site. Para obter mais informações, consulte Personalizações de CSS.
 * **[!UICONTROL Styling the Comment Editor:]** O editor de comentários pode ser personalizado alterando a cor, o tamanho e a família da fonte ou alterando a cor de fundo da caixa de comentários. Para obter mais informações, consulte Editor CSS.
-* **[!UICONTROL Moving the Livefyre Logo:]** Embora o local padrão do logotipo Livefyre esteja na parte superior do fluxo, essa imagem pode ser removida e substituída por um logotipo menor "Powered by Livefyre" na parte inferior do fluxo. Para obter mais informações, consulte Mover o logotipo Livefyre.
+* **[!UICONTROL Moving the Livefyre Logo:]** Embora o local padrão do logotipo Livefyre esteja na parte superior do fluxo, essa imagem pode ser removida e substituída por um logotipo menor &quot;Powered by Livefyre&quot; na parte inferior do fluxo. Para obter mais informações, consulte Mover o logotipo Livefyre.
 * **[!UICONTROL Hiding elements of the stream:]** Os elementos do fluxo podem estar ocultos se não forem relevantes para a sua comunidade. Os elementos que podem ser removidos incluem o botão de resposta, o menu editar perfil, o menu de logout, o notificador de comentário e os avatares do usuário. Para obter mais informações sobre como remover esses elementos, consulte Ocultar elementos do aplicativo.
 * **[!UICONTROL Customizing the Friend Tagging Logo:]** Por padrão, o logotipo do Livefyre é exibido na lista suspensa Marcação de amigos para todos os usuários que comentaram no stream na página. Para substituir esta imagem pelo seu próprio logotipo, consulte Branding no Studio.
 
