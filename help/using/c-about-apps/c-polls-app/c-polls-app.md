@@ -7,6 +7,9 @@ title: Pesquisas
 uuid: 19264eb2-53f8-4a66-a265-38efb634a207
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Permita que seus clientes expressem suas opiniões em tempo real.
 
-As pesquisas permitem que você crie e publique pesquisas rápidas e com uma pergunta para seu site. Use as pesquisas para incentivar a participação dos leitores, coletar feedback, opiniões e solicitações dos visitantes do site.
+As pesquisas permitem que você crie e publique pesquisas rápidas e com uma pergunta para seu site. Use as pesquisas para incentivar a participação dos leitores, coletar feedback, opiniões e solicitações de visitantes do site.
 
 >[!NOTE]
 >
