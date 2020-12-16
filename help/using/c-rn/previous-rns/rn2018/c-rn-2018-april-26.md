@@ -7,11 +7,14 @@ title: 26 de abril de 2018
 uuid: a84ebe5c-40d5-43b5-a300-3e041ab22046
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '373'
+ht-degree: 4%
 
 ---
 
 
-# April 26, 2018{#april}
+# 26 de abril de 2018{#april}
 
 Notas de versão para a versão de 26 de abril de 2018.
 
@@ -19,7 +22,7 @@ Notas de versão para a versão de 26 de abril de 2018.
 
 Os seguintes recursos são novos na versão de produção desta versão:
 
-* Adicionado um novo recurso que permite aos clientes configurar um número específico de colunas para um Mídia. O número de colunas escolhidas forçará o Mural de Mídia para esse número de colunas, independentemente do tamanho. Caso contrário, o número de colunas do Mídia padrão será "auto", onde as colunas se ajustarão a um número que otimize o Mídia para o tamanho da tela.
+* Adicionado um novo recurso que permite aos clientes configurar um número específico de colunas para um Mídia. O número de colunas escolhidas forçará o Mural de Mídia para esse número de colunas, independentemente do tamanho. Caso contrário, o número de colunas do Mídia padrão será &quot;auto&quot;, onde as colunas se ajustarão a um número que otimize o Mídia para o tamanho da tela.
 * No Media Wall Designer agora há uma alternância que permite desativar a animação automática do Media Wall que ocorre quando uma página com um Media Wall é carregada.
 * Agora você pode escolher o limite de confiança para tags inteligentes em fluxos. A definição da pontuação de precisão (0-100) para tags permite controlar a precisão dos ativos que estamos recuperando.
 * Recomendações de moderação adicionadas. O Livefyre agora verifica todas as publicações em aplicativos de comentários e prevê se você a lixará ou não com base nos dados históricos e no aprendizado de máquina. Essas recomendações são exibidas no ModQ.
@@ -34,10 +37,10 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Gerenciamento de direitos | Correção de um problema em que as solicitações de direitos não funcionavam para os Ativos depois de encontrá-las em uma Pesquisa Social. |
+| Bug | Rights Management | Correção de um problema em que as solicitações de direitos não funcionavam para os Ativos depois de encontrá-las em uma Pesquisa Social. |
 | Aprimoramento | Fluxos | Atualização do mecanismo de transmissão que permite que o conteúdo seja transmitido do Facebook para atender a uma alteração de back-end criada pelo Facebook. |
-| Bug | Comércio UGC | Correção de um problema em que o botão "Loja" CTA não era exibido em um aplicativo Mosaico ou Película fotográfica ou em um modal de produtos ao passar o mouse sobre um cartão com um produto quando o botão CTA estava ativado. |
-| Aprimoramento | Comércio UGC | Corrigido um problema no qual o sinalizador de Comércio UGC estava definido como "desligado" por padrão, em vez de "ligado". |
+| Bug | Comércio UGC | Correção de um problema em que o botão &quot;Loja&quot; CTA não era exibido em um aplicativo Mosaico ou Película fotográfica ou em um modal de produtos ao passar o mouse sobre um cartão com um produto quando o botão CTA estava ativado. |
+| Aprimoramento | Comércio UGC | Correção de um problema em que o sinalizador de Comércio UGC estava definido como &quot;desativado&quot; por padrão, em vez de &quot;ativado&quot;. |
 
 ## Versão UAT
 
