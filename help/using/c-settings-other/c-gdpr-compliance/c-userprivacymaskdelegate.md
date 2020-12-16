@@ -7,6 +7,9 @@ title: userPrivacyMaskDelegate
 uuid: 8e5a2750-bf45-4e70-a5f9-37f5e7c61f8e
 translation-type: tm+mt
 source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Este texto existe para cumprir o Regulamento RGPD. Se uma fonte não suportar um
 
 Se você não usar `userPrivacyMaskDelegate`, o seguinte texto padrão será exibido:
 
-Adicionar `userPrivacyMaskDelegate` depois `userPrivacyOptOut`. Você pode adicionar todos os sinalizadores de privacidade do Livefyre todos de uma só vez como parte de um objeto do Livefyre.
+Adicione `userPrivacyMaskDelegate` depois de `userPrivacyOptOut`. Você pode adicionar todos os sinalizadores de privacidade do Livefyre todos de uma só vez como parte de um objeto do Livefyre.
 
 Este é um exemplo de como usar `userPrivacyMaskDelegate`:
 
