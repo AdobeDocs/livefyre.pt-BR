@@ -6,6 +6,9 @@ title: Gerenciar mídia incorporada
 uuid: d8621be1-dcfb-429f-954e-b21fdcf02715
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '239'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +21,7 @@ Por padrão, todos os anexos de mídia podem ser incorporados aos comentários. 
 
 O Livefyre usa o Embed.ly, e os protocolos padrão oEmbed, para incorporar mídia em fluxos de aplicativos e passará por todos os dados de mídia fornecidos por sua fonte.
 
-O Embed.ly passará por todas as informações disponíveis, incluindo o título da mídia, a descrição, a miniatura e o código incorporado para qualquer URL fornecido. A disponibilidade desses itens varia de acordo com o provedor. Por exemplo: O Facebook não retorna miniaturas para seus vídeos e transmite somente um vídeo incorporado. Clicar em Reproduzir iniciará o vídeo (semelhante ao formato de exibição do YouTube). O Twitter transmite somente imagens estáticas e não envia vídeos. Portanto, os vídeos nativos do Twitter podem não ser reproduzidos em um fluxo do Livefyre.
+O Embed.ly passará por todas as informações disponíveis, incluindo o título da mídia, a descrição, a miniatura e o código incorporado para qualquer URL fornecido. A disponibilidade desses itens varia de acordo com o provedor. Por exemplo: O Facebook não retorna miniaturas para seus vídeos e transmite somente um vídeo incorporado. Ao clicar em Reproduzir, o vídeo será start (semelhante ao formato de exibição do YouTube). O Twitter transmite somente imagens estáticas e não envia vídeos. Portanto, os vídeos nativos do Twitter podem não ser reproduzidos em um fluxo do Livefyre.
 
 Você pode impedir que determinados anexos sejam incorporados aos comentários ao incorporar o fluxo de comentários. Você também pode optar por ocultar todas as expansões Embed.ly na rede, no site e no nível de conversação usando o Studio, exibindo somente links para a mídia, não mídia totalmente incorporada.
 
