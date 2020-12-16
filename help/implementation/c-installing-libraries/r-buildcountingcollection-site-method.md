@@ -6,6 +6,9 @@ title: método de site buildCountingCollection
 uuid: e293d66a-0025-4230-997e-295ce4625713
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +29,7 @@ Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_u
 Collection collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCountingCollection(title, articleId, url); 
@@ -38,7 +41,7 @@ var collection = site.buildCountingCollection(title, articleId, url);
 $collection = site->buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_counting_collection(title, articleId, url) 
