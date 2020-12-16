@@ -7,6 +7,9 @@ title: Personalizações do mural de mídia
 uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '733'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Altere o tamanho, a largura e as opções de interação do aplicativo Media Wal
 
 
 
-Os Media Walls fazem stream de imagens ao vivo e outros conteúdos em um mural social em tempo real, visualizando todas as atividades em torno de um evento.
+Os Media Walls transmitem imagens ao vivo e outros conteúdos em um mural social em tempo real, visualizando todas as atividades ao redor de um evento.
 
 Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente neste aplicativo. Os tipos de arquivos suportados incluem:
 
@@ -36,7 +39,7 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
 
    Permite que os usuários cliquem em uma foto no fluxo para abri-la em uma janela pop-up sobreposta.
 
-* **[!UICONTROL Require rights]**. Ative esta opção para exibir somente o conteúdo com um status de solicitação de direitos de "Concedido".
+* **[!UICONTROL Require rights]**. Ative esta opção para exibir somente o conteúdo com um status de solicitação de direitos de &quot;Concedido&quot;.
 * **[!UICONTROL Hide social branding when rights granted]** Ative para remover o logotipo da rede de mídia social de origem (Twitter ou Instagram) quando os direitos forem concedidos para um conteúdo.
 
 * **[!UICONTROL Upload Button]**
@@ -45,9 +48,9 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
    * **[!UICONTROL Require Media]**. Alterne para on para exigir que os usuários carreguem somente conteúdo de foto ou vídeo usando o botão Carregar.
    * Você pode editar o texto padrão para os seguintes campos de Botão de upload:
 
-      * **[!UICONTROL Upload Button Text]**. Texto para o botão Carregar. O texto padrão é "O que você acha?"
-      * **[!UICONTROL Comment Modal Title]**. O título para os visitantes modais do site usam para publicar conteúdo. O texto padrão é "Publicar seu comentário".
-      * **[!UICONTROL Comment Modal Button]**. O texto do botão que os visitantes do site clicam para publicar o conteúdo. O texto padrão é "Publicar seu comentário".
+      * **[!UICONTROL Upload Button Text]**. Texto para o botão Carregar. O texto padrão é &quot;O que você acha?&quot;
+      * **[!UICONTROL Comment Modal Title]**. O título para os visitantes do site modal utilizado para publicar conteúdo. O texto padrão é &quot;Publicar seu comentário&quot;.
+      * **[!UICONTROL Comment Modal Button]**. O texto dos visitantes de botão do site clicam para publicar o conteúdo. O texto padrão é &quot;Publicar seu comentário&quot;.
 
 * **[!UICONTROL Call-to-action button]** Você pode usar o botão Chamada para ação com um catálogo de produtos para direcionar os usuários para um produto ou para seu site para outras ações.
 
@@ -58,8 +61,8 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
       >
       >O conteúdo é exibido mesmo se os direitos não forem concedidos para o conteúdo, mas o botão Chamada para ação não será exibido com o conteúdo, a menos que os direitos para o conteúdo sejam concedidos.
 
-   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamada para ação no modal de conteúdo. O texto padrão é "Compre estes produtos:".
-   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada para ação no modal de conteúdo. O texto padrão é "Comprar agora:".
+   * **[!UICONTROL Call-to-action header text]** As palavras a serem exibidas no cabeçalho acima do botão Chamada para ação no modal de conteúdo. O texto padrão é &quot;Compre estes produtos:&quot;.
+   * **[!UICONTROL Call-to-action button text]** As palavras a serem exibidas no botão Chamada para ação no modal de conteúdo. O texto padrão é &quot;Comprar agora:&quot;.
    * **[!UICONTROL Product display options]** Escolha se deseja exibir a foto e o nome do produto com o botão Chamada para ação.
 
       >[!NOTE]
@@ -76,7 +79,7 @@ Se ativado, os usuários podem publicar texto, imagens ou vídeo diretamente nes
 
 Você pode personalizar o Media Wall usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
 
-* Ferramentas de integração. Consulte Integração [do mural](/help/implementation/c-app-integrations/c-media-wall-integration.md) de mídia para obter mais informações sobre como personalizar um mural de mídia usando as Ferramentas de integração.
+* Ferramentas de integração. Consulte [Media Wall Integration](/help/implementation/c-app-integrations/c-media-wall-integration.md) para obter mais informações sobre como personalizar um Media Wall usando as Ferramentas de Integração.
 
