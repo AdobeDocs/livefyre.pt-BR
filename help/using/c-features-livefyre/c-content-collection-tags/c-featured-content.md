@@ -7,6 +7,9 @@ title: Conteúdo em destaque
 uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 1%
 
 ---
 
@@ -15,17 +18,17 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Realce o conteúdo importante para seus usuários usando o CSS para estilo personalizado Conteúdo em destaque.
 
-Qualquer parte do conteúdo em uma coleção pode ser marcada como "destaque" pelos proprietários ou moderadores do site de rede, a fim de destacar conteúdo importante e incentivar respostas de alta qualidade de outros usuários. Uma vez que um conteúdo tenha sido destacado, uma **[!UICONTROL Featured]** tag será exibida no conteúdo do aplicativo, para que os usuários possam identificar facilmente o conteúdo destacado pelos proprietários e moderadores.
+Qualquer parte do conteúdo em uma coleção pode ser marcada como &quot;destaque&quot; pelos proprietários ou moderadores do site de rede, a fim de destacar conteúdo importante e incentivar respostas de alta qualidade de outros usuários. Uma vez que um conteúdo tenha sido destacado, uma tag **[!UICONTROL Featured]** será exibida no conteúdo do aplicativo, para que os usuários possam identificar facilmente o conteúdo destacado pelos proprietários e moderadores.
 
 Em Comentários:
 
-* As duas partes mais recentes do **[!UICONTROL Featured]** conteúdo também serão extraídas acima do fluxo.
+* As duas partes mais recentes do conteúdo **[!UICONTROL Featured]** também serão extraídas acima do fluxo.
 * Pode levar até sete minutos para que o conteúdo em destaque apareça acima do editor.
-* Uma **[!UICONTROL Featured]** tag pode ser adicionada a qualquer comentário no fluxo e usada para criar o estilo do comentário, mas somente o conteúdo gerado pelo usuário nativo do Livefyre será exibido acima do editor.
+* Uma tag **[!UICONTROL Featured]** pode ser adicionada a qualquer comentário no fluxo e usada para criar o estilo do comentário, mas somente o conteúdo gerado pelo usuário nativo do Livefyre será exibido acima do editor.
 
-Quando o conteúdo não aparece, a **[!UICONTROL Featured]** tag exibida será removida em tempo real.
+Quando o conteúdo não for exibido, a tag **[!UICONTROL Featured]** exibida será removida em tempo real.
 
-Depois que um conteúdo tiver sido destacado, um **[!UICONTROL Featured]** selo será exibido no conteúdo do aplicativo e você poderá usar a classe CSS de recursos especiais para personalizar o estilo do conteúdo.
+Depois que um conteúdo tiver sido destacado, um crachá **[!UICONTROL Featured]** será exibido no conteúdo do aplicativo, e você poderá usar a classe CSS de vários recursos para personalizar o estilo do conteúdo.
 
 Aplicativos que usam este recurso:
 
