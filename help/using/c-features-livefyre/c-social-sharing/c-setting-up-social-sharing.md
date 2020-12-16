@@ -6,6 +6,9 @@ title: Configuração do compartilhamento em redes sociais
 uuid: e1940e30-9fbb-41e8-b5bb-497a5b06643f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +25,7 @@ As configurações disponíveis nesta página serão atualizadas para refletir s
 >
 >Somente um aplicativo por site de mídia social pode ser ativado para sua rede. Você pode incluir esses aplicativos em vários sites, mas sua Rede pode ter apenas um Facebook, um Twitter, um LinkedIn e uma integração Bitly.
 
-## Envolvimento de Janrain {#section_dzq_1p1_21b}
+## Janrain Engage {#section_dzq_1p1_21b}
 
 Para habilitar a integração do Mobilizar Janrain, insira as seguintes credenciais:
 
