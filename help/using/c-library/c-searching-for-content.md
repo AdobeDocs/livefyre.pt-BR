@@ -7,6 +7,9 @@ title: Pesquisar por URL
 uuid: 45be6a85-e615-46c6-9601-82df02839315
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
@@ -21,5 +24,5 @@ As informações retornadas mostrarão um resumo da página no cartão, incluind
 
 >[!NOTE]
 >
->Para pesquisas do Instagram usando o campo URL, o autor é retornado como "Instagram".
+>Para pesquisas do Instagram usando o campo URL, o autor é retornado como &quot;Instagram&quot;.
 
