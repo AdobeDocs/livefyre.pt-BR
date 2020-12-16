@@ -7,6 +7,9 @@ title: Notas de versão do Livefyre, 13 de dezembro de 2018
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +36,7 @@ Os novos recursos a seguir foram lançados na versão de produção desta versã
 
    >[!NOTE]
    >
-   >Para pesquisar no Instagram por usuário comercial, você e o autor do conteúdo do Instagram devem ter uma conta comercial do Instagram. Para obter informações sobre como configurar uma conta comercial do Instagram no Adobe Livefyre Studio, consulte [Criação de contas com o Studio Access](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+   >Para pesquisar no Instagram por usuário comercial, você e o autor do conteúdo do Instagram devem ter uma conta comercial do Instagram. Para obter informações sobre como configurar uma conta corporativa do Instagram no Adobe Livefyre Studio, consulte [Criação de contas com o Studio Access](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 * Agora você pode pesquisar o Instagram por hashtag na Biblioteca usando a seguinte funcionalidade:
 
