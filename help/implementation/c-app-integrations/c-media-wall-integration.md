@@ -1,21 +1,24 @@
 ---
-description: Crie um mural de mídia, com transmissão de conteúdo em tempo real.
-seo-description: Crie um mural de mídia, com transmissão de conteúdo em tempo real.
+description: Crie um mural de mídia, com streaming de conteúdo em tempo real.
+seo-description: Crie um mural de mídia, com streaming de conteúdo em tempo real.
 seo-title: Mídia
 solution: Experience Manager
 title: Mídia
 uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '753'
+ht-degree: 0%
 
 ---
 
 
-# Mídia{#media-wall}
+# Media Wall{#media-wall}
 
-Crie um mural de mídia, com transmissão de conteúdo em tempo real.
+Crie um mural de mídia, com streaming de conteúdo em tempo real.
 
-O Media Wall permite que você crie um mural social em tempo real para seu site. Use o pacote simplificado do Livefyre JavaScript SDK para exibir feeds sociais do Livefyre como uma experiência de conteúdo em blocos envolvente, em tela cheia e tela cheia, excelente para cobrir eventos ao vivo, hospedar concursos de fotos e ativar seções sociais do seu site.
+O Media Wall permite que você crie um mural social em tempo real para seu site. Use o pacote simplificado do Livefyre JavaScript SDK para exibir feeds sociais do Livefyre como uma experiência de conteúdo envolvente, em tela cheia e lado a lado, excelente para cobrir eventos ao vivo, hospedar concursos de fotos e acionar seções sociais do seu site.
 
 ## Integração {#section_jfm_bwb_c1b}
 
@@ -52,19 +55,19 @@ Livefyre.require([
 </script>
 ```
 
-Agora você tem um Muro! Veja tudo isso em ação [neste exemplo](https://codepen.io/gobengo/pen/dFwDL).
+Agora você tem um Muro! Veja tudo isso em ação em [este exemplo](https://codepen.io/gobengo/pen/dFwDL).
 
-**Ocorreu um erro?** Verifique se você está transmitindo o parâmetro de ambiente correto. As opções incluem `livefyre.com` (produção) ou `t402.livefyre.com` (UAT).
+**Ocorrência de um erro?** Verifique se você está transmitindo o parâmetro de ambiente correto. As opções incluem `livefyre.com` (produção) ou `t402.livefyre.com` (UAT).
 
 >[!NOTE]
 >
->Qualquer personalização de estilo de Tweets renderizados pelo aplicativo Media Wall deve ser feita de acordo com os requisitos [de](https://dev.twitter.com/terms/display-requirements)exibição do Twitter.
+>Qualquer personalização de estilo de Tweets renderizados pelo aplicativo Media Wall deve ser feita de acordo com os [Requisitos de exibição](https://dev.twitter.com/terms/display-requirements) do Twitter.
 
 ## Opções de configuração {#section_ucv_qvb_c1b}
 
 `columns`
 
-Permite que você defina o número de colunas para seu mural de mídia ao construir seu mural. Se essa opção estiver definida, a largura de cada coluna será automaticamente adaptada ao tamanho do contêiner do Media Wall, mantendo o número especificado de colunas.
+Permite que você defina o número de colunas para seu mural de mídia ao construir seu mural. Se essa opção estiver definida, a largura de cada coluna será automaticamente adaptada ao tamanho do container do Media Wall, mantendo o número especificado de colunas.
 
 ```
 var wallView = new MediaWall({ 
@@ -86,7 +89,7 @@ var wallView = new MediaWall({
 
 `minContentWidth`
 
-Permite definir a largura mínima (pixel) de cada coluna dentro do elemento de contêiner do Media Wall. (O mural de mídia selecionará automaticamente um número apropriado de colunas, dependendo da largura do elemento de contêiner. Por padrão, a largura do mural de mídia dividida pela largura mínima do conteúdo (300px, se indefinido) determina o número de colunas.
+Permite definir a largura mínima (pixel) de cada coluna dentro do elemento de container do Media Wall. (O mural de mídia selecionará automaticamente um número apropriado de colunas, dependendo da largura do elemento de container. Por padrão, a largura do mural de mídia dividida pela largura mínima do conteúdo (300px, se indefinido) determina o número de colunas.
 
 >[!NOTE]
 >
@@ -113,12 +116,12 @@ var wallView = new MediaWall({
 
 `postButton`
 
-Define o [!UICONTROL Post Content] botão a ser exibido em seu mural. Essa opção exige que você passe `opts.collection`e adicione uma integração Livefyre.js Auth à página.
+Define o botão [!UICONTROL Post Content] para aparecer no mural. Essa opção exige que você passe `opts.collection` e adicione uma integração Livefyre.js Auth à página.
 
 `postButton` parâmetros:
 
 * `false` (padrão): Não mostrar um botão Publicar conteúdo. (Cria um mural de mídia somente leitura.)
-* `true` (ou `LiveMediaWall.postButtons.contentWithPhotos`): Inclua um botão que permite aos usuários adicionar conteúdo de texto, com fotos anexadas.
+* `true` (ou  `LiveMediaWall.postButtons.contentWithPhotos`): Inclua um botão que permite aos usuários adicionar conteúdo de texto, com fotos anexadas.
 
 * `LiveMediaWall.postButtons.content`: Inclua um botão que permite aos usuários adicionar conteúdo de texto, mas não anexar fotos.
 * `LiveMediaWall.postButtons.photo`: Inclua um botão que permite aos usuários adicionar uma foto, mas sem texto.
@@ -134,7 +137,7 @@ var wallView = new MediaWall({
 
 `showMore`
 
-Define o número de itens de Conteúdo a serem adicionados ao mural quando o [!UICONTROL Show More] botão é clicado.
+Define o número de itens de Conteúdo a serem adicionados ao mural quando seu botão [!UICONTROL Show More] for clicado.
 
 ```
 var wallView = new LiveMediaWall({ 
@@ -145,7 +148,7 @@ var wallView = new LiveMediaWall({
 
 ## Opções de configuração de estilo {#section_ztv_dvb_c1b}
 
-O Media Wall também oferece várias opções de configuração que permitem personalizar a cor, o estilo e o tamanho do texto. Para implementar essas opções, use a seguinte sintaxe:
+O Media Wall também oferta várias opções de configuração que permitem personalizar a cor, o estilo e o tamanho do texto. Para implementar essas opções, use a seguinte sintaxe:
 
 ```
 var wall2 = window.wall2 = new MediaWall({ 
@@ -163,7 +166,7 @@ var wall2 = window.wall2 = new MediaWall({
 }); 
 ```
 
-Para uma entrada válida, consulte os padrões W3C para as propriedades Família [de](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family)fontes CSS, Tamanho [da](https://www.w3.org/TR/CSS2/fonts.html#font-size-props)fonte, [Altura da](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height) linha e [Cor](https://www.w3.org/TR/css3-color/#colorunits) .
+Para uma entrada válida, consulte os padrões W3C para as propriedades CSS [Família de Fontes](https://www.w3.org/TR/CSS2/fonts.html#propdef-font-family), [Tamanho da Fonte](https://www.w3.org/TR/CSS2/fonts.html#font-size-props), [Altura da Linha,](https://www.w3.org/TR/CSS2/visudet.html#propdef-line-height) e [Cor](https://www.w3.org/TR/css3-color/#colorunits).
 
 * **bodyFontSize** *(CSS Font Size String)* O tamanho da fonte do texto do corpo do conteúdo.
 
