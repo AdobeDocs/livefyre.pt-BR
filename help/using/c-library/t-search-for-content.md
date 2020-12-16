@@ -20,7 +20,7 @@ Use a pesquisa social para pesquisar o conteúdo do Instagram a ser incluído na
 
 >[!NOTE]
 >
->Antes de executar uma Pesquisa Social para o Instagram, você deve adicionar uma conta comercial do Instagram à **[!UICONTROL Social Accounts]** seção em **[!UICONTROL Network Settings]** e autorizar o Livefyre a usar essa conta. Para obter informações sobre como configurar uma conta comercial do Instagram no Adobe Livefyre Studio, consulte [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+>Antes de executar uma Pesquisa Social para o Instagram, você deve adicionar uma conta comercial do Instagram à seção **[!UICONTROL Social Accounts]** em **[!UICONTROL Network Settings]** e autorizar o Livefyre a usar essa conta. Para obter informações sobre como configurar uma conta comercial do Instagram no Adobe Livefyre Studio, consulte [](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 É possível salvar e reutilizar pesquisas. Clique na barra de pesquisa para ver uma lista de suas Pesquisas recentes e salvas.
 
@@ -29,7 +29,7 @@ Quando você adiciona novos ativos à biblioteca, os ativos que já estão inclu
 1. Configure uma conta comercial do Instagram.
 1. Navegue até **[!UICONTROL Library]** > **[!UICONTROL Social Search]**.
 1. Selecione **[!UICONTROL Instagram]** para pesquisar o conteúdo do Instagram.
-1. Insira os critérios de pesquisa e clique **[!UICONTROL Show Filter]** para refinar a pesquisa.
+1. Insira seus critérios de pesquisa, clique em **[!UICONTROL Show Filter]** para refinar sua pesquisa.
 
    * **[!UICONTROL Business User Search:]** Pesquisa por publicações do Instagram pelo autor de entrada.
 
