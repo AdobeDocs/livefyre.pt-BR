@@ -7,6 +7,9 @@ title: Blog ao vivo
 uuid: 40ae3120-c630-440e-b224-49cd99677dc2
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 O Live Blog permite que seus autores e editores postem atualizações em tempo real, transformando seu site em uma fonte de notícias envolvente.
 
-As publicações da sua equipe, repletas de imagens, vídeo, áudio e conteúdo incorporado, tornam-se a fonte de novas conversas e encadeamentos. O Live Blog é perfeito quando implantado para revelações de produtos, programas de premiação e eventos esportivos.
+As publicações da sua equipe, repletas de imagens, vídeo, áudio e conteúdo incorporado, tornam-se a fonte de novas conversas e encadeamentos. O Live Blog é perfeito quando implantado para revelações de produtos, programas de prêmios e eventos esportivos.
 
 O Blog ao vivo é diferente dos Comentários das seguintes maneiras:
 
