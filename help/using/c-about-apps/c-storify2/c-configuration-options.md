@@ -7,6 +7,9 @@ title: Opções de configuração
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +22,11 @@ Escolha as opções de configuração Estilo, Exibição e Envolvimento do usuá
 
 * **[!UICONTROL Theme]**
 
-   Selecione **Claro** ou **Escuro** para definir a cor do plano de fundo para o conteúdo exibido. As alterações feitas nessa configuração serão refletidas imediatamente na visualização à direita. Essa configuração controla a seleção da cor do plano de fundo, do texto do conteúdo, do identificador do usuário, do carimbo de data e hora, do botão de compartilhamento e do ícone social do aplicativo.
+   Selecione **Claro** ou **Escuro** para definir a cor de fundo para o conteúdo apresentado. As alterações feitas nessa configuração serão refletidas imediatamente na pré-visualização à direita. Essa configuração controla a seleção da cor do plano de fundo, do texto do conteúdo, do identificador do usuário, do carimbo de data e hora, do botão de compartilhamento e do ícone social do aplicativo.
 
 * **[!UICONTROL Brand color]**
 
-   Selecione uma cor para seu aplicativo. Essa cor será usada para hashtags, URLs, nomes de usuário, @menções, gráficos de barra e outros componentes específicos do aplicativo, conforme exibido no painel de visualização à direita.
+   Selecione uma cor para seu aplicativo. Essa cor será usada para hashtags, URLs, nomes de usuário, @menções, gráficos de barra e outros componentes específicos do aplicativo, conforme exibido no painel pré-visualização à direita.
 
 * **[!UICONTROL Font family]**
 
@@ -41,7 +44,7 @@ Escolha as opções de configuração Estilo, Exibição e Envolvimento do usuá
 
 * **[!UICONTROL Byline]**
 
-   Se ativado, você pode selecionar se deseja listar o nome do autor original ou um nome de grupo como o título da sua história.
+   Se ativado, você pode selecionar se deseja lista no nome do autor original ou no nome de um grupo como o título da sua história.
 
    >[!NOTE]
    >
@@ -49,7 +52,7 @@ Escolha as opções de configuração Estilo, Exibição e Envolvimento do usuá
 
 * **[!UICONTROL Byline type]**
 
-   Se **[!UICONTROL Byline]** estiver ativado, esse menu suspenso permitirá que você selecione o tipo de byline a ser exibido: linha de identificação do grupo ou linhas de identificação individuais. Use o campo abaixo **[!UICONTROL Byline type]** para inserir o texto a ser exibido como linha de bytes.
+   Se **[!UICONTROL Byline]** estiver ativado, esse menu suspenso permitirá que você selecione o tipo de linha de bytes a ser exibido: linha de identificação do grupo ou linhas de identificação individuais. Use o campo abaixo **[!UICONTROL Byline type]** para inserir o texto a ser exibido como linha de bytes.
 
    >[!NOTE]
    >
@@ -67,7 +70,7 @@ Escolha as opções de configuração Estilo, Exibição e Envolvimento do usuá
 
 * **[!UICONTROL Users may share posts]**
 
-   Se ativada, os usuários podem compartilhar sua história no Twitter ou Facebook. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
+   Se ativada, os usuários podem compartilhar sua história no Twitter ou Facebook. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
 
 * **[!UICONTROL Users may add sidenotes]**
 
