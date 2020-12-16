@@ -7,6 +7,9 @@ title: Arquitetura
 uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '443'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Esta seção fornece uma visão geral da Livefyre Network Architecture.
 
 ## Visão geral de redes e sites
 
-O Livefyre organiza usuários e conteúdo por rede e site. Cada rede pode ter uma ou mais contas de usuário associadas a ela e cada rede pode incluir um ou mais sites do Livefyre. Um site do Livefyre é um agrupamento arbitrário de coleções. Uma coleção mapeia para uma ID de artigo no CMS.
+O Livefyre organiza usuários e conteúdo por rede e site. Cada rede pode ter uma ou mais contas de usuário associadas a ela, e cada rede pode incluir um ou mais sites do Livefyre. Um site do Livefyre é um agrupamento arbitrário de coleções. Uma coleção mapeia para uma ID de artigo no CMS.
 
 ## Noções básicas sobre redes {#section_hqt_4m4_xz}
 
@@ -41,20 +44,20 @@ Um site é um agrupamento arbitrário de artigos. O agrupamento é útil, pois p
 
 ## Diagrama de sequência do aplicativo {#section_mw2_lm4_xz}
 
-Quer você queira implementar uma função personalizada com pontos de extremidade fornecidos pelo Livefyre, ou simplesmente precise depurar um problema, isso ajuda a entender como o fluxo de solicitação/resposta do aplicativo Livefyre funciona.
+Quer você esteja tentando implementar uma função personalizada com pontos de extremidade fornecidos pelo Livefyre, ou simplesmente precise depurar um problema, isso ajuda a entender como o fluxo de solicitação/resposta do aplicativo Livefyre funciona.
 
 ![](assets/appsequencediagram.png)
 
 1. Quando seu cliente acessa seu site, instancie o aplicativo Livefyre com a ID do site e a ID do artigo.
-1. Se desejar autenticar o usuário (valioso para a avaliação de tráfego, bem como para a proteção do site), envie ao Livefyre as informações do site e o token do Perfil do usuário.
+1. Se desejar autenticar o usuário (valioso para a avaliação de tráfego, bem como para a proteção do site), envie ao Livefyre as informações do site e o token de Perfil do usuário.
 1. Envie o Livefyre para a ID do site e a ID do artigo para inicializar o aplicativo.
 
    Livefyre retorna o conteúdo inicial.
 
    Envie este conteúdo para a página e exiba o aplicativo.
 
-1. Para atualizar o conteúdo exibido na página, envie o Livefyre para a ID de evento mais recente da sua página. Se algum novo conteúdo estiver disponível, ele será retornado.
+1. Para atualizar o conteúdo exibido na página, envie o Livefyre para a ID de Evento mais recente da sua página. Se algum novo conteúdo estiver disponível, ele será retornado.
 
    Recarregue sua página com novo conteúdo e repita o processo indefinidamente.
 
-1. Se você permitir que os usuários publiquem novo conteúdo, dispare um evento quando novo conteúdo for publicado em seu site para publicá-lo no Livefyre. O Livefyre retornará um fluxo atualizado, que pode ser usado para atualizar seu site.
+1. Se você permitir que os usuários publiquem novo conteúdo, dispare um evento quando novo conteúdo for publicado em seu site para postá-lo no Livefyre. O Livefyre retornará um fluxo atualizado, que pode ser usado para atualizar seu site.
