@@ -49,7 +49,7 @@ ht-degree: 7%
       + [Mapa](c-about-apps/c-map-app/c-map-app.md)
       + [Recursos do mapa](c-about-apps/c-map-app/r-map-features.md)
       + [Personalizações do mapa](c-about-apps/c-map-app/r-map-customizations.md)
-   + Mídia {#mediawall}
+   + Media Wall {#mediawall}
       + [Mídia](c-about-apps/c-media-wall-app/c-media-wall-app.md)
       + [Recursos do Media Wall](c-about-apps/c-media-wall-app/r-media-wall-features.md)
       + [Personalizações do mural de mídia](c-about-apps/c-media-wall-app/r-media-wall-customizations.md)
@@ -62,7 +62,7 @@ ht-degree: 7%
       + [Adicionar uma pesquisa a um aplicativo de blog ao vivo ou Comentários](c-about-apps/c-polls-app/t-integrate-poll-site.md)
       + [Adicionar imagens a uma pesquisa](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
       + [Personalizações das pesquisas](c-about-apps/c-polls-app/r-polls-customizations.md)
-   + Resenhas {#reviews}
+   + Revisões {#reviews}
       + [Resenhas](c-about-apps/c-reviews-app/c-reviews-app.md)
       + [Criação de um aplicativo de revisões](c-about-apps/c-reviews-app/c-creating-reviews.md)
       + [Publicar uma revisão](c-about-apps/c-reviews-app/t-using-reviews.md)
@@ -153,7 +153,7 @@ ht-degree: 7%
    + Compartilhamento em redes sociais {#social-sharing}
       + [Compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Configuração do compartilhamento em redes sociais](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
-   + Recursos de classificação {#sort-features}
+   + Classificar recursos {#sort-features}
       + [Recursos de classificação](c-features-livefyre/c-sort-features-composite/c-sort-features-composite.md)
       + [Principais comentários](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
       + [Threads instantâneos](c-features-livefyre/c-sort-features-composite/c-hot-threads.md)
@@ -191,7 +191,7 @@ ht-degree: 7%
    + [Usar o Adobe Experience Manager Livefyre com o Hootsuite](c-library/c-hootsuite-livefyre.md)
    + [Use o Adobe Experience Manager Livefyre com o Adobe Target](c-library/livefyre-target.md)
    + [Usar o Adobe Launch Livefyre Extension](c-library/launch-extension.md)
-+ Fluxos {#streams}
++ Streams {#streams}
    + [Fluxos](c-streams/c-streams.md)
    + [Criar um novo fluxo](c-streams/t-create-a-new-stream.md)
    + [Adicionar regras para o seu fluxo](c-streams/t-add-rules-for-your-stream.md)
@@ -216,7 +216,7 @@ ht-degree: 7%
    + [Histórico da Atividade de Direitos da visualização](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gerenciar conteúdo com solicitações de direitos pendentes na biblioteca de ativos](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Conceder ou revogar manualmente direitos para um ativo da biblioteca de ativos](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ Usuários: Gerenciamento de usuários do Studio e do Livefyre Network {#users-managing}
++ Usuários: Gerenciando usuários do Studio e do Livefyre Network {#users-managing}
    + [Usuários: Gerenciamento de usuários do Studio e do Livefyre Network](c-users/c-users.md)
    + [Procurar usuários](c-users/t-search-for-users.md)
    + [Exibindo Detalhes da Conta](c-users/c-viewing-account-details.md)
@@ -259,14 +259,14 @@ ht-degree: 7%
       + [userPrivacyOptOut](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Notas de versão {#release-notes}
    + [Notas de versão mais recentes](c-rn/c-rn.md)
-   + Release Notes 2019 {#rn2019}
+   + Notas de versão 2019 {#rn2019}
       + [21 de março de 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-21.md)
       + [14 de março de 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-14.md)
       + [21 de fevereiro de 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-21.md)
       + [7 de fevereiro de 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-7.md)
       + [31 de janeiro de 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-31.md)
       + [17 de janeiro de 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-17.md)
-   + Release Notes 2018 {#rn2018}
+   + Notas de versão 2018 {#rn2018}
       + [18 de dezembro de 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-18.md)
       + [13 de dezembro de 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-13.md)
       + [15 de novembro de 2018](c-rn/previous-rns/rn2018/c-rn-2018-november-15.md)
@@ -287,7 +287,7 @@ ht-degree: 7%
       + [15 de fevereiro de 2018](c-rn/previous-rns/rn2018/c-rn-2018-february-15.md)
       + [1 de fevereiro de 2018](c-rn/previous-rns/rn2018/c-2018-february-1.md)
       + [18 de janeiro de 2018](c-rn/previous-rns/rn2018/c-rn-2018-january-18.md)
-   + Release Notes 2017 {#rn2017}
+   + Notas de versão 2017 {#rn2017}
       + [16 de novembro de 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-16.md)
       + [2 de novembro de 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-2.md)
       + [19 de outubro de 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-19.md)
