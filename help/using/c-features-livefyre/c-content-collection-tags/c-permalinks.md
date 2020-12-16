@@ -7,6 +7,9 @@ title: Permalinks
 uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '246'
+ht-degree: 1%
 
 ---
 
@@ -17,17 +20,17 @@ Use seu encurtador de URL bit.ly para personalizar permissões de conteúdo.
 
 Os pré-links permitem que você se vincule a comentários ou conteúdo arquivados em seus fluxos. Para ativar este recurso, o Livefyre usa um formato de URL padrão:** fyre.it**. Esse formato pode ser personalizado para corresponder ao seu formato bit.ly padrão.
 
-## Tela Permalink {#section_mxd_wwg_wy}
+## Exibição de link perfeito {#section_mxd_wwg_wy}
 
-Se os usuários clicarem em um permalink de uma rede social para um aplicativo de conteúdo do Livefyre, eles serão direcionados para o fluxo de conteúdo do Livefyre. O conteúdo será exibido em uma exibição de sessão de grupo do fluxo, logo abaixo do editor, com o contexto completo exibido. Uma linha azul será mostrada abaixo do avatar para o conteúdo permitido. (Essa linha azul desaparecerá após alguns segundos.)
+Se os usuários clicarem em um permalink de uma rede social para um aplicativo de conteúdo do Livefyre, eles serão direcionados para o fluxo de conteúdo do Livefyre. O conteúdo será exibido em uma visualização de sessão de grupo do fluxo, logo abaixo do editor, com o contexto completo exibido. Uma linha azul será mostrada abaixo do avatar para o conteúdo permalinizado. (Essa linha azul desaparecerá após alguns segundos.)
 
-(Se o conteúdo permitido for excluído, uma mensagem para esse efeito será exibida na exibição de sessão de grupo.)
+(Se o conteúdo permitido for excluído, uma mensagem para esse efeito será exibida na visualização de sessão de grupo.)
 
 ## Permalinks personalizados {#section_uyn_5wg_wy}
 
 Se quiser criar permissões personalizadas para comentários ao compartilhar conversas, você pode usar sua conta Bitly, em vez do URL padrão encurtado Livefyre (fyre.it). Usar sua conta Bitly ajudará a lembrar os usuários de que eles visitarão o conteúdo do seu site ao clicar em um permalink.
 
-Para implementar esse recurso, acesse **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** e insira sua Chave de API Bitly e seu nome de usuário.
+Para implementar esse recurso, vá até **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** e digite sua Chave de API Bitly e seu nome de usuário.
 
 >[!NOTE]
 >
