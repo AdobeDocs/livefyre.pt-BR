@@ -7,6 +7,9 @@ title: Notas de versão
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 11%
 
 ---
 
@@ -21,4 +24,4 @@ source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
 
 ## Correções de erros
 
-* Correção de um problema em que o conteúdo marcado pelo Recommendations de moderação como *truncado* não era exibido ao tentar exibir todo o conteúdo, incluindo o conteúdo com lixeira.
+* Correção de um problema em que o conteúdo marcado pelo Moderation Recommendations como *trash* não era exibido ao tentar visualização de todo o conteúdo, incluindo o conteúdo com trash.
