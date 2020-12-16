@@ -7,6 +7,9 @@ title: Selecionar conteúdo para recurso de um aplicativo
 uuid: 48d2f7b2-c3bf-4a9a-b368-a195fabadb50
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
@@ -16,4 +19,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Inclua ou exclua o conteúdo diretamente de um aplicativo.
 
 1. Em um aplicativo, passe o mouse sobre o conteúdo que você deseja incluir.
-1. Clique em **[!UICONTROL Feature]** para incluir o conteúdo ou **[!UICONTROL Unfeature]** para parar de exibi-lo.
+1. Clique em **[!UICONTROL Feature]** para incluir o conteúdo ou **[!UICONTROL Unfeature]** para parar de incluir esse conteúdo.
