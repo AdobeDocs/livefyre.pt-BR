@@ -6,15 +6,18 @@ solution: Experience Manager
 title: Notas de versão do Livefyre para 21 de março de 2019
 translation-type: tm+mt
 source-git-commit: 8dfd0ba4f1c0097f7e42818fa5c1ca81f3a77394
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 5%
 
 ---
 
 
-# Notas de versão da atualização de 21 de março de 2019
+# Notas de versão para a atualização de 21 de março de 2019
 
 >[!NOTE]
 >
->O Livefyre estará desativando o HTTP (porta 80) em nosso ambiente de produção na quinta-feira, 23 de maio.  Isso concluirá as atualizações de segurança em conformidade com os Padrões de segurança da Adobe.  Entre em contato com [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) se tiver problemas com a integração.
+>O Livefyre desativará o HTTP (porta 80) no nosso ambiente de produção na quinta-feira, 23 de maio.  Isso concluirá as atualizações de segurança em conformidade com os Padrões de segurança do Adobe.  Entre em contato com [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) se tiver problemas com sua integração.
 
 ## Aprimoramentos
 
@@ -23,4 +26,4 @@ source-git-commit: 8dfd0ba4f1c0097f7e42818fa5c1ca81f3a77394
 
 ## Correções de erros
 
-* Correção de um problema em que as publicações "Indefinidas" do Instagram no ModQ não podiam ser removidas.
+* Correção de um problema em que as publicações &quot;Indefinidas&quot; do Instagram no ModQ não podiam ser removidas.
