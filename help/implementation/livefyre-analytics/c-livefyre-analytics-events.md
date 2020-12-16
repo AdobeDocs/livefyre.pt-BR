@@ -1,6 +1,6 @@
 ---
 description: 'null'
-seo-description: 'null'
+seo-description: nulo
 seo-title: Eventos do Livefyre Analytics
 solution: Experience Manager
 title: Eventos do Livefyre Analytics
@@ -47,7 +47,7 @@ O código a seguir define os campos no objeto de evento que são recebidos pelo 
 
 ## Eventos e eVars do Livefyre Analytics {#section_u3k_tft_mcb}
 
-Os seguintes eventos do Livefyre para mapear para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Conjuntos de relatórios no Adobe Analytics, consulte Gerenciador [de conjuntos de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)relatórios. Para obter mais informações sobre como usar eventos Livefyre com o Gerenciador de conjunto de relatórios, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+Os seguintes eventos do Livefyre para mapear para eventos personalizados a serem usados em relatórios usando o Gerenciador de conjunto de relatórios. Para obter mais informações sobre Conjuntos de relatórios no Adobe Analytics, consulte [Gerenciador de conjuntos de relatórios](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html). Para obter mais informações sobre como usar eventos Livefyre com o Gerenciador de conjunto de relatórios, consulte [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
 
 ## Eventos do Livefyre Analytics
 
@@ -100,7 +100,7 @@ A seguir está uma lista de variáveis de conversão (eVars) fornecida pelo Live
 
 Para obter mais informações sobre os tópicos discutidos nesta página, consulte:
 
-* [Report Suite](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [Report Suite ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
 * [Regras](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
