@@ -7,6 +7,9 @@ title: Rastreamento de referência
 uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 2%
 
 ---
 
@@ -19,13 +22,13 @@ Livefyre anexa uma variável de referência ao URL quando um comentário é publ
 
 Os aplicativos Livefyre permitem rastrear fluxos de dados resultantes do tráfego de referência, permitindo que você analise o tráfego do site.
 
-## Rastreamento do tráfego de referência do Livefyre {#section_nsy_qp4_xz}
+## Rastrear o tráfego de referência do Livefyre {#section_nsy_qp4_xz}
 
-O tráfego de referência do Livefyre de redes sociais e e-mails pode ser rastreado inspecionando os parâmetros da string de consulta nos URLs de suas páginas e implementando o código na sua página para rastrear isso por meio do provedor de análises. Livefyre anexa um link de referência ao URL quando um comentário é publicado ou compartilhado em uma rede social e para permalinks incluídos nos emails do Livefyre.
+O tráfego de referência do Livefyre de redes sociais e e-mails pode ser rastreado inspecionando os parâmetros da sequência de caracteres do query nos URLs de suas páginas e implementando o código na sua página para rastrear isso por meio do seu provedor de análises. Livefyre anexa um link de referência ao URL quando um comentário é publicado ou compartilhado em uma rede social e para permalinks incluídos nos emails do Livefyre.
 
 ## Exemplo de implementação {#section_xvs_x44_xz}
 
-Se o tráfego for de uma notificação com transmissão por meio do StreamHub, haverá um parâmetro de string de consulta hubRefSrc com um valor de email, Facebook, Twitter, link ou permalink. O nome do parâmetro hubRefSrc pode ser configurado no nível da rede pela equipe de entrega do Livefyre.
+Se o tráfego for de uma notificação fornecida pelo StreamHub, haverá um parâmetro de string de query hubRefSrc com um valor de email, facebook, Twitter, link ou permalink. O nome do parâmetro hubRefSrc pode ser configurado no nível da rede pela equipe do delivery Livefyre.
 
 Para se integrar a uma plataforma de análise, sua página deve procurar o hubRefSrc na carga e registrar o tráfego se ele estiver presente.
 
