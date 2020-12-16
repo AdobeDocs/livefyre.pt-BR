@@ -1,19 +1,22 @@
 ---
-description: Livefyre mantém uma trilha de auditoria de sua atividade de direitos.
-seo-description: Livefyre mantém uma trilha de auditoria de sua atividade de direitos.
-seo-title: Exibir histórico de atividades de direitos
+description: Livefyre mantém uma pista de auditoria da sua atividade de direitos.
+seo-description: Livefyre mantém uma pista de auditoria da sua atividade de direitos.
+seo-title: Histórico da Atividade de Direitos da visualização
 solution: Experience Manager
-title: Exibir histórico de atividades de direitos
+title: Histórico da Atividade de Direitos da visualização
 uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 0%
 
 ---
 
 
-# Exibir histórico de atividades de direitos{#view-rights-activity-history}
+# Histórico da Atividade de Direitos da visualização{#view-rights-activity-history}
 
-Livefyre mantém uma trilha de auditoria de sua atividade de direitos.
+Livefyre mantém uma pista de auditoria da sua atividade de direitos.
 
 Livefyre rastreia:
 
@@ -30,8 +33,8 @@ Livefyre rastreia:
 1. Clique em **[!UICONTROL Library]** para acessar a Biblioteca de ativos.
 1. (Opcional) Adicione conteúdo às pastas usando a Pesquisa social.
 1. Abra uma pasta e clique em um conteúdo salvo do Twitter ou Instagram. Você pode ver onde o conteúdo se originou olhando para o ícone no conteúdo. Por exemplo, um conteúdo do Twitter tem o logotipo do Twitter.
-1. Clique no ícone de reticências exibido ao passar o mouse sobre o cartão de conteúdo para **[!UICONTROL More Options]**.
-1. Clique **[!UICONTROL Rights]** para abrir a **[!UICONTROL Rights options]** janela.
+1. Clique no ícone de reticências que é exibido quando você passa o mouse sobre o cartão de conteúdo para **[!UICONTROL More Options]**.
+1. Clique em **[!UICONTROL Rights]** para abrir a janela **[!UICONTROL Rights options]**.
 
-1. Veja o histórico em **[!UICONTROL Activity History]**.
+1. Visualização o histórico em **[!UICONTROL Activity History]**.
 
