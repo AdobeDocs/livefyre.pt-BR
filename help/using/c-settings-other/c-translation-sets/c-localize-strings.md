@@ -7,15 +7,18 @@ title: Localize sequências de caracteres
 uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '1996'
+ht-degree: 8%
 
 ---
 
 
-# Localize sequências de caracteres{#localize-strings}
+# Localize strings{#localize-strings}
 
 Personalização das strings dos aplicativos Livefyre.
 
-As strings de texto para a maioria dos elementos HTML em qualquer aplicativo Livefyre podem ser personalizadas. Isso proporciona a flexibilidade para alterar o texto de elementos HTML renderizados, como o botão "Publicar como", o texto "Contagem de comentários" ou o botão "Entrar", para qualquer string UTF-8 válida. Use esse recurso para adicionar personalidade à sua implementação do fluxo ou para localizar o idioma no aplicativo para sua base de usuários.
+As strings de texto para a maioria dos elementos HTML em qualquer aplicativo Livefyre podem ser personalizadas. Isso proporciona a flexibilidade para alterar o texto de elementos HTML renderizados, como o botão &quot;Publicar como&quot;, o texto &quot;Contagem de comentários&quot; ou o botão &quot;Entrar&quot;, para qualquer string UTF-8 válida. Use esse recurso para adicionar personalidade à sua implementação do fluxo ou para localizar o idioma no aplicativo para sua base de usuários.
 
 * Comentários, Bate-papo e Blog ao vivo
 
@@ -113,7 +116,7 @@ Permite que os usuários classifiquem o conteúdo retornado por idade ou popular
 |  | sortSeparator |  |  |
 |  | streamSorting | Carregando |
 |  | topCommentsContentNotFoundMsg | Ainda não há curtidas suficientes. |
-|  | hotThreadsContentNotFoundMsg | Ainda não há threads suficientes. |
+|  | hotThreadsContentNotFoundMsg | Ainda não há encadeamentos suficientes. |
 |  | streamRefreshMsg | Veja as novidades. |
 | Opções de rodapé | archiveHeaderTitle | Do arquivo |
 |  | archiveShowMore | Mostrar mais |
@@ -124,15 +127,15 @@ Permite que os usuários classifiquem o conteúdo retornado por idade ou popular
 
 ## Informações do conteúdo {#section_llv_yd4_xz}
 
-Lista as informações da publicação: nome de usuário, quaisquer tags de usuário aplicadas e tempo de publicação.
+Informações de publicação do Lista: nome de usuário, quaisquer tags de usuário aplicadas e tempo de postagem.
 
 ![](assets/strings_authorinfo-150x52.png)  ![](assets/strings_posttime-150x45.png)
 
 | Chave | Texto padrão | Autor |
 |---|---|---|
 |  | moderador | moderador |
-|  | hovercardViewProfile | Exibir perfil completo |
-| Informações da publicação | timeJustNow | agora mesmo |
+|  | hovercardViewProfile | Visualização Perfil completo |
+| Informações da postagem | timeJustNow | agora mesmo |
 |  | timeMinutsAgo | minuto atrás |
 |  | timeMinutosAgoPlural | minutos atrás |
 |  | timeHoursAgo | hora atrás |
@@ -181,7 +184,7 @@ Por padrão, disponível na parte superior da página para todos os usuários.
 
 ## Opções de resposta {#section_zvt_qd4_xz}
 
-Salvo indicação em contrário, disponível para todos os usuários conectados. Passe o mouse sobre um painel de conteúdo para acessar.
+Salvo indicação em contrário, disponível para todos os usuários conectados. Passe o mouse sobre um painel de conteúdo para acessá-lo.
 
 ![](assets/strings_banusermodal-150x36.png)
 
@@ -223,7 +226,7 @@ Salvo indicação em contrário, disponível para todos os usuários conectados.
 |  | flagEmail | Email |
 |  | flagEmailPlaceholder | you@example.com |
 |  | flagNotes | Notas |
-|  | flagNotesPlaceholder | Comece a digitar aqui... |
+|  | flagNotesPlaceholder | Start digitando aqui... |
 |  | flagConfirmButton | OK |
 |  | flagCancelButton | Cancelar |
 |  | flagConfirmationMessage | Sinalizar o comentário de %s como %s? |
@@ -242,7 +245,7 @@ Salvo indicação em contrário, disponível para todos os usuários conectados.
 |  | shareButtonText | Compartilhar |
 |  | sharePermalink | Permalink |
 |  | loadingPermalink | Carregando url curto... |
-|  | shareText | Acabei de publicar um comentário. Confira! |
+|  | shareText | Acabei de postar um comentário. Confira! |
 
 ![](assets/strings_sharemodal-150x59.png)
 
@@ -273,7 +276,7 @@ Salvo indicação em contrário, disponível para todos os usuários conectados.
 | Chave | Texto padrão |  |
 |---|---|---|
 | Editar modal | Disponível para administradores do Studio, gerentes de usuários ou moderadores |  |
-| @(@menção.) | &lt;/&gt;(Abre a janela html personalizada.) |  |
+| @(@menção.) | &lt;/>(Abre a janela html personalizada.) |  |
 |  | customHtmlDialogTitle(Aparece como o cabeçalho do modal.) | Adicionar HTML personalizado |
 
 ![](assets/strings_moderatoreditmodal-150x49.png)
@@ -303,7 +306,7 @@ Salvo indicação em contrário, disponível para todos os usuários conectados.
 
 ## Notificador de comentários {#section_qqt_pd4_xz}
 
-Se ativado, disponível na parte inferior da página para todos os aplicativos de conversa do Livefyre.
+Se ativado, disponível na parte inferior da página para todos os aplicativos de conversação do Livefyre.
 
 ![](assets/strings_notifier-150x112.png)
 
@@ -358,7 +361,7 @@ Traduza e personalize como as datas são exibidas nos cartões de conteúdo nos 
 | segundosAgo | {number} s |
 | secondAgoSingular | {number} s |
 
-## Mídia {#section_vwt_d5n_xz}
+## Media Wall {#section_vwt_d5n_xz}
 
 Strings disponíveis para o aplicativo Media Wall.
 
@@ -444,7 +447,7 @@ Strings disponíveis para pesquisas.
 | shareStringText | Acabei de votar em %s qual é o seu voto? |
 | pollClosedLabel | Esta pesquisa está atualmente fechada |
 
-## Identidade do Livefyre {#section_zc3_xvh_xz}
+## Livefyre Identity {#section_zc3_xvh_xz}
 
 Strings disponíveis para o Livefyre Identity.
 
@@ -461,7 +464,7 @@ Strings disponíveis para o Livefyre Identity.
 | completeAccount | Conta completa |
 | emailWhenAlguémReplies | Enviar e-mail quando alguém me responder |
 | emailCommentsIFollow | Enviar comentários por email em conversas que eu seguir |
-| emailSenttoResetPassword | Email enviado! Procure na sua caixa de entrada um link para redefinir a senha |
+| emailSenttoResetPassword | E-mail enviado! Procure na sua caixa de entrada um link para redefinir a senha |
 | emailVerificationSent | Verificação de email enviada |
 | firstName | Nome |
 | EsqueciSenha | Esqueceu a senha? |
@@ -488,7 +491,7 @@ Strings disponíveis para o Livefyre Identity.
 | lastName | Sobrenome |
 | livefyreAccount | Conta Livefyre |
 | localização | Localização |
-| loadingProfile | Carregando perfil |
+| loadingProfile | Carregando Perfil |
 | newPassword | Nova senha |
 | oldPassword | Senha antiga |
 | on | on |
@@ -502,11 +505,11 @@ Strings disponíveis para o Livefyre Identity.
 | profileNotificationnever | never |
 | recentComments | Comentários recentes |
 | redefinir | Reset |
-| resetPassword |  Redefinir senha |
+| resetPassword | Redefinir senha |
 | signIn | Conectar |
 | signInWith | Fazer logon com |
 | signInWithEmail | Fazer logon com email |
-| signUp | Inscrever-se |
+| signUp | Inscreva-se |
 | socialAccount | Conta social |
 | successPasswordChanged | Sucesso! Sua senha foi alterada e agora você está conectado |
 | termsAndConditions | Termos e condições |
@@ -523,7 +526,7 @@ Strings disponíveis para o Livefyre Identity.
 | fieldonlyaccept | O campo só aceita letras |
 | filesizemustbelessthan MB | O tamanho do arquivo deve ser menor que {#}MB |
 | invalidusernameorpassword | Nome de usuário ou senha inválidos |
-| minimumlength thofacter | Extensão Mínima de {#} caracteres |
+| minimumlength thofacter | Comprimento mínimo de {#} caracteres |
 | maximumlength thofcaracteres | Comprimento máximo de {#} caracteres |
 | havia um erro | Houve um erro |
 | este campo desnecessário | Esse campo é obrigatório. |
