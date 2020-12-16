@@ -7,6 +7,9 @@ title: SDKs móveis
 uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
@@ -38,17 +41,17 @@ Para otimizar para dispositivos móveis, o Livefyre limita o conjunto de recurso
 * Responder
 * Contagem de Listener
 * Contagem de comentários
-* Moderação pendente em linha
+* Moderação pendente embutida
 * Cartões
 * Principais comentários
 * Threads instantâneos
 * Comentários da fila
 
-Em Aplicativos Web móveis, clicar no nome de um autor abre informações de cartão de visitas em uma nova página.
+Em Aplicativos Web móveis, clicar no nome de um autor abre as informações do cartão de visitas em uma nova página.
 
 ## Livefyre Android SDK ou iOS SDK {#section_zdz_spb_11b}
 
-O Livefyre também fornece dois SDKs móveis: um iOS SDK e um Android SDK. Esses SDKs são wrappers em torno de nossos pontos finais HTTP, criados para fornecer um método mais fácil de enviar e receber dados. Nenhuma interface é fornecida com esses SDKs, permitindo maior flexibilidade com como o conteúdo é exibido e usado no aplicativo móvel.
+O Livefyre também fornece dois SDKs móveis: um SDK do iOS e um SDK do Android. Esses SDKs são wrappers em torno de nossos pontos de extremidade HTTP, criados para fornecer um método mais fácil de enviar e receber dados. Nenhuma interface é fornecida com esses SDKs, permitindo maior flexibilidade com a forma como o conteúdo é exibido e usado no aplicativo móvel.
 
 Os SDKs para Android e iOS são compatíveis com os seguintes recursos para Comentários, Blog ao vivo e Bate-papo:
 
