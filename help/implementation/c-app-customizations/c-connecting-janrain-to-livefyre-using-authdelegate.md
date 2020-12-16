@@ -6,15 +6,18 @@ title: Conectando Janrain ao Livefyre usando AuthDelegate
 uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 1%
 
 ---
 
 
 # Conectando Janrain ao Livefyre usando AuthDelegate{#connecting-janrain-to-livefyre-using-authdelegate}
 
-O Livefyre.required fornece um plug-in que permite que o auth escute o barramento do Backplane do Janrain.
+O Livefyre.required fornece um plug-in que permite que o auth escute o barramento do Backplane Janrain.
 
-Quando uma mensagem de identidade/login é transmitida no canal Backplane, auth.authenticate() será chamado para você com o token de Autenticação Livefyre do usuário. Você ainda deve implementar um AuthDelegate.
+Quando uma mensagem de identidade/login for transmitida no canal Backplane, auth.authenticate() será chamado para você com o token de Autenticação Livefyre do usuário. Você ainda deve implementar um AuthDelegate.
 
 ```
 Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory) { 
@@ -76,9 +79,9 @@ authDelegate.login = function(finishLogin) {
 
 Logout
 
-* **** endLogout: O retorno de chamada passado para o método de logon do delegado de autenticação.
+* **completeLogout:** o retorno de chamada passado para o método de logon do delegado de autenticação.
 
-* **** window.Backplane: Uma referência ao objeto Backplane.
+* **window.Backplane:** uma referência ao objeto Backplane.
 
 ```
 /** 
@@ -96,7 +99,7 @@ authDelegate.logout = function(finishLogout) {
 
 Editar perfil
 
-Isso pode vincular-se a qualquer parte do site que você gostaria que os usuários visitem para exibir sua própria página de perfil. Este exemplo apenas imprime o objeto do autor passado.
+Isso pode vincular a qualquer parte do site que você gostaria que os usuários visitem para visualização em sua própria página de perfis. Este exemplo apenas imprime o objeto do autor passado.
 
 ```
 /** 
@@ -108,9 +111,9 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-Exibir perfil
+Perfil visualização
 
-Como Editar perfil, isso deve vincular à página de um usuário diferente do usuário conectado no momento. Isso pode ser implementado como você desejar. Este exemplo simplesmente registra o parâmetro author no console.
+Como Editar Perfil, esse link deve ser vinculado à página de um usuário diferente do usuário conectado no momento. Isso pode ser implementado como você desejar. Este exemplo simplesmente registra o parâmetro author no console.
 
 ```
 /** 
