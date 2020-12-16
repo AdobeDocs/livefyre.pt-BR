@@ -6,6 +6,9 @@ title: 28 de setembro de 2017
 uuid: 496134d2-1c1e-4097-9af2-6ea65efeb8e2
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 
@@ -25,5 +28,5 @@ Notas de versão para a versão de 28 de setembro de 2017.
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | Biblioteca | Os arquivos carregados na biblioteca por um cliente serão automaticamente concedidos direitos. Este é um recurso útil quando os usuários ativaram o filtro "direitos exigidos concedidos" em seus aplicativos. |
+| Aprimoramento | Biblioteca | Os arquivos carregados na biblioteca por um cliente serão automaticamente concedidos direitos. Este é um recurso útil quando os usuários ativaram o filtro &quot;direitos exigidos concedidos&quot; em seus aplicativos. |
 
