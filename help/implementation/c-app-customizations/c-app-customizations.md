@@ -1,23 +1,26 @@
 ---
-description: Personalize as opções de exibição do aplicativo para corresponder à sua marca e estilo e adicionar funcionalidade personalizada.
-seo-description: Personalize as opções de exibição do aplicativo para corresponder à sua marca e estilo e adicionar funcionalidade personalizada.
+description: Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
+seo-description: Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
 seo-title: Personalizações do aplicativo
 solution: Experience Manager
 title: Personalizações do aplicativo
 uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
 
 # Personalizações do aplicativo{#app-customizations}
 
-Personalize as opções de exibição do aplicativo para corresponder à sua marca e estilo e adicionar funcionalidade personalizada.
+Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
 
 Disponível para Bate-papo, Comentários, Blog ao vivo, Revisões e Sidenotes.
 
-O Livefyre oferece várias maneiras pelas quais você pode alterar as opções de interação e exibição de seus aplicativos para se ajustar ao seu estilo e envolver seu público-alvo.
+O Livefyre oferta vários meios pelos quais você pode alterar a interação dos aplicativos e as opções de exibição para se adequar ao seu estilo e envolver sua audiência.
 
 >[!NOTE]
 >
@@ -35,7 +38,7 @@ O Livefyre oferece várias maneiras pelas quais você pode alterar as opções d
 
    Acione ações personalizadas quando os usuários interagirem com seu aplicativo Livefyre.
 
-* **Ouvir eventos de aplicativo**
+* **Ouvir Eventos do aplicativo**
 
    Use eventos JavaScript disponíveis para personalizar e rastrear ainda mais sua experiência de usuário.
 
