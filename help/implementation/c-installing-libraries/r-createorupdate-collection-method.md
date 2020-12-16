@@ -7,11 +7,14 @@ title: método de coleta createOrUpdate
 uuid: 1fff82d3-4b05-46a0-95ca-3eb4a6256cf8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
 
-# método de coleta createOrUpdate{#createorupdate-collection-method}
+# createOrUpdate Collection Method{#createorupdate-collection-method}
 
 Tenta criar ou atualizar esta coleção com o Livefyre. Retorna este objeto Collection.
 
@@ -21,7 +24,7 @@ Tenta criar ou atualizar esta coleção com o Livefyre. Retorna este objeto Coll
 collection.createOrUpdate(); 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 collection.createOrUpdate(callback); 
@@ -33,7 +36,7 @@ collection.createOrUpdate(callback);
 $collection->createOrUpdate();
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 collection.create_or_update() 
