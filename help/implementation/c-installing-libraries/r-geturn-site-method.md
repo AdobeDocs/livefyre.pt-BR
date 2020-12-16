@@ -7,6 +7,9 @@ title: Método do site getUrn
 uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
@@ -29,7 +32,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 site.getUrn(); 
@@ -53,7 +56,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 site.urn 
