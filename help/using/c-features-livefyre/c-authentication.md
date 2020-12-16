@@ -1,19 +1,22 @@
 ---
-description: Você pode escolher se e como os visitantes do site farão logon nos aplicativos.
-seo-description: Você pode escolher se e como os visitantes do site farão logon nos aplicativos.
+description: Você pode escolher se e como os visitantes do site serão conectados aos seus aplicativos.
+seo-description: Você pode escolher se e como os visitantes do site serão conectados aos seus aplicativos.
 seo-title: Recursos de autenticação
 solution: Experience Manager
 title: Recursos de autenticação
 uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 5%
 
 ---
 
 
 # Recursos de autenticação{#authentication-features}
 
-Você pode escolher se e como os visitantes do site farão logon nos aplicativos.
+Você pode escolher se e como os visitantes do site serão conectados aos seus aplicativos.
 
 Configure a autenticação usando livefyre.js. Para obter mais informações, consulte [Adicionar autenticação a um aplicativo usando Livefyre.js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
