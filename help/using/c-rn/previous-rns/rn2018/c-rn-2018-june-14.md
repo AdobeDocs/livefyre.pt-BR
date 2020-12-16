@@ -7,11 +7,14 @@ title: 14 de junho de 2018
 uuid: f1bba3af-2020-4dfc-9938-05b1183c30ab
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 
 
-# June 14, 2018{#june}
+# 14 de junho de 2018{#june}
 
 Notas de versão para a versão de 14 de junho de 2018.
 
@@ -46,7 +49,7 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
 | Bug | Biblioteca/pesquisa | Corrigido um problema no qual os vídeos do Instagram não eram exibidos corretamente na Pesquisa Social ou no Conteúdo do aplicativo. |
-| Bug | Tags inteligentes | Corrigido um problema no qual as tags inteligentes não eram exibidas para o conteúdo coletado do Instagram. |
+| Bug | Tags inteligentes | Correção de um problema em que as tags inteligentes não eram exibidas para o conteúdo coletado do Instagram. |
 
 ## Versão UAT
 
