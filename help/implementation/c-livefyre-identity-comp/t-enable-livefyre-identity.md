@@ -7,11 +7,14 @@ title: Ativar a identidade do Livefyre
 uuid: 9bb5e168-4596-42a7-9105-e09c65c5e3ae
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '115'
+ht-degree: 3%
 
 ---
 
 
-# Ativar a identidade do Livefyre{#enable-livefyre-identity}
+# Ativar Livefyre Identity{#enable-livefyre-identity}
 
 Ative o pacote Livefyre Identity para permitir que seus usuários façam logon em seus aplicativos Livefyre usando um email, Twitter, Facebook, Yahoo! ou login do Google.
 
