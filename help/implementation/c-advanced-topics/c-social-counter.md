@@ -7,13 +7,16 @@ title: Contador social
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '242'
+ht-degree: 10%
 
 ---
 
 
-# Contador social{#social-counter}
+# Contador Social{#social-counter}
 
-Conte o número de itens sociais com curadoria. Para obter uma lista completa dos pontos de extremidade disponíveis, consulte a seção Referência [da](https://api.livefyre.com/docs) API Livefyre.
+Conte o número de itens sociais com curadoria. Para obter uma lista completa dos pontos de extremidade disponíveis, consulte a seção Livefyre [API Reference](https://api.livefyre.com/docs).
 
 A API Contador Social retorna contagens de regras de curadoria correspondentes em uma determinada coleção para intervalos ao longo de um período de tempo.
 
@@ -33,17 +36,17 @@ API do contador social:
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **** networkName: Seu Livefyre forneceu o nome da rede. Por exemplo: *laboratórios* em `labs.fyre.co`.
-* **** consulta: O hash codificado em base64 para url de todo o site, a ID do artigo, os tuplos do tipo de regra para os quais as informações de contagem devem ser buscadas (pré-codificadas)
+* **networkName:** O seu Livefyre forneceu o nome da rede. Por exemplo: *labs* em `labs.fyre.co`.
+* **query:** o hash codificado em base64 seguro de url de todo o site, a ID do artigo, os tuplos do tipo de regra para os quais as informações de contagem devem ser buscadas (pré-codificadas)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >A consulta é limitada a 10 sites, ID de artigo, tuplas de tipo de regra. (O exemplo anterior contém 3 tuplas.)
+   >O query é limitado a 10 sites, ID de artigo, tuplas de tipo de regra. (O exemplo anterior contém 3 tuplas.)
 
-* **from** `(optional)` especifica o período de tempo relativo ou absoluto para gráfico; from especifica o início e o padrão é 24 horas atrás, se omitido.
+* **** `(optional)` form especifica o período de tempo relativo ou absoluto para gráfico; from especifica o início e o padrão é 24 horas atrás, se omitido.
 * **até** `(optional)` especificar o período de tempo relativo ou absoluto para o gráfico; até especificar o início e o padrão para a hora atual (agora), se omitido.
 
 ### Tempo relativo
@@ -90,7 +93,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Exemplo:
 
-Para obter contagens no último minuto para a ID do site `123456` e do artigo `some-article-id` e tipo de regra `2`, por exemplo: `123456:some-article-id;2:`
+Para obter contagens no último minuto para o site `123456` e a ID do artigo `some-article-id` e o tipo de regra `2`, por exemplo: `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
