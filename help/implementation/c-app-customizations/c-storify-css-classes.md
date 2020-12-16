@@ -7,6 +7,9 @@ title: Storify CSS Classes
 uuid: 168a0db0-a209-417a-ba91-a33b4d411c8d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '389'
+ht-degree: 2%
 
 ---
 
@@ -41,17 +44,17 @@ Permite personalizar a seção de cabeçalho para a página de história.
 | .super-conector | Cabeçalho principal |
 | .external-header | Linha de cabeçalho principal 1 |
 | .s-countdown | Temporizador de contagem regressiva da linha de cabeçalho principal 1 |
-| .s-vida | Status "Online" da linha de cabeçalho principal 1 |
+| .s-vida | Status &quot;Ao vivo&quot; da linha de cabeçalho principal 1 |
 | .base-header | Linha de cabeçalho principal 2 |
 | .s-menu suspenso | Linha de cabeçalho principal 2 Classificar gatilho suspenso. |
 | .s-menu suspenso | Linha de cabeçalho principal 2 Menu suspenso Classificar. |
 | .s-dropdown-triangle | Linha de cabeçalho principal 2 Classificar o menu suspenso. |
 | .s-opção suspensa | Linha do cabeçalho principal 2 Item do menu suspenso Classificar. |
-| .s-views | Número de exibições da linha de cabeçalho principal 2. |
+| .s-visualização | Número de visualizações da linha de cabeçalho principal 2. |
 | Botão .s-share | Botão Compartilhar linha de cabeçalho principal 2. |
 | .s-share-menu | Linha de cabeçalho principal 2 Menu Compartilhar. |
 
-## Elementos de publicação {#section_lrs_fsh_xz}
+## Elementos de postagem {#section_lrs_fsh_xz}
 
 Permite que você personalize o estilo para os elementos da história da publicação.
 
@@ -59,20 +62,20 @@ Permite que você personalize o estilo para os elementos da história da publica
 
 | **Classe** | **Descrição** |
 |---|---|
-| .s-liveblog | Contêiner para todo o elemento da história |
-| .s-post | O contêiner posterior |
-| .s-modal-content | Contêiner pós-modal |
+| .s-liveblog | Container para todo o elemento da história |
+| .s-post | O container post |
+| .s-modal-content | Container pós-modal |
 | .s-element-content | Todos os elementos de conteúdo dentro de uma publicação |
 | .s-element-text ul | Elemento de texto |
 | .s-element-text h2 | Título do elemento de texto |
 | .s-element-text p | Parágrafo do elemento de texto |
-| .s-element-text ul | Lista desordenada do elemento de texto |
-| .s-element-text ol | Lista ordenada de elementos de texto |
-| .s-element-text li | Itens de lista de elementos de texto |
+| .s-element-text ul | Lista não ordenada do elemento de texto |
+| .s-element-text ol | Lista ordenada do elemento de texto |
+| .s-element-text li | Itens de lista do elemento de texto |
 | .s-element-text blockquote | Cota |
 | .s-element-text blockquote:before | O ícone para o início de uma citação bloqueada |
 | .s-element-text blockquote:after | O ícone para o final de uma citação bloqueada |
-| .s-element-image | Contêiner de elemento de imagem embutido |
+| .s-element-image | Container de elemento de imagem incorporado |
 | .s-img | `<img>` elemento |
 | .s-image-caption | Legenda para imagens e vídeos encontrados nas redes sociais (ex: Imagem do Instagram) |
 | .s-upload-image-caption | Legenda para imagens e vídeos carregados por meio do Editor de matérias |
@@ -80,7 +83,7 @@ Permite que você personalize o estilo para os elementos da história da publica
 | .s-element-quote | Elemento de citação (ex: Tweetar com apenas texto) |
 | .s-element-quote-image | Cotação com elemento de imagem (ex: Tweet com imagem) |
 | .s-element-quote-video | Citação com elemento de vídeo (ex: Tweet com vídeo) |
-| .s-link-body | Visualização de link dentro de uma citação (ex: Tweetar com visualização de link) |
+| .s-link-body | Vincular pré-visualização dentro de uma citação (ex: Tweet com pré-visualização de link) |
 
 ## Elementos de rodapé {#section_ozc_zrh_xz}
 
@@ -92,4 +95,4 @@ Permite personalizar a seção de rodapé para cada publicação individual.
 |---|---|
 | .s-post-footer | O rodapé da postagem. |
 | .s-sidenotes a | O botão Sidenotes no rodapé da postagem. |
-| .s-like | O botão "Curtir" no rodapé da publicação. |
+| .s-like | O botão &quot;Curtir&quot; no rodapé da postagem. |
