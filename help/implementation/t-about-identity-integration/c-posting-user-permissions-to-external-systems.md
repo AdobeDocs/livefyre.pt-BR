@@ -14,7 +14,7 @@ ht-degree: 4%
 ---
 
 
-# Contabilização de permissões de usuário para sistemas externos (opcional){#posting-user-permissions-to-external-systems-optional}
+# Postando permissões de usuário em sistemas externos (opcional){#posting-user-permissions-to-external-systems-optional}
 
 O Livefyre usa uma interface PUSH para enviar informações externas do sistema sobre alterações nas permissões do usuário.
 
@@ -28,7 +28,7 @@ O Livefyre usa uma interface PUSH para enviar informações externas do sistema 
 | none | Este usuário é padrão e não tem permissões especiais. |
 | difusão | Este usuário foi proibido de participar de qualquer conversa. |
 
-Para postar permissões de usuário em sistemas externos, você deve registrar um URL que receba dados de permissões como solicitações POST.
+Para postar permissões de usuário em sistemas externos, você deve registrar um URL que receba dados de permissões como solicitações de POST.
 
 Por exemplo:
 
@@ -49,4 +49,4 @@ O URL registrado deve aceitar POSTs com os seguintes dados como tipo de conteúd
 | jid | JID do usuário cuja afiliação foi alterada. Um JID é uma string do formulário `user_id@network`. |
 | filiação | Nome das permissões atribuídas, que devem ser uma das seguintes:  `{admin | member | none | outcast | owner}` |
 
-Para obter informações adicionais sobre como atualizar as configurações de afiliação do usuário, consulte a Referência [da API](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post)Adicionar afiliação de usuário.
+Para obter informações adicionais sobre a atualização das configurações de afiliação do usuário, consulte [Adicionar referência da API de afiliação do usuário](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post).
