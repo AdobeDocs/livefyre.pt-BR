@@ -7,6 +7,9 @@ title: Personalizações do Live Blog
 uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
 
@@ -49,7 +52,7 @@ Use o Live Blog para publicar atualizações em tempo real de histórias em anda
 
 * **[!UICONTROL Users can reply to posts]**
 
-   Se ativado, os usuários podem responder às publicações do Blog ao vivo.
+   Se ativado, os usuários podem responder às postagens do Blog ao vivo.
 
 * **[!UICONTROL Users may upload photos]**
 
@@ -57,11 +60,11 @@ Use o Live Blog para publicar atualizações em tempo real de histórias em anda
 
 * **[!UICONTROL Users may share comments]**
 
-   Se ativados, os usuários podem compartilhar conteúdo publicado no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
+   Se ativados, os usuários podem compartilhar conteúdo publicado no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
 
 Você pode personalizar o Live Blog usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
 
 * Ferramentas de integração. Consulte Blog ao vivo para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
 
