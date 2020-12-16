@@ -7,6 +7,9 @@ title: Separa strings de texto
 uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '501'
+ht-degree: 12%
 
 ---
 
@@ -15,9 +18,16 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 Personalização das strings de texto para Livefyre Sidenotes
 
-Esta página lista e descreve todas as strings disponíveis para personalização em aplicativos Sidenotes. Para obter informações sobre strings disponíveis para os principais aplicativos Livefyre, consulte Personalizações de string.
+Esta página lista e descreve todas as sequências de caracteres disponíveis para personalização em aplicativos Sidenotes. Para obter informações sobre strings disponíveis para os principais aplicativos Livefyre, consulte Personalizações de string.
 
-ImplementaçãoAuthStream InfoAuthor / Content InfoAções do usuárioFunções de publicaçãoErros de interface do moderador
+Implementação
+Auth
+Informações de fluxo
+Informações do autor/conteúdo
+Ações do usuário
+Funções de publicação
+Interface do moderador
+Erros
 
 ## Implementação {#section_wp2_ql4_xz}
 
@@ -75,8 +85,8 @@ As strings estão disponíveis para informações de autor e conteúdo individua
 |  | commentVoteCountSing | voto |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | Uma matriz. Padrão =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto</span> e clique no <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou no <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
-|  | questionMockText | O que é "conhecido familiar" não é propriamente conhecido, apenas pelo fato de ser "familiar". |
+|  | questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto </span> e clique no  <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou no  <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
+|  | questionMockText | O que é &quot;conhecido familiar&quot; não é propriamente conhecido, apenas pelo fato de ser &quot;familiar&quot;. |
 |  | questionTitle | O que é um Sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}
@@ -95,7 +105,7 @@ Strings disponíveis para ações do usuário: marcar, compartilhar e curtir o c
 |  | menuFlagOptionOffTopic | Tópico desativado |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Sinalizar como... |
-|  | facebookShareCaption | Notas de identidade em "{title}" |
+|  | facebookShareCaption | Notas de identidade em &quot;{title}&quot; |
 | Opções do usuário móvel | sliderCommentTally | of |
 |  | sliderInviteRead | Lido |
 |  | sliderInviteWrite | Gravar |
@@ -118,7 +128,7 @@ Strings disponíveis para usuários que postam conteúdo.
 |  | editorPostagem | Postando… |
 |  | editorReplyBtn | Postar resposta |
 |  | editorReplyTitle | Gravar resposta |
-|  | editorTitle | Gravar Sidenote |
+|  | editorTitle | Gravar nota secundária |
 |  | emptyImageBlockTxt | O que você acha? |
 |  | emptyTextBlockTxt | + |
 |  | replyBtn | Responder |
