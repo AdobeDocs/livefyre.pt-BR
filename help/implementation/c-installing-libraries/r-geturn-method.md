@@ -7,6 +7,9 @@ title: Método de rede getUrn
 uuid: e525bc54-d4df-490f-bd6a-f524f7eff211
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '53'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +30,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 network.getUrn(); 
@@ -51,7 +54,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 network.urn 
