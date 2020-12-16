@@ -7,6 +7,9 @@ title: Contagem de Listener
 uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '316'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +23,7 @@ Contagem de ouvintes é o número de visitantes do site que têm um navegador ab
 A contagem de Listener de Livefyre funciona assim:
 
 1. O site que contém seu aplicativo faz ping em um servidor Livefyre a cada 60 segundos.
-1. O servidor Livefyre responde com o número de visitantes do site na página que exibe o aplicativo (definido como o número de visitantes do site com um navegador aberto para essa página).
+1. O servidor Livefyre responde com o número de visitantes do site na página que exibe o aplicativo (definido como o número de visitantes do site com um navegador aberto nessa página).
 1. O número de visitantes do site na página com o aplicativo é exibido no aplicativo.
 
 Aplicativos que usam este recurso:
@@ -31,13 +34,13 @@ Aplicativos que usam este recurso:
 
 ## Avatares do Listener {#section_wcn_kxp_vz}
 
-A contagem de ouvintes exibe no máximo 10 avatares e exibe avatares somente para as pessoas que clicaram **[!UICONTROL Follow]** na conversa.
+A contagem de ouvintes exibe no máximo 10 avatares e exibe apenas avatares para as pessoas que clicaram **[!UICONTROL Follow]** para a conversa.
 
 >[!NOTE]
 >
->Devido a restrições de espaço, a interface móvel exibe apenas o número de ouvintes e um pequeno ícone "pessoas".
+>Devido a restrições de espaço, a interface móvel exibe apenas o número de ouvintes e um pequeno ícone &quot;pessoas&quot;.
 
-A Contagem de ouvintes do Livefyre exibe o número de pessoas ativamente na página em um determinado momento, além do número de pessoas que seguem a conversa. Se alguém estiver na página e seguindo a conversa, esse usuário não será contado duas vezes. Por exemplo, se um usuário estiver em uma página e clicar **[!UICONTROL Follow]**, a contagem de ouvintes não aumentará; se esse usuário clicar **[!UICONTROL Unfollow]**, a contagem não diminuirá.
+A Contagem de ouvintes do Livefyre exibe o número de pessoas ativamente na página em um determinado momento, além do número de pessoas que seguem a conversa. Se alguém estiver na página e seguindo a conversa, esse usuário não será contado como duplo. Por exemplo, se um usuário estiver em uma página e clicar em **[!UICONTROL Follow]**, a contagem do listener não aumentará; se esse usuário clicar em **[!UICONTROL Unfollow]**, a contagem não diminuirá.
 
 Aplicativos que usam este recurso:
 
