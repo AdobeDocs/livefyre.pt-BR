@@ -1,19 +1,22 @@
 ---
-description: Personalize aplicativos de bate-papo para exibir conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que seu público-alvo converse em conversas em tempo real sobre eventos ao vivo ou anúncios.
-seo-description: Personalize aplicativos de bate-papo para exibir conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que seu público-alvo converse em conversas em tempo real sobre eventos ao vivo ou anúncios.
+description: Personalize aplicativos de bate-papo para exibir o conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que sua audiência participe de conversas em tempo real sobre eventos ao vivo ou anúncios.
+seo-description: Personalize aplicativos de bate-papo para exibir o conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que sua audiência participe de conversas em tempo real sobre eventos ao vivo ou anúncios.
 seo-title: Personalizações do bate-papo
 solution: Experience Manager
 title: Personalizações do bate-papo
 uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '259'
+ht-degree: 0%
 
 ---
 
 
-# Personalizações do bate-papo{#chat-customizations}
+# Personalizações de bate-papo{#chat-customizations}
 
-Personalize aplicativos de bate-papo para exibir conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que seu público-alvo converse em conversas em tempo real sobre eventos ao vivo ou anúncios.
+Personalize aplicativos de bate-papo para exibir o conteúdo como um fluxo contínuo de bate-papo não segmentado, permitindo que sua audiência participe de conversas em tempo real sobre eventos ao vivo ou anúncios.
 
 
 
@@ -45,15 +48,15 @@ Essas opções estão disponíveis no aplicativo de bate-papo:
 
 * **[!UICONTROL Users may share comments]**
 
-   Se ativados, os usuários podem compartilhar comentários postados no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações &gt; Configurações de integração &gt; Compartilhamento em redes sociais.
+   Se ativados, os usuários podem compartilhar comentários postados no Twitter, Facebook ou LinkedIn. Para obter mais informações sobre como ativar o compartilhamento, consulte Configurações > Configurações de integração > Compartilhamento em redes sociais.
 
 * **[!UICONTROL Additional sort option]**
 
-   Permite que você ofereça opções de classificação para seus usuários finais:*** [!UICONTROL Most liked]** ou **[!UICONTROL Most active]**.
+   Permite que você oferta opções de classificação para seus usuários finais:** [!UICONTROL Most liked]** ou **[!UICONTROL Most active]**.
 
 Você pode personalizar o bate-papo usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
 
 * Ferramentas de integração. Consulte Bate-papo para obter mais informações sobre como personalizar o bate-papo usando as Ferramentas de integração.
 
