@@ -18,9 +18,9 @@ ht-degree: 0%
 
 Ao preparar conteúdo do Instagram, você deve seguir as diretrizes e práticas recomendadas.
 
-Você deve configurar uma conta *comercial do* Instagram para criar fluxos do Instagram de outra conta comercial específica do Instagram usando o **[!UICONTROL By Author]** campo. A conta de usuário que você identificar no **[!UICONTROL By Author]** campo deve ser uma conta comercial.
+Você deve configurar uma *conta de negócios do Instagram* para criar fluxos do Instagram de outra conta de negócios específica do Instagram usando o campo **[!UICONTROL By Author]**. A conta de usuário identificada no campo **[!UICONTROL By Author]** deve ser uma conta comercial.
 
-Para obter mais informações sobre como configurar uma conta comercial do Instagram no Livefyre, consulte [Sobre contas](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)do Instagram.
+Para obter mais informações sobre como configurar uma conta de negócios do Instagram no Livefyre, consulte [Sobre as contas do Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 O Instagram aplica as seguintes regras para obter conteúdo de sua plataforma:
 
@@ -41,4 +41,4 @@ A Instagram, assim como outras marcas, também tem requisitos para usar seus rec
 * Forneça atribuição ao Instagram e ao proprietário do conteúdo.
 * Seja claramente diferenciado do conteúdo de outras mídias sociais, se for exibido junto com os meios de comunicação de outras redes.
 
-Para obter mais informações, consulte o documento do Instagram: [Uso dos recursos](https://help.instagram.com/304689166306603)da marca do Instagram.
+Para obter mais informações, consulte o documento do Instagram: [Usando os ativos de marca do Instagram](https://help.instagram.com/304689166306603).
