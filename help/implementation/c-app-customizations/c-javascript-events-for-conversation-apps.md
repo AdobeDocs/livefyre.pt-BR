@@ -7,6 +7,9 @@ title: Eventos Javascript para aplicativos de conversa
 uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 73%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 
-## Matriz de aplicativos e eventos de conversa {#section_y4j_x4m_ybb}
+## Matriz de aplicativos e Eventos de conversa {#section_y4j_x4m_ybb}
 
-A seguir está uma matriz dos eventos disponíveis para aplicativos de conversa. Um X indica que o evento está disponível para o aplicativo, N/A indica que o evento não se aplica ao aplicativo, e nenhuma marcação significa que o evento não está disponível para esse aplicativo:
+A seguir está uma matriz dos eventos disponíveis para aplicativos de conversação. Um X indica que o evento está disponível para o aplicativo, N/A indica que o evento não se aplica ao aplicativo, e nenhuma marcação significa que o evento não está disponível para esse aplicativo:
 
 ### Eventos do aplicativo de conversa
 
