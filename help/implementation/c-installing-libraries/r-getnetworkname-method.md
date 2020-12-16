@@ -7,6 +7,9 @@ title: Método de Rede getNetworkName
 uuid: 3523e5a4-11f4-458d-91e7-a149d3afe5e9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '62'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +30,7 @@ Exemplo de saída:
 "example" 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 network.getNetworkName();
@@ -51,7 +54,7 @@ Exemplo de saída:
 "example" 
 ```
 
-## Exemplo de Python {#section_dwg_gds_rz}
+## Exemplo Python {#section_dwg_gds_rz}
 
 ```
 network.network_name; 
