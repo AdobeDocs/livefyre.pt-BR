@@ -7,11 +7,14 @@ title: Conteúdo agregado em destaque usando as APIs em destaque
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 
-# Conteúdo agregado em destaque usando as APIs em destaque{#aggregated-featured-content-using-the-featured-apis}
+# Conteúdo em destaque agregado usando as APIs em destaque{#aggregated-featured-content-using-the-featured-apis}
 
 O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
 
@@ -151,7 +154,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 }
 ```
 
-## Destaque (Site) {#section_lq5_ymw_xz}
+## Em destaque (Site) {#section_lq5_ymw_xz}
 
 Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) para o site de entrada. (Use a paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
 
@@ -253,7 +256,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 }
 ```
 
-## Em destaque (coleção) {#section_kgc_xmw_xz}
+## Em destaque (Coleção) {#section_kgc_xmw_xz}
 
 Retorna as 50 partes mais recentes do conteúdo em destaque (e seus autores) para a coleção de entrada. (Use a paginação para retornar todo o conteúdo, em vez de apenas os 50 mais recentes.)
 
@@ -355,7 +358,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Em destaque (cabeçalho) {#section_n4b_lmw_xz}
+## Em destaque (Head) {#section_n4b_lmw_xz}
 
 Retorna as duas partes de conteúdo em destaque mais recentemente para a coleção de entrada.
 
