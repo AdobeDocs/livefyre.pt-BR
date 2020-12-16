@@ -7,6 +7,9 @@ title: Métodos de classe de coleção
 uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +24,7 @@ Consulte os métodos de classe Site para obter instruções sobre como criar um 
 * [método de coleta buildCollectionMetaToken](#r_buildcollectionmetatoken_collection_method)
 * [método de coleta buildChecksum](#r_buildchecksum_collection_method)
 * [Método de coleta getCollectionContent](#t_getcollectioncontent_collection_method)
-* [Método de coleta getUrn](#r_geturn_collection_method)
+* [Método de Coleção getUrn](#r_geturn_collection_method)
 
 Cada um desses métodos está disponível para os seguintes tipos de código:
 
