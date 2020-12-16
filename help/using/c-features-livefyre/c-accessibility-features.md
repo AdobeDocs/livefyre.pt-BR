@@ -7,6 +7,9 @@ title: Recursos de acessibilidade
 uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -27,7 +30,7 @@ Livefyre enfatiza as seguintes áreas para garantir que a identidade e os aplica
    * Todos os links e conteúdo não textual têm rótulos ARIA exclusivos e texto alternativo
 * Apresentação:
    * O zoom do navegador pode ser usado sem quebrar a estrutura
-   * O conteúdo renderiza bem no nível de zoom de 200%
+   * O conteúdo é renderizado bem no nível de zoom de 200%
    * A relação de contraste de cor está igual ou superior ao padrão 4.5:1
    * Imagens, cartões, links e gráficos todos visíveis no modo de alto contraste
 
@@ -40,7 +43,7 @@ Para testar se um aplicativo está trabalhando com recursos de acessibilidade, v
 * Ative um leitor de tela (por exemplo, [Voiceover](https://www.apple.com/accessibility/mac/vision/) em um dispositivo Mac ou Apple ou [Narrador](https://www.microsoft.com/en-us/accessibility/windows) em um PC) para ler a página que contém o aplicativo em voz alta. Usar um leitor de tela verifica se o conteúdo está disponível
 
 * Pressione o aplicativo e tente usá-lo usando apenas o teclado para verificar se você pode acessar cada botão ou link de maneira lógica.
-* Altere o nível de zoom e as relações de contraste para ver se o conteúdo é renderizado de maneira legível e fácil de visualizar.
+* Altere o nível de zoom e as relações de contraste para ver se o conteúdo é renderizado de maneira legível e fácil de ser visualização.
 
 Aplicativos e recursos do Livefyre acessíveis:
 
