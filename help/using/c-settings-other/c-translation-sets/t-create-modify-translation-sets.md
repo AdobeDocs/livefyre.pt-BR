@@ -1,12 +1,15 @@
 ---
 description: 'null'
-seo-description: 'null'
-seo-title: Criar e modificar conjuntos de tradução
+seo-description: nulo
+seo-title: Criar e modificar conjuntos de traduções
 solution: Experience Manager
-title: Criar e modificar conjuntos de tradução
+title: Criar e modificar conjuntos de traduções
 uuid: 4ed559a3-d2f2-4977-9172-c9e0448dec74
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 2%
 
 ---
 
