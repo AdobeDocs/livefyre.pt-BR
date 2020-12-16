@@ -1,21 +1,24 @@
 ---
-description: As revisões oferecem uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
-seo-description: As revisões oferecem uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
+description: Revisa as ofertas de uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
+seo-description: Revisa as ofertas de uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
 seo-title: Criação de um aplicativo de revisões
 solution: Experience Manager
 title: Criação de um aplicativo de revisões
 uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '731'
+ht-degree: 0%
 
 ---
 
 
 # Criação de um aplicativo de revisões{#creating-a-reviews-app}
 
-As revisões oferecem uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
+Revisa as ofertas de uma ampla variedade de personalizações, permitindo que você crie um aplicativo de revisão que atenda às suas necessidades e marcas.
 
-Use o aplicativo de revisões ao incorporá-lo personalizado ao seu site como um aplicativo JS. Não é possível criar um aplicativo de revisões no Livefyre Studio. Para criar um aplicativo de revisões em seu site, consulte Integração [de](/help/implementation/c-app-integrations/c-reviews-integration.md)revisões.
+Use o aplicativo de revisões ao incorporá-lo personalizado ao seu site como um aplicativo JS. Não é possível criar um aplicativo de revisões no Livefyre Studio. Para criar um aplicativo de revisões em seu site, consulte [Revisar integração](/help/implementation/c-app-integrations/c-reviews-integration.md).
 
 
 ## Classificações {#section_hs5_c4h_21b}
@@ -26,23 +29,23 @@ A escala de classificação de 0,5 a 5 pode ser configurada até uma classifica�
 
 Para obter mais informações, consulte o campo maxRating para o objeto Reviews consoleConfig.
 
-## Estilo do ícone de classificação {#section_cqn_c4h_21b}
+## Ícone de classificação com estilo {#section_cqn_c4h_21b}
 
 Os ícones de classificação podem ser personalizados para se ajustarem à sua marca e estilo.
 
-Para obter mais informações, consulte **[!UICONTROL Configure Star Ratings]** em Revisões personalizadas.
+Para obter mais informações, consulte **[!UICONTROL Configure Star Ratings]** em Revisões de personalização.
 
-## Dimensões de classificação {#section_cnx_snh_21b}
+## Dimension de classificação {#section_cnx_snh_21b}
 
-Dimensões de classificação são as categorias sobre as quais seus revisores estão classificando seu produto ou serviço. Exemplos de dimensões de classificação são "desempenho", "design", "custo", "geral" ou qualquer outra categoria escolhida.
+Dimensões de classificação são as categorias sobre as quais seus revisores estão classificando seu produto ou serviço. Exemplos de dimensões de classificação são &quot;desempenho&quot;, &quot;design&quot;, &quot;custo&quot;, &quot;geral&quot; ou qualquer outra categoria escolhida.
 
-O padrão é exibir uma dimensão de classificação "geral", no entanto, você pode definir e implementar várias dimensões de classificação, conforme exibido no exemplo abaixo.
+O padrão é exibir uma dimensão de classificação &quot;geral&quot;, no entanto, você pode definir e implementar várias dimensões de classificação, conforme exibido no exemplo abaixo.
 
-Para obter mais informações, consulte o campo ratingDimensions em Revisar metadados da coleção.
+Para obter mais informações, consulte o campo ratingDimensions em Analisar Metadados de Coleta.
 
 ## Revisar campos de texto {#section_xcm_4nh_21b}
 
-Você também pode incluir campos de texto adicionais no produto ou experiência que está sendo revisada. (Por exemplo, os campos de texto podem incluir Pros e Cons ou Não perder.) O número, o título e o texto padrão do campo são personalizáveis. Os usuários deverão preencher todos os campos de texto, bem como o título da revisão, o corpo e a classificação, para publicarem sua revisão. Não é possível incluir campos de texto opcionais.
+Você também pode incluir campos de texto adicionais no produto ou na experiência que está sendo revisada. (Por exemplo, os campos de texto podem incluir Pros e Cons ou Não perder.) O número, o título e o texto padrão do campo são personalizáveis. Os usuários deverão preencher todos os campos de texto, bem como o título da revisão, o corpo e a classificação, para publicarem sua revisão. Não é possível incluir campos de texto opcionais.
 
 Para obter mais informações, consulte o campo ratingDimensions para Analisar Metadados de Coleta.
 
@@ -70,16 +73,16 @@ A opção para os usuários responderem a uma Revisão está ativada no Studio. 
 
 Como as Revisões são projetadas para adicionar um valor numérico para cada parte do conteúdo enviado, o SocialSync e o Curate não são compatíveis com as Revisões.
 
-## Revisões de APIs {#section_xrh_wmh_21b}
+## Revisa APIs {#section_xrh_wmh_21b}
 
-As APIs de revisão estão disponíveis para permitir que você exiba a classificação média do usuário e as informações de detalhamento de classificação e a atividade de análise do usuário em outras seções do site.
+As APIs de revisão estão disponíveis para permitir que você exiba a classificação média do usuário e as informações de detalhamento de classificação e as atividades de análise do usuário em outras seções do site.
 
 [Classificações e revisões](https://api.livefyre.com/docs/apis/by-category/ratings-and-reviews)
 
-* **[!UICONTROL Bootstrap API Endpoint]** O Ponto Final da API do Bootstrap permite que sua revisão seja lida por mecanismos de pesquisa como o Google, para que o conteúdo e as palavras-chave possam melhorar a otimização do mecanismo de pesquisa.
+* **[!UICONTROL Bootstrap API Endpoint]** O Ponto Final da API de Bootstrap permite que sua revisão seja lida por mecanismos de pesquisa como o Google, para que o conteúdo e as palavras-chave possam melhorar a otimização do mecanismo de pesquisa.
 
 * **[!UICONTROL Average User Ratings]** A API de Classificações Médias de Usuário recupera a classificação média de usuário para uma ou mais Coleções de Revisões, permitindo que você crie uma visualização dessas informações em uma página de índice ou adicione a uma página de índice de pesquisa.
 
 * **[!UICONTROL Ratings Breakdown]** A API Detalhamento de classificações recupera um detalhamento de todas as classificações de uma coleção de revisões específica e permite criar uma visualização que exibe o número de revisões associadas a cada classificação de estrela.
 
-* **[!UICONTROL User Reviews]** A API de revisões do usuário recupera as revisões mais recentes de um usuário específico. Essa atividade pode ser usada para exibir as revisões de um usuário em sua página de perfil público.
+* **[!UICONTROL User Reviews]** A API de revisões do usuário recupera as revisões mais recentes de um usuário específico. Essa atividade pode ser usada para exibir as revisões de um usuário em sua página de perfis públicos.
