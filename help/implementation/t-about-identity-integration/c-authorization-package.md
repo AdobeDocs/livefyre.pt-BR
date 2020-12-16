@@ -7,6 +7,9 @@ title: Pacote de autenticação
 uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Instale o pacote de autenticação para ativar a autenticação do usuário, de modo que os usuários possam interagir com seus aplicativos.
 
-Os aplicativos Livefyre usam o pacote de autenticação global para associar usuários às ações do aplicativo. O pacote de autenticação está disponível até `Livefyre.require`.
+Os aplicativos Livefyre usam o pacote de autenticação global para associar usuários às ações do aplicativo. O pacote de autenticação está disponível por meio de `Livefyre.require`.
 
-Para ativar a autenticação na sua página, adicione primeiro `Livefyre.js` ao elemento da `<head>` página da Web ou modelo de site.
+Para habilitar a autenticação na sua página, primeiro adicione `Livefyre.js` ao elemento `<head>` da sua página da Web ou modelo de site.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
@@ -33,7 +36,7 @@ Livefyre.require(['auth'], function (auth) {
 
 ## Métodos {#section_ojx_1lz_fz}
 
-Uma vez incluído como acima usando `Livefyre.require`, o módulo Auth expõe os seguintes métodos que você pode chamar para notificar outros aplicativos na página sobre eventos relacionados à autenticação.
+Depois de incluído como acima usando `Livefyre.require`, o módulo Auth expõe os seguintes métodos que você pode chamar para notificar outros aplicativos na página sobre eventos relacionados à autenticação.
 
 | Método | Descrição |
 |--- |--- |
