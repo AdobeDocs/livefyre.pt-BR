@@ -7,6 +7,9 @@ title: Fluxo de atividade
 uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '574'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Saiba como monitorar e armazenar o conteúdo gerado pelo usuário que flui pelo sistema Livefyre.
 
-Use a API de fluxo de atividade para consumir dados gerados pelo usuário que fluem pelo sistema Livefyre em sua rede ou site. Por exemplo: use dados desta API para atualizar seus índices de pesquisa com base em classificações ou para gerenciar os crachás dos usuários em um sistema de terceiros com base em suas atividades.
+Use a API de fluxo de Atividade para consumir dados gerados pelo usuário que fluem pelo sistema Livefyre em sua rede ou site. Por exemplo: use dados desta API para atualizar seus índices de pesquisa com base em classificações ou para gerenciar os crachás dos usuários em um sistema de terceiros com base em sua atividade.
 
 API de fluxo de atividade:
 
@@ -39,36 +42,36 @@ GET https://bootstrap.livefyre.com/api/v3.1/activity/
 
 ### Parâmetros
 
-* **** recurso: *string* Um URN do objeto para o qual você está solicitando dados de atividade.
+* **recurso:** ** stringUm URN do objeto para o qual você está solicitando dados de atividade.
 
-* **** desde: *inteiro* Um número inteiro de 64 bits que representa a ID do último evento recebido. Especifique "0" se não tiver dados anteriores.
+* **desde:** ** integerUm número inteiro de 64 bits que representa a ID do último evento recebido. Especifique &quot;0&quot; se não tiver dados anteriores.
 
 ## Strings de URN {#section_skl_q4l_b1b}
 
 Exemplos:
 
-* **** urn:livefyre: `example.fyre.co` O fluxo de atividade para `example.fyre.co`.
-* **** urn:livefyre: `example.fyre.co:site=54321` O fluxo de atividade do site 54321 na `example.fyre.co` rede.
+* **urn:livefyre:** `example.fyre.co` o fluxo de atividade para  `example.fyre.co`.
+* **urn:livefyre:** `example.fyre.co:site=54321` o fluxo de atividade do site 54321 na  `example.fyre.co` rede.
 
 ## Políticas de token {#section_nwh_c5j_11b}
 
-A API de fluxo de atividade usa um token de portador OAuth para autenticação. A Bearer Tokens faz parte da especificação OAuth 2.0 e é descrita oficialmente [aqui](https://tools.ietf.org/html/rfc6750#section-1.2).
+A API de fluxo de Atividade usa um token de portador OAuth para autenticação. Os Tokens do Portador fazem parte da especificação OAuth 2.0 e oficialmente descritos [aqui](https://tools.ietf.org/html/rfc6750#section-1.2).
 
 Um token contém vários itens:
 
 * Quem criou o token.
 * A quem foi dado um token.
 * Um horário em que não é mais válido.
-* O que estamos operando.
+* A coisa em que estamos operando.
 * Uma lista de permissões que foram concedidas.
 
 ### Etapas
 
 As etapas para criar um token do portador OAuth incluem:
 
-* Crie um mapa/dicionário contendo o emissor, o público-alvo, o assunto, a expiração e o escopo.
+* Crie um mapa/dicionário contendo o emissor, a audiência, o assunto, a expiração e o escopo.
 * Use a biblioteca JWT, com seu segredo, para codificar um token JWT.
-* Adicionar "Autenticação: "Portador" para sua solicitação HTTP.
+* Adicione &quot;Autenticação: &quot;Portador&quot; para sua solicitação HTTP.
 
 A amostra de código abaixo demonstra as etapas acima em Python:
 
@@ -95,11 +98,11 @@ token = jwt.encode(data, key=network_secret)
 
 Onde as teclas do token do portador são definidas da seguinte forma:
 
-* **is** *(Emissor)* Uma entidade com autoridade para gerar tokens. Pode ser o Livefyre, um site ou uma rede. (Para que uma nota chegue atrasada à escola, é seu pai.)
-* **aud** *(Público)* A pessoa para a qual esse token foi gerado. Se você mesmo estiver criando o token, ele será o site ou a rede.
-* **sub** *(Assunto)* O assunto para o qual devem ser concedidas autorizações. Por exemplo, se você estiver operando em uma coleção, o assunto deve ser o identificador da coleção. (No exemplo da escola, é você.)
+* **is** *(Issuer)* Uma entidade com autoridade para gerar tokens. Pode ser o Livefyre, um site ou uma rede. (Para que uma nota chegue atrasada à escola, é seu pai.)
+* **aud** *(Audiência)* A pessoa para a qual esse token foi gerado. Se você mesmo estiver criando o token, ele será o site ou a rede.
+* **sub** *(Assunto)* O assunto para o qual as permissões devem ser concedidas. Por exemplo, se você estiver operando em uma coleção, o assunto deve ser o identificador da coleção. (No exemplo da escola, é você.)
 * **exp** *(Expiração)* Um ponto no tempo em que o token não é mais válido.
-* **scope** *(Scope)* Esta é uma lista das permissões concedidas no assunto. "Atraso na escola" é um exemplo. O nome de uma API é outro exemplo.
+* **scope** *(Scope)* Esta é uma lista das permissões concedidas sobre o assunto. &quot;Atraso na escola&quot; é um exemplo. O nome de uma API é outro exemplo.
 
 ## Exemplo {#section_dhl_ytj_11b}
 
@@ -273,8 +276,8 @@ Uma resposta com novos dados desde a última solicitação:
 ## Notas {#section_hj3_crj_11b}
 
 * Uma chamada bem-sucedida para a API produzirá um código de status HTTP 200. Todos os outros códigos de status devem ser considerados erros.
-* Se não for nulo, use o valor de `data.meta.cursor.next` como o `since` parâmetro da próxima solicitação.
-* Se o valor de `data.meta.cursor.next` é nulo, significa que não há novos dados a serem consumidos. Você deve solicitar novamente mais tarde com o mesmo `since` valor para ver se novos dados chegaram.
-* Por uma questão de prática, você deve solicitar mais dados imediatamente se o `data.meta.cursor.next` valor não for nulo.
+* Se não for nulo, use o valor de `data.meta.cursor.next` como o parâmetro `since` da próxima solicitação.
+* Se o valor de `data.meta.cursor.next` for nulo, isso significa que não há novos dados a serem consumidos. Você deve solicitar novamente mais tarde com o mesmo valor `since` para ver se novos dados chegaram.
+* Por uma questão de prática, você deve solicitar mais dados imediatamente se o valor `data.meta.cursor.next` não for nulo.
 * O valor aproximado de duas horas dos dados recentes está disponível por meio dessa API na produção.
 * Você deve configurar seus processos para pesquisar esse terminal frequentemente no cronjob para evitar a perda de dados. Um intervalo de cinco minutos deve ser perfeitamente adequado para a maioria das implementações.
