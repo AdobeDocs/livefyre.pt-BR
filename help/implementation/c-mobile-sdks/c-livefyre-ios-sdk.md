@@ -7,6 +7,9 @@ title: Livefyre iOS SDK
 uuid: bfdef31a-49fc-4b25-b0c5-300f27067302
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Use essa biblioteca de código aberto para integrar os serviços do Livefyre ao 
 
 O Livefyre também fornece dois aplicativos de amostra do iOS baseados neste SDK: um fluxo de comentários e um aplicativo de amostra de revisões.
 
-## Integração do SDK ao seu projeto como um pod de cacau (recomendado) {#section_qc5_h3v_zz}
+## Integração do SDK ao seu projeto como um Pod de cacau (recomendado) {#section_qc5_h3v_zz}
 
 A maneira mais conveniente de adicionar o SDK do StreamHub-iOS ao seu projeto é usar o CocoaPods. Se você não tiver CocoaPods, execute gem install coapods e configuração de pod. Este é um exemplo de Podfile:
 
@@ -32,7 +35,7 @@ platform :ios, :deployment_target => '6.0'
 pod 'StreamHub-iOS-SDK', '~> 0.3.0'
 ```
 
-Você também precisará adicionar um repositório Specs à sua instalação do CocoaPod (isso irá cloná-lo para o `~/.cocoapods/repos` diretório):
+Você também precisará adicionar um repositório Specs à sua instalação do CocoaPod (isso irá cloná-lo para o diretório `~/.cocoapods/repos`):
 
 ```
 pod repo add livefyre https://github.com/Livefyre/cocoapods.git
@@ -58,7 +61,7 @@ Em seguida, adicione o projeto Xcode (LFSClient.xcodeproj) ao seu aplicativo com
 
 Você também precisará fazer o mesmo com qualquer uma das dependências ([AFNetworking](https://github.com/AFNetworking/AFNetworking), [JSONKit](https://github.com/escherba/JSONKit)).
 
-## Baixar tudo de uma vez (não recomendado) {#section_rpb_f3v_zz}
+## Baixe tudo de uma vez (não recomendado) {#section_rpb_f3v_zz}
 
 ```
 cd ~/dev 
@@ -75,13 +78,13 @@ open CommentStream.xcworkspace
 
 >[!NOTE]
 >
->Para executar testes no Xcode 6, você deve adicionar $(PLATFORM_DIR)/Developer/Library/Frameworks a FRAMEWORK_SEARCH_PATHS em Pods-test-XCTest+OHHTTPStubSuiteCleanUp[podhttps://stackoverflow.com/a/24651704](https://stackoverflow.com/a/24651704).
+>Para executar testes no Xcode 6, adicione $(PLATFORM_DIR)/Developer/Library/Frameworks a FRAMEWORK_SEARCH_PATHS em Pods-test-XCTest+OHHTTPStubSuiteCleanUp pod[https://stackoverflow.com/a/24651704](https://stackoverflow.com/a/24651704).
 
 Você precisa do arquivo LFSTestConfig.plist do Livefyre, que o Livefyre fornece mediante solicitação.
 
 ## Documentação do Xcode {#section_arl_b3v_zz}
 
-Você pode navegar na [documentação](https://livefyre.github.com/StreamHub-iOS-SDK/) ou pode criar o destino "Documentação" no seu Xcode (requer que o apedoc esteja instalado) no sistema.
+Você pode navegar pela [documentação](https://livefyre.github.com/StreamHub-iOS-SDK/) ou pode criar o público alvo &quot;Documentação&quot; no seu Xcode (requer que o apedoc esteja instalado) no seu sistema.
 
 ## Exigências {#section_m5l_13v_zz}
 
@@ -89,4 +92,4 @@ As versões do SDK do iOS do StreamHub desde a v0.2.0 exigem o iOS 6.0 ou superi
 
 ## Apêndice (suporte a JSON) {#section_pcd_5hv_zz}
 
-Para aqueles que estão olhando para os internais do SDK do StreamHub-iOS, observe que usamos uma versão modificada do [JSONKit](https://github.com/escherba/JSONKit) como o analisador JSON padrão (em vez de NSJSONSerialization fornecido pela Apple). Tivemos que fazer isso porque o analisador fornecido pela Apple não oferece suporte à decodificação de arquivos JSON que contêm números inteiros ou números de ponto flutuante maiores que os que podem ser representados pelo sistema. Nossa versão modificada do JSONKit trunca números muito grandes para o máximo correspondente do sistema, em vez de lançar uma exceção.
+Para aqueles que estão olhando para os internais do SDK do StreamHub-iOS, observe que usamos uma versão modificada de [JSONKit](https://github.com/escherba/JSONKit) como o analisador JSON padrão (em vez de NSJSONSerialization fornecido pela Apple). Tivemos que fazer isso porque o analisador fornecido pela Apple não oferece suporte à decodificação de arquivos JSON que contêm números inteiros ou números de ponto flutuante maiores que os que podem ser representados pelo sistema. Nossa versão modificada do JSONKit trunca números muito grandes para o máximo correspondente do sistema, em vez de lançar uma exceção.
