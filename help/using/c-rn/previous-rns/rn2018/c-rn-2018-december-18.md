@@ -7,6 +7,9 @@ title: Notas de versão do Livefyre, 18 de dezembro de 2018
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 5%
 
 ---
 
@@ -23,5 +26,5 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 * Correção de um problema em que a pesquisa social com a regra do Instagram nem sempre funcionava.
 * Correção de um problema em que a pesquisa de URL parece inconsistente ao retornar o resultado.
-* Corrigido um problema no qual os fluxos com caracteres coreanos não extraem conteúdo.
+* Correção de um problema em que os fluxos com caracteres coreanos não extraem conteúdo.
 * Correção de um problema em que o fluxo com a regra do Instagram não conseguia coletar novas postagens.
