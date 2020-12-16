@@ -7,6 +7,9 @@ title: Publicar ativos em aplicativos
 uuid: 42d39142-b047-4055-b946-15bcc91d5a95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Publique ativos salvos em seus aplicativos do Livefyre na Biblioteca.
 
-Você pode publicar itens individuais ou múltiplos na guia Pesquisa social e na Biblioteca de ativos. Clicar **[!UICONTROL Publish]** empurrará o item diretamente para o aplicativo selecionado e não o removerá da sua Biblioteca.
+Você pode publicar itens individuais ou múltiplos na guia Pesquisa social e na Biblioteca de ativos. Clicar em **[!UICONTROL Publish]** empurrará o item diretamente para o aplicativo selecionado e não o removerá da sua Biblioteca.
 
 >[!NOTE]
 >
@@ -25,4 +28,4 @@ Você pode publicar itens individuais ou múltiplos na guia Pesquisa social e na
 1. Selecione os Ativos que deseja publicar no site.
 1. Clique em **[!UICONTROL Publish]**.
 
-   A caixa de **[!UICONTROL Publish to App]** diálogo é aberta.1. Selecione o aplicativo no qual deseja publicar os ativos selecionados.
+   A caixa de diálogo **[!UICONTROL Publish to App]** é aberta.1. Selecione o aplicativo no qual deseja publicar os ativos selecionados.
