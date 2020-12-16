@@ -7,6 +7,9 @@ title: Restringir mídia
 uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ Por padrão, todos os anexos de mídia podem ser incorporados aos aplicativos. O
 
 >[!NOTE]
 >
->Livefyre faz parceria com Embeely para integração de mídia. Para obter mais informações, consulte Integração de conteúdo &gt; Integração integrada. Entre em contato com seu Gerente de conta técnico para obter informações sobre a expansão ou as fontes do link.
+>Livefyre faz parceria com Embeely para integração de mídia. Para obter mais informações, consulte Integração de conteúdo > Integração integrada. Entre em contato com seu Gerente de conta técnico para obter informações sobre a expansão ou as fontes do link.
 
 Este exemplo bloqueia a incorporação do YouTube e do Vimeo ao seu fluxo de comentários:
 
