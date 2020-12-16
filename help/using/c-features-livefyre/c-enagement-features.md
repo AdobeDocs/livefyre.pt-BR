@@ -1,19 +1,22 @@
 ---
-description: Envolva os visitantes de seu site com recursos que os mantêm voltando ao seu site quando eles descobrirem seu conteúdo.
-seo-description: Envolva os visitantes de seu site com recursos que os mantêm voltando ao seu site quando eles descobrirem seu conteúdo.
+description: Envolva os visitantes do seu site com recursos que os mantêm retornando ao seu site quando eles descobrem seu conteúdo.
+seo-description: Envolva os visitantes do seu site com recursos que os mantêm retornando ao seu site quando eles descobrem seu conteúdo.
 seo-title: Recursos de Envolvimento
 solution: Experience Manager
 title: Recursos de Envolvimento
 uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 2%
 
 ---
 
 
 # Recursos de Envolvimento{#enagement-features}
 
-Envolva os visitantes de seu site com recursos que os mantêm voltando ao seu site quando eles descobrirem seu conteúdo.
+Envolva os visitantes do seu site com recursos que os mantêm retornando ao seu site quando eles descobrem seu conteúdo.
 
 ## Botões personalizados {#section_jdv_vcm_d1b}
 
@@ -29,7 +32,7 @@ Aplicativos que usam este recurso:
 
 ## Curtir {#section_q4j_ycm_d1b}
 
-Adicione a capacidade de "curtir" um comentário ou resposta.
+Adicione a capacidade de &quot;curtir&quot; um comentário ou resposta.
 
 Aplicativos que usam este recurso:
 
@@ -44,7 +47,7 @@ Aplicativos que usam este recurso:
 
 ## Expansão de mídia {#section_pmq_ycm_d1b}
 
-A capacidade de exibir um pedaço de mídia em uma janela modal maior.
+A capacidade de visualização de um pedaço de mídia em uma janela modal maior.
 
 Aplicativos que usam este recurso:
 
@@ -63,7 +66,7 @@ Aplicativos que usam este recurso:
 
 @mencionados um usuário ou alguém que já tenha publicado conteúdo na coleção.
 
-Para mencionar alguém que postou conteúdo na coleção, os usuários podem clicar no botão de **[!UICONTROL @]** menção ou digitar @ no editor para exibir uma lista de pessoas disponíveis para menção. A lista incluirá todos os usuários que estão acompanhando a conversa. (Comece digitando um nome para limitar as correspondências da lista para o texto inserido.)
+Para mencionar alguém que postou conteúdo na Coleção, os usuários podem clicar no botão **[!UICONTROL @]** menção ou digitar @ no editor para exibir uma lista de pessoas disponíveis para menção. A lista incluirá todos os usuários que estão acompanhando a conversa. (Start que digita um nome para limitar a lista a correspondências para o texto inserido.)
 
 >[!NOTE]
 >
@@ -83,13 +86,13 @@ Crie botões de ação personalizados para conteúdo em um aplicativo.
 
 Os botões de ação personalizados e a ação associada podem ser adicionados a qualquer usuário ou conteúdo em qualquer aplicativo do Livefyre, juntamente com os botões Sinalizar, Compartilhar e Excluir existentes. Exemplos podem ser permitir que um usuário oculte conteúdo de outro usuário ou siga um usuário.
 
-## Seguir conversa {#section_bw3_ndm_d1b}
+## Siga a conversa {#section_bw3_ndm_d1b}
 
 Permite que os usuários recebam notificações por email quando as conversas que seguem forem alteradas.
 
-Seguir uma conversa permite que os usuários recebam notificações por e-mail, com base em atividades na conversa. Os usuários clicam no botão **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]** para definir preferências específicas de conversação, ou usam sua **[!UICONTROL Profile Settings]** página para definir uma preferência em todo o site para acompanhar as conversas.
+Seguir uma conversa permite que os usuários recebam notificações por email, com base na atividade da conversa. Os usuários clicam no botão **[!UICONTROL Follow]** / **[!UICONTROL Unfollow]** para definir preferências específicas de conversação, ou usam sua página **[!UICONTROL Profile Settings]** para definir uma preferência em todo o site para acompanhar as conversas.
 
-(A **[!UICONTROL Follow]** função não está disponível em dispositivos móveis.)
+(A função **[!UICONTROL Follow]** não está disponível em dispositivos móveis.)
 
 >[!NOTE]
 >
