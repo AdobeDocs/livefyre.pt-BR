@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# Atalhos de teclado do ModQ{#modq-keyboard-shortcuts}
+# Atalhos de teclado ModQ{#modq-keyboard-shortcuts}
 
 Os seguintes atalhos de teclado estão disponíveis para moderadores no ModQ.
 
@@ -27,6 +27,6 @@ Os seguintes atalhos de teclado estão disponíveis para moderadores no ModQ.
 | Parte superior da fila | Ir para o primeiro item na parte superior da fila | l |  |
 | Silenciar ou ativar sinalizadores | Silenciar ou ativar sinalizadores do usuário selecionado | Shift + M |  |
 | Usuário da proibição | Proibir o usuário selecionado apenas para esse site | Shift + B |  |
-| Usuário da lista de permissões | Permitir a lista do usuário selecionado apenas para esse site | Shift + W |  |
+| Usuário da lista de permissões | Permitir listar apenas o usuário selecionado para esse site | Shift + W |  |
 | Limpar filtro de site | Exibir todos os itens na rede | Shift + Q |  |
 
