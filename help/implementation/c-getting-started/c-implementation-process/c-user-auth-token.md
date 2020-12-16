@@ -7,6 +7,9 @@ title: Token de autenticação do usuário
 uuid: 6483debd-453c-4780-b19c-1d8041693617
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 2%
 
 ---
 
@@ -21,11 +24,11 @@ Para criar o token, use a biblioteca de idiomas preferida para transmitir os seg
 
 | Parâmetro | Tipo | Descrição |
 |---|---|---|
-| networkName | String *necessária* | O nome da rede Livefyre (fornecido pela Livefyre). |
-| networkKey | String *necessária* | A chave secreta para esta rede específica (fornecida pela Livefyre). |
-| userId | String *necessária* | A ID do usuário que faz logon como armazenada no sistema de gerenciamento de usuários (somente caracteres alfanuméricos, traço, sublinhado e pontos são permitidos: [a-zA-Z0-9_-.]). **** Observação: A userId deve ser exclusiva. |
-| expira | Número inteiro *necessário* | Quando o token deve expirar agora (em segundos). **** Observação: Esse valor também pode ser passado como flutuante. O token da Web JSON produzido armazenará esse valor na época UNIX. |
-| displayName | String *necessária* | Texto para identificar esse usuário na interface do usuário e em comentários. (Número máximo de caracteres: 50.) |
+| networkName | String *required* | O nome da rede Livefyre (fornecido pela Livefyre). |
+| networkKey | String *required* | A chave secreta para esta rede específica (fornecida pela Livefyre). |
+| userId | String *required* | A ID do usuário que faz logon como armazenada no sistema de gerenciamento de usuários (somente caracteres alfanuméricos, traço, sublinhado e pontos são permitidos: [a-zA-Z0-9_-.]). **Observação:** a userId deve ser exclusiva. |
+| expira | Número inteiro *obrigatório* | Quando o token deve expirar de agora (em segundos). **Observação:** esse valor também pode ser passado como flutuante. O token da Web JSON produzido armazenará esse valor na época UNIX. |
+| displayName | String *required* | Texto para identificar esse usuário na interface do usuário e em comentários. (Número máximo de caracteres: 50.) |
 
 ## Java {#section_b42_mjz_1cb}
 
