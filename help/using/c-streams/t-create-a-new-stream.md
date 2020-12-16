@@ -7,15 +7,18 @@ title: Criar um novo fluxo
 uuid: 2874660b-d26b-4e21-b24e-484744e2303a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 0%
 
 ---
 
 
-# Create a New Stream{#create-a-new-stream}
+# Criar um novo fluxo{#create-a-new-stream}
 
 Crie um novo fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta.
 
-1. Para criar um novo fluxo, clique em **[!UICONTROL Streams > Create Stream.]**
+1. Para criar um novo Fluxo, clique em **[!UICONTROL Streams > Create Stream.]**
 1. Insira um **[!UICONTROL Stream Name]**.
 1. Selecione um **[!UICONTROL Stream Destination]**: **[!UICONTROL App]** ou **[!UICONTROL Folder]** para selecionar um destino para o fluxo.
 
@@ -26,4 +29,4 @@ Crie um novo fluxo no Livefyre para adicionar conteúdo a um aplicativo ou pasta
       >
       >Para alterar o destino de um Fluxo existente, você deve criar um Clonar e selecionar um novo destino.
 
-1. Clique **[!UICONTROL Create Stream]** para criar o Fluxo e abrir a **[!UICONTROL Stream Details]** página, da qual você pode adicionar Regras para o Fluxo. Para obter mais informações sobre como adicionar regras de fluxo, consulte [Adicionar regras para seu fluxo](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).
+1. Clique em **[!UICONTROL Create Stream]** para criar o Fluxo e abra a página **[!UICONTROL Stream Details]**, da qual você pode adicionar Regras para o Fluxo. Para obter mais informações sobre como adicionar regras de fluxo, consulte [Adicionar regras para o seu fluxo](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).
