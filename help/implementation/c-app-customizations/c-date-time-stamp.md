@@ -7,6 +7,9 @@ title: Personalizar o carimbo de data e hora
 uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
@@ -23,8 +26,8 @@ Os aplicativos Livefyre fornecem o parâmetro de opção, datetimeFormat, para e
 
 ## Terminologia {#section_xsk_jn4_xz}
 
-* **Os carimbos** de data e hora absolutos são definidos como horas exatas e específicas (por exemplo, 1º de janeiro de 2012, 12:00 horas)
-* **Os carimbos** de data e hora relativos são definidos como tempos gerais e menos precisos (por exemplo, 25 segundos atrás, 14 minutos atrás, 1 dia atrás, 1 ano atrás etc.)
+* **Os** carimbos de data e hora absolutos são definidos como horas exatas e específicas (por exemplo, 1º de janeiro de 2012, 12:00 horas)
+* **Os** carimbos de data e hora relativos são definidos como tempos gerais e menos precisos (por exemplo, 25 segundos atrás, 14 minutos atrás, 1 dia atrás, 1 ano atrás etc.)
 
 ## Formatação {#section_ynx_gn4_xz}
 
@@ -85,7 +88,7 @@ var conv = fyre.conv.load(networkConfig, [convConfig]);
 
 ## Designação do símbolo {#section_inq_2n4_xz}
 
-Funções de formatação de data e hora seguindo a especificação de padrão, conforme definido em JDK, ICU e CLDR, com pequena modificação para uso típico em JS. Para obter mais informações, consulte a Documentação [da biblioteca de](https://developers.google.com/closure/library/docs/overview)fechamento do Google.
+Funções de formatação de data e hora seguindo a especificação de padrão, conforme definido em JDK, ICU e CLDR, com pequena modificação para uso típico em JS. Para obter mais informações, consulte a [Documentação da Biblioteca de Fechamento do Google](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -125,8 +128,8 @@ Os itens marcados com ‘#’ funcionam de forma diferente do Java.
 
 A contagem de letras padrão determina o formato.
 
-* **** Texto: 4 ou mais, use o formulário completo. Menos de 4, use o formulário curto ou abreviado, se houver. (Por exemplo: "EEEE" produz "Segunda-feira", "EEE" produz "Seg".)
-* **** Número: o número mínimo de dígitos. Números mais curtos são preenchidos com zero para esse valor (por exemplo: Se "m" produzir "6", "mm" produz "06".) O ano é tratado especialmente; ou seja, se a contagem de "y" for 2, o Ano será truncado para 2 dígitos. (Por exemplo: se "aaaa" produzir "1997", "yy" produz "97".) Ao contrário de outros campos, segundos fracionários são preenchidos à direita com zero.
-* **** Texto e número: 3 ou mais, use texto. Menos de 3, use o número. (Por exemplo: "M" produz "1", "MM" produz "01", "MMM" produz "Jan" e "MMMM" produz "Janeiro".)
+* **Texto:** 4 ou mais, use o formulário completo. Menos de 4, use o formulário curto ou abreviado, se houver. (Por exemplo: &quot;EEEE&quot; produz &quot;Segunda-feira&quot;, &quot;EEE&quot; produz &quot;Seg&quot;.)
+* **Número:** o número mínimo de dígitos. Números mais curtos são preenchidos com zero para esse valor (por exemplo: Se &quot;m&quot; produzir &quot;6&quot;, &quot;mm&quot; produz &quot;06&quot;.) O ano é manipulado especialmente; ou seja, se a contagem de &quot;y&quot; for 2, o Ano será truncado para 2 dígitos. (Por exemplo: se &quot;aaaa&quot; produzir &quot;1997&quot;, &quot;yy&quot; produz &quot;97&quot;.) Ao contrário de outros campos, segundos fracionários são preenchidos à direita com zero.
+* **Texto e número:** 3 ou mais, use texto. Menos de 3, use o número. (Por exemplo: &quot;M&quot; produz &quot;1&quot;, &quot;MM&quot; produz &quot;01&quot;, &quot;MMM&quot; produz &quot;Jan&quot; e &quot;MMMM&quot; produz &quot;Janeiro&quot;.)
 
-Quaisquer caracteres no padrão que não estejam nos intervalos de [‘a’."z’] e ["A"."Z’] será tratado como texto citado. Por exemplo, caracteres como ‘:’, ‘.’, ‘, ‘#’ e ‘@’ aparecerão no texto de tempo resultante, mesmo que não sejam aceitos entre aspas simples.
+Quaisquer caracteres no padrão que não estejam nos intervalos de [‘a’.&quot;z’] e [‘A’.&quot;Z’] será tratado como texto entre aspas. Por exemplo, caracteres como ‘:’, ‘.’, ‘, ‘#’ e ‘@’ aparecerão no texto de tempo resultante, mesmo que não sejam aceitos entre aspas simples.
