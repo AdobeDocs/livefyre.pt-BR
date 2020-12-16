@@ -3,15 +3,18 @@ description: Trabalhar com o sistema de gerenciamento de usuários sociais do Li
 seo-description: Trabalhar com o sistema de gerenciamento de usuários sociais do Livefyre.
 seo-title: Identidade do Livefyre
 solution: Experience Manager
-title: ' Identidade do Livefyre'
+title: Identidade do Livefyre
 uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
 
 ---
 
 
-# Usar a identidade do Livefyre{#livefyre-identity}
+# Usar Livefyre Identity{#livefyre-identity}
 
 Ignore esta seção se você usar um sistema de gerenciamento de usuários personalizado ou de terceiros.
 
@@ -28,5 +31,5 @@ Para adicionar logon social à integração do Livefyre:
 
 >[!NOTE]
 >
->Este documento lista aspectos específicos do Livefyre para o processo de criação de aplicativos dos provedores sociais. O Livefyre não é responsável por quaisquer alterações na sua interface, nem pode fornecer assistência para a criação destes aplicativos ou para o processo de aprovação dos mesmos. Use as informações disponíveis do Twitter, Facebook, Yahoo! e do desenvolvedor do Google para criar esses aplicativos e navegue pelo processo de aprovação (se necessário).
+>Este documento lista aspectos específicos do Livefyre para o processo de criação de aplicativos dos provedores sociais. O Livefyre não é responsável por quaisquer alterações na sua interface, nem pode fornecer assistência para a criação destes aplicativos, nem para o processo de aprovação dos mesmos. Use as informações disponíveis do Twitter, Facebook, Yahoo! e do desenvolvedor do Google para criar esses aplicativos e navegue pelo processo de aprovação (se necessário).
 
