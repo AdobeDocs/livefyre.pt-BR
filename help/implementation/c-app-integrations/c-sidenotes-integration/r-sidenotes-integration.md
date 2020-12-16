@@ -7,21 +7,24 @@ title: Integração com Sidenotes
 uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
 
-# Integração com Sidenotes{#sidenotes-integration}
+# Integração Sidenotes{#sidenotes-integration}
 
 Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
 
-Como regra geral, se a integração do aplicativo principal estiver concluída, o código gravado para gerar o `collectionMeta` objeto poderá ser reutilizado para Sidenotes.
+Como regra geral, se a integração do Aplicativo principal estiver concluída, o código gravado para gerar o objeto `collectionMeta` poderá ser reutilizado para Sidenotes.
 
-Você também pode reutilizar seus `auth` delegados existentes fornecendo um `auth` delegado criado com `fyre.conv` para Sidenotes no campo (opcional) `authDelegate` .
+Você também pode reutilizar seus representantes `auth` existentes fornecendo um representante `auth` criado com `fyre.conv` para Sidenotes no campo (opcional) `authDelegate`.
 
 >[!NOTE]
 >
->As notas de identificação permitem incluir `network`, `siteId`e `articleId` em um único objeto, em vez de passá-los separadamente em outras partes do construtor.
+>As notas de identificação permitem que você inclua `network`, `siteId` e `articleId` em um único objeto, em vez de passá-los separadamente em outras partes do construtor.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +56,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Conforme observado na `collectionMeta` seção Construção, `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT.
+Conforme observado na seção Criação `collectionMeta`, `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT.
 
 ```
 { 
@@ -65,7 +68,7 @@ Conforme observado na `collectionMeta` seção Construção, `collectionMeta` é
 }
 ```
 
-Para obter mais informações, consulte o `collectionMeta` token.
+Para obter mais informações, consulte o token `collectionMeta`.
 
 ## Configuração móvel
 
