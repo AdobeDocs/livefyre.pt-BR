@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# Criação de uma soma de verificação {#creating-a-checksum}
+# Criando uma soma de verificação {#creating-a-checksum}
 
 Crie uma soma de verificação usando as bibliotecas Livefyre.
 
