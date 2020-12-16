@@ -1,24 +1,27 @@
 ---
-description: Modere o conteúdo que vem de um fluxo usando a Biblioteca.
-seo-description: Modere o conteúdo que vem de um fluxo usando a Biblioteca.
+description: Modere o conteúdo que vem de um Fluxo usando a Biblioteca.
+seo-description: Modere o conteúdo que vem de um Fluxo usando a Biblioteca.
 seo-title: Moderar conteúdo de um fluxo
 title: Moderar conteúdo de um fluxo
 uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 0%
 
 ---
 
 
 # Moderar conteúdo de um fluxo{#moderate-content-from-a-stream}
 
-Modere o conteúdo que vem de um fluxo usando a Biblioteca.
+Modere o conteúdo que vem de um Fluxo usando a Biblioteca.
 
 Os moderadores podem aprovar ou rejeitar comentários pendentes diretamente do fluxo, usando a Biblioteca.
 
-Para moderar o conteúdo pendente, basta passar o mouse sobre o **[!UICONTROL Pending]** botão.
+Para moderar o conteúdo pendente, basta passar o mouse sobre o botão **[!UICONTROL Pending]**.
 
-O **[!UICONTROL Pending]** botão muda e você pode selecionar Negar ( **[!UICONTROL x]**) ou Aprovar ( **[!UICONTROL ✓]**) o comentário.
+O botão **[!UICONTROL Pending]** é alterado e você pode selecionar se deseja Negar ( **[!UICONTROL x]**) ou Aprovar ( **[!UICONTROL ✓]**) o comentário.
 
 Passe o mouse sobre o espaço do comentário e as seguintes opções de moderação serão exibidas:
 
