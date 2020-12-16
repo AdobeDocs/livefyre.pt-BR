@@ -7,6 +7,9 @@ title: Personalizações do botão Carregar
 uuid: d820bbec-8c76-4864-9e70-55394010c35d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '398'
+ht-degree: 8%
 
 ---
 
@@ -35,7 +38,7 @@ Ative o botão de upload usando um código incorporado.
    * **[!UICONTROL Upload Button Text.]** Configure o texto exibido no botão Carregar.
    * **[!UICONTROL Comment Modal Title.]** O título da janela que é exibido quando o usuário final clica no botão Carregar.
    * **[!UICONTROL Comment Modal Button.]** O texto que é exibido na janela onde o usuário final carrega o conteúdo depois de clicar no botão Carregar.
-   * **[!UICONTROL Comment Modal Title Input.]** Permitir que o usuário final insira um título com seu upload. Você pode modificar o conteúdo exibido aqui se tiver selecionado "Incluir título".
+   * **[!UICONTROL Comment Modal Title Input.]** Permitir que o usuário final insira um título com seu upload. Você pode modificar o conteúdo exibido aqui se tiver selecionado &quot;Incluir título&quot;.
    * **[!UICONTROL Comment Modal Message Input.]** Permitir que o usuário final insira uma mensagem com seu upload.
    * **[!UICONTROL Confirmation Modal Title Text.]** O título da janela que confirma ao usuário final que ele carregou o conteúdo com êxito.
    * **[!UICONTROL Confirmation Modal Description Text.]** O texto exibido na janela que confirma ao usuário final que ele carregou o conteúdo com êxito.
@@ -46,7 +49,7 @@ Ative o botão de upload usando um código incorporado.
 
 Você pode personalizar o botão Carregar usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos na **[!UICONTROL App Designer]**
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**
 
 * Ferramentas de integração. Consulte Integrações de aplicativos para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
 
