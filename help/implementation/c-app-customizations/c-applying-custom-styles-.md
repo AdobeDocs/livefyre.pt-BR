@@ -7,11 +7,14 @@ title: Aplicação de estilos personalizados
 uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '286'
+ht-degree: 0%
 
 ---
 
 
-# Aplicação de estilos personalizados{#applying-custom-styles}
+# Aplicar estilos personalizados{#applying-custom-styles}
 
 Para personalizar o conteúdo de estilo para Grupos de usuários, primeiro adicione uma Tag de usuário à conta e, em seguida, estilo o conteúdo usando CSS.
 
@@ -19,10 +22,10 @@ Para cada tag de usuário adicionada pelo Studio ou Ping for Pull, o Livefyre cr
 
 Ao converter tags de usuário em classes CSS:
 
-* Livefyre cria duas classes: tag-autor-chave-***&lt;seu_grupo&gt;**** e fyre-tag-author-***&lt;seu_grupo&gt;***. Ambos podem ser usados para criar o estilo do conteúdo.
+* Livefyre cria duas classes: tag-autor-chave-***&lt;seu_grupo>**** e fyre-tag-author-***&lt;seu_grupo>***. Ambos podem ser usados para criar o estilo do conteúdo.
 
-* Quaisquer espaços incluídos na tag serão convertidos em sublinhados. Por exemplo: "Usuário favorito" se tornará o favorito_usuário.
-* Os caracteres Unicode incluídos nos nomes de grupos não serão convertidos e aparecerão como Unicode nos nomes de classes. Por exemplo: O grupo de usuários "modérateur" se tornará fyre-comment-author-tag-modérateur.
+* Quaisquer espaços incluídos na tag serão convertidos em sublinhados. Por exemplo: &quot;Usuário favorito&quot; se tornará o favorito_usuário.
+* Os caracteres Unicode incluídos nos nomes de grupos não serão convertidos e aparecerão como Unicode nos nomes de classes. Por exemplo: O grupo de utilizadores &quot;modérateur&quot; tornar-se-á fyre-comment-author-tag-modérateur.
 
 Depois que os grupos de usuários tiverem sido criados, use as classes CSS de Livefyre para aplicar estilização personalizada ao conteúdo.
 
@@ -68,7 +71,7 @@ Crie uma regra CSS para mostrar ou criar um estilo para um crachá do Grupo:
 }
 ```
 
-Use a marca fyre-author-author-tag da classe CSS-***&lt;your_group&gt;**** ou fyre-tag-author-****&lt;your_group&gt;**** para criar o estilo da fonte e do plano de fundo de cada item publicado em uma Conta associada à tag selecionada.
+Use a marca fyre-author-author-tag da classe CSS-***&lt;your_group>**** ou fyre-tag-author-****&lt;your_group>**** para criar o estilo da fonte e do plano de fundo de cada item publicado em uma Conta associada à tag selecionada.
 
 ```
 .fyre-comment-author-tag-<your_group> .fyre-comment-author-tag { 
