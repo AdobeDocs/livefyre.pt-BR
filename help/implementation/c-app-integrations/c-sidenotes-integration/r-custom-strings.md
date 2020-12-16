@@ -1,16 +1,19 @@
 ---
 description: 'null'
-seo-description: 'null'
+seo-description: nulo
 seo-title: Separa strings personalizadas
 title: Separa strings personalizadas
 uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '341'
+ht-degree: 12%
 
 ---
 
 
-# Separa strings personalizadas{#sidenotes-custom-strings}
+# Transfere strings personalizadas{#sidenotes-custom-strings}
 
 As strings personalizadas são aplicadas por meio de um objeto inserido no construtor Sidenotes e substituem as strings padrão usadas pelo aplicativo. Eles podem ser usados para personalizar qualquer parte do idioma de acordo com suas especificações de estilo ou idioma. As sequências de caracteres se mesclarão automaticamente com os padrões.
 
@@ -46,7 +49,7 @@ new Livefyre.Sidenotes({
 | errorDuplicate | Também gostamos da sua nota, mas não é possível publicá-la duas vezes. |
 | errorGeneral | Ocorreu um erro. Tente novamente. |
 | errorServer | Algo deu errado com nosso servidor. Tenta de novo? |
-| facebookShareCaption | SideNotes em "{title}" |
+| facebookShareCaption | SideNotes em &quot;{title}&quot; |
 | menuAuthSignedInMsg | Você deve estar conectado a {action} |
 | menuAuthSignInBtn | Entrar |
 | menuBackBtn | Voltar |
@@ -81,15 +84,15 @@ new Livefyre.Sidenotes({
 | notificationFlagged | Sinalizado |
 | permalinkBackBtn | Todos |
 | permalinkTitle | Permalink |
-| questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br>Realce o texto e clique no ícone "fycon-write" ou clique no ícone "fycon-action-view" no final de cada parágrafo. |
-| questionMockText | O que é "conhecido familiar" não é propriamente conhecido, apenas pelo fato de ser "familiar". |
+| questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br>Realce o texto e clique no ícone &quot;fycon-write&quot; ou clique no ícone &quot;fycon-action-visualização&quot; no final de cada parágrafo. |
+| questionMockText | O que é &quot;conhecido familiar&quot; não é propriamente conhecido, apenas pelo fato de ser &quot;familiar&quot;. |
 | questionTitle | O que é um Sidenote? |
 | queuedCommentsPlural | {número} Novos Sidenotes |
 | queuedCommentsSingular | 1 Novo Sidenote |
 | queuedRepliesPlural | {número} Novas Respostas |
 | queuedRepliesSingular | 1 Nova resposta |
 | replyBtn | Responder |
-| signInToPost | Fazer logon para escrever uma nota |
+| signInToPost | Fazer logon para escrever uma nota de identidade |
 | sliderCommentTally | of |
 | sliderInviteRead | Lido |
 | sliderInviteWrite | Gravar |
