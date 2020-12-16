@@ -1,12 +1,15 @@
 ---
 description: Reúna, organize e mantenha o conteúdo selecionado para uso nos aplicativos do Livefyre.
 seo-description: Reúna, organize e mantenha o conteúdo selecionado para uso nos aplicativos do Livefyre.
-seo-title: Assets
+seo-title: Ativos
 solution: Experience Manager
-title: Assets
+title: Ativos
 uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -21,4 +24,4 @@ A Biblioteca permite que você organize e gerencie o conteúdo selecionado como 
 
 A Biblioteca também permite que você solicite os direitos para reutilizar o conteúdo social coletado, adicione tags para aumentar as informações armazenadas com os Ativos e organize esses itens em pastas, prontos para serem publicados nos aplicativos.
 
-A Biblioteca fornece uma visualização da estrutura de pastas de Todos os ativos, permitindo que você pesquise e organize seus ativos.
+A Biblioteca fornece uma visualização da estrutura de pastas de Todos os ativos, permitindo que você pesquise e organize os ativos.
