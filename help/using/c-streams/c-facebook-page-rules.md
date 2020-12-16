@@ -7,6 +7,9 @@ title: Regras de página do Facebook
 uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 
@@ -15,18 +18,18 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Você pode criar regras de fluxo que extraem conteúdo de Páginas do Facebook.
 
-Você pode usar as Regras de página do Facebook para transmitir o conteúdo publicado publicamente das Páginas do Facebook. O conteúdo será colocado no aplicativo ou na pasta com a mesma frequência do SocialSync, que muda com base na página do Facebook e nos padrões de tráfego de postagem. Links em páginas do Facebook também são suportados e serão exibidos no stream.
+Você pode usar as Regras de página do Facebook para transmitir o conteúdo publicado publicamente das Páginas do Facebook. O conteúdo será colocado no aplicativo ou na pasta com a mesma frequência do SocialSync, que muda com base na página do Facebook e nos padrões de tráfego de postagem. Links em Páginas do Facebook também são suportados e serão exibidos no stream.
 
 Para criar Regras de página do Facebook para extrair conteúdo de páginas do Facebook para seu aplicativo ou pasta, você pode filtrar por:
 
 * **[!UICONTROL Facebook Page]**
 
-   * Digite o nome **[!UICONTROL Name]** da Página. Insira apenas o texto à direita para o URL. **** Por exemplo: Para adicionar conteúdo de `https://facebook.com/KellysSuperFunFanPage`, digite *KellysSuperFunFanPage* no **[!UICONTROL Name]** campo.
+   * Digite **[!UICONTROL Name]** como Página. Insira apenas o texto à direita para o URL. **Por exemplo:** Para adicionar conteúdo de  `https://facebook.com/KellysSuperFunFanPage`, digite  ** KellysSuperFunFanPagein no  **[!UICONTROL Name]** campo.
 
-   * Ativa **[!UICONTROL Include Facebook Comments for each post]** se desejar incluir comentários de usuário em Postagens de página.
+   * Ative **[!UICONTROL Include Facebook Comments for each post]** se desejar incluir comentários do usuário nas postagens da Página.
    * Ative **[!UICONTROL Only Show Author Posts]** se desejar excluir publicações de outros usuários.
 
-Para obter opções adicionais de regras de fluxo para todas as regras de fluxo, consulte Opções de regra de [fluxo para todas as regras](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
+Para obter opções adicionais de regras de fluxo para todas as regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
 >[!NOTE]
 >
