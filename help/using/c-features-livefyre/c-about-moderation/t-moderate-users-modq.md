@@ -26,7 +26,7 @@ Por padrão, exibe informações para o autor do conteúdo selecionado. Clique n
 
 As seguintes informações são exibidas (se disponíveis) para cada um dos usuários registrados do Livefyre:
 
-* **[!UICONTROL Username]**: o nome de usuário para a sua rede.
+* **[!UICONTROL Username]**: o nome de usuário deles para a sua rede.
 * **[!UICONTROL Display name]**: o nome de exibição da rede.
 * **[!UICONTROL Avatar]**: seu avatar para sua rede.
 * **[!UICONTROL Total number of posts]** pelo autor através da rede: links para uma lista de conteúdo por esse usuário no Studio. O total é exibido pelo número de partes Aprovadas, Pendentes, Bozo’d ou Tracejadas.
@@ -38,4 +38,4 @@ As seguintes informações são exibidas (se disponíveis) para cada um dos usu�
 * **[!UICONTROL Bans]**: listas sites para os quais o usuário foi proibido ou Bozo.
 * **[!UICONTROL Whitelists]**: listas sites para os quais o usuário foi permitido listado.
 
-Para obter mais informações sobre como moderar usuários na guia Conteúdo do aplicativo, consulte [Moderar usando conteúdo](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)do aplicativo.
+Para obter mais informações sobre como moderar usuários na guia Conteúdo do aplicativo, consulte [Moderar usando conteúdo do aplicativo](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
