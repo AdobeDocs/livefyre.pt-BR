@@ -7,6 +7,9 @@ title: Personalizações das pesquisas
 uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +24,7 @@ Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas
 
    Selecione o tipo de pesquisa que deseja criar. **[!UICONTROL Single image]** permite que você adicione uma imagem para a pergunta da pesquisa. **[!UICONTROL Multiple image]** permite que você adicione uma imagem para as respostas da Pesquisa. **[!UICONTROL Text only]** cria uma Pesquisa sem imagens.
 
-* **[!UICONTROL Question]**  *obrigatório*
+* **[!UICONTROL Question]**  *required*
 
    Insira a pergunta que será exibida para sua Pesquisa.
 
@@ -47,7 +50,7 @@ Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas
 
 * **[!UICONTROL Show poll results]**
 
-   Se ativado, os visualizadores poderão ver os resultados da pesquisa. Se estiver desativado, os eleitores verão apenas uma tela "Obrigado" depois de concluir a pesquisa.
+   Se ativado, os visualizadores poderão ver os resultados da pesquisa. Se estiver desativado, os eleitores verão apenas uma tela &quot;Obrigado&quot; depois de concluir a pesquisa.
 
 * **[!UICONTROL Disclaimer]** *opcional*
 
@@ -55,7 +58,7 @@ Altere o tamanho, a largura e as opções de interação do aplicativo Pesquisas
 
 Você pode personalizar as pesquisas usando:
 
-* **[!UICONTROL Style]** e **[!UICONTROL Config]** opções para todos os aplicativos no **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
 
 * Ferramentas de integração. Consulte Pesquisas para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
 
