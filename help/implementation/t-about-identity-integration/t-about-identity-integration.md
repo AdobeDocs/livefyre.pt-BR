@@ -7,6 +7,9 @@ title: Integração de identidade
 uuid: 079dc9c7-656a-49d0-920d-9e5a421a319c
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +26,4 @@ Os aplicativos Livefyre incluem funções interativas avançadas, como publicar 
 
 O Livefyre.js Auth fornece autenticação centralizada para todos os aplicativos Livefyre em seu site e coloca você no controle de exatamente como os usuários devem fazer logon e se registrar. Adicione o Auth globalmente ao modelo do seu site e use-o em todas as páginas, ou adicione-o uma vez por página, e quando os usuários tiverem feito logon, o Livefyre JS Auth transmitirá automaticamente as informações do usuário a todos os aplicativos na página.
 
-Quer você tenha criado um serviço de identidade personalizado ou esteja usando um serviço de identidade de terceiros como o Janrain Capture, esta seção aborda tudo o que você precisa saber para integrar.
+Quer você tenha criado um serviço de identidade personalizado ou esteja usando um serviço de identidade de terceiros, como o Janrain Capture, esta seção aborda tudo o que você precisa saber para integrar.
