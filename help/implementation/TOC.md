@@ -37,17 +37,17 @@ ht-degree: 4%
    + Implementar SSO {#implementing-sso}
       + [Implementação do SSO](t-about-identity-integration/c-implementing-sso/c-implementing-sso.md)
       + [Depuração do delegado de autenticação](t-about-identity-integration/c-implementing-sso/c-debugging-auth.md)
-   + Sincronizar com o Livefyre {#sync-ping-for-pull}
+   + Sincronizar com Livefyre {#sync-ping-for-pull}
       + [Sincronizar com o Livefyre usando o Ping para puxar](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
       + [Criar o ponto de extremidade de puxamento](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-pull-endpoint.md)
       + [Registrar o Ponto de Extremidade no Studio](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-register-the-endpoint-with-studio.md)
       + [Criar o ping](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-ping.md)
       + [Estrutura de solicitação de puxamento](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-pull-request-structure.md)
       + [Criar o Ping para Resposta de Puxo](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-build-the-ping-for-pull-response.md)
-+ Identidade do Livefyre {#livefyre-identity}
++ Livefyre Identity {#livefyre-identity}
    + [Identidade do Livefyre](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
    + [Ativar a identidade do Livefyre](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
-   + Usar aplicativos sociais com a identidade do Livefyre {#use-social-apps-with-livefyre-identity}
+   + Usar aplicativos do Social com identificação do Livefyre {#use-social-apps-with-livefyre-identity}
       + [Criar seus aplicativos sociais](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Criar um aplicativo do Facebook para uso com a Livefyre Identity](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
       + [Criar um aplicativo do Twitter para uso com a Livefyre Identity](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
@@ -155,15 +155,15 @@ ht-degree: 4%
 + [Política de teste de stress](c-stress-test-policy.md)
 + Analytics {#analytics}
    + [Analytics](livefyre-analytics/livefyre-analytics.md)
-   + [Use o Livefyre com o Adobe Analytics e o Gerenciador dinâmico de tags (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
+   + [Use o Livefyre com Adobe Analytics e o Gerenciador dinâmico de tags (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
    + [Usar o Livefyre com outra ferramenta do Analytics](livefyre-analytics/c-livefyre-analytics.md)
    + [Eventos do Livefyre Analytics](livefyre-analytics/c-livefyre-analytics-events.md)
-+ [Integração do Livefyre com o AEM](c-livefyre-aem-integration.md)
++ [Integração do Livefyre com AEM](c-livefyre-aem-integration.md)
 + Tópicos avançados {#advanced-topics}
    + [Exibir contagem de comentários](c-advanced-topics/t-display-comment-count.md)
    + [Habilitar compartilhamento em redes sociais](c-advanced-topics/c-enabling-social-sharing.md)
-   + [Fluxo de Atividade](c-advanced-topics/c-activity-stream.md)
-   + [HTML de inicialização](c-advanced-topics/c-bootstrap-html.md)
+   + [Fluxo de atividade](c-advanced-topics/c-activity-stream.md)
+   + [HTML do Bootstrap](c-advanced-topics/c-bootstrap-html.md)
    + [Alterar coleção](c-advanced-topics/c-change-collection.md)
    + [Várias coleções](c-advanced-topics/c-multiple-collections.md)
    + [Alternar entre os principais tipos de aplicativos](c-advanced-topics/c-switch-core-app-types.md)
