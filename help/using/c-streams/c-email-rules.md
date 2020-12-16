@@ -1,17 +1,20 @@
 ---
 description: Você pode criar regras de fluxo que extraem conteúdo do email.
 seo-description: Você pode criar regras de fluxo que extraem conteúdo do email.
-seo-title: Regras de email
+seo-title: regras de email
 solution: Experience Manager
-title: Regras de email
+title: regras de email
 uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 0%
 
 ---
 
 
-# Regras de email{#email-rules}
+# regras de email{#email-rules}
 
 Você pode criar regras de fluxo que extraem conteúdo do email.
 
@@ -28,4 +31,4 @@ Depois de enviados, os campos do email serão usados para preencher os seguintes
 * **[!UICONTROL Body:]** Usado para preencher detalhes de conteúdo no Studio.
 * **[!UICONTROL Attachments:]** Os arquivos de mídia devem ser anexados ou o email será ignorado. Os tipos de arquivos suportados incluem 3GP, ASF, AVI, DV, GIF, JPG, MOV, MP4, MPEG, MPG, PNG, QT e WMV. O total de anexos deve estar abaixo de 25 MB.
 
-Para obter opções adicionais de regras de fluxo para todas as regras de fluxo, consulte Opções de regra de [fluxo para todas as regras](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de fluxo.
+Para obter opções adicionais de regras de fluxo para todas as regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
