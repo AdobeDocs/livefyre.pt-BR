@@ -7,6 +7,9 @@ title: Notas de versão do Livefyre para 14 de março de 2019
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
+workflow-type: tm+mt
+source-wordcount: '165'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 
 >[!NOTE]
 >
->O Livefyre encerrará o suporte ao HTTP e ao TLS 1.1 (e anterior), em conformidade com os Padrões de segurança da Adobe.  Consulte as notas de versão futuras para obter a data da desativação.
+>O Livefyre encerrará o suporte ao HTTP e ao TLS 1.1 (e versões anteriores), em conformidade com os Padrões de segurança do Adobe.  Consulte as notas de versão futuras para obter a data da desativação.
 
 ## Aprimoramentos
 
