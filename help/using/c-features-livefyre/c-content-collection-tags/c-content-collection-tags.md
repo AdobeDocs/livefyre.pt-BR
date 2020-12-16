@@ -7,6 +7,9 @@ title: Tags de coleção e conteúdo
 uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +40,7 @@ Aplicativos que usam este recurso:
 
 ## Uso de tags de coleção com a API Heat Index {#section_uhd_frk_wy}
 
-A API Heat Index aceita um parâmetro Tag, que permite recuperar a integridade relativa de qualquer Coleção com essa tag em um site ou em toda a rede.
+A API Heat Index aceita um parâmetro Tag, que permite recuperar a integridade relativa de qualquer Coleção com essa Tag, em um site ou em toda a rede.
 
 Para obter detalhes sobre a implementação, consulte a documentação técnica da API Heat Index.
 
