@@ -1,19 +1,22 @@
 ---
-description: O aplicativo Media Wall oferece esses recursos para seu site.
-seo-description: O aplicativo Media Wall oferece esses recursos para seu site.
+description: O aplicativo Media Wall oferta esses recursos para seu site.
+seo-description: O aplicativo Media Wall oferta esses recursos para seu site.
 seo-title: Recursos do Media Wall
 solution: Experience Manager
 title: Recursos do Media Wall
 uuid: 2f2e22b4-de10-48ee-8f3d-0fd88feb8abe
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
 
-# Recursos do Media Wall{#media-wall-features}
+# Recursos do mural de mídia{#media-wall-features}
 
-O aplicativo Media Wall oferece esses recursos para seu site.
+O aplicativo Media Wall oferta esses recursos para seu site.
 
 
 
