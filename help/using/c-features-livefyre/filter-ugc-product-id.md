@@ -3,9 +3,12 @@ description: Filtrar o UGC por ID de produto permite incorporar exatamente o mes
 seo-description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
 seo-title: Filtrar UGC por ID de produto
 title: Filtrar UGC por ID de produto
-uuid: 98108db-5710-4331-891b-7e1bb106059
+uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 translation-type: tm+mt
 source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
+workflow-type: tm+mt
+source-wordcount: '265'
+ht-degree: 0%
 
 ---
 
@@ -16,21 +19,21 @@ Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo
 
 Para filtrar o UGC por ID de produto, siga estas etapas:
 
-1. No Livefyre Studio, navegue até a **[!UICONTROL Apps]** guia.
+1. No Livefyre Studio, navegue até a guia **[!UICONTROL Apps]**.
 
 1. Selecione o aplicativo que deseja modificar.
 
 1. Selecione a guia Designer no painel esquerdo.
 
-1. Enable **[!UICONTROL Filter UGC by Product ID]**.
+1. Ativar **[!UICONTROL Filter UGC by Product ID]**.
 
 ![](assets/filter-ugc-product-id.png)
 
-1. Selecione as pastas de produtos de nível superior que contêm o produto ou produtos pelo qual deseja filtrar o UGC.
+1. Selecione as pastas de produtos de nível superior que contêm o produto ou produtos pelo qual você deseja filtrar o UGC.
 Use CTRL/Command + clique para selecionar várias pastas.
 
-1. Disable **[!UICONTROL Show related content]**.
-Quando ativado, o conteúdo filtrado usando o `data-lf-attr-product` atributo será exibido primeiro, seguido por todo o outro conteúdo no aplicativo.
+1. Desative **[!UICONTROL Show related content]**.
+Quando ativado, o conteúdo que é filtrado usando o atributo `data-lf-attr-product` será exibido primeiro, seguido por todo o outro conteúdo no aplicativo.
 
 1. Clique em **[!UICONTROL Publish]**.
 
@@ -53,7 +56,7 @@ env="prod" data-lf-read-only="" data-lf-attr-product="<product
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Para marcar um produto, substitua `<product 1>` `data-lf-attr-product` o atributo pela ID de produto desejada. Você pode marcar um ou mais produtos adicionando IDs de produtos separados por vírgula adicionais. Os produtos devem estar contidos na pasta ou pastas de produto de nível superior selecionadas na Etapa 5.
+Para marcar um produto, substitua `<product 1>` no atributo `data-lf-attr-product` pela ID de produto desejada. Você pode marcar um ou mais produtos adicionando IDs de produtos separados por vírgula adicionais. Os produtos devem estar contidos na pasta ou pastas de produto de nível superior selecionadas na Etapa 5.
 
 O segmento de código modificado apareceria como:
 
