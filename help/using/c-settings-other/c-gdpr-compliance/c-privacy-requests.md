@@ -6,11 +6,14 @@ title: Criar uma solicitação de privacidade
 uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '619'
+ht-degree: 0%
 
 ---
 
 
-# Create a Privacy Request{#create-a-privacy-request}
+# Criar uma solicitação de privacidade{#create-a-privacy-request}
 
 Crie uma solicitação de privacidade no Livefyre.
 
@@ -22,14 +25,14 @@ Para pesquisar e localizar um usuário e gerar um relatório de seu conteúdo:
 
    ![](assets/privacypage1.png)
 
-1. Preencha as informações na **[!UICONTROL Submit Request]** janela:
+1. Preencha as informações na janela **[!UICONTROL Submit Request]**:
 
    * **[!UICONTROL Reference Id]**. Insira um identificador para usar para referência futura. Por exemplo, você pode adicionar texto, um número de tíquete, um URL, um endereço de email ou outra sequência de até 255 caracteres
    * **[!UICONTROL Type]**
 
       * **Acesso**. Coleta todos os dados disponíveis associados à conta. Detalhes confidenciais, por exemplo, senhas ou credenciais sociais, serão ofuscados ou omitidos.
 
-      * **Excluir**. Célula ou ofusca todos os dados associados à conta. **Se você escolher essa opção e clicar em Enviar, não será possível reverter ou cancelar essa ação *nem recuperar os dados excluídos.*** Se a conta pertencer a um usuário do Livefyre Studio, alguns dados serão preservados para manter a integridade de seus registros comerciais.
+      * **Excluir**. Célula ou ofusca todos os dados associados à conta. **Se você escolher essa opção e clicar em Enviar, não será possível reverter ou cancelar essa ação  *nem recuperar os dados excluídos.*** Se a conta pertencer a um usuário do Livefyre Studio, alguns dados serão preservados para manter a integridade de seus registros comerciais.
 
          >[!IMPORTANT]
          >
@@ -37,13 +40,14 @@ Para pesquisar e localizar um usuário e gerar um relatório de seu conteúdo:
 
       * **Recusar**. Impede o Livefyre de coletar passivamente dados ou conteúdo de uma conta social por meio do Streams ou do Social Search. A aceitação e a não participação não se aplicam a usuários registrados
       * **Aceitar**. Reativa o Livefyre para coletar passivamente dados ou conteúdo de uma conta social que anteriormente não era incluída no Streams ou na Pesquisa Social. A aceitação e a não participação não se aplicam a usuários registrados
+
       ![](assets/privacypage2.png)
 
    * **[!UICONTROL Identifier Type]** e **[!UICONTROL Identifier]**
 
       * **[!UICONTROL User Account]**
 
-         * Identifica uma conta de um usuário registrado pela ID da conta de usuário gerada pelo seu Sistema de gerenciamento de usuários ou pelo identificador de usuário do Studio do Livefyre. Você também pode localizar a ID da conta de usuário em Detalhes do usuário no **Livefyre** Configurações **do** usuário ou nos detalhes do conteúdo na Biblioteca **de** ativos ou no Conteúdo do **aplicativo**
+         * Identifica uma conta de um usuário registrado pela ID da conta de usuário gerada pelo seu Sistema de gerenciamento de usuários ou pelo identificador de usuário do Studio do Livefyre. Você também pode localizar a ID da conta de usuário em Detalhes do usuário em **Livefyre** **Configurações do usuário** ou nos detalhes do conteúdo na **Biblioteca de ativos** ou **Conteúdo do aplicativo**
 
          * Valores permitidos: Sequência alfanumérica de até 255 caracteres. Um endereço de email não é uma entrada válida
       * **[!UICONTROL Facebook User]**
@@ -64,9 +68,10 @@ Para pesquisar e localizar um usuário e gerar um relatório de seu conteúdo:
          * Valores permitidos: 5-16 caracteres numéricos
       * **[!UICONTROL Generic Author]**
 
-         * Identifica uma conta por uma ID de autor do Livefyre (JID). Use essa opção para conteúdo originado por RSS, Tumblr ou URLs. Para localizar essa ID, procure o conteúdo atribuído ao autor no conteúdo **do** aplicativo ou na biblioteca **** de ativos e selecione um item. A ID está disponível no Conteúdo **do** aplicativo em **Informações** ou na Biblioteca **de** ativos em **Autor** na seção **Detalhes**
+         * Identifica uma conta por uma ID de autor do Livefyre (JID). Use essa opção para conteúdo originado por RSS, Tumblr ou URLs. Para localizar essa ID, procure o conteúdo atribuído ao autor em **Conteúdo do aplicativo** ou **Biblioteca de ativos** e selecione um item. A ID está disponível em **Conteúdo do Aplicativo** em **Informações** ou na **Biblioteca de Ativos** em **Autor** na seção **Detalhes**
 
          * Valores permitidos: Sequência alfanumérica de até 255 caracteres
+
          ![](assets/privacypage3.png)
 
 
