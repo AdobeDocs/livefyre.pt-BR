@@ -1,14 +1,14 @@
 ---
-description: Película fotográfica é um aplicativo de visualização que exibe conteúdo gerado pelo usuário em uma única faixa horizontal dinâmica de fotos, similar a uma película de uma câmera.
+description: 'Saiba tudo sobre o aplicativo Película fotográfica com nosso guia completo. O aplicativo de visualização mostra suas imagens em uma película de câmera retrô. Principal com nossas dicas. '
 seo-description: Película fotográfica é um aplicativo de visualização que exibe conteúdo gerado pelo usuário em uma única faixa horizontal dinâmica de fotos, similar a uma película de uma câmera.
 seo-title: Película fotográfica
 solution: Experience Manager
-title: Película fotográfica
+title: Guia para o aplicativo Película fotográfica
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 1%
 
 Película fotográfica é um aplicativo de visualização que exibe conteúdo gerado pelo usuário em uma única faixa horizontal dinâmica de fotos, similar a uma película de uma câmera.
 
-## Sobre o Filmstrip {#section_tng_slj_yy}
+## Saiba como usar a Película fotográfica {#section_tng_slj_yy}
 
 Você pode usar Película fotográfica com UGC em cenários de comércio eletrônico, como páginas de produtos ou sites transacionais. Os usuários finais podem navegar pela Película fotográfica clicando nas setas laterais para percorrer o conteúdo disponível da esquerda para a direita. O novo conteúdo é exibido à esquerda à medida que entra no aplicativo. Você pode escolher se o UGC transmitido recentemente terá um rótulo que diz, *Novo* para ajudar os visitantes do site a identificar rapidamente o novo conteúdo.
 
-Você pode escolher se os visitantes do site podem visualização um botão de chamada para ação em um cartão e passar o mouse sobre o botão para ver uma pré-visualização de produtos à venda. Você pode optar por associar produtos do catálogo de produtos ao conteúdo da Película fotográfica. Os visitantes de sites móveis e não móveis podem clicar em um cartão para visualização de uma imagem maior, compartilhar conteúdo, reproduzir vídeo ou produtos associados à visualização e um botão de chamada para ação para comprar os itens.
+Você pode escolher se os visitantes do site podem visualização um botão de chamada para ação em um cartão e passar o mouse sobre o botão para ver uma pré-visualização de produtos à venda. Você pode associar produtos do catálogo de produtos ao conteúdo da Película fotográfica. Os visitantes de sites móveis e não móveis podem clicar em um cartão para visualização de uma imagem maior, compartilhar conteúdo, reproduzir vídeo ou produtos associados à visualização e um botão de chamada para ação para comprar os itens.
 
 ## Que tipo de conteúdo posso publicar em uma Película fotográfica? {#section_b5h_qlj_yy}
 
