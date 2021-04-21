@@ -1,26 +1,22 @@
 ---
-description: Informa o Livefyre a atualizar o URL de sincronização do usuário da rede para aquele fornecido. Retorna um booliano.
-seo-description: Informa o Livefyre a atualizar o URL de sincronização do usuário da rede para aquele fornecido. Retorna um booliano.
-seo-title: método de rede setUserSyncUrl
-solution: Experience Manager
-title: método de rede setUserSyncUrl
-uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
+description: Informa o Livefyre a atualizar o URL de sincronização de usuários da rede para o URL fornecido. Retorna um booleano.
+title: Método de Rede setUserSyncUrl
+exl-id: 8124ac0f-013f-4943-a33c-6cf8fe696f95
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
 
+# Método de Rede setUserSyncUrl{#setusersyncurl-network-method}
 
-# método de rede setUserSyncUrl{#setusersyncurl-network-method}
-
-Informa o Livefyre a atualizar o URL de sincronização do usuário da rede para aquele fornecido. Retorna um booliano.
+Informa o Livefyre a atualizar o URL de sincronização de usuários da rede para o URL fornecido. Retorna um booleano.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| urlTemplate | String   | O URL para se registrar no Livefyre para sincronizar IDs de usuário. Exige que &quot;`{id}`&quot; faça parte da cadeia de caracteres de URL fornecida. |
+| urlTemplate | String   | O URL para se registrar no Livefyre para sincronizar IDs de usuário. Requer que &quot;`{id}`&quot; faça parte da cadeia de caracteres de URL fornecida. |
 
 ## Exemplo de Java {#section_nyl_ycs_rz}
 
@@ -58,7 +54,7 @@ Exemplo de saída:
 true
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 network.set_user_sync_url(urlTemplate) 
