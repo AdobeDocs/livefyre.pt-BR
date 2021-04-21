@@ -1,37 +1,33 @@
 ---
-description: Crie o ping para que sua página jogue Livefyre quando os usuários atualizarem seu perfil.
-seo-description: Crie o ping para que sua página jogue Livefyre quando os usuários atualizarem seu perfil.
-seo-title: Criar o ping
-solution: Experience Manager
+description: Crie o ping para que sua página emita Livefyre quando os usuários atualizarem seu perfil.
 title: Criar o ping
-uuid: cb8cc043-9ea5-407c-b70f-3f1e37accdae
+exl-id: 626c200b-eaff-483f-b1eb-7d8993fe5e7c
 translation-type: tm+mt
-source-git-commit: f76dcd31e58b94856bf551009c2ac50c3233e516
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Criar o Ping{#build-the-ping}
 
-# Crie o Ping{#build-the-ping}
+Crie o ping para que sua página emita Livefyre quando os usuários atualizarem seu perfil.
 
-Crie o ping para que sua página jogue Livefyre quando os usuários atualizarem seu perfil.
-
-Quando o Livefyre receber uma notificação de atualização com as `networkName` e `user_id`, o sistema enviará uma solicitação de Puxo para seu URL de Ping for Pull.
+Quando o Livefyre recebe uma notificação de atualização com os `networkName` e `user_id`, o sistema enviará uma solicitação de pull ao seu Ping para URL de pull.
 
 >[!NOTE]
 >
->403/Não autorizado em resposta ao seu Ping indica um `lftoken` inválido anexado à solicitação de Ping. Certifique-se de que `lftoken` seja para um `user_id` com privilégios de proprietário de rede ou para o usuário do sistema. Se você estiver usando bibliotecas Livefyre, use o método `buildLivefyreToken` para gerar um token de sistema válido para a solicitação.
+>403/Não autorizado em resposta ao seu Ping indica um `lftoken` inválido anexado à solicitação do Ping. Certifique-se de que `lftoken` seja para `user_id` com privilégios de proprietário de rede ou o usuário do sistema. Se você estiver usando bibliotecas do Livefyre, use o método `buildLivefyreToken` para gerar um token de sistema válido para a solicitação.
 
-1. Adicione o código à sua página que aciona o Livefyre quando os usuários atualizarem seu perfil. Construa o URL desta forma:
+1. Adicione código à página que consulta o Livefyre quando os usuários atualizam o perfil. Construa o URL da seguinte maneira:
 
    ```
    POSThttps://{networkName}.quill.fyre.co/api/v3.0/user/{user_id}/refresh?lftoken={token}
    ```
 
    * **[!UICONTROL networkName:]** Seu Livefyre forneceu o nome da rede.
-   * **[!UICONTROL user_id:]** A ID do usuário.
+   * **[!UICONTROL user_id:]** A ID do seu usuário.
    * **[!UICONTROL token:]** Token de sistema válido.
 
-1. Puxe a estrutura de solicitação.
+1. Puxe a estrutura da solicitação.
