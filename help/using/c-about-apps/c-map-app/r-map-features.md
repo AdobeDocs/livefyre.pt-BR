@@ -1,26 +1,21 @@
 ---
-description: O aplicativo Map oferta esses recursos para seu site.
-seo-description: O aplicativo Map oferta esses recursos para seu site.
-seo-title: Recursos do mapa
-solution: Experience Manager
+description: O aplicativo Map oferece esses recursos para seu site.
 title: Recursos do mapa
-uuid: fdad5f0c-8292-4f59-bac1-c96c01e96ff5
+exl-id: 71ad1b93-ba8a-41ce-ad3d-1ade68c37c45
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-
 # Mapear recursos{#map-features}
 
-O aplicativo Map oferta esses recursos para seu site.
+O aplicativo Map oferece esses recursos para seu site.
 
 
 
 * O conteúdo entra no mapa em tempo real.
-* O conteúdo da mesma área é agrupado e pode ser exibido em um modal do Gallery.
-* Aplica zoom no mapa para focar no conteúdo de áreas específicas.
-
+* O conteúdo da mesma área é agrupado e pode ser visualizado em um modal Galeria.
+* Amplie o Mapa para se concentrar no conteúdo de áreas específicas.
