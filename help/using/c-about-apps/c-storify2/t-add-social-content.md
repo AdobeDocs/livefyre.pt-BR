@@ -1,24 +1,20 @@
 ---
-description: O Storify 2 oferta várias fontes de conteúdo para adicionar conteúdo social.
-seo-description: O Storify 2 oferta várias fontes de conteúdo para adicionar conteúdo social.
-seo-title: Adicionar conteúdo social
-solution: Experience Manager
+description: O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo social.
 title: Adicionar conteúdo social
-uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
+exl-id: 2277b525-ef0e-4e66-9260-f81898d93bf1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-
 # Adicionar conteúdo social{#add-social-content}
 
-O Storify 2 oferta várias fontes de conteúdo para adicionar conteúdo social.
+O Storify 2 oferece várias fontes de conteúdo para adicionar conteúdo social.
 
-A guia Pesquisar permite que você pesquise redes de mídia social, Web geral do oferta e pesquisas de imagem.
+A guia Pesquisar permite pesquisar redes sociais, oferecer web geral e pesquisas de imagem.
 
 >[!NOTE]
 >
@@ -26,11 +22,11 @@ A guia Pesquisar permite que você pesquise redes de mídia social, Web geral do
 
 >[!NOTE]
 >
->A API de pesquisa do Twitter retornará somente o conteúdo mais recente de 7 dias.
+>A API de pesquisa da twitter retornará apenas o conteúdo dos 7 dias mais recentes.
 
-Para adicionar conteúdo à sua história:
+Para adicionar conteúdo à história:
 
-1. Na guia **[!UICONTROL Search]**, clique em um ícone para selecionar sua fonte.
-1. O Storify exibirá opções de pesquisa específicas da origem.
+1. Na guia **[!UICONTROL Search]** , clique em um ícone para selecionar sua fonte.
+1. O Storify exibirá as opções de pesquisa específicas da origem.
 1. Insira seus parâmetros de pesquisa e clique no ícone de pesquisa (lupa) ou clique em retornar para pesquisar.
 1. Depois de encontrar os elementos que deseja incluir, basta arrastá-los da lista para qualquer seção da história.
