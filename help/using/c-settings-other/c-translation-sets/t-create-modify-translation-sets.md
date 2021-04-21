@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: nulo
-seo-title: Criar e modificar conjuntos de traduções
-solution: Experience Manager
-title: Criar e modificar conjuntos de traduções
-uuid: 4ed559a3-d2f2-4977-9172-c9e0448dec74
+title: Criar e modificar conjuntos de tradução
+description: Criar e modificar conjuntos de tradução
+exl-id: 3445a3d1-1d34-47b3-8502-2476b2774836
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 2%
+source-wordcount: '79'
+ht-degree: 0%
 
 ---
-
 
 # Criar e modificar conjuntos de tradução{#create-and-modify-translation-sets}
 
@@ -20,6 +16,6 @@ ht-degree: 2%
 1. Selecione Configurações de rede.
 1. Selecione Conjuntos de Tradução.
 1. Clique em +Definir para criar um novo Conjunto de Tradução.
-1. Atribua um nome e um idioma principal ao seu conjunto.
-1. Modifique o texto que deseja exibir sob o nome do aplicativo. Por exemplo, para alterar o texto de sequências de caracteres usadas pelo aplicativo Comentários, modifique os campos em Comentários.
-1. Salve o Conjunto de Tradução.
+1. Atribua um nome e um idioma primário ao seu conjunto.
+1. Modifique o texto que deseja exibir sob o nome do aplicativo. Por exemplo, para alterar o texto das sequências de caracteres usadas pelo Aplicativo de comentários, modifique os campos em Comentários.
+1. Salve o conjunto de tradução.
