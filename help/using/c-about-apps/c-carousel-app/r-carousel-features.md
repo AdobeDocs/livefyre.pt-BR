@@ -1,22 +1,18 @@
 ---
-description: O aplicativo do carrossel oferta esses recursos para seu site.
-seo-description: O aplicativo do carrossel oferta esses recursos para seu site.
-seo-title: Recursos do carrossel
-solution: Experience Manager
+description: O aplicativo Carrossel oferece esses recursos para seu site.
 title: Recursos do carrossel
-uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
+exl-id: bb3555fd-e861-4100-a1ce-c6f22ca9dbfc
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '52'
 ht-degree: 3%
 
 ---
 
-
 # Recursos do carrossel {#carousel-features}
 
-O aplicativo do carrossel oferta esses recursos para seu site.
+O aplicativo Carrossel oferece esses recursos para seu site.
 
 Os seguintes recursos estão disponíveis em um carrossel:
 
@@ -28,6 +24,5 @@ Os seguintes recursos estão disponíveis em um carrossel:
 * [Compartilhamento em redes sociais](/help/using/c-features-livefyre/c-social-sharing/c-social-sharing.md#c_social_sharing)
 * [Recursos de estilo](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [SEGURO](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
-* [Conjuntos de Tradução](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
+* [Conjuntos de tradução](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
 * [Recursos de contribuição no site](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
