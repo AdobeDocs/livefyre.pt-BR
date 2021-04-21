@@ -1,24 +1,20 @@
 ---
-description: Filtrar pesquisas de conteúdo no Studio por tag da coleção.
-seo-description: Filtrar pesquisas de conteúdo no Studio por tag da coleção.
-seo-title: Filtrar pesquisa por coleção ou tag de conteúdo
-solution: Experience Manager
+description: Filtre as pesquisas de conteúdo no Studio por tag Collection.
 title: Filtrar pesquisa por coleção ou tag de conteúdo
-uuid: e690a6fd-f584-490d-89d3-f22550766698
+exl-id: 2ebbd16a-3e24-463e-bad1-2097dc8b586c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
+# Filtrar Pesquisa por Coleção ou Tag de Conteúdo{#filter-search-by-collection-or-content-tag}
 
-# Filtrar pesquisa por coleção ou tag de conteúdo{#filter-search-by-collection-or-content-tag}
-
-Filtrar pesquisas de conteúdo no Studio por tag da coleção.
+Filtre as pesquisas de conteúdo no Studio por tag Collection.
 
 1. Selecione **[!UICONTROL Tag]** na lista suspensa de pesquisa do painel **[!UICONTROL Collections]**.
-1. Insira a tag para sua pesquisa ou clique em **[!UICONTROL Tag]** listado em uma Coleção.
+1. Insira a tag para sua pesquisa ou clique no **[!UICONTROL Tag]** listado em uma Coleção.
 
    Todas as coleções com a tag selecionada serão exibidas na lista.
