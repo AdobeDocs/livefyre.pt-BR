@@ -1,22 +1,18 @@
 ---
-description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações com permissões em um local de destaque ao lado da história.
-seo-description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações com permissões em um local de destaque ao lado da história.
-seo-title: Adicionar um guia de navegação a um Storify 2
-solution: Experience Manager
-title: Adicionar um guia de navegação a um Storify 2
-uuid: 2db131b2-54b8-4409-a947-b86169656cad
+description: Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações com permissões em um local de destaque ao lado de sua história.
+title: Adicionar um Guia de Navegação a um Storify 2
+exl-id: 183a5035-4603-4c9d-a883-95966550accb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
+# Adicionar um Guia de Navegação a um Storify 2{#add-a-navigation-guide-to-a-storify}
 
-# Adicionar um guia de navegação a um Storify 2{#add-a-navigation-guide-to-a-storify}
-
-Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações com permissões em um local de destaque ao lado da história.
+Adicione um guia de navegação ao seu aplicativo Storify 2 para criar uma lista de publicações com permissões em um local de destaque ao lado de sua história.
 
 1. Abra uma história do Storify 2.
-1. No Storify 2 App Designer, ative a alternância **[!UICONTROL Navigation Guide]**.
+1. No Designer de aplicativos do Storify 2, ative a opção **[!UICONTROL Navigation Guide]**.
