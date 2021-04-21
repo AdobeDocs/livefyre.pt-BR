@@ -1,28 +1,24 @@
 ---
-description: Mostre as coleções mais ativas em seu site ou rede.
-seo-description: Mostre as coleções mais ativas em seu site ou rede.
-seo-title: Tendência
-solution: Experience Manager
+description: Mostre as Coleções mais ativas em seu Site ou Rede.
 title: Tendência
-uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
+exl-id: a3129e95-90e7-4107-bfd9-ed3b0dce20aa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '140'
 ht-degree: 5%
 
 ---
 
-
 # Tendência{#trending}
 
-Mostre as coleções mais ativas em seu site ou rede.
+Mostre as Coleções mais ativas em seu Site ou Rede.
 
-Use Tendências para mostrar as Coleções com a atividade mais recente em seu Site ou Rede.
+Use as Tendências para mostrar as Coleções com a atividade mais recente em seu Site ou Rede.
 
 ## Integração {#section_wtz_whb_c1b}
 
-A maneira mais rápida de integrar com o Trending Topics é usar a versão incorporada hospedada no CDN da Livefyre.
+A maneira mais rápida de integrar com as Tendências é usar a versão criada hospedada no CDN da Livefyre.
 
 Primeiro, adicione [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à sua página.
 
@@ -30,7 +26,7 @@ Primeiro, adicione [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à sua
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Em seguida, posicione o elemento no qual o aplicativo aparecerá.
+Em seguida, posicione o elemento no qual o aplicativo será exibido.
 
 ```
 <div id="trending"></div>
@@ -58,7 +54,7 @@ Agora você tem um aplicativo de tendência! Veja tudo isso em ação em [este e
 
 `network`
 
-A rede da qual as coleções serão extraídas. (Obrigatório.)
+A Rede da qual as Coleções serão extraídas. (Obrigatório.)
 
 ```
 var trending = new Trending({ 
@@ -69,7 +65,7 @@ var trending = new Trending({
 
 `siteId`
 
-Forneça a ID do site para mostrar as coleções somente de um único site na sua rede. (Opcional.)
+Forneça a ID do site para mostrar as Coleções somente de um único site em sua Rede. (Opcional.)
 
 ```
 var trending = new Trending({ 
@@ -81,7 +77,7 @@ var trending = new Trending({
 
 `tag`
 
-Forneça uma única tag Coleção para mostrar somente as Coleções com essa tag. (Opcional.)
+Forneça uma única tag Collection para mostrar apenas Coleções com essa tag. (Opcional.)
 
 ```
 var trending = new Trending({ 
@@ -91,4 +87,3 @@ var trending = new Trending({
    tag: 'basketball' 
 });
 ```
-
