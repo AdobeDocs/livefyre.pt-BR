@@ -1,26 +1,22 @@
 ---
 description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
-seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
-seo-title: Definições e exemplos de Eventos JavaScript
-solution: Experience Manager
-title: Definições e exemplos de Eventos JavaScript
-uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
+title: Definições e exemplos de eventos JavaScript
+exl-id: 5b865974-69aa-4d51-ac26-60f1d8a114fc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 15%
+source-wordcount: '375'
+ht-degree: 11%
 
 ---
 
-
-# Definições e exemplos de Eventos JavaScript{#javascript-events-definitions-and-examples}
+# Definições e exemplos de eventos JavaScript{#javascript-events-definitions-and-examples}
 
 Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Conversação (por exemplo, Comentários, Chat, Blog em tempo real, Avaliações e Observações).
 
-O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário em seus aplicativos Livefyre. Por exemplo, você pode desejar atualizar a página quando os usuários curtirem ou compartilharem conteúdo no Twitter ou Facebook, ou quando novo conteúdo for publicado.
+O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário nos aplicativos do Livefyre. Por exemplo, você pode querer atualizar a página quando os usuários curtirem ou compartilharem conteúdo com o Twitter ou Facebook, ou quando um novo conteúdo for publicado.
 
-O Livefyre também permite que você adicione eventos a integrações de análise de terceiros (Adobe Analytics JS, Google Analytics, Gerenciamento dinâmico de tags etc.) para rastrear eventos de aplicativos. Para obter mais informações, entre em contato com o gerente de integração de terceiros para fornecer os eventos corretos.
+O Livefyre também permite adicionar eventos a integrações de análises de terceiros (Adobe Analytics JS, Google Analytics, Dynamic Tag Management, etc.) para rastrear eventos de aplicativos. Para obter mais informações, trabalhe com o gerente de integração de terceiros para fornecer os eventos corretos.
 
 Para vincular a esses eventos, adicione o seguinte código à página ao instanciar seu aplicativo em uma página. Substitua o nome do evento por `{eventName}`:
 
@@ -36,7 +32,7 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->Objetos de dados são fornecidos para todos os manipuladores de evento. Objetos de dados de exemplo seguem cada evento.
+>Os objetos de dados são fornecidos para todos os manipuladores de evento. Os objetos de dados de exemplo seguem cada evento.
 
 ## commentPosted {#section_qfr_51p_xz}
 
@@ -44,7 +40,7 @@ Um usuário postou um comentário.
 
 * Um pai de nulo é um novo comentário.
 * Um pai de Nenhum é um comentário que foi editado.
-* Um número para pai é a ID pai da resposta.
+* Um número para pai é a ID principal da resposta.
 
 ```
 data = { 
@@ -73,7 +69,7 @@ data = {
 
 ## commentLiked {#section_vc1_r1p_xz}
 
-Um usuário gostou de um comentário.
+Um usuário curtiu um comentário.
 
 ```
 data = { 
@@ -85,7 +81,7 @@ data = {
 
 ## commentShared {#section_nqb_31p_xz}
 
-Um usuário compartilhou um comentário do fluxo. (Esse evento não é acionado quando os usuários compartilham do editor de comentários.) Esse evento é acionado quando o botão Compartilhar é clicado.
+Um usuário compartilhou um comentário do fluxo. (Esse evento não é acionado quando os usuários compartilham do Editor de comentários.) Esse evento é acionado ao clicar no botão Compartilhar .
 
 ```
 data = { 
@@ -95,9 +91,9 @@ data = {
 }
 ```
 
-## commentCountUpdates {#section_qdq_f1p_xz}
+## commentCountUpdated {#section_qdq_f1p_xz}
 
-O número total de comentários visíveis nesta conversa mudou (aumentados ou diminuídos).
+O número total de comentários visíveis nesta conversa foi alterado (incrementado ou diminuído).
 
 ```
 data: 34 // The total number of visible comments in the conversation (integer). 
@@ -121,11 +117,11 @@ data = {
 
 Um usuário desconectou.
 
-os dados não estão definidos.
+Os dados estão indefinidos.
 
 ## socialMention {#section_a1w_tz4_xz}
 
-Um usuário incluiu uma @menção em um comentário. Retorna uma matriz dos seguintes itens:
+Um usuário incluiu uma @menção em um comentário. Retorna uma matriz do seguinte:
 
 ```
 data = { 
@@ -137,9 +133,9 @@ data = {
 } 
 ```
 
-## commentFeature
+## commentFeatured
 
-Um usuário moderador apresentou um comentário. Retorna uma matriz dos seguintes itens:
+Um usuário moderador apresentou um comentário. Retorna uma matriz do seguinte:
 
 ```
 data = { 
@@ -151,19 +147,19 @@ data = {
 
 ## initialRenderComplete {#section_odc_4z4_xz}
 
-O fluxo de comentários foi carregado e o conjunto inicial de conteúdo foi obtido do servidor e exibido ao usuário.
+O fluxo de comentários foi carregado e o conjunto inicial de conteúdo foi buscado do servidor e exibido ao usuário.
 
-os dados não estão definidos.
+Os dados estão indefinidos.
 
 ## showMore {#section_pqg_nz4_xz}
 
 Um usuário clicou no botão **[!UICONTROL Show More]**.
 
-os dados não estão definidos.
+Os dados estão indefinidos.
 
-## userSeguido {#section_xxw_jz4_xz}
+## userSegued {#section_xxw_jz4_xz}
 
-Retorna true quando um usuário clica no botão **[!UICONTROL Follow]** e false quando o conteúdo é postado no fluxo.
+Retorna verdadeiro quando um usuário clica no botão **[!UICONTROL Follow]** e falso quando o conteúdo é postado no fluxo.
 
 ```
 data = { 
@@ -182,4 +178,3 @@ data = {
    optOut: true 
 }
 ```
-
