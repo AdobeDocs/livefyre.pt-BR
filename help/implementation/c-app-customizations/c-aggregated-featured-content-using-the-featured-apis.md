@@ -1,22 +1,18 @@
 ---
-description: O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
-seo-description: O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
-seo-title: Conteúdo agregado em destaque usando as APIs em destaque
-solution: Experience Manager
-title: Conteúdo agregado em destaque usando as APIs em destaque
-uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
+description: O Livefyre fornece quatro APIs em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentemente para a Rede, Site ou Coleção de entrada ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
+title: Conteúdo em destaque agregado usando as APIs em destaque
+exl-id: 19f146bf-f406-4667-8ed9-7c7fb3672c05
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 2%
 
 ---
 
-
 # Conteúdo em destaque agregado usando as APIs em destaque{#aggregated-featured-content-using-the-featured-apis}
 
-O Livefyre fornece quatro APIs em destaque, permitindo que você recupere os 50 itens de conteúdo em destaque mais recentemente para a entrada Rede, Site ou Coleção, ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
+O Livefyre fornece quatro APIs em destaque, permitindo recuperar os 50 itens de conteúdo em destaque mais recentemente para a Rede, Site ou Coleção de entrada ou os dois conteúdos em destaque na parte superior de uma Coleção de entrada.
 
 ## Em destaque (Rede) {#section_cgm_1nw_xz}
 
@@ -358,9 +354,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## Em destaque (Head) {#section_n4b_lmw_xz}
+## Em destaque (Cabeçalho) {#section_n4b_lmw_xz}
 
-Retorna as duas partes de conteúdo em destaque mais recentemente para a coleção de entrada.
+Retorna as duas partes de conteúdo em destaque mais recentes para a coleção de entrada.
 
 **Recurso**
 
@@ -466,4 +462,3 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/{network}/{siteId}/{b64articleId
    } 
 }
 ```
-
