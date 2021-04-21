@@ -1,26 +1,22 @@
 ---
-description: Retorna um token criptografado autenticado pelo usuário para a rede da qual é chamado.
-seo-description: Retorna um token criptografado autenticado pelo usuário para a rede da qual é chamado.
-seo-title: método de rede buildUserAuthToken
-solution: Experience Manager
-title: método de rede buildUserAuthToken
-uuid: 8828d356-c3c6-46a6-91bf-83bd59e35050
+description: Retorna um token autenticado pelo usuário criptografado para a rede da qual é chamado.
+title: Método de Rede buildUserAuthToken
+exl-id: dcc61c4b-90d9-42a0-9f46-73a843a4ad78
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 6%
+source-wordcount: '85'
+ht-degree: 8%
 
 ---
 
+# Método de Rede buildUserAuthToken{#builduserauthtoken-network-method}
 
-# método de rede buildUserAuthToken{#builduserauthtoken-network-method}
-
-Retorna um token criptografado autenticado pelo usuário para a rede da qual é chamado.
+Retorna um token autenticado pelo usuário criptografado para a rede da qual é chamado.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
-| userId | String   | A ID do usuário ao qual esse token pertence. |
+| userId | String   | A ID de usuário ao qual esse token pertence. |
 | displayName | String   | O nome de exibição do usuário. |
 | expira | Dupla | Quando o token deve expirar em segundos. |
 
@@ -60,7 +56,7 @@ Exemplo de saída:
 eyJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJ0ZXN0LmZ5cmUuY29tIiwidXNlcl9pZCI6InN5c3RlbSIsImRpc3BsYXlfbmFtZSI6InN5c3RlbSIsImV4cGlyZXMiOjEzOTY2NTUwODN9.33GuJF_ou2O6CCV22Y3PlLUgP2Igy9vAXfmLONkt-Yo
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 network.build_user_auth_token(userId, displayName, expires) 
