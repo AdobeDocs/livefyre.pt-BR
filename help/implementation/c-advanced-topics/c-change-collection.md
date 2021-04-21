@@ -1,28 +1,24 @@
 ---
 description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
-seo-description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
-seo-title: Alterar coleção
-solution: Experience Manager
 title: Alterar coleção
-uuid: 81c8a554-375f-4659-9e25-5b3618824633
+exl-id: 5ddae18f-0279-457d-ae02-85e24fe81150
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Alterar coleção {#change-collection}
 
 Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 
-Use o delegado Alterar coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já estiver carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos nos quais a coleção exibida deve mudar após uma ação do usuário.
+Use Alterar delegado da coleção para alterar a coleção mostrada em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já está carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos, onde a Coleção exibida deve ser alterada após uma ação do usuário.
 
-Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma coleção específica para essa seleção, enquanto o URL da página não será alterado.
+Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma Coleção específica para essa seleção, enquanto o URL da página não será alterado.
 
-Para [carregar uma das três coleções de uma única página](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
+Para [carregar uma das três Coleções de uma única página](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
 
 ```
 <html> 
