@@ -1,22 +1,18 @@
 ---
-description: Altere o tamanho, a largura e as opções de interação do aplicativo Mapa.
-seo-description: Altere o tamanho, a largura e as opções de interação do aplicativo Mapa.
-seo-title: Personalizações do mapa
-solution: Experience Manager
-title: Personalizações do mapa
-uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
+description: Altere as opções de tamanho, largura e interação do aplicativo Mapa.
+title: Personalizações de mapa
+exl-id: 71d3bb65-cd10-48c6-bf6b-8442b0fdb891
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
+# Personalizações de mapa{#map-customizations}
 
-# Personalizações do mapa{#map-customizations}
-
-Altere o tamanho, a largura e as opções de interação do aplicativo Mapa.
+Altere as opções de tamanho, largura e interação do aplicativo Mapa.
 
 
 
@@ -32,7 +28,7 @@ As seguintes opções estão disponíveis no aplicativo Mapa:
 
 * **[!UICONTROL Allow panning]**
 
-   Ativa o panorama do mapa, permitindo que os usuários arrastem e reposicionem o mapa.
+   Ativa o panorama do mapa, permitindo que os usuários arraste e reposicionem o mapa.
 
 * **[!UICONTROL Enable content modal]**
 
@@ -44,19 +40,18 @@ As seguintes opções estão disponíveis no aplicativo Mapa:
 
 * **[!UICONTROL Embedded height / Embedded width]**
 
-   Permite definir o tamanho de pixel no qual o Mapa será incorporado ao site. (Opcional.)
+   Permite definir o tamanho do pixel no qual o Mapa será incorporado no site. (Opcional.)
 
    >[!NOTE]
    >
-   >Se os desenvolvedores da Web definirem um **[!UICONTROL height]** para seu Mapa na página, esses valores serão substituídos e seu Mapa seguirá as convenções responsivas de dimensionamento de design. Se eles não tiverem definido uma altura, esses valores serão usados e seu Mapa será colocado em um tamanho definido (design não responsivo). Se esses campos forem deixados em branco, o valor padrão será de 600px de largura por 400px de altura e o Mapa não responderá.
+   >Se os desenvolvedores da Web definiram um **[!UICONTROL height]** para o Mapa na página, esses valores serão substituídos e o Mapa seguirá as convenções de dimensionamento de design responsivo. Se não tiverem definido uma altura, esses valores serão usados e o Mapa será colocado em um tamanho definido (design não responsivo). Se esses campos forem deixados em branco, o valor será padrão para 600px de largura por 400px de altura e o Mapa não será responsivo.
 
 * **[!UICONTROL Location]**
 
-   Insira o local ao redor do qual deseja que o mapa fique centralizado. Use o controle deslizante abaixo do mapa de pré-visualização para definir o zoom.
+   Insira o local em que deseja que o mapa fique centralizado. Use o controle deslizante abaixo do mapa de visualização para definir o zoom.
 
 Você pode personalizar o aplicativo Mapa usando:
 
-* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalização de aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
 
-* Ferramentas de integração. Consulte Mapa para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
-
+* Ferramentas de integração. Consulte Mapa para obter mais informações sobre como personalizar aplicativos usando Ferramentas de integração.
