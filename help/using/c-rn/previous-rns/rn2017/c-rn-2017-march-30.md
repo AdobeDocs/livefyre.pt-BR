@@ -1,49 +1,45 @@
 ---
-description: Notas de versão para a versão de 30 de março de 2017.
-seo-description: Notas de versão para a versão de 30 de março de 2017.
-seo-title: 30 de março de 2017
+description: Notas de versão para 30 de março de 2017.
 title: 30 de março de 2017
-uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
+exl-id: 44c73ff9-8bc1-49c9-b720-aff425e5cd28
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 7%
+source-wordcount: '419'
+ht-degree: 6%
 
 ---
 
-
 # 30 de março de 2017{#march}
 
-Notas de versão para a versão de 30 de março de 2017.
+Notas de versão para 30 de março de 2017.
 
 ## Versão de produção
 
 | Tipo de problema | Componente | Nota de versão |
 |---|---|---|
-| Bug | Pesquisa social | Correção de um bug que impedia a publicação de ativos salvos do YouTube no Social Search. |
-| Aprimoramento | Sincronização social | Sincronização social obsoleta do Twitter. |
-| Aprimoramento | Storify 2 | Adicionado um aprimoramento para exibir a mensagem &quot;Nenhum resultado encontrado&quot; na pesquisa Tópico do Facebook quando nenhum resultado é encontrado. |
-| Aprimoramento | Fluxos | Adicionadas regras de resumo para regras SAFE na parte inferior de uma página de fluxo do Twitter. |
-| Bug | Fluxos | Adicionado um aprimoramento para desativar visivelmente a caixa de seleção &quot;usuário verificado&quot; nas Regras de fluxo do Twitter quando autores excluídos são fornecidos. |
-| Bug | Fluxos | Correção de um erro que permitia o uso de palavras-chave ANDing e um filtro de Localização em uma regra do Twitter. |
+| Bug | Pesquisa social | Correção de um bug que impedia a publicação de ativos do YouTube salvos na Pesquisa social. |
+| Aprimoramento | Sincronização social | Sincronização do Twitter Social obsoleta. |
+| Aprimoramento | Storify 2 | Adição de um aprimoramento para exibir a mensagem &quot;Nenhum resultado encontrado&quot; na pesquisa Tópico do Facebook quando nenhum resultado for encontrado. |
+| Aprimoramento | Fluxos | Adicionadas Regras de resumo para Regras SAFE na parte inferior de uma página do Twitter Stream. |
+| Bug | Fluxos | Adição de um aprimoramento para desativar visivelmente a caixa de seleção &quot;usuário verificado&quot; nas Regras de fluxo do Twitter, quando os autores excluídos são fornecidos. |
+| Bug | Fluxos | Correção de um bug que permitia o uso de palavras-chave E e de um filtro de Localização em uma regra do Twitter. |
 | Bug | Studio | Correção de um erro que impedia que a &quot;Tag de recurso&quot; fosse salva corretamente quando aplicada. |
 
 ## Versão UAT
 
 | Tipo de problema | Componente | Nota de versão |
 |---|---|---|
-| Bug | Conteúdo do aplicativo | Alteração do comportamento de &quot;Mais informações&quot; de modo que, se houver vários eventos de sinalizador Anônimo em um determinado conteúdo, o evento mais antigo sempre será exibido. |
-| Bug | Biblioteca | Correção de um bug que causava a falha intermitente de pesquisas de Biblioteca com hashtags. |
-| Bug | Mapas | Correção de um bug no Maps para suportar um grande número de conteúdo em clusters em dispositivos iOS. |
-| Aprimoramento | Mosaico | Foi adicionada a capacidade de configurar aplicativos Mosaic para clicar em qualquer lugar em um cartão de conteúdo para abrir o modal por tipo de animação `none` no designer e `cardAnimation: 'off'`se instanciado pelo SDK. |
-| Bug | Mosaico | Correção de um erro que permitia que os usuários fizessem alterações com êxito em aplicativos Mosaico no Designer. |
-| Aprimoramento | Solicitação de direitos | Adicionado um novo status de solicitação de direitos chamado &quot;Falha na solicitação&quot; para realçar quando as mensagens de solicitação de direitos não são enviadas. |
-| Aprimoramento | Configurações | Adicionada a capacidade de os clientes criarem Regras de moderação de spam em Configurações. |
-| Aprimoramento | Pesquisa social | Correção de um erro que impedia a exibição de postagens VK.com por meio de Pesquisas sociais de URL. |
-| Aprimoramento | Pesquisa social | Ao procurar conteúdo do Instagram no Studio, se a pesquisa for devido a um token da API do Instagram expirado, a mensagem de erro agora indicará como tal. |
-| Bug | Fluxos | Correção de um erro que resultava na exibição falsa de um banner &quot;O aplicativo não está aceitando novo conteúdo&quot; na parte superior das páginas de Regras de fluxo. |
+| Bug | Conteúdo do aplicativo | Alteração do comportamento de &quot;Mais informações&quot; de modo que, se houver vários eventos de sinalizador anônimo em um determinado conteúdo, o evento anterior será sempre exibido. |
+| Bug | Biblioteca | Correção de um erro que causava falhas intermitentes nas pesquisas da biblioteca com hashtags. |
+| Bug | Mapas | Correção de um bug no Maps para oferecer suporte a um grande número de conteúdo em clusters em dispositivos iOS. |
+| Aprimoramento | Mosaico | Adição da capacidade de configurar aplicativos Mosaic para clicar em qualquer lugar em um cartão de conteúdo para abrir o modal por tipo de animação `none` no designer e `cardAnimation: 'off'`se instanciado por meio do SDK. |
+| Bug | Mosaico | Correção de um erro que permitia que os usuários fizessem alterações nos aplicativos Mosaic no Designer. |
+| Aprimoramento | Solicitação de direitos | Adição de um novo status de solicitação de direitos chamado &quot;Falha na solicitação&quot; para realçar quando as mensagens de solicitação de direitos não foram enviadas. |
+| Aprimoramento | Configurações | Foi adicionada a capacidade de os clientes criarem Regras de moderação de spam em Configurações. |
+| Aprimoramento | Pesquisa social | Correção de um bug que impedia a exibição de publicações VK.com por meio de Pesquisas sociais de URL. |
+| Aprimoramento | Pesquisa social | Ao pesquisar conteúdo do Instagram pelo Studio, se a pesquisa for devido a um Token de API do Instagram expirado, a mensagem de erro agora indicará como tal. |
+| Bug | Fluxos | Correção de um bug que resultava na exibição falsa de um banner de &quot;O aplicativo não está aceitando novo conteúdo&quot; na parte superior das páginas de Regra de fluxo. |
 | Aprimoramento | Fluxos | Modificado o padrão de regras de fluxo recém-criadas para Aplicar regras SAFE quando aplicável. |
-| Aprimoramento | Streams (anteriormente, Regras de preparação) | Removida a opção somente &quot;Vines&quot; das regras de fluxo/preparação do Twitter, pois as Vinhas agora são exibidas como vídeos do Twitter. |
-| Bug | Studio Shell | Correção de um erro que fazia com que o Livefyre Studio fosse carregado se o https:// fosse explicitamente anexado ao url. |
-
+| Aprimoramento | Fluxos (anteriormente, preparar regras) | Remoção da opção &quot;Vinhas&quot; somente das regras de fluxo/preparação do Twitter, já que Vinhas agora são exibidas como vídeos do Twitter. |
+| Bug | Studio Shell | Correção de um erro para que o Livefyre Studio fosse carregado se https:// fosse explicitamente anexado ao url. |
