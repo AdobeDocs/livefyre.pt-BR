@@ -1,21 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo de Classificações. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo de Classificações. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildRatingsCollection
-title: método de site buildRatingsCollection
-uuid: 5eea2ba3-48e1-4cd2-aa73-ea81788af1df
+description: Retorna um objeto Collection instanciado como um tipo Ratings . Execute create_or_update() no objeto Collection para concluir o processo de compilação.
+title: Método do Site buildRatingsCollection
+exl-id: 84af3bb2-95f0-40e0-9a4e-830772a71862
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildRatingsCollection{#buildratingscollection-site-method}
 
-# método de site buildRatingsCollection{#buildratingscollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo de Classificações. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Ratings . Execute create_or_update() no objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -41,7 +38,7 @@ var collection = site.buildRatingsCollection(title, articleId, url);
 $collection = site->buildRatingsCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_ratings_collection(title, articleId, url) 
@@ -52,4 +49,3 @@ collection = site.build_ratings_collection(title, articleId, url)
 ```
 collection = site.build_ratings_collection(title, articleId, url) 
 ```
-
