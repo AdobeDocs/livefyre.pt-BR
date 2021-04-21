@@ -1,27 +1,23 @@
 ---
-description: Personalização das strings de texto para revisões do Livefyre.
-seo-description: Personalização das strings de texto para revisões do Livefyre.
-seo-title: Rever strings de texto
-solution: Experience Manager
-title: Rever strings de texto
-uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
+description: Personalização das cadeias de texto para as revisões do Livefyre.
+title: Rever cadeias de texto
+exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '700'
 ht-degree: 5%
 
 ---
 
-
 # Revisar sequências de texto{#review-text-strings}
 
-Personalização das strings de texto para revisões do Livefyre.
+Personalização das cadeias de texto para as revisões do Livefyre.
 
-Esta página lista e descreve as sequências de caracteres disponíveis para personalização em aplicativos de revisão. As strings listadas aqui são além e substituem as strings padrão para os aplicativos principais do Livefyre, listadas em Personalizações de string. Onde os duplicados são listados, as strings listadas nessas tabelas são o padrão para aplicativos de revisões.
+Esta página lista e descreve as cadeias de caracteres disponíveis para personalização em aplicativos de revisão. As cadeias de caracteres listadas aqui são adicionais e substituições para as cadeias de caracteres padrão dos aplicativos principais do Livefyre, listadas em Personalizações de cadeia de caracteres. Quando duplicatas são listadas, as cadeias de caracteres listadas nessas tabelas são o padrão para aplicativos de Revisões.
 
 Implementação
-Interface de análise/classificação
+Revisar / Interface de Classificação
 Informações de fluxo
 Informações do autor/conteúdo
 Ações do usuário
@@ -30,7 +26,7 @@ Erros
 
 ## Implementação {#section-vsy-1k4-xz}
 
-Para implementar esse recurso, passe um mapeamento de objeto 1-1 das strings que você deseja substituir para o objeto de configuração Javascript. Se você não fornecer um campo, o texto padrão será usado.
+Para implementar esse recurso, passe um mapeamento de objeto 1-1 das cadeias de caracteres que deseja substituir no objeto de configuração Javascript. Se um campo não for fornecido, o texto padrão será usado.
 
 Exemplo:
 
@@ -45,28 +41,28 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Interface de análise/classificação {#section_iyv_zj4_xz}
+## Revisar / Rating Interface {#section_iyv_zj4_xz}
 
-Strings disponíveis para a interface do usuário Revisar e Classificar.
+Cadeias de caracteres disponíveis para a interface de usuário de Revisão e Classificação .
 
 | Elemento | Chave | Texto padrão |
 |--- |--- |--- |
 | Botões | editReviewBtn | Editar revisão |
-|  | reviewBtn | [Revisão de gravação](https://d.pr/i/QscA) |
-|  | reviewClosed | [Revisões Fechadas](https://d.pr/i/zr7M) |
+|  | reviewBtn | [Análise de escrita](https://d.pr/i/QscA) |
+|  | resenhasClosed | [Revisões Fechadas](https://d.pr/i/zr7M) |
 |  | showReviewBtn | [Mostrar revisão](https://d.pr/i/onxU) |
-|  | follow | Estou interessado |
-|  | shareText | Acabei de escrever uma resenha. Confira! |
-| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Nota: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
+|  | seguir | Estou interessado |
+|  | shareText | Acabei de escrever uma revisão. Dê uma olhada! |
+| Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Observação: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
 | Subpartes de classificação | ratingSubpartPlaceholder | Uma matriz. Padrão = `[]` |
-|  | ratingSubpartTitle | Uma matriz. Padrão = `[]` |
-|  | reviewStreamTitle | Em branco por padrão. Título da seção de resumo da revisão. |
+|  | ratingSubparttitles | Uma matriz. Padrão = `[]` |
+|  | reviewStreamTitle | Por padrão, em branco. Título da seção de resumo da revisão. |
 | Misc | averageRating | [Classificação média de usuário](https://d.pr/i/QscA) |
 |  | breakHeader | [Detalhamento da classificação](https://d.pr/i/QscA) |
 |  | útil | %s de %s encontrado útil |
 |  | útilPlural | %s de %s encontrado útil |
 |  | outOf | / |
-|  | ratingType | estrela |
+|  | ratingType | star |
 
 ## Informações de fluxo {#section_wmv_yj4_xz}
 
@@ -74,55 +70,55 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Classificação | sortBy | Em branco por padrão. |
+| Classificação | sortBy | Por padrão, em branco. |
 |  | sortHighestRated | [Classificação mais alta](https://d.pr/i/huTd) |
 |  | sortLowestRated | [Classificação mais baixa](https://d.pr/i/huTd) |
-|  | sortMostHelpful | [Mais úteis](https://d.pr/i/huTd) |
-| Stream misc. | showMore | Mostrar mais |
-| Transmissão em alta velocidade | newComment | Nova revisão |
+|  | sortManyHelpful | [Mais úteis](https://d.pr/i/huTd) |
+| Erro de fluxo. | showMore | Mostrar mais |
+| Transmitir alta velocidade | newComment | Nova revisão |
 |  | newComments | Novas revisões |
-| Contagem de ouvinte | listenerCount | pessoa ouvindo |
+| Contagens de ouvinte | listenerCount | escuta de pessoa |
 |  | listenerCountPlural | pessoas ouvindo |
 | Contagens de comentários | commentCountLabel | LiveReviews<strong> | </strong>%s |
 |  | commentCountLabelPlural | LiveReviews<strong> | </strong>%s |
-| Contagem de notificador de comentários | commentNotifier | Nova revisão |
+| Contagem do notificador do comentário | commentNotifier | Nova revisão |
 |  | commentNotifierPlural | Novas revisões |
 
 ## Informações do autor/conteúdo {#section_osx_xj4_xz}
 
-As strings estão disponíveis para informações de autor e conteúdo individual.
+As sequências estão disponíveis para as informações de autor e conteúdo individual.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Detalhamento de segmentos | reviewContentNotFoundMsg | [Esta revisão não está mais visível](https://d.pr/i/svXs) |
-|  | backToComments | Voltar para revisões |
+| Quebra de linha | resenhasContentNotFoundMsg | [Esta revisão não está mais visível](https://d.pr/i/svXs) |
+|  | backToComments | Voltar para Revisões |
 
 ## Ações do usuário {#section_tlx_wj4_xz}
 
-Strings disponíveis para ações do usuário: marcar, compartilhar e marcar o conteúdo existente como útil.
+Cadeias de caracteres disponíveis para ações do usuário: marcar, compartilhar e marcar o conteúdo existente como útil.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 | Rodapé do comentário | wasReviewHelpful | [Útil?](https://d.pr/i/Q0mA) |
 |  | wasReviewHelpfulMobile | Útil? |
-|  | ownwasReviewHelpful | [Achou útil.](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | [Considerado útil.](https://d.pr/i/Q0mA) |
 |  | reviewwasHelpful | [Sim](https://d.pr/i/Q0mA) |
 |  | útilDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
-|  | reviewwasNotHelpful | [Não](https://d.pr/i/Q0mA) |
-| Votação modal | voteTitle | Esta revisão foi útil? |
-|  | voteDownvote | Não |
-|  | voteReplyTitle | Esta resposta foi útil? |
+|  | reviewIsNotHelpful | [Não](https://d.pr/i/Q0mA) |
+| Modal de voto | voteTitle | Esta revisão foi útil? |
+|  | votarDesfavor | Não |
+|  | voteReplyTitle | Essa resposta foi útil? |
 |  | voteTitle | Este comentário foi útil? |
 |  | voteUpvote | Sim |
-| Sinalizar modal | flagTitle | Sinalizar a revisão de %s |
+| Sinalizar modal | flagTitle | Sinalizar revisão de %s |
 |  | flagSuccessMsg | A revisão foi sinalizada. |
 | Sinalizar móvel | flagConfirmationMessage | Sinalizar a revisão de %s como %s? |
-| Menção modal | referenceDefaultText | Eu mencionei você em uma revisão do Livefyre! |
-| Compartilhar modal | shareTitle | Revisão de compartilhamento |
+| Modal de menção | mentionDefaultText | Eu mencionei você em uma revisão do Livefyre! |
+| Compartilhar modal | shareTitle | Análise de compartilhamento |
 
 ## Funções de publicação {#section_yl1_wj4_xz}
 
-Strings disponíveis para usuários que postam revisões.
+Cadeias de caracteres disponíveis para usuários que postaram revisões.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
@@ -130,7 +126,7 @@ Strings disponíveis para usuários que postam revisões.
 |  | postEditButton | Editar   |
 |  | postEditCancelButton | Cancelar |
 |  | postAsButton | Publicar revisão como... |
-|  | postButton | Revisão posterior |
+|  | postButton | Revisão da postagem |
 |  | postReplyAsButton | Publicar como... |
 |  | postReplyButton | Publicar |
 |  | shareButton | Compartilhar |
@@ -145,22 +141,21 @@ Strings disponíveis para mensagens de erro gerais.
 | Erros | errorAlreadyPosted | Você só pode postar uma revisão. |
 |  | errorAuthError | Você não está autorizado a postar uma revisão nesta conversa |
 |  | errorCommentsNotAllowed | As revisões não podem ser publicadas no momento |
-|  | errorDislikeOwnComment | Você não pode descurtir sua própria revisão |
-|  | errorDuplicate | Por mais que você tenha gostado da sua revisão, não é permitido postá-la duas vezes. |
+|  | errorDislikeOwnComment | Você não pode descurar sua própria revisão |
+|  | errorDuplicate | Por mais que tenha gostado da sua revisão, você não tem permissão para publicá-la duas vezes. |
 |  | errorEditDuplicate | Você deve alterar o corpo da revisão ao editá-la. |
 |  | errorEditNotAllowed | Você não tem permissão para editar revisões nesta conversa. |
 |  | errorEditTimeExceeded | Seu período de edição de revisão expirou. |
 |  | errorEmpty | Parece que você está tentando postar uma revisão vazia. |
 |  | errorEmptyTitle | Parece que você está tentando publicar um título vazio |
-|  | errorFieldRating | classificação por estrelas |
+|  | errorFieldRating | avaliação de estrelas |
 |  | errorFieldReview | revisão |
 |  | errorFieldTitle | title |
-|  | errorMaxChars | Sua análise é muito longa. Edite e tente novamente. |
+|  | errorMaxChars | Sua revisão é muito longa. Edite e tente novamente. |
 |  | errorMissingFields | Insira um |
 |  | errorRatingEmpty | Não é possível enviar uma classificação vazia |
 |  | errorRatingNotSet | Todas as classificações devem ser definidas |
 |  | errorRatingNotValid | A classificação deve ser um objeto |
 |  | errorShowMore | Erro ao carregar mais revisões. |
-|  | errorTitleMaxChars | Desculpe, seu título é muito longo. Edite e tente novamente. |
+|  | errorTitleMaxChars | Seu título é muito longo. Edite e tente novamente. |
 |  | errorVoteOwnComment | Não pode votar na sua própria revisão |
-
