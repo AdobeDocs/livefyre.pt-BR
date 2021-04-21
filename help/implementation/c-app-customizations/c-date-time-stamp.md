@@ -1,33 +1,29 @@
 ---
-description: Personalize carimbos de data e hora usando Livefyre.js.
-seo-description: Personalize carimbos de data e hora usando Livefyre.js.
-seo-title: Personalizar o carimbo de data e hora
-solution: Experience Manager
+description: Personalize carimbos de data e hora usando o Livefyre.js.
 title: Personalizar o carimbo de data e hora
-uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
+exl-id: 77130793-00ba-4a5c-8318-4221d971da6c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
 
-
 # Personalizar o carimbo de data e hora{#customize-the-date-and-time-stamp}
 
-Personalize carimbos de data e hora usando Livefyre.js.
+Personalize carimbos de data e hora usando o Livefyre.js.
 
 Os aplicativos Livefyre fornecem o parâmetro de opção, datetimeFormat, para especificar o formato de data, conforme descrito abaixo.
 
 * [Terminologia](#c_date_time_stamp/section_xsk_jn4_xz)
 * [Formatação](#c_date_time_stamp/section_ynx_gn4_xz)
-* [Designação do símbolo](#c_date_time_stamp/section_inq_2n4_xz)
+* [Designação do Símbolo](#c_date_time_stamp/section_inq_2n4_xz)
 
 ## Terminologia {#section_xsk_jn4_xz}
 
-* **Os** carimbos de data e hora absolutos são definidos como horas exatas e específicas (por exemplo, 1º de janeiro de 2012, 12:00 horas)
-* **Os** carimbos de data e hora relativos são definidos como tempos gerais e menos precisos (por exemplo, 25 segundos atrás, 14 minutos atrás, 1 dia atrás, 1 ano atrás etc.)
+* **Os** carimbos de data e hora absolutos são definidos como horários exatos e específicos (por exemplo, 1 de janeiro de 2012, 12:00 pm)
+* **Os** carimbos de data e hora relativos são definidos como horários gerais e menos precisos (por exemplo, 25 segundos atrás, 14 minutos atrás, 1 dia atrás, 1 ano atrás etc.)
 
 ## Formatação {#section_ynx_gn4_xz}
 
@@ -51,7 +47,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-Um objeto que especifica a forma absolutaFormat e/ou a minutosAtéAbsoluteTime. Um minutosAtéAbsoluteTime com um valor de -1 tornará o tempo absoluto imediato.
+Um objeto que especifica a propriedade fullFormat e/ou minutesuntilAbsoluteTime. Um minutesuntilAbsoluteTime com um valor de -1 tornará o tempo absoluto imediato.
 
 ```
 // Example 2 (Object)  
@@ -69,7 +65,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-Uma função que usa como argumento um objeto Date e retorna uma string datetime para ser exibida
+Uma função que utiliza como argumento um objeto Date e retorna uma string de data e hora a ser exibida
 
 ```
 // Example 3 (Function accepting a Date object, returning a datetime string to display) 
@@ -86,9 +82,9 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-## Designação do símbolo {#section_inq_2n4_xz}
+## Designação do Símbolo {#section_inq_2n4_xz}
 
-Funções de formatação de data e hora seguindo a especificação de padrão, conforme definido em JDK, ICU e CLDR, com pequena modificação para uso típico em JS. Para obter mais informações, consulte a [Documentação da Biblioteca de Fechamento do Google](https://developers.google.com/closure/library/docs/overview).
+Funções de formatação de data e hora que seguem a especificação de padrão, conforme definido em JDK, ICU e CLDR, com pequena modificação para uso típico em JS. Para obter mais informações, consulte a [Documentação da Biblioteca de Fechamento do Google](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -122,14 +118,14 @@ Funções de formatação de data e hora seguindo a especificação de padrão, 
   ''       single quote            (Literal)           'o''clock'
 ```
 
-Os itens marcados com ‘*’ ainda não são suportados.
+Os itens marcados com &quot;*&quot; ainda não são suportados.
 
-Os itens marcados com ‘#’ funcionam de forma diferente do Java.
+Os itens marcados com &quot;#&quot; funcionam de forma diferente do Java.
 
-A contagem de letras padrão determina o formato.
+A contagem de letras de padrão determina o formato.
 
-* **Texto:** 4 ou mais, use o formulário completo. Menos de 4, use o formulário curto ou abreviado, se houver. (Por exemplo: &quot;EEEE&quot; produz &quot;Segunda-feira&quot;, &quot;EEE&quot; produz &quot;Seg&quot;.)
-* **Número:** o número mínimo de dígitos. Números mais curtos são preenchidos com zero para esse valor (por exemplo: Se &quot;m&quot; produzir &quot;6&quot;, &quot;mm&quot; produz &quot;06&quot;.) O ano é manipulado especialmente; ou seja, se a contagem de &quot;y&quot; for 2, o Ano será truncado para 2 dígitos. (Por exemplo: se &quot;aaaa&quot; produzir &quot;1997&quot;, &quot;yy&quot; produz &quot;97&quot;.) Ao contrário de outros campos, segundos fracionários são preenchidos à direita com zero.
-* **Texto e número:** 3 ou mais, use texto. Menos de 3, use o número. (Por exemplo: &quot;M&quot; produz &quot;1&quot;, &quot;MM&quot; produz &quot;01&quot;, &quot;MMM&quot; produz &quot;Jan&quot; e &quot;MMMM&quot; produz &quot;Janeiro&quot;.)
+* **Texto:** 4 ou mais, use o formulário completo. Menos de 4, use o formulário curto ou abreviado, se existir. (Por exemplo: &quot;EEEE&quot; produz &quot;Segunda-feira&quot;, &quot;EEE&quot; produz &quot;Mon&quot;.)
+* **Número:** o número mínimo de dígitos. Números mais curtos são zero preenchidos para esse valor (por exemplo: Se &quot;m&quot; produzir &quot;6&quot;, &quot;mm&quot; produzirá &quot;06&quot;.) O ano é manipulado especialmente; ou seja, se a contagem de &quot;y&quot; for 2, o Ano será truncado para 2 dígitos. (Por exemplo: se &quot;aaaa&quot; produzir &quot;1997&quot;, &quot;yy&quot; produzirá &quot;97&quot;.) Ao contrário de outros campos, segundos fracionais são preenchidos à direita com zero.
+* **Texto e número:** 3 ou superior, use texto. Menos de 3, use número. (Por exemplo: &quot;M&quot; produz &quot;1&quot;, &quot;MM&quot; produz &quot;01&quot;, &quot;MMM&quot; produz &quot;Jan&quot; e &quot;MMMM&quot; produz &quot;Janeiro&quot;.)
 
-Quaisquer caracteres no padrão que não estejam nos intervalos de [‘a’.&quot;z’] e [‘A’.&quot;Z’] será tratado como texto entre aspas. Por exemplo, caracteres como ‘:’, ‘.’, ‘, ‘#’ e ‘@’ aparecerão no texto de tempo resultante, mesmo que não sejam aceitos entre aspas simples.
+Quaisquer caracteres no padrão que não estejam nos intervalos de [‘a’.&quot;z&quot;] e [&quot;A&quot;.&quot;Z’] será tratado como texto entre aspas. Por exemplo, caracteres como ‘:’, ‘.’, ‘, ‘#’ e ‘@’ aparecerão no texto de tempo resultante mesmo que não sejam aceitos entre aspas simples.
