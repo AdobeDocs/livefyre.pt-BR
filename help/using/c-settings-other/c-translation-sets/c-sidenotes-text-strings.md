@@ -1,24 +1,20 @@
 ---
-description: Personalização das strings de texto para Livefyre Sidenotes
-seo-description: Personalização das strings de texto para Livefyre Sidenotes
-seo-title: Separa strings de texto
-solution: Experience Manager
-title: Separa strings de texto
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
+description: Personalização das cadeias de texto para Livefyre Sidenotes
+title: Registra Cadeias de Caracteres de Texto
+exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 12%
+source-wordcount: '491'
+ht-degree: 13%
 
 ---
 
+# Indica sequências de texto{#sidenotes-text-strings}
 
-# Separa strings de texto{#sidenotes-text-strings}
+Personalização das cadeias de texto para Livefyre Sidenotes
 
-Personalização das strings de texto para Livefyre Sidenotes
-
-Esta página lista e descreve todas as sequências de caracteres disponíveis para personalização em aplicativos Sidenotes. Para obter informações sobre strings disponíveis para os principais aplicativos Livefyre, consulte Personalizações de string.
+Esta página lista e descreve todas as strings disponíveis para personalização em aplicativos do Sidenotes. Para obter informações sobre cadeias de caracteres disponíveis para os aplicativos principais do Livefyre, consulte Personalizações de cadeias de caracteres .
 
 Implementação
 Auth
@@ -31,7 +27,7 @@ Erros
 
 ## Implementação {#section_wp2_ql4_xz}
 
-Para implementar esse recurso, passe um mapeamento de objeto 1-1 das strings que você deseja substituir para o objeto de configuração Javascript. Se você não fornecer um campo, o texto padrão será usado.
+Para implementar esse recurso, passe um mapeamento de objeto 1-1 das cadeias de caracteres que deseja substituir no objeto de configuração Javascript. Se um campo não for fornecido, o texto padrão será usado.
 
 Exemplo:
 
@@ -49,11 +45,11 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Autenticação {#section_pqf_3l4_xz}
 
-Strings disponíveis para o processo de autenticação e nos menus de usuário autenticados.
+Strings disponíveis para o processo de autenticação e nos menus de usuário autenticado.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Strings de menu de autenticação | menuAuthSignInBtn | Entrar |
+| Cadeias de caracteres do menu de autenticação | menuAuthSignInBtn | Entrar |
 |  | menuAuthSignedInMsg | Você deve estar conectado a {action} |
 |  | menuUserEditProfile | Editar perfil |
 |  | menuUserAdmin | Admin Console |
@@ -72,71 +68,71 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 
 ## Informações do autor/conteúdo {#section_dhb_gl4_xz}
 
-As strings estão disponíveis para informações de autor e conteúdo individual.
+As sequências estão disponíveis para as informações de autor e conteúdo individual.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 |  | commentModeratorTag | Mod |
-|  | commentCurrentTag | Pendente |
+|  | commentPendingTag | Pendente |
 |  | commentReadMoreLink | Ler mais |
-|  | commentReplyLink | Consulte {número} respostas |
-|  | commentReplyLinkSing | Consulte resposta |
-|  | commentVoteCount | votação |
+|  | commentReplyLink | Veja {número} respostas |
+|  | commentReplyLinkSing | Ver resposta |
+|  | commentVoteCount | votações |
 |  | commentVoteCountSing | voto |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | Uma matriz. Padrão =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto </span> e clique no  <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou no  <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
-|  | questionMockText | O que é &quot;conhecido familiar&quot; não é propriamente conhecido, apenas pelo fato de ser &quot;familiar&quot;. |
+|  | questionExplication | Agora é possível ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Realce o texto </span> e clique no  <span class="&rdquo;fycon-write&rdquo;"></span> ícone ou clique no  <span class="&rdquo;fycon-action-view&rdquo;"></span> ícone no final de cada parágrafo. |
+|  | questionMockText | O &quot;conhecimento familiar&quot; não é bem conhecido, só pelo fato de ser &quot;familiar&quot;. |
 |  | questionTitle | O que é um Sidenote? |
 
 ## Ações do usuário {#section_qxd_fl4_xz}
 
-Strings disponíveis para ações do usuário: marcar, compartilhar e curtir o conteúdo existente.
+Cadeias de caracteres disponíveis para ações do usuário: marcar, compartilhar e curtir o conteúdo existente.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Opções do menu Responder | menuRespostasExibirTítulo | Detalhes |
-|  | menuRespostasExibirResponder | Responder à conversa |
+| Opções do menu Responder | menuRepliesViewTitle | Detalhes |
+|  | menuRepliesExibirResposta | Responder à Conversa |
 | Opções do menu Compartilhar | menuShareOptionFacebook | Facebook |
 |  | menuShareOptionTwitter | Twitter |
-|  | menuCompartilharTítulo | Compartilhar |
-| Opções do menu Sinalizar | menuFlagOptionDisagree | Discordar |
-|  | menuFlagOptionOffensive | Ofensivo |
+|  | menuShareTitle | Compartilhar |
+| Opções do menu Sinalizar | menuFlagOptionDisagree | Discordo |
+|  | menuFlagOptionOffensive | Ofensiva |
 |  | menuFlagOptionOffTopic | Tópico desativado |
 |  | menuFlagOptionSpam | Spam |
 |  | menuFlagTitle | Sinalizar como... |
-|  | facebookShareCaption | Notas de identidade em &quot;{title}&quot; |
+|  | facebookShareCaption | Observações em &quot;{title}&quot; |
 | Opções do usuário móvel | sliderCommentTally | of |
 |  | sliderInviteRead | Lido |
 |  | sliderInviteWrite | Gravar |
 |  | sliderLoading | Carregando… |
-|  | sliderWriteText | O que você acha? Toque em para escrever. |
+|  | sliderWriteText | O que você acha? Toque em para gravar. |
 
 ## Funções de publicação {#section_xzf_2l4_xz}
 
-Strings disponíveis para usuários que postam conteúdo.
+Cadeias de caracteres disponíveis para usuários que postam conteúdo.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 |  | editorEditBtn | Salvar |
 |  | editorEditPosting | Salvando... |
 |  | editorEditReplyTitle | Editar resposta |
-|  | editorEditarTítulo | Editar Sidenote |
+|  | editorEditTitle | Editar Sidenote |
 |  | editorPlaceholder | O que você acha? |
 |  | editorPostBtn | Post Sidenote |
 |  | editorPostBtnMobile | Publicar |
-|  | editorPostagem | Postando… |
+|  | editorPosting | Postando… |
 |  | editorReplyBtn | Postar resposta |
-|  | editorReplyTitle | Gravar resposta |
-|  | editorTitle | Gravar nota secundária |
+|  | editorReplyTitle | Resposta de gravação |
+|  | editorTitle | Escrever Sidenote |
 |  | emptyImageBlockTxt | O que você acha? |
 |  | emptyTextBlockTxt | + |
 |  | replyBtn | Responder |
-|  | threadReplyBtn | Responder à conversa |
+|  | threadReplyBtn | Responder à Conversa |
 | Excluir opções do menu | menuConfirmAccept | Sim, {action} |
 |  | menuConfirmCancel | Cancelar |
 |  | menuConfirmTitle | Você tem certeza? |
-| Opções do menu Etc | menuEtcOptionAprovar | Aprovar |
+| Opções do menu Etc | menuEtcOptionApprove | Aprovar |
 |  | menuEtcOptionDelete | Excluir |
 |  | menuEtcOptionEdit | Editar   |
 |  | menuEtcOptionFlag | Segnalato |
@@ -146,11 +142,11 @@ Strings disponíveis para usuários que postam conteúdo.
 
 ## Interface do moderador {#section_o5f_dl4_xz}
 
-Strings disponíveis para a interface de moderador autenticada pelo usuário.
+Cadeias de caracteres disponíveis na interface de moderador autenticada pelo usuário.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Mensagens de confirmação do menu Mais | notificationAprovado | Aprovado |
+| Mensagens de confirmação do menu Mais | notificationApproved | Aprovado |
 |  | notificationDeleted | Excluído |
 |  | notificationFlagged | Sinalizado |
 
@@ -160,8 +156,7 @@ Strings disponíveis para mensagens de erro gerais.
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-|  | errorConnection | Oh-oh. Você não parece ter uma boa conexão. |
-|  | errorDuplicate | Também gostamos da sua nota, mas não é possível publicá-la duas vezes. |
+|  | errorConnection | Ah-oh. Você não parece ter uma boa conexão. |
+|  | errorDuplicate | Gostamos da sua nota também, mas você não pode publicá-la duas vezes. |
 |  | errorGeneral | Ocorreu um erro. Tente novamente. |
-|  | errorServer | Algo deu errado com nosso servidor. Tenta de novo? |
-
+|  | errorServer | Algo deu errado com nosso servidor. Tente isso de novo? |
