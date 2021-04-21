@@ -1,22 +1,18 @@
 ---
-description: Recupera informações da coleção do Livefyre como um objeto JSONO.
-seo-description: Recupera informações da coleção do Livefyre como um objeto JSONO.
-seo-title: Método de coleta getCollectionContent
-solution: Experience Manager
+description: Recupera informações da coleção do Livefyre as a JSONObject.
 title: Método de coleta getCollectionContent
-uuid: 270dcea5-4de5-4d3b-a751-79e6b9c4fd93
+exl-id: 9eb532b7-6f53-47ca-8688-13496318ac96
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-
 # Método de Coleção getCollectionContent{#getcollectioncontent-collection-method}
 
-Recupera informações da coleção do Livefyre como um objeto JSONO.
+Recupera informações da coleção do Livefyre as a JSONObject.
 
 ## Exemplo de Java {#section_nyl_ycs_rz}
 
@@ -36,7 +32,7 @@ collection.getCollectionContent(callback);
 $collection->getCollectionContent(); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection.get_collection_content() 
@@ -47,4 +43,3 @@ collection.get_collection_content()
 ```
 collection.get_collection_content 
 ```
-
