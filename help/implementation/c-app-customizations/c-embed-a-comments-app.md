@@ -1,24 +1,20 @@
 ---
 description: A incorporação do aplicativo Comentários segue o processo de incorporação de um aplicativo principal.
-seo-description: A incorporação do aplicativo Comentários segue o processo de incorporação de um aplicativo principal.
-seo-title: Incorporar um aplicativo de comentários
-solution: Experience Manager
 title: Incorporar um aplicativo de comentários
-uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
+exl-id: 5eb191f8-ee52-4a9d-9180-90457a49fd4e
 translation-type: tm+mt
-source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
-
 
 # Incorporar um aplicativo de comentários{#embed-a-comments-app}
 
 A incorporação do aplicativo Comentários segue o processo de incorporação de um aplicativo principal.
 
-A incorporação do aplicativo de comentários segue o processo de incorporação de um aplicativo principal descrito em [Incorporar um aplicativo](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+A incorporação do aplicativo Comentários segue o processo de incorporação de um aplicativo principal descrito em [Incorporar um aplicativo](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 ## Exemplo
 
@@ -67,4 +63,3 @@ Conforme observado na seção Building CollectionMeta, CollectionMeta é um obje
 "title": "articleTitle" 
 }
 ```
-
