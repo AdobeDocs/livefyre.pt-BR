@@ -1,21 +1,17 @@
 ---
-description: Saiba mais sobre o Regulamento Geral de Proteção de Dados (RGPD) e como concluir as solicitações de acesso e exclusão permitidas pelo RGPD, para dados coletados durante a utilização do Livefyre, bem como outros controles de privacidade relacionados.
-seo-description: Saiba mais sobre o Regulamento Geral de Proteção de Dados (RGPD) e como concluir as solicitações de acesso e exclusão permitidas pelo RGPD, para dados coletados durante a utilização do Livefyre, bem como outros controles de privacidade relacionados.
-seo-title: Solicitações de privacidade (pronto para RGPD)
-solution: Experience Manager
-title: Solicitações de privacidade (pronto para RGPD)
-uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
+description: Saiba mais sobre o Regulamento Geral sobre a Proteção de Dados (GDPR) e como concluir as solicitações de acesso e exclusão permitidas sob o GDPR, para dados coletados durante o uso do Livefyre, bem como outros controles de privacidade relacionados.
+title: Solicitações de privacidade (Prontas para GDPR)
+exl-id: 46565fe8-d9f0-4374-bf67-1a0bca28588a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
+# Solicitações de privacidade (Prontas para GDPR){#privacy-requests-gdpr-ready}
 
-# Solicitações de privacidade (pronto para GDPR){#privacy-requests-gdpr-ready}
+Saiba mais sobre o Regulamento Geral sobre a Proteção de Dados (GDPR) e como concluir as solicitações de acesso e exclusão permitidas sob o GDPR, para dados coletados durante o uso do Livefyre, bem como outros controles de privacidade relacionados.
 
-Saiba mais sobre o Regulamento Geral de Proteção de Dados (RGPD) e como concluir as solicitações de acesso e exclusão permitidas pelo RGPD, para dados coletados durante a utilização do Livefyre, bem como outros controles de privacidade relacionados.
-
-O [Regulamento Geral sobre a Proteção de Dados (RGPD)](https://adobe.io/apis/cloudplatform/gdpr.html) é um regulamento destinado a reforçar e unificar a proteção de dados dos indivíduos na União Europeia (UE). Além de outros controles de privacidade para ajudá-lo a concluir as solicitações de acesso e exclusão que você pode receber de seus usuários finais (pessoas de dados), o Adobe preparou uma solução pronta para RGPD para a funcionalidade introduzida do Livefyre que permite solicitar ou excluir dados coletados em seu uso do Livefyre.
+O [Regulamento Geral sobre a Proteção de Dados (GDPR)](https://adobe.io/apis/cloudplatform/gdpr.html) é um regulamento destinado a fortalecer e unificar a proteção de dados dos indivíduos dentro da União Europeia (UE). Além de outros controles de privacidade para ajudá-lo a concluir as solicitações de acesso e exclusão que você pode receber de seus usuários finais (titulares de dados), o Adobe preparou uma solução pronta para GDPR para a funcionalidade introduzida do Livefyre que permite solicitar ou excluir dados coletados durante o uso do Livefyre.
