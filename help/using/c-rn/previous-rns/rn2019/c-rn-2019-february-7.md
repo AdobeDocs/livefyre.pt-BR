@@ -1,22 +1,18 @@
 ---
-description: Notas de versão do Livefyre, versão de 7 de fevereiro de 2019.
-seo-description: Notas de versão do Livefyre, versão de 7 de fevereiro de 2019.
-seo-title: Notas de versão
-solution: Experience Manager
+description: Notas de versão do Livefyre 7 de fevereiro de 2019.
 title: Notas de versão
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: b04ded96-ebeb-4385-8fcf-a870044fbd85
 translation-type: tm+mt
-source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 11%
+source-wordcount: '51'
+ht-degree: 9%
 
 ---
 
-
 # Notas de versão - 7 de fevereiro de 2019 {#rn020719}
 
-**Notas de versão para a atualização de 7 de fevereiro de 2019.**
+**Notas de versão da atualização de 7 de fevereiro de 2019.**
 
 ## Aprimoramento
 
@@ -24,4 +20,4 @@ ht-degree: 11%
 
 ## Correções de erros
 
-* Correção de um problema em que o conteúdo marcado pelo Moderation Recommendations como *trash* não era exibido ao tentar visualização de todo o conteúdo, incluindo o conteúdo com trash.
+* Correção de um problema em que o conteúdo marcado pelo Recommendations de moderação como *lixado*, não era exibido ao tentar exibir todo o conteúdo, incluindo o conteúdo lixado.
