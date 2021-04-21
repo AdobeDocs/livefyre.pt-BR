@@ -1,23 +1,20 @@
 ---
-description: Você pode alterar o formato de data e carimbo de data e hora para atender às suas necessidades.
-seo-description: Você pode alterar o formato de data e carimbo de data e hora para atender às suas necessidades.
-seo-title: Data e carimbo de data e hora
+description: Você pode alterar a data e o formato do carimbo de data e hora para atender às suas necessidades.
 title: Data e carimbo de data e hora
-uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
 
 # Data e carimbo de data e hora{#date-and-timestamp}
 
-Você pode alterar o formato de data e carimbo de data e hora para atender às suas necessidades.
+Você pode alterar a data e o formato do carimbo de data e hora para atender às suas necessidades.
 
-Por padrão, os aplicativos Livefyre exibem um carimbo de data e hora relativo para postagens no stream (há 4 minutos, há 5 horas, há 8 dias, há 2 meses).
+Por padrão, os aplicativos Livefyre exibem um carimbo de data e hora relativo para publicações no stream (há 4 minutos, 5 horas atrás, 8 dias atrás, 2 meses atrás).
 
 Você pode personalizar o carimbo de data e hora exibido usando a Personalização de data e hora, que permite selecionar de uma lista de formatos disponíveis. Para obter mais informações, consulte [Data e carimbo de data e hora](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
 
@@ -28,9 +25,9 @@ Aplicativos que usam este recurso:
 * [Comentários](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Placa de recurso](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Mapa](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
-* [Mídia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Mural de mídia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Mosaico](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Resenhas](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Observações](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 
