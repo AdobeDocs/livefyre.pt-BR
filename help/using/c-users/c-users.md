@@ -1,21 +1,17 @@
 ---
 description: Adicione e gerencie usuários e visitantes do site com as redes Studio e Livefyre.
-seo-description: Adicione e gerencie usuários e visitantes do site com as redes Studio e Livefyre.
-seo-title: Usuários gerenciando usuários do Studio e do Livefyre Network
-solution: Experience Manager
-title: Usuários gerenciando usuários do Studio e do Livefyre Network
-uuid: e9f5c0f3-4a10-4e81-9267-112541f7dd46
+title: Usuários Gerenciando Usuários do Studio e da Rede Livefyre
+exl-id: fbf9b8a7-ac94-477e-9ef2-01baa3856dfe
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
-# Usuários: Gerenciando usuários do Studio e do Livefyre Network{#users-managing-studio-and-livefyre-network-users}
+# Usuários: Gerenciando usuários de rede do Studio e do Livefyre{#users-managing-studio-and-livefyre-network-users}
 
 Adicione e gerencie usuários e visitantes do site com as redes Studio e Livefyre.
 
-A página Usuários do Studio lista todos os usuários no banco de dados Livefyre para sua rede, incluindo os usuários finais que criaram uma conta para interagir com seus aplicativos e os usuários autorizados do Studio. Esta página permite que você visualização informações do usuário, incluindo nomes de usuário, endereços de email e data de adesão, e gerencie o Studio Access.
+A página Usuários do Studio lista todos os usuários no banco de dados do Livefyre para sua rede, incluindo ambos os usuários finais que criaram uma conta para interagir com seus aplicativos e seus usuários autorizados do Studio. Esta página permite exibir informações do usuário, incluindo nomes de usuário, endereços de email e data de adesão, e gerenciar o Studio Access.
