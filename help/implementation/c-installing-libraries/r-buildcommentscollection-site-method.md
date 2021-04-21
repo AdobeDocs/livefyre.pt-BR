@@ -1,22 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildCommentsCollection
-solution: Experience Manager
-title: método de site buildCommentsCollection
-uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
+description: Retorna um objeto Collection instanciado como um tipo Comments . Execute createOrUpdate() no objeto Collection para concluir o processo de compilação.
+title: Método do Site buildCommentsCollection
+exl-id: 9534c25a-fd1c-4a09-92e2-d196ac218ef3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildCommentsCollection{#buildcommentscollection-site-method}
 
-# método de site buildCommentsCollection{#buildcommentscollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo Comments. Execute createOrUpdate() a partir do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Comments . Execute createOrUpdate() no objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -42,7 +38,7 @@ var collection = site.buildCommentsCollection(title, articleId, url);
 $collection = site->buildCommentsCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_comments_collection(title, articleId, url) 
