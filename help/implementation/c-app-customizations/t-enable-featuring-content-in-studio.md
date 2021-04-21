@@ -1,22 +1,18 @@
 ---
 description: Para incluir conteúdo, primeiro ative a configuração Ativar comentários em destaque no Studio.
-seo-description: Para incluir conteúdo, primeiro ative a configuração Ativar comentários em destaque no Studio.
-seo-title: Habilitar conteúdo em destaque no Studio
-solution: Experience Manager
 title: Habilitar conteúdo em destaque no Studio
-uuid: 6c599525-4c48-4536-9300-add384ba1051
+exl-id: 1bb34e7d-be1d-4796-a1d5-2b3bbc38be30
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 2%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
-
 
 # Habilitar conteúdo em destaque no Studio{#enable-featuring-content-in-studio}
 
 Para incluir conteúdo, primeiro ative a configuração Ativar comentários em destaque no Studio.
 
 1. Ir para **[!UICONTROL Studio > Settings > Network Settings > Default Settings]**.
-1. Alterne a configuração **[!UICONTROL Enable Featured Comments]** para permitir que você destaque os comentários recentemente apresentados acima do editor.
+1. Alterne a configuração **[!UICONTROL Enable Featured Comments]** para permitir que você destaque os comentários em destaque recentemente acima do editor.
