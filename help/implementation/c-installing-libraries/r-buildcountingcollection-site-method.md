@@ -1,21 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildCountingCollection
-title: método de site buildCountingCollection
-uuid: e293d66a-0025-4230-997e-295ce4625713
+description: Retorna um objeto Collection instanciado como um tipo Counting . Execute create_or_update()do objeto Collection para concluir o processo de compilação.
+title: Método do Site buildCountingCollection
+exl-id: 02186eff-1f2f-41e5-8232-033b646ef224
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildCountingCollection{#buildcountingcollection-site-method}
 
-# método de site buildCountingCollection{#buildcountingcollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo Count. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Counting . Execute create_or_update()do objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -41,7 +38,7 @@ var collection = site.buildCountingCollection(title, articleId, url);
 $collection = site->buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_counting_collection(title, articleId, url) 
@@ -52,4 +49,3 @@ collection = site.build_counting_collection(title, articleId, url)
 ```
 collection = site.build_counting_collection(title, articleId, url) 
 ```
-
