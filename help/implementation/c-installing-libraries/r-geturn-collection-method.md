@@ -1,19 +1,18 @@
 ---
-description: Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
-seo-description: Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
-seo-title: Método de coleta getUrn
-solution: Experience Manager
-title: Método de coleta getUrn
-uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
+description: Este método retorna o URN para esta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
+title: Método de Coleta getUrn
+exl-id: bea04805-8f02-4c06-9a1a-6b057de831ab
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
 
+# Método de Coleta getUrn{#geturn-collection-method}
 
-# Método de coleta getUrn{#geturn-collection-method}
-
-Este método retorna o URN desta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
+Este método retorna o URN para esta Coleção. Você deve executar createOrUpdate() antes de executar esse método.
 
 ## Exemplo de Java {#section_nyl_ycs_rz}
 
@@ -27,7 +26,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
 
-## Exemplo NodeJS {#section_xkd_gds_rz}
+## Exemplo de NodeJS {#section_xkd_gds_rz}
 
 ```
 collection.getUrn(); 
@@ -74,4 +73,3 @@ Exemplo de saída:
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
-
