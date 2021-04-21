@@ -1,25 +1,22 @@
 ---
-description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
-seo-description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
-seo-title: Filtrar UGC por ID de produto
+description: Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, ao mostrar diferentes UGC específicos do produto para cada página.
 title: Filtrar UGC por ID de produto
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: c98ee899-fcac-45dd-a26a-f678814776fd
 translation-type: tm+mt
-source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
 # Filtrar UGC por ID de produto {#filter-ugc-product-id}
 
-Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, além de mostrar diferentes UGC específicos do produto para cada página.
+Filtrar o UGC por ID de produto permite incorporar exatamente o mesmo aplicativo em várias páginas, ao mostrar diferentes UGC específicos do produto para cada página.
 
 Para filtrar o UGC por ID de produto, siga estas etapas:
 
-1. No Livefyre Studio, navegue até a guia **[!UICONTROL Apps]**.
+1. No Livefyre Studio, navegue até a guia **[!UICONTROL Apps]** .
 
 1. Selecione o aplicativo que deseja modificar.
 
@@ -29,21 +26,21 @@ Para filtrar o UGC por ID de produto, siga estas etapas:
 
 ![](assets/filter-ugc-product-id.png)
 
-1. Selecione as pastas de produtos de nível superior que contêm o produto ou produtos pelo qual você deseja filtrar o UGC.
+1. Selecione as pastas de produto de nível superior que contêm o produto ou produtos para os quais deseja filtrar o UGC.
 Use CTRL/Command + clique para selecionar várias pastas.
 
 1. Desative **[!UICONTROL Show related content]**.
-Quando ativado, o conteúdo que é filtrado usando o atributo `data-lf-attr-product` será exibido primeiro, seguido por todo o outro conteúdo no aplicativo.
+Quando ativado, o conteúdo filtrado usando o atributo `data-lf-attr-product` será exibido primeiro, seguido por todos os outros conteúdos no aplicativo.
 
 1. Clique em **[!UICONTROL Publish]**.
 
-1. Insira as IDs de produto que deseja filtrar no código resultante.
+1. Insira as IDs de produto que você deseja filtrar no código resultante.
 
 >[!NOTE]
 >
->Para localizar IDs de produto, navegue até **[!UICONTROL Settings > Products]**. Localize o produto desejado e selecione-o e a ID será exibida.
+>Para localizar IDs de produto, navegue até **[!UICONTROL Settings > Products]**. Localize o produto desejado, selecione-o e a ID será exibida.
 
-Por exemplo, o código a seguir é gerado para um aplicativo Media Wall:
+Por exemplo, o código a seguir é gerado para um Aplicativo de mural de mídia:
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -56,7 +53,7 @@ env="prod" data-lf-read-only="" data-lf-attr-product="<product
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Para marcar um produto, substitua `<product 1>` no atributo `data-lf-attr-product` pela ID de produto desejada. Você pode marcar um ou mais produtos adicionando IDs de produtos separados por vírgula adicionais. Os produtos devem estar contidos na pasta ou pastas de produto de nível superior selecionadas na Etapa 5.
+Para marcar um produto, substitua `<product 1>` no atributo `data-lf-attr-product` pela ID de produto desejada. É possível marcar um ou mais produtos ao adicionar outras IDs de produtos separadas por vírgulas. Os produtos devem estar contidos na pasta ou pastas de produto de nível superior selecionadas na Etapa 5.
 
 O segmento de código modificado apareceria como:
 
