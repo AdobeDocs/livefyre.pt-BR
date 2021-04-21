@@ -1,25 +1,21 @@
 ---
-description: Adicione partes únicas do conteúdo em destaque à sua página.
-seo-description: Adicione partes únicas do conteúdo em destaque à sua página.
-seo-title: Placa de recurso
-solution: Experience Manager
+description: Adicione um único conteúdo em destaque à sua página.
 title: Placa de recurso
-uuid: 8c44edad-d8a5-452e-952c-5d6818e5c0b0
+exl-id: 24364376-5cb3-4ef1-a0b0-69781fcc9132
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# Placa de recurso{#feature-card}
 
-# Cartão de recurso{#feature-card}
+Adicione um único conteúdo em destaque à sua página.
 
-Adicione partes únicas do conteúdo em destaque à sua página.
+Use o Cartão de recursos para destacar partes individuais do conteúdo em uma única exibição de cartão. O aplicativo prioriza o conteúdo em destaque mais recente e percorre os itens mais recentes para garantir uma exibição nova e relevante.
 
-Use o Cartão de recurso para realçar partes individuais do conteúdo em uma única exibição de cartão. O aplicativo prioriza o conteúdo em destaque mais recente e percorre os itens mais recentes para garantir uma exibição nova e relevante.
+O Cartão de recursos exibirá o item em destaque mais recentemente (não necessariamente o item postado mais recentemente), permitindo que você selecione seu melhor conteúdo para apresentação oportuna na página.
 
-O Cartão de Recurso exibirá o item em destaque mais recente (não necessariamente o item publicado mais recentemente), permitindo que você selecione seu melhor conteúdo para apresentação oportuna na página.
-
-Use o Cartão de recurso para realçar partes individuais do conteúdo em uma única exibição de cartão. O aplicativo prioriza o conteúdo em destaque mais recente e percorre os itens mais recentes para garantir uma exibição nova e relevante.
+Use o Cartão de recursos para destacar partes individuais do conteúdo em uma única exibição de cartão. O aplicativo prioriza o conteúdo em destaque mais recente e percorre os itens mais recentes para garantir uma exibição nova e relevante.
