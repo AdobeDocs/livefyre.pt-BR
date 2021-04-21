@@ -1,28 +1,24 @@
 ---
-description: Você pode proibir os usuários em linha nos aplicativos do Livefyre, e os usuários conectados pelo Livefyre podem ser proibidos na página Biblioteca do Studio > Conteúdo do aplicativo.
-seo-description: Você pode proibir os usuários em linha nos aplicativos do Livefyre, e os usuários conectados pelo Livefyre podem ser proibidos na página Biblioteca do Studio > Conteúdo do aplicativo.
-seo-title: Banir um usuário
-solution: Experience Manager
+description: É possível proibir usuários em linha nos seus aplicativos do Livefyre, e os usuários conectados pelo Livefyre podem ser proibidos na página Biblioteca do Studio > Conteúdo do aplicativo .
 title: Banir um usuário
-uuid: ce528a9a-7137-4c2b-a445-194feae61879
+exl-id: b9e045d8-0fb4-4ce5-ba0a-e22de5e22c6c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
 # Banir um usuário{#ban-a-user}
 
-Você pode proibir os usuários em linha nos aplicativos do Livefyre, e os usuários conectados pelo Livefyre podem ser proibidos na página Biblioteca do Studio > Conteúdo do aplicativo.
+É possível proibir usuários em linha nos seus aplicativos do Livefyre, e os usuários conectados pelo Livefyre podem ser proibidos na página Biblioteca do Studio > Conteúdo do aplicativo .
 
 ![](assets/UsersBan2-1024x409.png)
 
-Para proibir um usuário na página Usuários:
+Para banir um usuário da página Usuários:
 
 1. Clique em **[!UICONTROL +Add]** para **[!UICONTROL Bans]**.
-1. Será exibido um pop-up que permite proibir o usuário de toda a rede ou de um site específico. (Use a tecla CTR ou Command para selecionar vários sites.)
-1. Clique em **[!UICONTROL Remove this user’s comments]** para proibir o usuário, faça zoom em todas as publicações anteriores e remova-as do fluxo. Deixe essa caixa desmarcada para Bozo somente para publicações futuras do usuário banido.
+1. Um pop-up será exibido e permitirá que você exclua o usuário de toda a rede ou de um site específico. (Use a tecla CTR ou Command para selecionar vários sites.)
+1. Clique em **[!UICONTROL Remove this user’s comments]** para banir o usuário, fazer o zoom de qualquer publicação anterior e removê-lo do stream. Deixe essa caixa desmarcada para Bozo somente em publicações futuras do usuário banido.
 1. Clique em **[!UICONTROL Ban]** para concluir o processo.
