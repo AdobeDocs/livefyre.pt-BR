@@ -1,56 +1,51 @@
 ---
-description: Exibe os 25 segmentos mais populares no aplicativo, ordenados por popularidade.
-seo-description: Exibe os 25 segmentos mais populares no aplicativo, ordenados por popularidade.
-seo-title: Threads instantâneos
-solution: Experience Manager
-title: Threads instantâneos
-uuid: 0011f769-6712-48e9-bb10-a43610fef595
+description: Exibe os 25 threads mais populares no aplicativo, ordenados por popularidade.
+title: Threads principais
+exl-id: a7d4efef-6f25-4eaf-9a1e-b0ff3c033d5d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
+# Hot Threads{#hot-threads}
 
-# Threads instantâneos{#hot-threads}
+Exibe os 25 threads mais populares no aplicativo, ordenados por popularidade.
 
-Exibe os 25 segmentos mais populares no aplicativo, ordenados por popularidade.
-
-A visualização Hot Threads exibe os 25 threads mais populares no aplicativo, ordenados pela popularidade. Isso inclui todo o conteúdo no aplicativo, incluindo publicações manuais, conteúdo do SocialSync e conteúdo do Streams.
+A exibição Hot Threads exibe os 25 threads mais populares no aplicativo, ordenados por popularidade. Isso inclui todo o conteúdo no aplicativo, incluindo publicações manuais, conteúdo do SocialSync e conteúdo do Streams.
 
 >[!NOTE]
 >
->Os Threads ativos estão disponíveis em Comentários, mas não em Blog ao vivo ou Bate-papo.
+>Hot Threads está disponível em Comentários, mas não em Blog ao vivo ou Chat.
 
-Para obter mais informações sobre como ativar a visualização Hot Threads, consulte Studio > Configurações de rede.
+Para obter mais informações sobre como ativar a exibição Hot Threads, consulte Studio > Configurações de Rede.
 
-## Pré-visualização {#section_xhh_2dl_wy}
+## Visualizações {#section_xhh_2dl_wy}
 
-Clicar em **[!UICONTROL Hot Threads]** na parte superior do fluxo substitui o conteúdo do aplicativo por pré-visualizações de até 25 segmentos com as &quot;pontuações de popularidade&quot; mais altas do aplicativo. Uma pontuação de popularidade é calculada para cada segmento usando o algoritmo proprietário e em evolução de Livefyre. A pré-visualização exibe um comentário de nível superior e até 5 das respostas mais populares, bem como o pai direto de cada uma dessas 5 respostas principais.
+Clicar em **[!UICONTROL Hot Threads]** na parte superior do fluxo substitui o conteúdo do aplicativo por visualizações de até 25 threads com as &quot;pontuações de popularidade&quot; mais altas do aplicativo. Uma pontuação de popularidade é calculada para cada thread usando o algoritmo proprietário e em evolução de Livefyre. A visualização exibe um comentário de nível superior e até 5 das respostas mais populares, bem como o pai direto de cada uma dessas 5 respostas principais.
 
 Se não houver threads no fluxo com uma pontuação de popularidade, nenhum comentário será exibido e os usuários verão a mensagem **[!UICONTROL There are not enough threads yet]** e um link para **[!UICONTROL See what’s new]**.
 
-A lista Hot Threads não é em tempo real e só será atualizada quando a página for atualizada ou outra visualização (**[!UICONTROL Newest]** ou **[!UICONTROL Oldest]**) for selecionada. (Se um comentário for moderado e o Bozo for descartado, ele será removido da lista imediatamente.)
+A lista de Hot Threads não é em tempo real e será atualizada somente quando a página for atualizada ou outra exibição (**[!UICONTROL Newest]** ou **[!UICONTROL Oldest]**) for selecionada. (Se um comentário for moderado e Bozo’d ou descartado, ele será removido da lista imediatamente.)
 
-## Visualização de sessão de grupo {#section_zmf_ddl_wy}
+## Exibição de detalhamento {#section_zmf_ddl_wy}
 
-Na pré-visualização, clique em **[!UICONTROL Show entire Thread]** para substituir a visualização Hot Threads por uma visualização de sessão de grupo do thread no contexto, incluindo todas as respostas dentro do thread. (Nenhum outro thread é exibido na visualização de sessão de grupo.) Clique em **[!UICONTROL Hot Threads]** para retornar à visualização Hot Threads.
+Na visualização, clique em **[!UICONTROL Show entire Thread]** para substituir a exibição Hot Threads por uma exibição de detalhamento do thread no contexto, incluindo todas as respostas nesse thread. (Nenhum outro thread é exibido na exibição de detalhamento.) Clique em **[!UICONTROL Hot Threads]** para retornar à exibição Hot Threads.
 
-Os moderadores podem visualização todo o conteúdo pendente na visualização de sessão de grupo e a moderação em linha está disponível. Curtir, respostas, edições e ações de moderação continuarão a ser transmitidas em tempo real na visualização de sessão de grupo.
+Os moderadores podem exibir todo o conteúdo pendente na exibição de detalhamento e a moderação em linha está disponível. Curtir, respostas, edições e ações de moderação continuarão a ser stream em tempo real na exibição de detalhamento.
 
-## Postando da Visualização de Threads Acessantes {#section_bmv_bdl_wy}
+## Postando na Exibição de Hot Threads {#section_bmv_bdl_wy}
 
-Ao postar um comentário da caixa de comentário superior na visualização Hot Threads os usuários voltarão para a visualização Mais Recente.
+Postar um comentário na caixa de comentários superior na exibição Hot Threads retornará os usuários para a exibição Mais recente.
 
-Respostas ou opções Curtir publicadas na visualização Hot Threads aparecerão no stream sem alterar as visualizações. As opções de classificação e o notificador de comentário não estão disponíveis na visualização Hot Threads.
+Respostas ou opções Curtir postadas na exibição Hot Threads aparecerão no stream sem alterar as exibições. As opções de classificação e o notificador de comentário não estão disponíveis na exibição Hot Threads.
 
-Para otimizar o desempenho, o Livefyre armazena dados em cache por até 2 minutos. Pode haver um ligeiro desfasamento nos Hot Threads mais recentes que aparecem.
+Para otimizar o desempenho, o Livefyre armazena os dados em cache por até 2 minutos. Pode haver um pequeno atraso nos Hot Threads mais recentes que aparecem.
 
 
 
 Aplicativos que usam este recurso:
 
 * [Comentários](/help/using/c-about-apps/c-comments/c-comments.md)
-
