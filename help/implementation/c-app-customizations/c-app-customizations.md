@@ -1,44 +1,39 @@
 ---
-description: Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
-seo-description: Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
-seo-title: Personalizações do aplicativo
-solution: Experience Manager
+description: Personalize as opções de exibição do aplicativo para corresponder à sua marca e estilo e adicione funcionalidade personalizada.
 title: Personalizações do aplicativo
-uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
+exl-id: 897579fb-11b5-4a00-b2bf-86f505b79003
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-
 # Personalizações do aplicativo{#app-customizations}
 
-Personalize as opções de exibição do aplicativo para que correspondam à sua marca e estilo e adicione funcionalidade personalizada.
+Personalize as opções de exibição do aplicativo para corresponder à sua marca e estilo e adicione funcionalidade personalizada.
 
-Disponível para Bate-papo, Comentários, Blog ao vivo, Revisões e Sidenotes.
+Disponível para Chat, Comentários, Blog em tempo real, Revisões e Observações.
 
-O Livefyre oferta vários meios pelos quais você pode alterar a interação dos aplicativos e as opções de exibição para se adequar ao seu estilo e envolver sua audiência.
+O Livefyre oferece vários meios de alterar a interação dos aplicativos e as opções de exibição para se adequar ao seu estilo e engajar seu público-alvo.
 
 >[!NOTE]
 >
->Essas personalizações estão disponíveis somente para os Aplicativos que dependem de publicações do usuário e que são configurados usando um objeto ConvConfig: Bate-papo, Comentários, Blog ao vivo, Revisões e Sidenotes.
+>Essas personalizações estão disponíveis somente para os aplicativos que dependem das publicações do usuário e que são configurados usando um objeto ConvConfig : Bate-papo, Comentários, Blog em tempo real, Avaliações e Observações.
 
-* **Alterar opções de exibição**
+* **Alterar Opções de Exibição**
 
-   Altere as opções de exibição para seus aplicativos usando classes CSS, strings de texto localizadas e restrições de elemento e mídia do aplicativo.
+   Altere as opções de exibição para seus aplicativos usando classes CSS, strings de texto localizadas e restrições de mídia e elemento de aplicativo.
 
-* **Realçar conteúdo**
+* **Destacar conteúdo**
 
-   Use o estilo para disponibilizar e promover conteúdo selecionado ou grupos de usuários.
+   Use o estilo para incluir e promover o conteúdo selecionado ou grupos de usuários.
 
 * **Adicionar botões personalizados**
 
    Acione ações personalizadas quando os usuários interagirem com seu aplicativo Livefyre.
 
-* **Ouvir Eventos do aplicativo**
+* **Ouvir eventos do aplicativo**
 
-   Use eventos JavaScript disponíveis para personalizar e rastrear ainda mais sua experiência de usuário.
-
+   Use eventos JavaScript disponíveis para personalizar e rastrear ainda mais a experiência do usuário.
