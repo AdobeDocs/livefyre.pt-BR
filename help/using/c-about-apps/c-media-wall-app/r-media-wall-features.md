@@ -1,28 +1,23 @@
 ---
-description: O aplicativo Media Wall oferta esses recursos para seu site.
-seo-description: O aplicativo Media Wall oferta esses recursos para seu site.
-seo-title: Recursos do Media Wall
-solution: Experience Manager
-title: Recursos do Media Wall
-uuid: 2f2e22b4-de10-48ee-8f3d-0fd88feb8abe
+description: O aplicativo Mural de mídia oferece esses recursos para seu site.
+title: Recursos do mural de mídia
+exl-id: f13f7c96-aada-4f8c-abb4-d0b76a27354e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # Recursos do mural de mídia{#media-wall-features}
 
-O aplicativo Media Wall oferta esses recursos para seu site.
+O aplicativo Mural de mídia oferece esses recursos para seu site.
 
 
 
 * Exibe o conteúdo em ordem com base na data em que foi publicado (não na data em que o conteúdo foi criado).
-* Combina o Livefyre e o conteúdo de mídia social em uma única tela.
-* Permite que os usuários curtam o conteúdo e adicionem texto ou fotos diretamente ao Mídia.
-* Permite que seus usuários compartilhem conteúdo no Twitter e Facebook. O permalink compartilhado redirecionará aqueles que clicarem nele de volta para o conteúdo do seu mural de mídia.
-* Permite criar estilos especiais para Conteúdo em destaque.
-
+* Combina o Livefyre e o conteúdo de mídia social em uma única exibição.
+* Permite que os usuários curtam conteúdo e adicionem texto ou fotos diretamente ao Mural de mídia.
+* Permite que seus usuários compartilhem conteúdo no Twitter e no Facebook. O permalink compartilhado redirecionará aqueles que clicarem no conteúdo no Mural de mídia.
+* Permite criar um estilo especial para Conteúdo em destaque.
