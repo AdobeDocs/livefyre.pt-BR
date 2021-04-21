@@ -1,39 +1,34 @@
 ---
-description: Notas de versão para a versão de 1º de fevereiro de 2018.
-seo-description: Notas de versão para a versão de 1º de fevereiro de 2018.
-seo-title: 1 de fevereiro de 2018
-solution: Experience Manager
+description: Notas de versão para a versão de 1 de fevereiro de 2018.
 title: 1 de fevereiro de 2018
-uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
+exl-id: 39313b4d-342f-451b-8c15-471e604ba943
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '187'
 ht-degree: 9%
 
 ---
 
-
 # 1 de fevereiro de 2018 {#february}
 
-Notas de versão para a versão de 1º de fevereiro de 2018.
+Notas de versão para a versão de 1 de fevereiro de 2018.
 
 ## Versão de produção
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Mídia | Correção de um problema em que alguns vídeos não eram reproduzidos em um mural de mídia. |
-| Aprimoramento | Fluxos | Criada uma nova funcionalidade para filtrar fluxos por Tags inteligentes. |
-| Bug | Fluxos | Corrigido um problema no qual as regras de fluxo do Instagram não reconheciam caracteres japoneses. |
-| Aprimoramento | Fluxos | O conteúdo em sequência agora é automaticamente marcado de forma inteligente pela Adobe Sensei, pois é salvo em uma pasta ou publicado em um aplicativo. |
-| Bug | Studio | Correção de um erro reportado pela Nat Geo que mostrava caracteres especiais em nomes como HTML. |
+| Bug | Mural de mídia | Correção de um problema que causava a não reprodução de alguns vídeos em um Mural de mídia. |
+| Aprimoramento | Fluxos | Uma nova funcionalidade foi criada para filtrar fluxos por Tags inteligentes. |
+| Bug | Fluxos | Correção de um problema em que as regras de fluxo do Instagram não reconheciam caracteres japoneses. |
+| Aprimoramento | Fluxos | O conteúdo transmitido agora é automaticamente marcado de forma inteligente pelo Adobe Sensei , pois é salvo em uma pasta ou publicado em um aplicativo. |
+| Bug | Studio | Correção de um erro relatado pela Nat Geo, que mostrava caracteres especiais em nomes como HTML. |
 
 ## Versão UAT
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Aprimoramento | Conteúdo do aplicativo | Foi adicionada a possibilidade de marcar mais de um conteúdo por vez no conteúdo do aplicativo. |
-| Aprimoramento | Aplicativos | Adicionada uma nova alternância do Designer para ativar/desativar um botão de chamada de ação personalizado em Mosaico, Película fotográfica, Mídia, Cartão de recurso e Carrossel. |
-| Aprimoramento | Comentários | Adicionada a capacidade de colocar novos formatos de arquivo de áudio em Comentários e usando um botão Carregar. |
-| Bug | Fluxos | Correção de um erro que fazia com que as caixas de seleção Regras SAFE não marcassem/desmarcassem corretamente. |
-
+| Aprimoramento | Conteúdo do aplicativo | Adicionada a capacidade de marcar mais de um conteúdo por vez no Conteúdo do aplicativo. |
+| Aprimoramento | Aplicativos | Adição de um novo botão de ação do Designer para ativar/desativar um botão de chamada para ação personalizado no Mosaic, Filmstrip, Mural de mídia, Cartão de recurso e Carrossel. |
+| Aprimoramento | Comentários | Adicionada a capacidade de colocar novos formatos de arquivo de áudio em Comentários e usar um botão Fazer upload . |
+| Bug | Fluxos | Correção de um bug que fazia com que as caixas de seleção das Regras SAFE não marcassem/desmarcassem corretamente. |
