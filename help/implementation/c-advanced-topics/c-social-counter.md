@@ -1,24 +1,20 @@
 ---
-description: Conte o número de itens sociais com curadoria.
-seo-description: Conte o número de itens sociais com curadoria.
-seo-title: Contador social
-solution: Experience Manager
+description: Conte o número de itens sociais preparados.
 title: Contador social
-uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
+exl-id: def7fba4-1c2e-4c7b-84f7-f9ede592d675
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 10%
 
 ---
 
-
 # Contador Social{#social-counter}
 
-Conte o número de itens sociais com curadoria. Para obter uma lista completa dos pontos de extremidade disponíveis, consulte a seção Livefyre [API Reference](https://api.livefyre.com/docs).
+Conte o número de itens sociais preparados. Para obter uma lista completa de endpoints disponíveis, consulte a seção Livefyre [API Reference](https://api.livefyre.com/docs) .
 
-A API Contador Social retorna contagens de regras de curadoria correspondentes em uma determinada coleção para intervalos ao longo de um período de tempo.
+A API do contador social retorna contagens de regras de preparação correspondentes em uma determinada coleção para intervalos ao longo de um período.
 
 >[!NOTE]
 >
@@ -36,29 +32,29 @@ API do contador social:
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **networkName:** O seu Livefyre forneceu o nome da rede. Por exemplo: *labs* em `labs.fyre.co`.
-* **query:** o hash codificado em base64 seguro de url de todo o site, a ID do artigo, os tuplos do tipo de regra para os quais as informações de contagem devem ser buscadas (pré-codificadas)
+* **networkName:** Seu Livefyre forneceu o nome da rede. Por exemplo: *labs* em `labs.fyre.co`.
+* **consulta:** o hash codificado base64 seguro para url de todo o site, ID do artigo, tuplos do tipo regra para os quais as informações de contagem devem ser buscadas (pré-codificadas)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >O query é limitado a 10 sites, ID de artigo, tuplas de tipo de regra. (O exemplo anterior contém 3 tuplas.)
+   >O query é limitado a 10 sites, ID de artigo, tuplos de tipo de regra. (O exemplo anterior contém 3 tuplas.)
 
-* **** `(optional)` form especifica o período de tempo relativo ou absoluto para gráfico; from especifica o início e o padrão é 24 horas atrás, se omitido.
-* **até** `(optional)` especificar o período de tempo relativo ou absoluto para o gráfico; até especificar o início e o padrão para a hora atual (agora), se omitido.
+* **** `(optional)` especifica o período relativo ou absoluto para o gráfico; from especifica o início e o padrão é 24 horas atrás, se omitido.
+* **** `(optional)` especifica o período de tempo relativo ou absoluto para o gráfico; até especifica o início e o padrão é a hora atual (agora), se omitida.
 
-### Tempo relativo
+### Hora relativa
 
 | Abreviação | Unidade |
 |---|---|
 | s | Segundos |
-| min | Minutos |
+| min | Minutes |
 | h | Horas |
 | d | Dias |
 | w | Semanas |
-| mon | 30 dias (mês) |
+| gemido | 30 Dias (Mês) |
 | y | 365 Dias (Ano) |
 
 Exemplo:
@@ -69,13 +65,13 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 ## Tempo absoluto {#section_xqr_jgc_11b}
 
-FORMATO: HH:MM_YYYMMDD
+FORMATO: HH:MM_AAAAAMDD
 
 | Abreviação | Significado |
 |---|---|
-| HH | Horas (no formato de relógio 24h) |
-| MM | Minutos |
-| YYYY | Ano de 4 dígitos |
+| HH | Horas (em formato de relógio de 24 horas) |
+| MM | Minutes |
+| YYYY | Ano de 4 Dígitos |
 | MM | Mês |
 | DD | Dia |
 
