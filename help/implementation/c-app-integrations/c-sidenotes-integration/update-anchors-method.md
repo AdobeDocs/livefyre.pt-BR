@@ -1,26 +1,23 @@
 ---
 description: A biblioteca principal do Livefyre usada para alimentar o Livefyre no seu site.
-seo-description: A biblioteca principal do Livefyre usada para alimentar o Livefyre no seu site.
-seo-title: método updateAnchors
-solution: Experience Manager
 title: Livefyre.js
 uuid: null
+exl-id: 5f60ce54-5669-4768-912d-c1b13946d8b8
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 1%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
+# Método updateAnchors {#updateAnchorsMethod}
 
-# método updateAnchors {#updateAnchorsMethod}
+Use o método updateAnchors para adicionar dinamicamente o conteúdo identificado à página.
 
-Use o método updateAnchors para adicionar conteúdo identificado à página dinamicamente.
+Esse método é útil para paginação ou em outros casos em que conteúdo identificável é adicionado dinamicamente à página. Esse método define novas âncoras para os elementos correspondentes e obtém um único argumento: newSelectors.
 
-Esse método é útil para paginação ou em outros casos em que o conteúdo identificável é adicionado dinamicamente à página. Este método define novas âncoras para os elementos correspondentes e tem um único argumento: newSelectors.
-
-**newSeltors**. Os seletores a serem adicionados a Sidenotes. Pode ser uma sequência de seletor, um objeto jQuery ou uma matriz de elementos (qualquer um dos tipos aceitos pelo argumento seletores transmitido durante a construção do aplicativo).
+**newSeletors**. Os seletores a serem adicionados a Observações. Pode ser uma sequência de seletor, um objeto jQuery ou uma matriz de elementos (qualquer um dos tipos aceitos pelo argumento seletores transmitido durante a construção do aplicativo).
 Formato:
 
 ```
