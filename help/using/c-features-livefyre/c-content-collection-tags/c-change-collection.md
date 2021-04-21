@@ -1,28 +1,24 @@
 ---
 description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
-seo-description: Permite que os usuários cliquem em Coleções de um único layout de página e URL.
-seo-title: Alterar coleção
-solution: Experience Manager
 title: Alterar coleção
-uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
+exl-id: 5cfae2c6-e328-4d2c-b08b-709be94e4c54
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Alterar coleção{#change-collection}
 
 Permite que os usuários cliquem em Coleções de um único layout de página e URL.
 
-Use o delegado Alterar coleção para alterar a coleção exibida em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já estiver carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos nos quais a coleção exibida deve mudar após uma ação do usuário.
+Use Alterar delegado da coleção para alterar a coleção mostrada em uma página, sem alterar o URL, enquanto um aplicativo Livefyre já está carregado. Use esse recurso para exibir galerias de fotos ou vídeos ou outros aplicativos, onde a Coleção exibida deve ser alterada após uma ação do usuário.
 
-Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma coleção específica para essa seleção, enquanto o URL da página não será alterado.
+Por exemplo, clicar em um vídeo ou foto em uma galeria carregará uma Coleção específica para essa seleção, enquanto o URL da página não será alterado.
 
-Para carregar uma das três coleções de uma única página [de contagem de comentários](/help/implementation/c-advanced-topics/t-display-comment-count.md):
+Para carregar uma das três Coleções de uma única página [comment count](/help/implementation/c-advanced-topics/t-display-comment-count.md):
 
 ```
 <html> 
@@ -64,4 +60,3 @@ Livefyre.require(['fyre.conv#prod'],function(Conv) {
 </body> 
 </html>
 ```
-
