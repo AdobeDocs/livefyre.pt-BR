@@ -1,26 +1,22 @@
 ---
 description: Altere a permissão de vários níveis de usuários, incluindo administradores, moderadores e visitantes do site.
-seo-description: Altere a permissão de vários níveis de usuários, incluindo administradores, moderadores e visitantes do site.
-seo-title: Gerenciar permissões do Studio para usuários
-solution: Experience Manager
 title: Gerenciar permissões do Studio para usuários
-uuid: 15c395c8-a9bb-4b0b-9586-61ac36810730
+exl-id: 14540432-a1be-4a33-b9ed-670425112df2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Gerenciar permissões do Studio para usuários{#manage-studio-permissions-for-users}
 
 Altere a permissão de vários níveis de usuários, incluindo administradores, moderadores e visitantes do site.
 
-Os Administradores do Studio e os Gerentes do Studio podem visualização e editar as funções atribuídas de outro usuário do Studio.
+Os Administradores do Studio e os Gerenciadores do Studio podem exibir e editar as funções atribuídas de outro Usuário do Studio.
 
-Os Gerentes de usuário podem visualização e gerenciar contas de usuário final (visitante do site).
+Os Gerentes de usuário podem visualizar e gerenciar contas de usuário final (visitante do site).
 
-1. Clique na guia **[!UICONTROL Studio Access]** para visualização e gerenciar as permissões do User’s Studio.
+1. Clique na guia **[!UICONTROL Studio Access]** para exibir e gerenciar as permissões do User&#39;s Studio.
 1. Selecione ou desmarque as opções listadas para alterar as Funções atribuídas.
