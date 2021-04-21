@@ -1,31 +1,26 @@
 ---
-description: O aplicativo Sidenotes oferta esses recursos para seu site.
-seo-description: O aplicativo Sidenotes oferta esses recursos para seu site.
-seo-title: Recursos do Sidenotes
-solution: Experience Manager
-title: Recursos do Sidenotes
-uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
+description: O Aplicativo de observações oferece esses recursos para seu site.
+title: Recursos de observações
+exl-id: 94830b1a-0faa-43f4-aec4-17c44adf0d0f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
+# Recursos de observações{#sidenotes-features}
 
-# Recursos do Sidenotes{#sidenotes-features}
-
-O aplicativo Sidenotes oferta esses recursos para seu site.
-
+O Aplicativo de observações oferece esses recursos para seu site.
 
 
-* Responda a qualquer parte de um parágrafo, destacando o texto no qual desejam comentar e clicando no ícone de lápis para escrever sua Sidenote.
-* Adicione Sidenotes a um parágrafo, clicando no ícone Sidenotes exibido no final do parágrafo e adicionando seus comentários.
-* Comente uma imagem clicando no ícone de Sidenotes no canto da imagem e adicionando seus comentários.
-* Compartilhe texto no Facebook ou no Twitter, selecionando o texto e clicando no ícone Compartilhar no Facebook ou Compartilhar no Twitter. O compartilhamento de conteúdo destacado permite que os usuários editem o texto que será compartilhado e envia um link para o conteúdo original com o compartilhamento.
+
+* Responda a qualquer parte de um parágrafo, destacando o texto em que deseja comentar e clicando no ícone de lápis para escrever sua Nota de identidade.
+* Adicione observações a um parágrafo clicando no ícone de Observações exibido no final do parágrafo e adicionando seu comentário.
+* Comente em uma imagem, clicando no ícone Observações no canto da imagem e adicionando seu comentário.
+* Compartilhe texto no Facebook ou Twitter, selecionando o texto e clicando no ícone Compartilhar na Facebook ou Compartilhar na Twitter. O compartilhamento do conteúdo destacado permite que os usuários editem o texto que será compartilhado e envia um link para o conteúdo original com o compartilhamento.
 * Leia os comentários de outras pessoas, clicando na bolha de pensamento do Livefyre que mostra o número de comentários incluídos em qualquer parte da página.
-* Responder a Sidenotes existentes.
-* Votem sobre a utilidade das notas e, assim, encaminhem notas mais úteis para o topo da lista das anotações.
-* Compartilhe notas de identidade específicas no Facebook ou Twitter clicando nas elipses que aparecem ao passar o mouse sobre a nota.
-
+* Responder observações existentes.
+* Votar a utilidade das notas e, assim, enviar notas mais úteis para o topo da lista de anotações.
+* Compartilhe observações específicas do Facebook ou Twitter clicando nas reticências exibidas ao passar o mouse sobre a nota.
