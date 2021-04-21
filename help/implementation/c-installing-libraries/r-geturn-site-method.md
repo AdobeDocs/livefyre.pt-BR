@@ -1,20 +1,16 @@
 ---
 description: Este método retorna o URN para este site.
-seo-description: Este método retorna o URN para este site.
-seo-title: Método do site getUrn
-solution: Experience Manager
-title: Método do site getUrn
-uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
+title: Método do Site getUrn
+exl-id: e904f435-c734-4cb0-bfcc-85b3d1fc5492
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 1%
+source-wordcount: '43'
+ht-degree: 2%
 
 ---
 
-
-# Método do site getUrn{#geturn-site-method}
+# Método do Site getUrn{#geturn-site-method}
 
 Este método retorna o URN para este site.
 
@@ -56,7 +52,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 site.urn 
@@ -79,4 +75,3 @@ Exemplo de saída:
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1"
 ```
-
