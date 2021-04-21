@@ -1,24 +1,20 @@
 ---
-description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
-seo-description: Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
-seo-title: Exibir contagem de comentários
-solution: Experience Manager
-title: Exibir contagem de comentários
-uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
+description: Pegue as contagens de postagem e comentário para determinadas coleções a serem exibidas em suas páginas de índice.
+title: Exibir Contagem de Comentários
+exl-id: 03c911f0-1fdd-4d5c-9262-9ff7485b7b14
 translation-type: tm+mt
-source-git-commit: c2594f919f153d1230b3dc0370f31d64cb698146
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-
 # Exibir Contagem de Comentários{#display-comment-count}
 
-Agarre as contagens de postagem e comentário para que determinadas coleções sejam exibidas em suas páginas de índice.
+Pegue as contagens de postagem e comentário para determinadas coleções a serem exibidas em suas páginas de índice.
 
-O `CommentCount.js` de Livefyre permite que você busque as contagens de conteúdo para coleções em seu site. Embora os Aplicativos mostrem a contagem de comentários para a coleção atual, ter essas contagens sindicalizadas no site pode ser útil. Esse recurso é especialmente útil se você não persistir no conteúdo do banco de dados (ou se o banco de dados do CMS não estiver sincronizado com o Livefyre).
+O `CommentCount.js` de Livefyre permite buscar as contagens de conteúdo para as coleções no site. Embora os aplicativos mostrem a contagem de comentários para a coleção atual, ter essas contagens sindicado em seu site pode ser útil. Esse recurso é especialmente útil se você não persistir conteúdo no banco de dados (ou se o banco de dados do CMS não estiver sincronizado com o Livefyre).
 
 1. Carregue o JavaScript.
 
@@ -34,7 +30,7 @@ O `CommentCount.js` de Livefyre permite que você busque as contagens de conteú
 
 1. Vincule o elemento HTML.
 
-   Depois que o script é carregado, ele tentará encontrar outros elementos na página com um nome de classe de `livefyre-commentcount`. Para cada um desses elementos, o script procurará `data-lf-site-id` e `data-lf-article-id` atributos HTML, e os usará para obter conteúdo do Livefyre e atualizar cada elemento com o valor mais recente.
+   Após carregar o script, ele tentará localizar outros elementos na página com um nome de classe de `livefyre-commentcount`. Para cada um desses elementos, o script procurará `data-lf-site-id` e `data-lf-article-id` atributos HTML e os usará para buscar conteúdo do Livefyre e atualizar cada elemento com o valor mais recente.
 
    Por exemplo, o seguinte elemento seria atualizado:
 
@@ -46,9 +42,9 @@ O `CommentCount.js` de Livefyre permite que você busque as contagens de conteú
 
    >[!NOTE]
    >
-   >O código `CommentCount.js` verifica se há um valor numérico para atualizar com a contagem real. Certifique-se de incluir um valor numérico entre as tags.
+   >O código `CommentCount.js` verifica se há um valor numérico a ser atualizado com a contagem real. Certifique-se de incluir um valor numérico entre as tags .
 
-   **Exemplo 1** (Usar o URL como a ID do artigo):
+   **Exemplo 1**  (usando o URL como a ID do artigo):
 
    ```
    <span class="livefyre-commentcount" data-lf-site-id="311458" data-lf-article-id="https://mikesoldner.com/blog.php">  
@@ -56,7 +52,7 @@ O `CommentCount.js` de Livefyre permite que você busque as contagens de conteú
    </span>
    ```
 
-   **Exemplo 2** (Uso de um sistema numerado como a ID do artigo):
+   **Exemplo 2**  (uso de um sistema numerado como a ID do artigo):
 
    ```
    <span class="livefyre-commentcount" data-lf-site-id="311458" data-lf-article-id="25"> 0 Comments </span>
@@ -64,16 +60,16 @@ O `CommentCount.js` de Livefyre permite que você busque as contagens de conteú
 
 1. Configurar opções.
 
-   Para ter mais controle sobre como a contagem de conteúdo é substituída, chame `LF.CommentCount()` e passe em um objeto que contém as opções de configuração. Certifique-se de chamar a função depois que todos os elementos que precisam ser substituídos estiverem no DOM. O melhor local para chamar esse método é no rodapé, portanto, isso acontece quando o DOM é carregado, mas antes dos eventos prontos para documentos e janelas.
+   Para ter mais controle sobre como as contagens de conteúdo são substituídas, chame `LF.CommentCount()` e passe em um objeto que contenha as opções de configuração. Certifique-se de chamar a função depois que todos os elementos que precisam ser substituídos estiverem no DOM. O melhor lugar para chamar esse método é no rodapé, portanto, isso acontece quando o DOM é carregado, mas antes dos eventos prontos para documento e janela.
 
    Permitimos as seguintes opções de configuração:
 
-* **replace:** função ou Regex usado para substituir o texto de cada contagem de conteúdo.
+* **replacer:** função ou Regex usado para substituir o texto de cada contagem de conteúdo.
 
-* **function:** Usada para fazer a substituição em cada elemento. Os argumentos da função são:
+* **função:** usada para fazer a substituição em cada elemento. Os argumentos da função são:
 
-   **element:** O elemento HTML que está sendo atualizado.
-   **count:** A contagem de conteúdo para este elemento.
+   **element:** o elemento HTML que está sendo atualizado.
+   **contagem:** a contagem de conteúdo para esse elemento.
 
 * **regex:** usado para determinar qual parte do texto do elemento deve ser substituída pela contagem.
 
