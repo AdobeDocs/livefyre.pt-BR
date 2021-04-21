@@ -1,63 +1,59 @@
 ---
 description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Visualização (por exemplo, Mural de mídia).
-seo-description: Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Visualização (por exemplo, Mural de mídia).
-seo-title: Eventos Javascript para aplicativos de visualização
-solution: Experience Manager
 title: Eventos Javascript para aplicativos de visualização
-uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '533'
 ht-degree: 74%
 
 ---
-
 
 # Eventos Javascript para aplicativos de visualização{#javascript-events-for-visualization-apps}
 
 Os eventos disponíveis para os quais você pode vincular JavaScript para aplicativos de Visualização (por exemplo, Mural de mídia).
 
-A tabela a seguir exibe os eventos do aplicativo para aplicativos de visualização. Um X indica que o evento está disponível para o aplicativo, N/A indica que o evento não se aplica ao aplicativo, e nenhuma marcação significa que o evento não está disponível para esse aplicativo:
+A tabela a seguir exibe os Eventos do aplicativo para aplicativos de visualização. Um X indica que o evento está disponível para o aplicativo, N/A indica que o evento não se aplica ao aplicativo e nenhuma marcação significa que o evento está indisponível para esse aplicativo:
 
 ## Eventos do aplicativo de visualização
 
-| Eventos  | Mídia | Mosaico | Mapa | Cartão único | Carrossel | Botão Publicar | FilmStrip |
+| Eventos  | Mural de mídia | Mosaico | Mapa | Cartão único | Carrossel | Botão Publicar | FilmStrip |
 |---|---|---|---|---|---|---|---|
 | Inicializar | X | X | X | X | X | X | X |
 | Load | X |  |  |  |  |  |  |
 | Exibir |  |  |  |  |  |  |  |
-| Publicar |  | N/A | N/A | N/A | N/A |  | N/A |
-| Postado |  | N/A | N/A | N/A | N/A |  | N/A |
-| Resposta do Twitter | X | X |  | X | X | N/A | X |
-| Curtir do Twitter | X | X |  | X | X | N/A | X |
-| Tipo LF | X |  | N/A | N/A | N/A | N/A | N/A |
-| LF Diferente de | X |  | N/A | N/A | N/A | N/A | N/A |
-| Compartilhar na postagem | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Botão Compartilhar | X | X |  | X | X | N/A | X |
-| Compartilhar Twitter | X | X |  | X | X | N/A | X |
-| Compartilhar Facebook | X | X |  | X | X | N/A | X |
-| Compartilhar URL | X | X |  | X | X | N/A | X |
-| ExpandirRespostas | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Recolher respostas | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Botão Sinalizar | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Segnalato | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Sinalizar Cancelamento | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Seguir | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Não seguir | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| RequestMore | X | N/A | N/A | N/A | N/A | N/A | N/A |
-| ModalView | X | X |  | X | X | N/A | X |
-| Retweet do Twitter | X |  |  | X | X | N/A | X |
-| Botão Publicar clique | X | N/A | N/A | N/A | N/A | X | N/A |
-| Contagem de comentários atualizada | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Usuário conectado |  |  | N/A | N/A | N/A |  | N/A |
-| Usuário desconectado |  |  | N/A | N/A | N/A |  | N/A |
-| Comentário em destaque | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Comentário não exibido | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Comentário votado | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Seleção de pesquisa | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| Item de tendência selecionado | N/A |  | N/A | N/A | N/A | N/A | N/A |
-| ID de rede |  |  |  |  |  |  | N/A |
+| Publicar |  | N/A | N/D | N/D | N/D |  | N/D |
+| Postado |  | N/D | N/D | N/D | N/D |  | N/D |
+| Resposta do Twitter | X | X |  | X | X | N/D | X |
+| Twitter Like | X | X |  | X | X | N/D | X |
+| Tipo LF | X |  | N/D | N/D | N/D | N/D | N/D |
+| LF Diferente de | X |  | N/D | N/D | N/D | N/D | N/D |
+| Compartilhar na publicação | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Botão Compartilhar | X | X |  | X | X | N/D | X |
+| Compartilhar Twitter | X | X |  | X | X | N/D | X |
+| Compartilhar Facebook | X | X |  | X | X | N/D | X |
+| Compartilhar URL | X | X |  | X | X | N/D | X |
+| ExpandirRespostas | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Recolher respostas | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Botão Sinalizar | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Segnalato | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Sinalizar Cancelar | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Seguir | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| Seguir | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
+| RequestMore | X | N/D | N/D | N/D | N/D | N/D | N/D |
+| ModalView | X | X |  | X | X | N/D | X |
+| Twitter Retweet | X |  |  | X | X | N/D | X |
+| Botão Publicar clique | X | N/D | N/D | N/D | N/D | X | N/D |
+| Contagem de comentários atualizada | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Usuário conectado |  |  | N/D | N/D | N/D |  | N/D |
+| Usuário desconectado |  |  | N/D | N/D | N/D |  | N/D |
+| Comentário em destaque | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Comentário não em destaque | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Comentário votado | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Seleção de pesquisa | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| Item de tendência selecionado | N/D |  | N/D | N/D | N/D | N/D | N/D |
+| ID de rede |  |  |  |  |  |  | N/D |
 | ID do aplicativo | X |  |  | X | X | X | X |
 | ID de contexto | X |  |  | X | X | X | X |
 | Tipo de aplicativo | X |  | X | X | X | X | X |
