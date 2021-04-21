@@ -1,25 +1,21 @@
 ---
 description: Você pode selecionar o conteúdo para o recurso no Studio em vez de um aplicativo.
-seo-description: Você pode selecionar o conteúdo para o recurso no Studio em vez de um aplicativo.
-seo-title: Selecionar conteúdo para o recurso do Studio
-solution: Experience Manager
-title: Selecionar conteúdo para o recurso do Studio
-uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
+title: Selecione Conteúdo para Recurso do Studio
+exl-id: b17e3c4f-6ec6-4c9b-9db0-5169cdb0ffaa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-
-# Selecionar conteúdo para o recurso do Studio{#select-content-to-feature-from-studio}
+# Selecione Conteúdo para Recurso no Studio{#select-content-to-feature-from-studio}
 
 Você pode selecionar o conteúdo para o recurso no Studio em vez de um aplicativo.
 
 1. No Studio, clique no sinal **[!UICONTROL +]** ao lado de um conteúdo.
 1. Selecione a tag **[!UICONTROL Featured]** na lista suspensa.
-1. Clique em **[!UICONTROL Enter]** para Incluir o conteúdo.
+1. Clique em **[!UICONTROL Enter]** para Apresentar a parte do conteúdo.
 
-   A tag será salva e exibida ao lado do conteúdo. 1. Para parar de apresentar um conteúdo, clique em **[!UICONTROL x]** na tag **[!UICONTROL Featured]** exibida no conteúdo.
+   A tag será salva e exibida ao lado do conteúdo. 1. Para parar de apresentar um conteúdo, clique **[!UICONTROL x]** na tag **[!UICONTROL Featured]** exibida no conteúdo.
