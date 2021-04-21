@@ -1,22 +1,18 @@
 ---
-description: Este método retorna o nome da rede sem o fyre.co.
-seo-description: Este método retorna o nome da rede sem o fyre.co.
-seo-title: Método de Rede getNetworkName
-solution: Experience Manager
+description: Esse método retorna o nome da rede sem o fyre.co.
 title: Método de Rede getNetworkName
-uuid: 3523e5a4-11f4-458d-91e7-a149d3afe5e9
+exl-id: 0c6e1178-ccbe-47b1-8c69-5a4c9a9a748c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-
 # Método de Rede getNetworkName{#getnetworkname-network-method}
 
-Este método retorna o nome da rede sem o fyre.co.
+Esse método retorna o nome da rede sem o fyre.co.
 
 ## Exemplo de Java {#section_nyl_ycs_rz}
 
@@ -54,7 +50,7 @@ Exemplo de saída:
 "example" 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 network.network_name; 
@@ -77,4 +73,3 @@ Exemplo de saída:
 ```
 "example" 
 ```
-
