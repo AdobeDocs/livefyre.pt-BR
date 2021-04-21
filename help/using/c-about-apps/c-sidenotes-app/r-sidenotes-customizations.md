@@ -1,26 +1,21 @@
 ---
-description: Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
-seo-description: Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
-seo-title: Personalizações de Sidenotes
-solution: Experience Manager
-title: Personalizações de Sidenotes
-uuid: fb50285a-3b2d-497d-bfda-7e89c485b65c
+description: Altere as opções de tamanho, largura e interação do aplicativo Sidenotes.
+title: Personalizações de observações
+exl-id: c0662c7e-ae46-4755-85d0-25d2df9c33b6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
+# Personalizações de identificações{#sidenotes-customizations}
 
-# Personalizações de Sidenotes{#sidenotes-customizations}
+Altere as opções de tamanho, largura e interação do aplicativo Sidenotes.
 
-Altere o tamanho, a largura e as opções de interação do aplicativo Sidenotes.
+Você pode personalizar Observações usando:
 
-Você pode personalizar Sidenotes usando:
+* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalização de aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos no **[!UICONTROL App Designer]**.
 
-* **[!UICONTROL Style]** e  **[!UICONTROL Config]** opções para todos os aplicativos no  **[!UICONTROL App Designer]**. Consulte Personalizar aplicativos para obter detalhes sobre as opções padrão **[!UICONTROL Style]** e **[!UICONTROL Config]** para todos os aplicativos em **[!UICONTROL App Designer]**.
-
-* Ferramentas de integração. Consulte Pesquisas para obter mais informações sobre como personalizar aplicativos usando as Ferramentas de integração.
-
+* Ferramentas de integração. Consulte Pesquisas para obter mais informações sobre como personalizar aplicativos usando Ferramentas de integração.
