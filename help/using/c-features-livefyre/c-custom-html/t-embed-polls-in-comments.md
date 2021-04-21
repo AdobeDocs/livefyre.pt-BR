@@ -1,22 +1,18 @@
 ---
-description: Incorpore pesquisas ao seu Comentário ou ao vivo fluxo de blogs.
-seo-description: Incorpore pesquisas ao seu Comentário ou ao vivo fluxo de blogs.
-seo-title: Incorporar pesquisas em comentários
-solution: Experience Manager
-title: Incorporar pesquisas em comentários
-uuid: 56f83743-352a-4ade-9a62-aeb46004b5db
+description: Incorpore pesquisas ao seu comentário ou fluxo de Blog em tempo real.
+title: Incorporar pesquisas aos comentários
+exl-id: 9005dfd2-d7f4-4d33-9f9b-e1fad3a72ae5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
+# Incorporar pesquisas a comentários{#embed-polls-in-comments}
 
-# Incorporar pesquisas em comentários{#embed-polls-in-comments}
+Incorpore pesquisas ao seu comentário ou fluxo de Blog em tempo real.
 
-Incorpore pesquisas ao seu Comentário ou ao vivo fluxo de blogs.
-
-1. Na página App Manager do Studio, clique no botão **[!UICONTROL </>]** (incorporado) para gerar um código incorporado para a Pesquisa.
+1. Na página Gerenciador de aplicativos do Studio , clique no botão **[!UICONTROL </>]** (incorporado) para gerar um código incorporado para a Pesquisa.
 1. Copie e cole o código incorporado no campo **[!UICONTROL Add Custom HTML]** do aplicativo.
