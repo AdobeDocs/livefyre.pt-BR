@@ -1,18 +1,14 @@
 ---
-description: Instalação das bibliotecas do Livefyre Server-side tarefa
-seo-description: Instalação das bibliotecas do Livefyre Server-side tarefa
-seo-title: Instalação
-solution: Experience Manager
+description: Instalação das bibliotecas para tarefas do lado do servidor do Livefyre
 title: Instalação
-uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
+exl-id: d74f85be-14c0-4f6d-8f16-b688282c0eb0
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
-
 
 # Instalação{#installation}
 
@@ -29,7 +25,7 @@ Para instalar a biblioteca Java, adicione essa dependência ao POM do seu projet
 </dependency>
 ```
 
-A biblioteca Java possui dependências nos seguintes módulos:
+A biblioteca Java tem dependências nos seguintes módulos:
 
 ```
 <dependency> 
@@ -75,9 +71,9 @@ A biblioteca NodeJS tem dependências nos seguintes módulos:
 "jsonwebtoken": ">=5.0.0" 
 ```
 
-Para obter mais informações, leia os documentos do NodeJs ou consulte a fonte em [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
+Para obter mais informações, leia os documentos do NodeJs ou veja a fonte em [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
 
-Links: [Restler](https://github.com/danwrong/restler), [Validator](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
+Links: [Restler](https://github.com/danwrong/restler), [Validador](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
 
 ## PHP {#section_txj_xwq_rz}
 
@@ -101,7 +97,7 @@ Se você **not** usar o Composer, obtenha a versão mais recente da biblioteca u
 git clone https://github.com/Livefyre/livefyre-php-utils 
 ```
 
-Para usar a biblioteca, adicione o seguinte ao script PHP:
+Para usar a biblioteca do , adicione o seguinte ao seu script PHP:
 
 ```
 require_once("/path/to/livefyre-php-utils/src/Livefyre.php"); 
@@ -115,9 +111,9 @@ A biblioteca PHP tem dependências nos seguintes módulos:
 "firebase/php-jwt": ">=2.0" 
 ```
 
-Para obter mais informações, leia os documentos PHP ou consulte a fonte em [GitHub](https://github.com/Livefyre/livefyre-php-utils).
+Para obter mais informações, leia os documentos PHP ou veja a fonte em [GitHub](https://github.com/Livefyre/livefyre-php-utils).
 
-Links: [ext-json](https://php.net/manual/en/book.json.php), [Pedidos](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
+Links: [ext-json](https://php.net/manual/en/book.json.php), [Solicitações](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
 ## Python {#section_irk_fxq_rz}
 
@@ -135,13 +131,13 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-Para obter mais informações, leia os documentos Python ou consulte a fonte em [GitHub](https://github.com/Livefyre/livefyre-python-utils).
+Para obter mais informações, leia os documentos de Python ou veja a fonte em [GitHub](https://github.com/Livefyre/livefyre-python-utils).
 
-Links: [PyJWT](https://github.com/progrium/pyjwt), [Pedidos](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
+Links: [PyJWT](https://github.com/progrium/pyjwt), [Solicitações](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
 ## Ruby {#section_fv2_tzq_rz}
 
-Para instalar a biblioteca Ruby, adicione esta linha ao arquivo Gemfile de seu aplicativo:
+Para instalar a biblioteca Ruby, adicione esta linha ao arquivo Gemfile do seu aplicativo:
 
 ```
 gem 'livefyre' 
@@ -159,6 +155,6 @@ A biblioteca Ruby tem dependências nos seguintes módulos:
 "addressable", '~> 2.3', ">= 2.3.6" 
 ```
 
-Para obter mais informações, leia os documentos Ruby ou consulte a fonte em [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
+Para obter mais informações, leia os documentos do Ruby ou veja a fonte em [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
 
-Links: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST Client](https://github.com/rest-client/rest-client/), [Endereçável](https://github.com/sporkmonger/addressable)
+Links: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [Cliente REST](https://github.com/rest-client/rest-client/), [Endereçável](https://github.com/sporkmonger/addressable)
