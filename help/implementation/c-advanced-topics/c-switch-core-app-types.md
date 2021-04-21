@@ -1,26 +1,22 @@
 ---
 description: Saiba como mudar de um tipo de aplicativo de conversa para outro.
-seo-description: Saiba como mudar de um tipo de aplicativo de conversa para outro.
-seo-title: Alternar entre os principais tipos de aplicativos
-solution: Experience Manager
-title: Alternar entre os principais tipos de aplicativos
-uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
+title: Alternar tipos de aplicativos principais
+exl-id: f18c97e8-8f39-4831-b907-afd438097e9e
 translation-type: tm+mt
-source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 1%
 
 ---
 
-
-# Alternar entre os tipos de aplicativos principais{#switch-core-app-types}
+# Alternar tipos de aplicativos principais{#switch-core-app-types}
 
 Saiba como mudar de um tipo de aplicativo de conversa para outro.
 
-O Lifefyre permite que você altere Coleções de um tipo de aplicativo Livefyre Core para outro (Comentários, Blog ao vivo ou Bate-papo) simplesmente alterando algumas configurações nos seus dados `collectionMeta`.
+O Lifefyre permite alterar as Coleções de um tipo de Aplicativo Principal do Livefyre para outro (Comentários, Blog em tempo real ou Chat) simplesmente alterando algumas configurações nos seus dados `collectionMeta`.
 
-Para implementar um tipo específico de aplicativo, adicione um novo campo ao objeto `collectionMeta`. Os comentários são o padrão, portanto, não será necessário fazer essas atualizações se esse for o aplicativo desejado. Para alterar para um aplicativo diferente após a criação de uma coleção, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação do token `collectionMeta`.
+Para implementar um tipo específico de Aplicativo, adicione um novo campo ao objeto `collectionMeta`. Os comentários são o padrão, portanto, você não precisará fazer essas atualizações se esse for o aplicativo desejado. Para alterar para um aplicativo diferente depois que uma coleção é criada, passe um valor de soma de verificação durante a inicialização do aplicativo. Leia mais sobre como criar um valor de soma de verificação na documentação do token `collectionMeta`.
 
 ## Blog ao vivo {#section_kvj_3jj_11b}
 
