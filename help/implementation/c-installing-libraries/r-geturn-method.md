@@ -1,20 +1,16 @@
 ---
 description: Este método retorna o URN para esta rede.
-seo-description: Este método retorna o URN para esta rede.
-seo-title: Método de rede getUrn
-solution: Experience Manager
-title: Método de rede getUrn
-uuid: e525bc54-d4df-490f-bd6a-f524f7eff211
+title: Método de Rede getUrn
+exl-id: 2bab5b2a-cf5b-46bb-8163-8ea65ec44bd7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-
-# Método de rede getUrn{#geturn-network-method}
+# Método de Rede getUrn{#geturn-network-method}
 
 Este método retorna o URN para esta rede.
 
@@ -54,7 +50,7 @@ Exemplo de saída:
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 network.urn 
@@ -77,4 +73,3 @@ Exemplo de saída:
 ```
 "urn:livefyre:network=`example.fyre.co`" 
 ```
-
