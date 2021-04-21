@@ -1,23 +1,20 @@
 ---
-description: O Livefyre.required fornece um plug-in que permite que o auth escute o barramento do Backplane Janrain.
-seo-description: O Livefyre.required fornece um plug-in que permite que o auth escute o barramento do Backplane Janrain.
-seo-title: Conectando Janrain ao Livefyre usando AuthDelegate
-title: Conectando Janrain ao Livefyre usando AuthDelegate
-uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
+description: Livefyre.require fornece um plug-in que permite que o auth ouça o barramento do Backplane Janrain.
+title: Conectar o Janrain ao Livefyre usando o AuthDelegate
+exl-id: d0fe0e88-5827-478b-b2ef-03f06fb3902c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
 
-
 # Conectando Janrain ao Livefyre usando AuthDelegate{#connecting-janrain-to-livefyre-using-authdelegate}
 
-O Livefyre.required fornece um plug-in que permite que o auth escute o barramento do Backplane Janrain.
+Livefyre.require fornece um plug-in que permite que o auth ouça o barramento do Backplane Janrain.
 
-Quando uma mensagem de identidade/login for transmitida no canal Backplane, auth.authenticate() será chamado para você com o token de Autenticação Livefyre do usuário. Você ainda deve implementar um AuthDelegate.
+Quando uma mensagem de identidade/login é transmitida no canal Backplane, auth.authentication() será chamado para você com o token de autenticação Livefyre do usuário. Você ainda deve implementar um AuthDelegate.
 
 ```
 Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory) { 
@@ -32,18 +29,18 @@ Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePl
 
 >[!NOTE]
 >
->O objeto window.Backplane deve ser definido na sua página antes de chamar auth.plugin com o plug-in Livefyre Backplane. Para garantir que o objeto Backplane esteja disponível, chame o código de instanciação do Livefyre de um retorno de chamada onReady. Consulte seu contato com o Janrain para determinar quando outros aplicativos podem usar o objeto Backplane.
+>O objeto window.Backplane deve ser definido na página antes de chamar auth.plugin com o plug-in Livefyre Backplane. Para garantir que o objeto Backplane esteja disponível, chame o código de instanciação do Livefyre a partir de um retorno de chamada onReady. Consulte o contato do Janrain para determinar quando outros aplicativos podem usar o objeto Backplane.
 
-A seguir estão alguns exemplos de como um representante de autenticação pode procurar uma integração do Janrain Capture.
+A seguir estão alguns exemplos de como um representante de autenticação pode procurar uma integração com o Janrain Capture.
 
 >[!NOTE]
 >
->O delegado de autenticação varia dependendo da sua instância Janrain.
+>O delegado de autenticação varia de acordo com a instância do Janrain.
 
 <!--Hannah: Mystery stray bullet found here. Please check against source. -Bob -->
 
 * O retorno de chamada passado para o método de logon do delegado de autenticação
-* A referência à variável de captura do Janrain.
+* A referência para a variável de captura do Janrain.
 * : Uma referência ao objeto Backplane.
 
 ```
@@ -79,7 +76,7 @@ authDelegate.login = function(finishLogin) {
 
 Logout
 
-* **completeLogout:** o retorno de chamada passado para o método de logon do delegado de autenticação.
+* **endLogout:** o retorno de chamada passado para o método de logon do delegado de autenticação.
 
 * **window.Backplane:** uma referência ao objeto Backplane.
 
@@ -99,7 +96,7 @@ authDelegate.logout = function(finishLogout) {
 
 Editar perfil
 
-Isso pode vincular a qualquer parte do site que você gostaria que os usuários visitem para visualização em sua própria página de perfis. Este exemplo apenas imprime o objeto do autor passado.
+Isso pode vincular-se a qualquer parte do site que você gostaria que os usuários visitem para visualizar sua própria página de perfil. Este exemplo apenas imprime o objeto do autor transmitido.
 
 ```
 /** 
@@ -111,9 +108,9 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-Perfil visualização
+Exibir perfil
 
-Como Editar Perfil, esse link deve ser vinculado à página de um usuário diferente do usuário conectado no momento. Isso pode ser implementado como você desejar. Este exemplo simplesmente registra o parâmetro author no console.
+Como Editar perfil, isso deve vincular a uma página de usuário diferente da página que está conectada no momento. Isso pode ser implementado da maneira que você entender. Este exemplo simplesmente registra o parâmetro author no console.
 
 ```
 /** 
@@ -124,4 +121,3 @@ authDelegate.viewProfile = function(user) {
    console.log(author); 
 };
 ```
-
