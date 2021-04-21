@@ -1,22 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo de Revisões. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo de Revisões. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildReviewsCollection
-solution: Experience Manager
-title: método de site buildReviewsCollection
-uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
+description: Retorna um objeto Collection instanciado como um tipo Reviews . Execute create_or_update() no objeto Collection para concluir o processo de compilação.
+title: Método do Site buildReviewsCollection
+exl-id: 581ad24c-d115-4ffb-93eb-936c2da6e3fa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildReviewsCollection{#buildreviewscollection-site-method}
 
-# método de site buildReviewsCollection{#buildreviewscollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo de Revisões. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Reviews . Execute create_or_update() no objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -43,7 +39,7 @@ var collection = site.buildReviewsCollection(title, articleId, url);
 $collection = site->buildReviewsCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_reviews_collection(title, articleId, url) 
@@ -54,4 +50,3 @@ collection = site.build_reviews_collection(title, articleId, url)
 ```
 collection = site.build_reviews_collection(title, articleId, url) 
 ```
-
