@@ -1,28 +1,24 @@
 ---
-description: Permita que os clientes avaliem e revejam suas ofertas de produtos.
-seo-description: Permita que os clientes avaliem e revejam suas ofertas de produtos.
-seo-title: Resenhas
-solution: Experience Manager
+description: Permita que os clientes avaliem e revisem suas ofertas de produtos.
 title: Resenhas
-uuid: b740ee28-f6f9-4ae7-9fe7-61a5cde97bbb
+exl-id: 2f10646e-59c4-459c-ae1b-749f951a06d2
 translation-type: tm+mt
-source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
-
 # Revisões {#reviews}
 
-Permita que os clientes avaliem e revejam suas ofertas de produtos.
+Permita que os clientes avaliem e revisem suas ofertas de produtos.
 
-As revisões permitem que os membros de sua comunidade contribuam com classificações por estrelas e revisões qualitativas de qualquer produto ou serviço.
+As revisões permitem que os membros de sua comunidade contribuam com classificações de estrelas e revisões qualitativas de qualquer produto ou serviço.
 
 ## Integração {#section_kk5_15b_c1b}
 
-Para integrar um aplicativo de revisões, siga o procedimento de integração de um aplicativo de conversa. Consulte [Incorporar um aplicativo](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). A seguir está um exemplo de um aplicativo de revisões incorporado.
+Para integrar um aplicativo de Revisões, siga o procedimento para Integração de um aplicativo de Conversa. Consulte [Incorporar um aplicativo](/help/implementation/c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md). Veja a seguir um exemplo de um aplicativo de Revisões incorporado.
 
 ### Exemplo
 
@@ -51,7 +47,7 @@ Livefyre.require(['fyre.conv#3'], function (Review) {
 });
 ```
 
-Conforme observado na seção Criação `CollectionMeta`, `CollectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT:
+Conforme observado na seção Criação `CollectionMeta` , `CollectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT:
 
 ```
 { 
@@ -63,44 +59,44 @@ Conforme observado na seção Criação `CollectionMeta`, `CollectionMeta` é um
 }
 ```
 
-## Objeto de Config de Concl {#section_pzv_ytb_c1b}
+## Objeto do ConsoleConfig {#section_pzv_ytb_c1b}
 
-Se você já tiver concluído a seção Introdução, familiarize-se com o objeto de consoleConfig. Para habilitar Revisões, atualize a consoleConfig com os seguintes campos:
+Se você já concluiu a seção Introdução , familiarize-se com o objeto de conversãoConfig . Para ativar o Reviews, atualize a conversãoConfig com os seguintes campos:
 
 * **** ** alwaysShowEditoroptionalboolean: Por padrão, o editor de revisões aparece somente depois que o usuário pressiona o botão &quot;write review&quot;. Defina esse parâmetro como true para sempre exibir o editor.
 
 * **** ** apprequiredstring: O nome do aplicativo a ser usado para revisões. Deve ser &quot;resenhas&quot;.
 
-* **** ** defaultSortoptionalstring: Permite que você selecione a opção de classificação padrão para Revisões. Os valores possíveis são: maisÚtil, mais altoClassificado, mais baixoClassificado, mais recente e mais antigo.
+* **** ** defaultSortoptionalstring: Permite selecionar a opção de classificação padrão para Revisões. Os valores possíveis são: maisÚtil, de maior classificação, de menor classificação, mais recente e mais antigo.
 
 * **** ** disableTitleoptionalboolean: Desativa e oculta o campo de título no editor de revisões, que é obrigatório e visível por padrão. O padrão é verdadeiro.
 
-* **** ** enableHalfRatingoptionalboolean: Usado para ativar meia classificação no módulo de seleção de estrela padrão. O padrão é verdadeiro.
+* **** ** enableHalfRatingoptionalboolean: Usado para ativar meia classificação no módulo padrão de seleção de estrela. O padrão é verdadeiro.
 
-* **** ** hideShowReviewButtonoptionalbooleano: Controla se o  [!UICONTROL Show My Review] botão será exibido. Defina como true para permitir que os usuários selecionem se devem mostrar ou exibir suas próprias revisões.
+* **** ** hideShowReviewButtonoptionalbooleano: Controla se o  [!UICONTROL Show My Review] botão será exibido. Defina como verdadeiro para permitir que seus usuários selecionem se exibem ou exibam suas próprias revisões.
 
-* **** ** maxRatingoptionalinteger Usado para definir o número de estrelas que são mostradas no módulo de seleção de estrelas padrão. O padrão é 5. Isso pode ser configurado em até 100.
+* **** ** maxRatingoptionalinteger Usado para definir o número de estrelas exibidas no módulo padrão de seleção de estrelas. O padrão é 5. Isso pode ser configurado até 100.
 
-* **** ** ratingSummaryEnabledoptionalboolean: Usado para mostrar a visualização de resumo da classificação acima do aplicativo de revisões. Isso deve estar habilitado para usar a ratingSummaryDelegate. O padrão é verdadeiro.
+* **** ** ratingSummaryEnabledoptionalboolean: Usado para mostrar a exibição resumida da classificação acima do Aplicativo de revisões. Isso deve ser ativado para usar o ratingSummaryDelegate. O padrão é verdadeiro.
 
 ## Revisar metadados da coleção {#section_k1s_sqb_c1b}
 
-* **type:** ** requirements string: Define o tipo de Coleção. Deve ser `reviews`.
+* **type:** ** requiredstring: Define o tipo Collection . Deve ser `reviews`.
 
-* **** ** ratingDimensionsoptionalarray: Uma matriz de strings para cada tipo de dimensão que esta Coleção usará. Se isso não for especificado, somente uma dimensão será permitida.
+* **** ** ratingDimensionsoptionalarray: Uma matriz de sequências de caracteres para cada tipo de dimensão que essa coleção usará. Se isso não for especificado, somente uma dimensão será permitida.
 
-   Por exemplo, para permitir que os usuários avaliem seu produto em &quot;design&quot;, &quot;recursos&quot; e &quot;desempenho&quot;, defina o storage como: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
+   Por exemplo, para permitir que os usuários classifiquem o produto em &quot;design&quot;, &quot;recursos&quot; e &quot;desempenho&quot;, defina o storage como: `ratingDimensions: [‘design’, ‘features’, ‘performance’]`
 
-* **** ** ratingSubpartsoptionalinteger: Número de partições a serem exibidas na caixa de texto da revisão. Os rótulos de subparte são passados com o parâmetro, conforme ilustrado abaixo.
+* **** ** ratingSubpartsoptionalinteger: Número de partições a serem exibidas na caixa de texto da revisão. Os rótulos de subparte são passados com o parâmetro , como ilustrado abaixo.
 
    >[!NOTE]
    >Você deve definir rótulos para cada subparte.
 
-* **array** ** ratingSubpartsIdsoptional: Permite definir uma ID para cada subparte na Coleção de classificações, que pode ser usada para público alvo desses elementos de subparte no CSS e no JavaScript. Quando os usuários postarem revisões, cada `ratingSubpart` terá o atributo &quot;`data-lf-subpart-id`&quot; nele, preenchido com essa ID.
+* **** ** ratingSubPartsIdsoptionalarray: Permite definir uma ID para cada subparte na Coleção de classificações, que pode ser usada para direcionar esses elementos de subparte no CSS e no JavaScript. Quando os usuários postam revisões, cada `ratingSubpart` terá o atributo &quot;`data-lf-subpart-id`&quot;, preenchido com essa ID.
 
 >[!NOTE]
 >
->Para usar `ratingSubpartsIds`, o parâmetro `ratingSubparts` também deve ser definido e o comprimento dos dois arrays deve corresponder.
+>Para usar `ratingSubpartsIds`, o parâmetro `ratingSubparts` também deve ser definido e o comprimento das duas matrizes deve corresponder.
 
 ```
 networkConfig["strings"] = { 
@@ -118,26 +114,26 @@ fyre.conv.load(networkConfig, [{
 
 >[!NOTE]
 >
->Se você estiver usando `ratingDimensions`, DEVERÁ usar `ratingSelectionDelegate`, `ratingDisplayDelegate` e `ratingSummaryDelegate` (se desejar mostrar o resumo da classificação).
+>Se estiver usando `ratingDimensions`, DEVE usar `ratingSelectionDelegate`, `ratingDisplayDelegate` e `ratingSummaryDelegate` (se desejar mostrar o resumo da classificação).
 
 ## Revisa a Personalização {#section_khz_xmb_c1b}
 
-### Configurar imagens de estrela
+### Configurar imagens de estrelas
 
 Para alterar a imagem para estrelas completas, a classe é `goog-ratings-star`. Altere a imagem de plano de fundo para a imagem que desejar. Por padrão, as estrelas têm 28 por 28 pixels.
 
-### Configurar imagens de estrelas com meia estrela
+### Configurar imagens estreladas com meias estrelas
 
-Com meia estrela, há duas classes, uma para cada lado da estrela. O lado esquerdo da meia estrela é `fyre-rating-half-odd` e o lado direito é `fyre-rating-half-even`. Por padrão, meia estrela tem 28 por 14 pixels.
+Com meia estrela, há duas classes, uma para cada lado da estrela. O lado esquerdo da meia estrela é `fyre-rating-half-odd` e o lado direito é `fyre-rating-half-even`. Por padrão, meia estrela é de 28 por 14 pixels.
 
 ### Configurar os valores da dica de ferramenta para estrelas
 
-Para configurar os valores da dica de ferramenta para as estrelas, siga o texto personalizado descrito em Personalizações de sequência de caracteres. Depois de configurá-la, use a tecla `ratingValues` e o valor de uma matriz que contém as strings da dica de ferramenta. Se você tiver meia estrela desativada, o número de elementos na matriz deverá ser igual a `maxRating` (acima). Se você tiver meia estrela ativada, o número de elementos deverá ser 2x `maxRating`. O primeiro elemento na matriz corresponde ao elemento de estrela mais à esquerda (ou meia estrela) e continua da esquerda para a direita.
+Para configurar os valores da dica de ferramenta para as estrelas, siga o texto personalizado descrito em Personalizações de sequência de caracteres. Depois de configurar, use a chave `ratingValues` e o valor de uma matriz que contém as cadeias de caracteres da dica de ferramenta. Se você tiver meia estrela desativada, o número de elementos na matriz deverá ser o mesmo que `maxRating` (acima). Se você tiver meia estrela ativada, o número de elementos deve ser 2x `maxRating`. O primeiro elemento na matriz corresponde ao elemento de estrela mais à esquerda (ou meia estrela) e continua da esquerda para a direita.
 
-### Alternar a opção &quot;Mostrar minha revisão&quot;
+### Ative a opção &quot;Mostrar minha revisão&quot;
 
-Para ativar ou desativar a opção [!UICONTROL Show My Review], público alvo o parâmetro `hideShowReviewButton` na configuração do aplicativo.
+Para ativar ou desativar a opção [!UICONTROL Show My Review], direcione o parâmetro `hideShowReviewButton` na configuração do aplicativo.
 
-### Mostrar o Editor de texto por padrão
+### Mostrar o editor de texto por padrão
 
-O editor de revisões aparece somente depois que o usuário pressiona o botão [!UICONTROL write review]. Para mostrar esse formulário por padrão, público alvo o parâmetro `alwaysShowEditor` na configuração do aplicativo.
+O editor de revisões aparece somente depois que o usuário pressiona o botão [!UICONTROL write review]. Para mostrar este formulário por padrão, direcione o parâmetro `alwaysShowEditor` na configuração do aplicativo.
