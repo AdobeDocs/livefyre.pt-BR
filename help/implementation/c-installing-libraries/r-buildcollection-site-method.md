@@ -1,20 +1,16 @@
 ---
-description: 'null'
-seo-description: nulo
-seo-title: método de site buildCollection
-solution: Experience Manager
-title: método de site buildCollection
-uuid: 52abc42a-9506-4492-b219-f2e05eb79c5f
+title: Método do Site buildCollection
+description: Método do Site buildCollection
+exl-id: d5c9a2fb-2d30-44f4-8ebf-24b0ec7babee
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 17%
+source-wordcount: '60'
+ht-degree: 15%
 
 ---
 
-
-# método de site buildCollection{#buildcollection-site-method}
+# Método do Site buildCollection{#buildcollection-site-method}
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -41,7 +37,7 @@ var collection = site.buildCollection(type, title, articleId, url);
 $collection = site->buildCollection(type, title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_collection(type, title, articleId, url) 
