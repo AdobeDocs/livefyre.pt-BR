@@ -1,28 +1,24 @@
 ---
-description: Carregue imagens em um fluxo de Blog ao vivo, Bate-papo, Revisões ou Comentários.
-seo-description: Carregue imagens em um fluxo de Blog ao vivo, Bate-papo, Revisões ou Comentários.
-seo-title: Carregamento de foto
-solution: Experience Manager
-title: Carregamento de foto
-uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
+description: Carregue imagens em um stream de Blog ao vivo, Chat, Revisões ou Comentários.
+title: Upload de foto
+exl-id: 97606f5b-75d4-439e-ad96-09e35b8d1f30
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '114'
 ht-degree: 3%
 
 ---
 
+# Upload de foto{#photo-upload}
 
-# Carregamento de foto{#photo-upload}
-
-Carregue imagens em um fluxo de Blog ao vivo, Bate-papo, Revisões ou Comentários.
+Carregue imagens em um stream de Blog ao vivo, Chat, Revisões ou Comentários.
 
 As fotos podem ser carregadas diretamente em qualquer aplicativo da biblioteca de fotos móvel, do disco rígido do computador ou das contas de rede social de um usuário.
 
-As Configurações de uma coleção ou site permitem que você defina se os usuários podem carregar fotos em um aplicativo. Essa opção pode estar ativada no nível de rede, site ou Coleção. Os proprietários e moderadores sempre podem carregar fotos em qualquer aplicativo.
+As Configurações de uma coleção ou site permitem definir se os usuários podem fazer upload de fotos em um aplicativo. Essa opção pode ser ativada no nível da rede, do site ou da Coleção. Os proprietários e moderadores sempre podem fazer upload de fotos em qualquer aplicativo.
 
-Este recurso de upload de fotos pode ser usado em conjunto com a configuração &quot;Mídia pré-carregada&quot;.
+Esse recurso de upload de foto pode ser usado junto com a configuração &quot;Mídia pré-implantada&quot;.
 
 Aplicativos que usam este recurso:
 
@@ -30,4 +26,3 @@ Aplicativos que usam este recurso:
 * [Comentários](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Resenhas](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Botão Upload](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
