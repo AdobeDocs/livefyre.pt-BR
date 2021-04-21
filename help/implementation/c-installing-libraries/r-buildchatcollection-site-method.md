@@ -1,22 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildChatCollection
-solution: Experience Manager
-title: método de site buildChatCollection
-uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
+description: Retorna um objeto Collection instanciado como um tipo Chat. Execute create_or_update() no objeto Collection para concluir o processo de compilação.
+title: Método do site buildChatCollection
+exl-id: b10f95de-9e6c-4fc3-987b-599717d5a9e7
 translation-type: tm+mt
-source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildChatCollection{#buildchatcollection-site-method}
 
-# método de site buildChatCollection{#buildchatcollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo de Chat. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Chat. Execute create_or_update() no objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -42,7 +38,7 @@ var collection = site.buildChatCollection(title, articleId, url);
 $collection = site->buildChatCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_chat_collection(title, articleId, url) 
