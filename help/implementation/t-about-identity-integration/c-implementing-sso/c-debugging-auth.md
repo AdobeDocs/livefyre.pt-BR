@@ -1,26 +1,22 @@
 ---
-description: Você pode fazer logon de um usuário por meio do console durante a integração e os testes para depurar a autorização.
-seo-description: Você pode fazer logon de um usuário por meio do console durante a integração e os testes para depurar a autorização.
-seo-title: Depuração do delegado de autenticação
-solution: Experience Manager
-title: Depuração do delegado de autenticação
-uuid: fb0c7396-190e-4dc9-bf26-23dde9efd45d
+description: Você pode fazer logon de um usuário no console durante a integração e os testes para depurar a autorização.
+title: Depuração do representante de autenticação
+exl-id: fa1c17fa-5aba-4f4c-9217-5823af30af61
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
+# Depuração do representante de autenticação{#debugging-auth-delegate}
 
-# Depuração do Representante de autenticação{#debugging-auth-delegate}
+Você pode fazer logon de um usuário no console durante a integração e os testes para depurar a autorização.
 
-Você pode fazer logon de um usuário por meio do console durante a integração e os testes para depurar a autorização.
+Faça logon de um usuário no console usando o seguinte `auth.authenticate` (token) e passe um token de usuário do Livefyre para autenticar usuários na página.
 
-Faça logon de um usuário no console usando o seguinte `auth.authenticate` (token) e passe um token de usuário do Livefyre para autenticar os usuários na página.
-
-Você também pode modificar o exemplo mostrado acima e adicionar o seguinte snippet em linha no seu JavaScript para fazer rapidamente logon no Livefyre (requer uma referência para autenticação).
+Você também pode modificar o exemplo mostrado acima e adicionar o seguinte trecho em linha no seu JavaScript para fazer logon rapidamente de um usuário no Livefyre (requer uma referência a auth).
 
 ```
 window.addEventListener('userAuthenticated', function(data) { 
@@ -29,4 +25,3 @@ window.addEventListener('userAuthenticated', function(data) {
  }); 
 });
 ```
-
