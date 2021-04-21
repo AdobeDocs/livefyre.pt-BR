@@ -1,22 +1,18 @@
 ---
-description: Adicione regras em fluxos para permitir que o conteúdo preencha automaticamente um aplicativo ou uma pasta com base nessas regras.
-seo-description: Adicione regras em fluxos para permitir que o conteúdo preencha automaticamente um aplicativo ou uma pasta com base nessas regras.
-seo-title: Adicionar regras para o seu fluxo
-solution: Experience Manager
+description: Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente um Aplicativo ou uma Pasta com base nessas regras.
 title: Adicionar regras para o seu fluxo
-uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
+exl-id: e3fe5785-ddb3-4a6c-ac58-0ec988dda8bf
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 12%
 
 ---
 
-
 # Adicionar regras para o seu fluxo{#add-rules-for-your-stream}
 
-Adicione regras em fluxos para permitir que o conteúdo preencha automaticamente um aplicativo ou uma pasta com base nessas regras.
+Adicione regras em Fluxos para permitir que o conteúdo preencha automaticamente um Aplicativo ou uma Pasta com base nessas regras.
 
 Adicione regras de fluxo ao seu fluxo a partir de uma ou mais das seguintes redes sociais ou tipos de conteúdo:
 
@@ -32,7 +28,7 @@ Adicione regras de fluxo ao seu fluxo a partir de uma ou mais das seguintes rede
 1. Crie ou abra um Fluxo.
 1. Adicione uma nova regra.
 1. Selecione o tipo de regra.
-1. Preencha as informações. O tipo de informação que você conclui depende de qual site ou método você obtém o conteúdo. Para obter mais informações sobre opções de regras de fluxo, consulte [Opções de regras de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)e a documentação de cada rede individual.
+1. Preencha as informações. O tipo de informação que você conclui depende do site ou método pelo qual você obtém conteúdo. Para obter mais informações sobre opções de regras de fluxo, consulte [Opções de Regra de Fluxo para Todas as Regras de Fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)e a documentação para cada rede individual.
 
    * [Páginas do Facebook](../c-streams/c-facebook-page-rules.md#c_facebook_page_rules)
    * [Email](../c-streams/c-email-rules.md#c_email_rules)
