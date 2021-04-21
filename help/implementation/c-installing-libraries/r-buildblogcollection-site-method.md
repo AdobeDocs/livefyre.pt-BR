@@ -1,22 +1,18 @@
 ---
-description: Retorna um objeto Collection instanciado como um tipo de Blog. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-description: Retorna um objeto Collection instanciado como um tipo de Blog. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
-seo-title: método de site buildBlogCollection
-solution: Experience Manager
-title: método de site buildBlogCollection
-uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
+description: Retorna um objeto Collection instanciado como um tipo Blog. Execute create_or_update() no objeto Collection para concluir o processo de compilação.
+title: Método do Site buildBlogCollection
+exl-id: 93565eff-dc4e-4868-9d75-50f16ddb4fa4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
+# Método do Site buildBlogCollection{#buildblogcollection-site-method}
 
-# método de site buildBlogCollection{#buildblogcollection-site-method}
-
-Retorna um objeto Collection instanciado como um tipo de Blog. Execute create_or_update() do objeto Collection para concluir o processo de compilação.
+Retorna um objeto Collection instanciado como um tipo Blog. Execute create_or_update() no objeto Collection para concluir o processo de compilação.
 
 | Variável | Tipo | Descrição |
 |--- |--- |--- |
@@ -42,7 +38,7 @@ var collection = site.buildBlogCollection(title, articleId, url);
 $collection = site->buildBlogCollection(title, articleId, url); 
 ```
 
-## Exemplo Python {#section_dwg_gds_rz}
+## Exemplo de Python {#section_dwg_gds_rz}
 
 ```
 collection = site.build_blog_collection(title, articleId, url) 
@@ -53,4 +49,3 @@ collection = site.build_blog_collection(title, articleId, url)
 ```
 collection = site.build_blog_collection(title, articleId, url) 
 ```
-
