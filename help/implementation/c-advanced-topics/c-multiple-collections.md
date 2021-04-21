@@ -1,26 +1,22 @@
 ---
-description: Mostre várias coleções em uma única página.
-seo-description: Mostre várias coleções em uma única página.
-seo-title: Várias coleções
-solution: Experience Manager
-title: Várias coleções
-uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
+description: Mostrar várias coleções em uma única página.
+title: Várias Coleções
+exl-id: 748b6ca6-635e-4bae-9b95-cfbd4651751f
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
 
+# Várias Coleções {#multiple-collections}
 
-# Várias coleções {#multiple-collections}
+Mostrar várias coleções em uma única página.
 
-Mostre várias coleções em uma única página.
+Você pode incluir várias Coleções em uma única página do site. Por exemplo, para publicar um evento, você pode ter uma discussão de Blog em tempo real ou Bate-papo durante o evento, com um aplicativo separado na lateral da página, exibindo Conteúdo preparado relacionado da Web social. Ou você pode incluir um Aplicativo de comentários abaixo de um artigo, com um Bate-papo ao lado.
 
-Você pode incluir várias coleções em uma única página do site. Por exemplo, para publicar um evento, você pode ter uma discussão de Blog ao vivo ou Bate-papo durante o evento, com um aplicativo separado na lateral da sua página, exibindo o Conteúdo curado relacionado na Web social. Ou você pode incluir um aplicativo de comentários abaixo de um artigo, com um bate-papo ao lado.
-
-Para obter várias conversas em uma página, adicione uma ou mais configurações em um storage e passe o storage para a chamada de carregamento. Por exemplo.
+Para obter várias conversas em uma página, adicione uma ou mais configurações em uma matriz e passe a matriz para a chamada de carregamento. Por exemplo.
 
 ```
 <html> 
