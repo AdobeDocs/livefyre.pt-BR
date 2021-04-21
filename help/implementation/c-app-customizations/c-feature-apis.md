@@ -1,25 +1,22 @@
 ---
 description: Automatize o processo usando as APIs de recurso
-seo-description: Automatize o processo usando as APIs de recurso
-seo-title: APIs de recursos
 title: APIs de recursos
-uuid: eac3a156-0b60-4ffa-8b6f-e451eb03da77
+exl-id: 765e47fe-a406-44e6-b4fb-b2e85fc83c01
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 2%
 
 ---
-
 
 # APIs de recursos{#feature-apis}
 
 Automatize o processo usando as APIs de recurso
 
-Use as APIs de recurso para automatizar o processo pelo qual o conteúdo é apresentado. Por exemplo, ao criar um Blog ao vivo ou um aplicativo de comentário, atribua todo o conteúdo publicado por um moderador selecionado para direcionar a conversa e estabelecer a consistência dentro do stream.
+Use as APIs de recurso para automatizar o processo pelo qual o conteúdo é apresentado. Por exemplo, ao criar um Blog em tempo real ou um Aplicativo de comentário, atribua todo o conteúdo publicado por um moderador selecionado para orientar a conversa e estabelecer consistência no fluxo.
 
-O Livefyre oferta as APIs Feature e Unfeature.
+O Livefyre oferece APIs Feature e Unfeature .
 
 ## Recurso {#section_jpw_nqw_xz}
 
@@ -29,7 +26,7 @@ O Livefyre oferta as APIs Feature e Unfeature.
 POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/feature/<commentId>/?lftoken=<base64userToken>
 ```
 
-&#x200B;Insira o token de usuário para o moderador selecionado.
+&#x200B; Digite o token de usuário para o moderador selecionado.
 
 **Dados da postagem**
 
@@ -37,7 +34,7 @@ POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/fea
 {value: <number>} 
 ```
 
-O valor será usado para classificar o conteúdo em destaque, do maior ao menor (10 aparecerão antes de 1 na lista de conteúdo em destaque). O padrão desse valor é **now** em cada época, portanto, os comentários em destaque normalmente serão classificados do mais recente para o mais antigo.
+O valor será usado para classificar o conteúdo em destaque, do maior para o menor (10 aparecerá antes de 1 na lista de conteúdo em destaque). Esse valor é padronizado para **now** em época, portanto, os comentários em destaque normalmente serão classificados do mais novo ao mais antigo.
 
 **Exemplo de resposta**
 
@@ -49,7 +46,7 @@ O valor será usado para classificar o conteúdo em destaque, do maior ao menor 
 >
 >O campo de dados ainda não está em uso.
 
-## Cancelar a funcionalidade {#section_knh_mqw_xz}
+## Cancelar funcionalidade {#section_knh_mqw_xz}
 
 **Recurso**
 
@@ -57,7 +54,7 @@ O valor será usado para classificar o conteúdo em destaque, do maior ao menor 
 POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/unfeature/<commentId>/?lftoken=<base64userToken>
 ```
 
-Insira o token do usuário para o moderador selecionado.
+Insira o token de usuário para o moderador selecionado.
 
 **Exemplo de resposta**
 
@@ -68,4 +65,3 @@ Insira o token do usuário para o moderador selecionado.
 >[!NOTE]
 >
 >O campo de dados ainda não está em uso.
-
