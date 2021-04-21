@@ -1,21 +1,18 @@
 ---
-description: 'null'
-seo-description: nulo
-seo-title: Separa strings personalizadas
-title: Separa strings personalizadas
-uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
+title: Registra Cadeias de Caracteres Personalizadas
+description: Registra Cadeias de Caracteres Personalizadas
+exl-id: b5e2c18b-5b98-45ff-aa89-dd92a02949a9
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 12%
+source-wordcount: '339'
+ht-degree: 11%
 
 ---
 
+# Indica strings personalizadas{#sidenotes-custom-strings}
 
-# Transfere strings personalizadas{#sidenotes-custom-strings}
-
-As strings personalizadas são aplicadas por meio de um objeto inserido no construtor Sidenotes e substituem as strings padrão usadas pelo aplicativo. Eles podem ser usados para personalizar qualquer parte do idioma de acordo com suas especificações de estilo ou idioma. As sequências de caracteres se mesclarão automaticamente com os padrões.
+As cadeias de caracteres personalizadas são aplicadas por meio de um objeto inserido no construtor Sidenotes e substituem as cadeias de caracteres padrão usadas pelo aplicativo. Eles podem ser usados para personalizar qualquer parte do idioma de acordo com seu estilo ou especificações de idioma. As sequências de caracteres se mesclarão automaticamente com os padrões.
 
 ```
 var customStrings = { 
@@ -28,27 +25,27 @@ new Livefyre.Sidenotes({
 
 | Chave | Padrão |
 |---|---|
-| appName | Sidenotes |
+| appName | Observações |
 | commentModeratorTag | Mod |
-| commentCurrentTag | Pendente |
+| commentPendingTag | Pendente |
 | commentReadMoreLink | Ler mais |
-| commentReplyLink | Consulte {número} respostas |
-| commentReplyLinkSing | Consulte resposta |
-| commentVoteCount | votação |
+| commentReplyLink | Veja {número} respostas |
+| commentReplyLinkSing | Ver resposta |
+| commentVoteCount | votações |
 | commentVoteCountSing | voto |
 | editorPlaceholder | O que você acha? |
 | editorPostBtn | Post Sidenote |
 | editorPostBtnMobile | Publicar |
-| editorPostagem | Postando… |
+| editorPosting | Postando… |
 | editorReplyBtn | Postar resposta |
-| editorReplyTitle | Gravar resposta |
-| editorTitle | Gravar nota |
+| editorReplyTitle | Resposta de gravação |
+| editorTitle | Nota de escrita |
 | emptyImageBlockTxt | O que você acha? |
 | emptyTextBlockTxt | + |
-| errorConnection | Oh-oh. Você não parece ter uma boa conexão. |
-| errorDuplicate | Também gostamos da sua nota, mas não é possível publicá-la duas vezes. |
+| errorConnection | Ah-oh. Você não parece ter uma boa conexão. |
+| errorDuplicate | Gostamos da sua nota também, mas você não pode publicá-la duas vezes. |
 | errorGeneral | Ocorreu um erro. Tente novamente. |
-| errorServer | Algo deu errado com nosso servidor. Tenta de novo? |
+| errorServer | Algo deu errado com nosso servidor. Tente isso de novo? |
 | facebookShareCaption | SideNotes em &quot;{title}&quot; |
 | menuAuthSignedInMsg | Você deve estar conectado a {action} |
 | menuAuthSignInBtn | Entrar |
@@ -56,48 +53,48 @@ new Livefyre.Sidenotes({
 | menuConfirmAccept | Sim, {action} |
 | menuConfirmCancel | Cancelar |
 | menuConfirmTitle | Você tem certeza? |
-| menuEtcOptionAprovar | Aprovar |
+| menuEtcOptionApprove | Aprovar |
 | menuEtcOptionDelete | Excluir |
 | menuEtcOptionEdit | Editar   |
 | menuEtcOptionFlag | Segnalato |
 | menuEtcOptionShare | Compartilhar |
 | menuEtcPostedAt | Publicado em {date} |
 | menuEtcTitle | Mais |
-| menuFlagOptionDisagree | Discordar |
-| menuFlagOptionOffensive | Ofensivo |
+| menuFlagOptionDisagree | Discordo |
+| menuFlagOptionOffensive | Ofensiva |
 | menuFlagOptionOffTopic | Tópico desativado |
 | menuFlagOptionSpam | Spam |
 | menuFlagTitle | Sinalizar como... |
 | menuInfoCopyright | © Livefyre, Inc. 2014 |
 | menuInfoHelp | Ajuda |
 | menuInfoLivefyreLink | Visite Livefyre.com |
-| menuRespostasExibirResponder | Responder à conversa |
-| menuRespostasExibirTítulo | Detalhes |
+| menuRepliesExibirResposta | Responder à Conversa |
+| menuRepliesViewTitle | Detalhes |
 | menuShareOptionFacebook | Facebook |
 | menuShareOptionLink | Copiar Permalink |
 | menuShareOptionLinkComplete | Copiado |
 | menuShareOptionLinkFailed | Falha na cópia |
 | menuShareOptionTwitter | Twitter |
-| menuCompartilharTítulo | Compartilhar |
-| notificationAprovado | Aprovado |
+| menuShareTitle | Compartilhar |
+| notificationApproved | Aprovado |
 | notificationDeleted | Excluído |
 | notificationFlagged | Sinalizado |
 | permalinkBackBtn | Todos |
 | permalinkTitle | Permalink |
-| questionExplication | Agora você pode ler e escrever comentários diretamente em frases, parágrafos, imagens e citações.<br><br>Realce o texto e clique no ícone &quot;fycon-write&quot; ou clique no ícone &quot;fycon-action-visualização&quot; no final de cada parágrafo. |
-| questionMockText | O que é &quot;conhecido familiar&quot; não é propriamente conhecido, apenas pelo fato de ser &quot;familiar&quot;. |
+| questionExplication | Agora é possível ler e escrever comentários diretamente em frases, parágrafos, imagens e aspas.<br><br>Realce o texto e clique no ícone &quot;fycon-write&quot; ou clique no ícone &quot;fycon-action-view&quot; no final de cada parágrafo. |
+| questionMockText | O &quot;conhecimento familiar&quot; não é bem conhecido, só pelo fato de ser &quot;familiar&quot;. |
 | questionTitle | O que é um Sidenote? |
-| queuedCommentsPlural | {número} Novos Sidenotes |
+| queuedCommentsPlural | {número} Novas Observações |
 | queuedCommentsSingular | 1 Novo Sidenote |
 | queuedRepliesPlural | {número} Novas Respostas |
-| queuedRepliesSingular | 1 Nova resposta |
+| queuedRepliesSingular | 1 Nova Resposta |
 | replyBtn | Responder |
-| signInToPost | Fazer logon para escrever uma nota de identidade |
+| signInToPost | Fazer logon para escrever uma nota |
 | sliderCommentTally | of |
 | sliderInviteRead | Lido |
 | sliderInviteWrite | Gravar |
 | sliderWriteText | O que você acha? Toque para gravar |
-| threadCollapseBtn | Recolher |
-| threadExpandBtnPlural | Expandir {number} Respostas |
+| threadColapseBtn | Recolher |
+| threadExpandBtnPlural | Expandir {número} Respostas |
 | threadExpandBtnSingular | Expandir 1 resposta |
-| threadReplyBtn | Responder à conversa |
+| threadReplyBtn | Responder à Conversa |
