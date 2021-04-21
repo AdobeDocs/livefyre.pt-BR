@@ -1,28 +1,26 @@
 ---
-seo-title: Ajuda do Livefyre
-solution: Experience Manager
-title: Ajuda da implementação do Livefyre
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+title: Ajuda de implementação do Livefyre
+description: Ajuda de implementação do Livefyre
+exl-id: 510826ea-3313-4388-ad82-63fe07d018bf
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 6%
 
 ---
 
-
 # Guia de implementação do Livefyre {#livefyre-help}
 
-Implemente o Livefyre Studio e os aplicativos Livefyre no seu site usando as ferramentas do desenvolvedor para personalizar sua experiência.
+Implemente o Livefyre Studio e os aplicativos do Livefyre no seu site usando ferramentas do desenvolvedor para personalizar sua experiência.
 
-Para obter informações sobre como usar o Livefyre Studio e os aplicativos Livefyre no Livefyre Studio, consulte o [*Guia do Usuário do Adobe Experience Manager Livefyre*](/help/using/home.md).
+Para obter informações sobre como usar o Livefyre Studio e os aplicativos do Livefyre no Livefyre Studio, consulte o [*Guia do Usuário do Adobe Experience Manager Livefyre*](/help/using/home.md).
 
 ## Tópicos populares
 
 * [Introdução à implementação](c-getting-started/c-getting-started.md)
 
-* [Usar aplicativos Livefyre com Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
+* [Usar aplicativos do Livefyre com o Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
 * [Android SDK para dispositivos móveis](c-mobile-sdks/c-android-sdk.md)
 
