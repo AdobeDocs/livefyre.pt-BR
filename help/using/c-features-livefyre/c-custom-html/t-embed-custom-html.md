@@ -1,30 +1,26 @@
 ---
 description: Siga estas etapas para incorporar HTML personalizado em seu site.
-seo-description: Siga estas etapas para incorporar HTML personalizado em seu site.
-seo-title: Incorporar HTML personalizado em comentários
-solution: Experience Manager
 title: Incorporar HTML personalizado em comentários
-uuid: f7d07286-b3b3-447d-8281-51735f24ddd9
+exl-id: efeefdd8-6f1f-44c2-80c7-1c0d7da1958c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
-# Incorporar HTML personalizado em Comentários{#embed-custom-html-in-comments}
+# Incorporar HTML personalizado em comentários{#embed-custom-html-in-comments}
 
 Siga estas etapas para incorporar HTML personalizado em seu site.
 
-Para incorporar HTML personalizado:
-1. Clique no botão HTML incorporado ( &lt;/> ) na caixa do editor de comentários para abrir a caixa do editor HTML.
+Para incorporar o HTML personalizado:
+1. Clique no botão HTML embed ( &lt;/> ) na caixa do editor de comentários para iniciar a caixa do editor HTML.
 
    >[!NOTE]
    >
    >Esse botão é visível somente para moderadores e proprietários.
 
-1. Cole seu código HTML no editor e clique em **[!UICONTROL OK]**. (Uma mensagem será exibida para todos os erros de validação de HTML.)
+1. Cole o código HTML no editor e clique em **[!UICONTROL OK]**. (Uma mensagem será exibida para qualquer erro de validação de HTML.)
 1. Uma pré-visualização da saída é exibida abaixo do editor de comentários.
 1. Clique em **[!UICONTROL Post Comment]** para exibir a saída no fluxo.
