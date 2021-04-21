@@ -1,28 +1,23 @@
 ---
-description: O Live Blog App oferta os seguintes recursos para seu site.
-seo-description: O Live Blog App oferta os seguintes recursos para seu site.
-seo-title: Recursos do Live Blog
-solution: Experience Manager
-title: Recursos do Live Blog
-uuid: 5a9fede3-e150-4655-b5e1-3ddaee9a6ba1
+description: O aplicativo Live Blog oferece os seguintes recursos para seu site.
+title: Recursos do blog ao vivo
+exl-id: f61ff31d-baf1-4862-b7ad-f2a8eb912000
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
+# Recursos do Blog ao Vivo{#live-blog-features}
 
-# Recursos do Live Blog{#live-blog-features}
-
-O Live Blog App oferta os seguintes recursos para seu site.
-
+O aplicativo Live Blog oferece os seguintes recursos para seu site.
 
 
-* Publique atualizações em tempo real postando diretamente no Live Blog.
-* Crie regras para preparar conteúdo social e pesquise por conteúdo curativo específico a ser adicionado ao seu blog.
-* Atualize seu Blog ao vivo do seu dispositivo móvel.
-* Habilite respostas para cada atualização de blog, a fim de incentivar uma maior conversa e envolvimento em cada atualização do Live Blog.
+
+* Publique atualizações em tempo real postando diretamente no Blog do Live.
+* Crie regras para preparar conteúdo social e pesquise por conteúdo de preparação específico para adicionar ao seu Blog.
+* Atualize seu Live Blog de seu dispositivo móvel.
+* Habilite respostas a cada atualização de blog para incentivar mais conversas e envolvimento em cada atualização do Live Blog.
 * Carregue fotos e adicione HTML personalizado a publicações de nível superior
-
