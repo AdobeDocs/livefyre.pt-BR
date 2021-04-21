@@ -1,42 +1,38 @@
 ---
-description: Notas de versão para a versão de 15 de novembro de 2018.
-seo-description: Notas de versão para a versão de 15 de novembro de 2018.
-seo-title: Notas de versão
-solution: Experience Manager
+description: Notas de versão para 15 de novembro de 2018.
 title: Notas de versão
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 3f904022-b770-4f35-a3b0-790e15748763
 translation-type: tm+mt
-source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 7%
+source-wordcount: '363'
+ht-degree: 6%
 
 ---
 
-
 # Notas de versão{#release-notes}
 
-Notas de versão para a versão de 15 de novembro de 2018.
+Notas de versão para 15 de novembro de 2018.
 
 ## Novos Recursos {#section_syx_mdt_wcb}
 
-Os novos recursos a seguir foram lançados na versão de produção desta versão:
+Os seguintes novos recursos foram lançados na versão de produção desta versão:
 
-* **Atualizações para a pesquisa e o fluxo do Instagram.** Você pode usar uma conta  *de negócios do Instagram* para:
+* **Atualizações na pesquisa e no fluxo do Instagram.** Você pode usar uma conta comercial  *Instagram* para:
 
-   * Execute uma pesquisa social do Instagram por usuário (o usuário também deve ser uma conta comercial do Instagram).
+   * Realize uma pesquisa social do Instagram por usuário (o usuário também deve ser uma conta comercial do Instagram).
 
    * Crie fluxos do Instagram a partir de uma conta de usuário específica do Instagram (a conta também deve ser uma conta comercial), incluindo a sua.
 
    * Solicite direitos para ativos do Instagram usando um fluxo de trabalho parcialmente automatizado.
 
-   * Para obter informações sobre que tipo de contas do Instagram você precisa configurar e solicitar direitos do Instagram, consulte [Sobre Contas do Instagram](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md).
+   * Para obter informações sobre que tipo de conta do Instagram você precisa configurar e solicitar direitos do Instagram, consulte [Sobre contas do Instagram](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md).
 
-* **Monitoramento automático de respostas de solicitação de direitos de uso para pesquisas baseadas em conta de negócios.** Somente para pesquisas baseadas em contas comerciais — a capacidade de monitorar automaticamente respostas a solicitações de direitos e atualizar o histórico de atividades no Livefyre está disponível.
+* **Monitoramento automático de respostas de solicitação de direitos de uso para pesquisas com base em conta de negócios.** Somente para pesquisas baseadas em contas comerciais — a capacidade de monitorar automaticamente respostas a solicitações de direitos e atualizar o histórico de atividades no Livefyre está disponível.
 
 Para obter mais informações sobre como solicitar direitos para contas do Instagram, consulte [Enviar solicitação de direitos do Instagram manualmente](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) e [Enviar uma solicitação de direitos do Instagram parcialmente automatizada](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Integração com o Adobe Target.** Adicionada integração com a Adobe Target que permite compartilhar aplicativos Livefyre diretamente na sua biblioteca do Adobe Target Oferta. Para obter mais informações sobre como usar o Livefyre com a Adobe Target, consulte [documentação do Público alvo](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Integração com o Adobe Target.** Adição de integração com o Adobe Target, que permite compartilhar os aplicativos do Livefyre diretamente na Biblioteca de ofertas da Adobe Target. Para obter mais informações sobre como usar o Livefyre com Adobe Target, consulte a [documentação do Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## Problemas {#section_ehw_ndt_wcb}
 
@@ -47,14 +43,14 @@ Os problemas nas tabelas a seguir foram resolvidos nesta versão.
 | Tipo de problema | Componente | Nota de versão |
 |--- |--- |--- |
 | Problema | AppService: Identidade do Livefyre | Correção de um problema em que clicar em [!UICONTROL Reset to Default] não redefinia o logotipo em Login Modal em Studio > Configurações de integração > Identidade do Livefyre para a imagem padrão. |
-| Problema | Biblioteca | Correção de um problema em que um vídeo carregado na Biblioteca e exibido em detalhes do ativo não era exibido corretamente. |
+| Problema | Biblioteca | Correção de um problema em que um vídeo carregado na Biblioteca e visualizado em detalhes do ativo não era exibido corretamente. |
 | Problema | Fluxos | Correção de um problema que impedia que os produtos fossem exibidos em uma regra de fluxo. |
 | Problema | Fluxos | Correção de um problema em que as tags de produto não estavam disponíveis para uma regra de fluxo. |
-| Aprimoramento | Studio | Corrigido um problema no qual a ID de produto não era exibida no Livefyre Studio. |
+| Aprimoramento | Studio | Correção de um problema em que a ID do produto não era exibida no Livefyre Studio. |
 | Problema | Estúdio: ModQ | Correção de um problema em que o conteúdo excluído ainda era exibido no ModQ após ser excluído. |
 
 ### Versão UAT
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Problema | Componente social: Carrossel | Correção de um problema em que o link Compartilhar não respondia e copiava o URL como esperado no IE11 e no Mozilla Firefox. |
+| Problema | Componente social: Carrossel | Correção de um problema em que o link Compartilhar não respondia e copiava o URL conforme esperado no IE11 e no Mozilla Firefox. |
