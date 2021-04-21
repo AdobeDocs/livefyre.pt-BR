@@ -1,22 +1,18 @@
 ---
-description: Um guia para criar tokens collectionMeta e auth.
-seo-description: Um guia para criar tokens collectionMeta e auth.
-seo-title: Criar tokens do lado do servidor
-solution: Experience Manager
+description: Um guia para criar tokens de coletaMeta e autenticação.
 title: Criar tokens do lado do servidor
-uuid: 8313f26e-5ceb-414e-a61a-480bb7a8ba66
+exl-id: f709b79e-9236-443e-b862-c7d281815d91
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
 
+# Criar tokens do lado do servidor{#build-server-side-tokens}
 
-# Build Server Side Tokens{#build-server-side-tokens}
-
-Um guia para criar tokens collectionMeta e auth.
+Um guia para criar tokens de coletaMeta e autenticação.
 
 A criação dos tokens que o Livefyre usa para validar solicitações garante que somente você possa fazer atualizações na sua rede do Livefyre.
 
@@ -30,15 +26,14 @@ Saiba como criar um token para autenticação de usuários, uma etapa necessári
 
 ## Token de autenticação do usuário {#section_l5l_hwt_bbb}
 
-Esta seção descreve como gerar o objeto JSON UserAuth que cria o token de Autenticação de Usuário necessário para fazer logon de usuários em seus aplicativos.
+Esta seção descreve como gerar o objeto JSON UserAuth que cria o token de autenticação de usuário necessário para registrar usuários em seus aplicativos.
 
-Para criar o token, use a biblioteca de idiomas preferida para transmitir os seguintes parâmetros:
+Para criar o token, use a biblioteca de idioma preferencial para transmitir os seguintes parâmetros:
 
 | Parâmetro | Tipo | Descrição |
 |---|---|---|
-| networkName | String *required* | O nome da rede Livefyre (fornecido pela Livefyre). |
-| networkKey | String *required* | A chave secreta para esta rede específica (fornecida pela Livefyre). |
-| userId | String *required* | A ID do usuário que faz logon como armazenada no sistema de gerenciamento de usuários (somente caracteres alfanuméricos, traço, sublinhado e pontos são permitidos: `[a-zA-Z0-9_-.]`). **Observação:** a userId deve ser exclusiva. |
-| expira | Número inteiro *obrigatório* | Quando o token deve expirar de agora (em segundos). **Observação:** esse valor também pode ser passado como flutuante. O token da Web JSON produzido armazenará esse valor na época UNIX. |
-| displayName | String *required* | Texto para identificar esse usuário na interface do usuário e em comentários. (Número máximo de caracteres: 50.) |
-
+| networkName | Sequência *necessária* | O nome da rede Livefyre (fornecido pela Livefyre). |
+| networkKey | Sequência *necessária* | A chave secreta para esta rede específica (fornecida pela Livefyre). |
+| userId | Sequência *necessária* | A ID do usuário que faz logon como armazenada no sistema de gerenciamento de usuários (somente caracteres alfanuméricos, traço, sublinhado e pontos são permitidos: `[a-zA-Z0-9_-.]`). **Observação:** o userId deve ser exclusivo. |
+| expira | Número inteiro *necessário* | Quando o token deve expirar de agora (em segundos). **Observação:** esse valor também pode ser passado como um flutuante. O token da Web JSON produzido armazenará esse valor em época UNIX. |
+| displayName | Sequência *necessária* | Texto para identificar esse usuário na interface do usuário e em comentários. (Número máximo de caracteres: 50.) |
