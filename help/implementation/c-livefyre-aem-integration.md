@@ -1,20 +1,17 @@
 ---
-description: Integre o Livefyre à sua integração AEM.
-seo-description: Integre o Livefyre à sua integração AEM.
-seo-title: Integração do Livefyre com AEM
-title: Integração do Livefyre com AEM
-uuid: 59e34327-abad-43cd-99a4-be151c7a8e25
+description: Integre o Livefyre à sua integração de AEM.
+title: Integração do Livefyre com o AEM
+exl-id: 868caa6d-10b5-4fd5-8a69-916d4439cc7f
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-
 # Integração do Livefyre com AEM {#integrating-livefyre-with-aem}
 
-Integre o Livefyre à sua integração AEM.
+Integre o Livefyre à sua integração de AEM.
 
 Para obter informações, consulte [integrando o Livefyre com AEM](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html).
