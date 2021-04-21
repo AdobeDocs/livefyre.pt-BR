@@ -1,22 +1,18 @@
 ---
-description: Especifique o local do Guia de navegação na tela.
-seo-description: Especifique o local do Guia de navegação na tela.
-seo-title: Mover o guia de navegação
-solution: Experience Manager
-title: Mover o guia de navegação
-uuid: 124cfda1-ef58-4b41-97e2-7a4fcf08210e
+description: Especifique a localização do Guia de Navegação na tela.
+title: Mover o Guia de Navegação
+exl-id: 00166235-b4b3-49f3-b6da-4d5c9e695120
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-
 # Mover o Guia de Navegação{#move-the-navigation-guide}
 
-Especifique o local do Guia de navegação na tela.
+Especifique a localização do Guia de Navegação na tela.
 
-1. No Storify 2 App Designer, ative a alternância **[!UICONTROL Navigation Guide]**.
+1. No Designer de aplicativos do Storify 2, ative a opção **[!UICONTROL Navigation Guide]**.
 1. Selecione superior, esquerda ou direita no menu suspenso **[!UICONTROL Orientation]**.
