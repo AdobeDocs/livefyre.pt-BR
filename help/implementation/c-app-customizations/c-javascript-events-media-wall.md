@@ -1,26 +1,22 @@
 ---
-description: Use eventos Javascript para ouvir eventos que ocorrem em um mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
-seo-description: Use eventos Javascript para ouvir eventos que ocorrem em um mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
-seo-title: Eventos Javascript para Media Wall
-solution: Experience Manager
-title: Eventos Javascript para Media Wall
-uuid: 8afc0529-4640-476a-b207-91b2c70101f0
+description: Use eventos Javascript para acompanhar eventos que ocorrem em um Mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
+title: Eventos Javascript para mural de mídia
+exl-id: 3fe76467-65e2-4f8b-bd75-5a2ffc3e7e15
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
+# Eventos Javascript para Mural de Mídia{#javascript-events-for-media-wall}
 
-# Eventos Javascript para Media Wall{#javascript-events-for-media-wall}
+Use eventos Javascript para acompanhar eventos que ocorrem em um Mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
 
-Use eventos Javascript para ouvir eventos que ocorrem em um mural de mídia e enviá-los para a ferramenta de análise de sua escolha.
+O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário nos aplicativos do Livefyre. Por exemplo, você pode querer atualizar a página quando os usuários curtirem ou compartilharem conteúdo com o Twitter ou Facebook, ou quando um novo conteúdo for publicado.
 
-O Livefyre fornece eventos JavaScript para rastrear a atividade do usuário em seus aplicativos Livefyre. Por exemplo, você pode desejar atualizar a página quando os usuários curtirem ou compartilharem conteúdo no Twitter ou Facebook, ou quando novo conteúdo for publicado.
-
-Este é um exemplo de como receber os eventos. Substitua `console.log` pelo código para mapear e enviar o evento para a integração do Analytics (Gerenciamento dinâmico de tags, Adobe Analytics JS, Google Analytics etc.):
+Este é um exemplo de como receber os eventos. Substitua `console.log` por seu código para mapear e enviar o evento para sua integração do Analytics (Dynamic Tag Management, Adobe Analytics JS, Google Analytics, etc.):
 
 ```
 document.body.addEventListener('insights', function (data) { 
@@ -28,22 +24,22 @@ document.body.addEventListener('insights', function (data) {
 });
 ```
 
-Lista de eventos de mural de mídia suportados:
+Lista de eventos do Mural de mídia suportados:
 
-## Eventos de mural de mídia
+## Eventos do mural de mídia
 
 | Evento | Definição |
 |---|---|
-| `Init` | Quando um mural de mídia é incluído em uma página. |
-| `Load` | Quando o Media Wall era carregado em uma página, independentemente da posição. |
-| `PostButtonClick` | Quando um usuário clica em um botão Carregar em um mural de mídia. |
-| `RequestMore` | Quando o usuário carrega mais conteúdo em um mural de mídia. |
-| `TwitterReplyClick` | Quando um usuário clica no botão Resposta do Twitter no Media Wall. |
-| `TwitterRetweetClick` | Quando um usuário clica no botão Retweet do Twitter no Media Wall. |
-| `TwitterLikeClick` | Quando um usuário clica no botão Curtir/Favorito do Twitter no Media Wall. |
-| `ModalView` | Quando o usuário clica para visualização do conteúdo do Media Wall em uma janela modal maior. |
-| `Like` | Quando um usuário clica no botão Curtir no Media Wall. |
-| `ShareButtonClick` | Sempre que um usuário clicar no botão Compartilhar em um cartão do Media Wall. |
-| `ShareURL` | Quando a área de texto Compartilhar para URL é selecionada/copiada do mural de mídia. |
-| `ShareFacebook` | Quando o botão Compartilhar no Facebook é clicado no Media Wall. |
-| `ShareTwitter` | Quando a opção Compartilhar no Twitter é clicada no Media Wall. |
+| `Init` | Quando um Mural de mídia é incluído em uma página. |
+| `Load` | Quando o Mural de mídia foi carregado em uma página, independentemente da posição. |
+| `PostButtonClick` | Quando um usuário clica em um botão Upload em um mural de mídia. |
+| `RequestMore` | Quando o usuário carrega mais conteúdo em um Mural de mídia. |
+| `TwitterReplyClick` | Quando um usuário clica no botão Resposta do Twitter no Mural de mídia. |
+| `TwitterRetweetClick` | Quando um usuário clica no botão Retweet do Twitter no Mural de mídia. |
+| `TwitterLikeClick` | Quando um usuário clica no botão Curtir/Favorito do Twitter no Mural de mídia. |
+| `ModalView` | Quando o usuário clica para exibir o conteúdo do Mural de mídia em uma janela modal maior. |
+| `Like` | Quando um usuário clica no botão Curtir no Mural de mídia. |
+| `ShareButtonClick` | Sempre que um usuário clicar no botão Compartilhar em um cartão do Mural de mídia. |
+| `ShareURL` | Quando a área de texto Compartilhar no URL é selecionada/copiada do Mural de mídia. |
+| `ShareFacebook` | Quando Compartilhar na Facebook é clicado no Mural de mídia. |
+| `ShareTwitter` | Quando Compartilhar na Twitter é clicado no Mural de mídia. |
