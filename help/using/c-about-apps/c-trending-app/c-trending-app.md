@@ -1,19 +1,15 @@
 ---
-description: Use Tendências para mostrar suas coleções mais ativas.
-seo-description: Use Tendências para mostrar suas coleções mais ativas.
-seo-title: Tendência
-solution: Experience Manager
+description: Use as Tendências para mostrar suas Coleções mais ativas.
 title: Tendência
-uuid: 7c0bc020-46a3-4ac6-a8db-9532a4fa83b1
+exl-id: 6db437bb-72b7-4ee2-8c42-773692c11c7f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 3%
+source-wordcount: '81'
+ht-degree: 2%
 
 ---
 
-
 # Tendência{#trending}
 
-Use Tendências para mostrar as Coleções mais ativas em um determinado site, para direcionar o tráfego do site para suas discussões mais ativas ou para permitir que os leitores avaliem a atividade do site rapidamente. O aplicativo exibe as principais coleções da mais para a menos ativa, com um gráfico de barras mostrando a popularidade relativa de cada coleção exibida. As tendências ajudam os leitores a determinar onde a maioria das conversas está acontecendo e as direcionam para essas conversas.
+Use as Tendências para mostrar as Coleções mais ativas em um determinado site, para direcionar o tráfego do site para suas discussões mais ativas ou permitir que os leitores possam medir a atividade do site imediatamente. O aplicativo exibe as principais Coleções da mais para a menos ativa, com um gráfico de barras mostrando a popularidade relativa de cada Coleção exibida. As tendências ajudam os leitores a determinarem onde estão ocorrendo mais conversas e as direcionam para essas conversas.
