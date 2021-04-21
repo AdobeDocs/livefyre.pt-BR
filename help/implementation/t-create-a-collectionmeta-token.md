@@ -1,26 +1,22 @@
 ---
-description: Crie uma nova coleção criando um collectionMeta token passado para o Livefyre.
-seo-description: Crie uma nova coleção criando um collectionMeta token passado para o Livefyre.
-seo-title: Criar uma coleção usando o CollectionMeta Token
-solution: Experience Manager
-title: Criar uma coleção usando o CollectionMeta Token
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+description: Crie uma nova Coleção criando um token collectionMeta que é passado para o Livefyre.
+title: Criar uma coleção usando o token CollectionMeta
+exl-id: d2dafc90-de21-4998-8e85-83f970524329
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Criar uma coleção usando o CollectionMeta Token{#create-a-collection-using-the-collectionmeta-token}
 
-Crie uma nova coleção criando um collectionMeta token passado para o Livefyre.
+Crie uma nova Coleção criando um token collectionMeta que é passado para o Livefyre.
 
-1. Crie o collectionMeta token.
+1. Crie o token collectionMeta.
 1. Crie a soma de verificação.
 
-   A soma de verificação é necessária se você quiser notificar o Livefyre de quaisquer alterações feitas na sua coleção. O Livefyre atualizará sua Coleção somente se a soma de verificação fornecida for diferente da soma de verificação enviada anteriormente. Criar uma soma de verificação é como criar um token `collectionMeta`, mas em vez de chamar `buildCollectionMetaToken` você chama `buildChecksum`.
+   A soma de verificação é necessária se você quiser notificar o Livefyre de qualquer alteração que tenha feito em sua Coleção. Livefyre atualizará sua Coleção somente se a soma de verificação fornecida for diferente da soma de verificação enviada anteriormente. Criar uma soma de verificação é como criar um token `collectionMeta`, mas em vez de chamar `buildCollectionMetaToken` você chama `buildChecksum`.
 
 Crie tokens de usuário para autenticação no Livefyre.
