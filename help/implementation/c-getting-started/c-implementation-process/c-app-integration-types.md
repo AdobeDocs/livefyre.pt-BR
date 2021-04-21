@@ -1,31 +1,27 @@
 ---
-description: Quando você implementa aplicativos Livefyre, o estilo de implementação depende do caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
-seo-description: Quando você implementa aplicativos Livefyre, o estilo de implementação depende do caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
-seo-title: Integrações de aplicativos CMS
-solution: Experience Manager
+description: Ao implementar os aplicativos Livefyre, o estilo de implementação depende do seu caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
 title: Integrações de aplicativos CMS
-uuid: 14fd7e36-0e50-4ae3-97f0-2de731c184f5
+exl-id: 7590e247-87cc-470e-bab6-e61a19221dbd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 2%
 
 ---
 
-
 # Integrações de aplicativos CMS{#cms-app-integrations}
 
-Quando você implementa aplicativos Livefyre, o estilo de implementação depende do caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
+Ao implementar os aplicativos Livefyre, o estilo de implementação depende do seu caso de uso. Esta página explica os recursos das três maneiras de criar um aplicativo.
 
-A integração do Livefyre é agnóstica a qualquer plataforma CMS, Perfil do usuário e Auth. Implemente o Livefyre de uma ou mais formas, dependendo do caso de uso e dos requisitos.
+A integração do Livefyre é independente de qualquer plataforma de CMS e Perfil de usuário e Auth. Implemente o Livefyre de uma ou mais formas, dependendo do caso de uso e das necessidades.
 
-Você pode usar a integração tradicional para criar componentes personalizados AEM.
+Você pode usar a integração tradicional para criar componentes personalizados de AEM.
 
-## Visão geral do tipo de integração do aplicativo CMS
+## Visão geral do tipo de integração de aplicativo CMS
 
 | Tipo | Requisito de desenvolvimento | Recursos | Pontos positivos | Limitações |
 |--- |--- |--- |--- |--- |
-| App Designer | Muito Baixo | Crie incorporações JS no Studio para adicionar a páginas sem um desenvolvedor <br>Estilo e configurações limitados disponíveis </br>Caso de uso: Páginas de uso único (cobertura do evento, campanhas, hubs) | Capaz de ativar e executar um aplicativo em um curto período de tempo. <br>As configurações podem ser feitas por um membro não técnico. <br>Alterações rápidas nas configurações | É necessário criar um aplicativo usando o Livefyre Studio primeiro <br>Não automatizado |
-| Livefyre.js | Médio | Integre aplicativos ao JavaScript de suas páginas <br>Caso de uso: Modelos reutilizáveis (conteúdo editorial, revisões de produtos) | Usar o conjunto completo de configurações e personalizações do aplicativo <br>Automatiza o processo para instanciar dinamicamente aplicativos de dentro do CMS em suas páginas | Preciso de um desenvolvedor na frente. |
-| APIs SDK | Advanced | Recupere seu conteúdo do Livefyre para usar em aplicativos personalizados <br>Personalize o front-end além da oferta suportada <br>Caso de uso: Integrações de dados/análises e aplicativos front-end personalizados | Poder total sobre a aparência do aplicativo | Requer desenvolvimento à frente. <br>Nível mais alto de esforço de desenvolvimento para implementar. |
+| App Designer | Muito baixa | Crie incorporações JS no Studio para adicionar a páginas sem um desenvolvedor <br>Estilo limitado e Configurações disponíveis </br>Caso de uso: Páginas de uso único (cobertura do evento, campanhas, hubs) | Capaz de ativar e executar um aplicativo em um curto período de tempo. <br>As configurações podem ser feitas por um membro não técnico. <br>Alterações fáceis em tempo real em configurações | Deve criar um aplicativo usando o Livefyre Studio primeiro <br>Não automatizado |
+| Livefyre.js | Médio | Integre aplicativos no JavaScript de suas páginas <br>Caso de uso: Modelos reutilizáveis (conteúdo editorial, revisões de produtos) | Usar o conjunto completo de personalizações e configurações do aplicativo <br>Automatiza o processo para instanciar dinamicamente os aplicativos de dentro do CMS em suas páginas | Precisa de um desenvolvedor na frente. |
+| APIs do SDK | Advanced | Recupere seu conteúdo do Livefyre para usar em aplicativos personalizados <br>Personalize o front-end além da oferta suportada <br>Caso de uso: Integrações do Data/Analytics e aplicativos front-end personalizados | Poder total sobre a aparência do aplicativo | Requer desenvolvimento à frente. <br>Maior nível de esforço de desenvolvimento para implementar. |
