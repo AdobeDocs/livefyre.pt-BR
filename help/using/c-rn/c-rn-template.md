@@ -1,14 +1,10 @@
 ---
 description: Notas de versão da versão <DATE>.
-seo-description: Notas de versão da versão <DATE>.
-seo-title: Notas de versão
-solution: Experience Manager
 title: Notas de versão
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '43'
 ht-degree: 25%
 
 ---
@@ -16,7 +12,7 @@ ht-degree: 25%
 
 # Notas de versão{#release-notes}
 
-Notas de versão da versão `<DATE>`.
+Notas de versão para a versão `<DATE>`.
 
 <!--- remove the carets and the quotes and fill in with actual values--->
 
