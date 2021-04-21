@@ -1,30 +1,26 @@
 ---
-description: Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
-seo-description: Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
-seo-title: Integração com Sidenotes
-solution: Experience Manager
-title: Integração com Sidenotes
-uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
+description: Integre um aplicativo de Observações seguindo um processo semelhante aos Aplicativos principais.
+title: Integração de observações
+exl-id: 368951b1-fef2-46d8-b89c-68c46962e937
 translation-type: tm+mt
-source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
+# Integração do Sidenotes{#sidenotes-integration}
 
-# Integração Sidenotes{#sidenotes-integration}
+Integre um aplicativo de Observações seguindo um processo semelhante aos Aplicativos principais.
 
-Integre um aplicativo Sidenotes seguindo um processo semelhante aos aplicativos principais.
+Como regra geral, se a integração do Aplicativo principal estiver concluída, o código gravado para gerar o objeto `collectionMeta` poderá ser reutilizado para observações.
 
-Como regra geral, se a integração do Aplicativo principal estiver concluída, o código gravado para gerar o objeto `collectionMeta` poderá ser reutilizado para Sidenotes.
-
-Você também pode reutilizar seus representantes `auth` existentes fornecendo um representante `auth` criado com `fyre.conv` para Sidenotes no campo (opcional) `authDelegate`.
+Você também pode reutilizar seus delegados `auth` existentes fornecendo um delegado `auth` criado com `fyre.conv` para Observações no campo (opcional) `authDelegate`.
 
 >[!NOTE]
 >
->As notas de identificação permitem que você inclua `network`, `siteId` e `articleId` em um único objeto, em vez de passá-los separadamente em outras partes do construtor.
+>As observações permitem incluir `network`, `siteId` e `articleId` em um único objeto, em vez de passá-las separadamente em outras partes do construtor.
 
 ```
 <!DOCTYPE html> 
@@ -56,7 +52,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Conforme observado na seção Criação `collectionMeta`, `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT.
+Conforme observado na seção Criação `collectionMeta` , `collectionMeta` é um objeto JSON codificado. No exemplo acima, o objeto JSON usa o seguinte formato antes de ser codificado em JWT.
 
 ```
 { 
@@ -72,7 +68,7 @@ Para obter mais informações, consulte o token `collectionMeta`.
 
 ## Configuração móvel
 
-As notas de identificação foram otimizadas para uso em dispositivos móveis. Para obter melhores resultados com as versões móveis do aplicativo Livefyre, defina a opção dimensionável pelo usuário como não. Por exemplo:
+As observações foram otimizadas para uso em dispositivos móveis. Para obter melhores resultados com as versões móveis do seu aplicativo Livefyre, defina a opção escalável pelo usuário como não. Por exemplo:
 
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no">
