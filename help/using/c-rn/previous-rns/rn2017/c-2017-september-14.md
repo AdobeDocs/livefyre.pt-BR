@@ -1,32 +1,28 @@
 ---
-description: Notas de versão para a versão de 14 de setembro de 2017.
-seo-description: Notas de versão para a versão de 14 de setembro de 2017.
-seo-title: 14 de setembro de 2017
+description: Notas de versão de 14 de setembro de 2017.
 title: 14 de setembro de 2017
-uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
+exl-id: 5667629a-1b65-454b-953c-2119d3d093db
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
-
 # 14 de setembro de 2017{#september}
 
-Notas de versão para a versão de 14 de setembro de 2017.
+Notas de versão de 14 de setembro de 2017.
 
 ## Versão de produção
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Studio | Correção de um bug que impedia que atualizações de status de direitos fossem exibidas imediatamente sem uma atualização de página. |
-| Aprimoramento | Studio | O modal Direitos foi revisado para as páginas de Pesquisa da Biblioteca e Social. Adicionada a capacidade de conceder e revogar direitos manualmente sobre ativos. As mensagens de erro/aviso são mais claras e ajudam a guiá-lo para enviar solicitações e respostas de direitos válidas. Um histórico de atividade aprimorado agora é exibido no modal. |
+| Bug | Studio | Correção de um bug que impedia a exibição imediata de atualizações de status de direitos sem atualização da página. |
+| Aprimoramento | Studio | Reformulação do modal Direitos das páginas Biblioteca e Pesquisa social . Adição da capacidade de conceder e revogar direitos manualmente em ativos. As mensagens de erro/aviso são mais claras e ajudam você a enviar solicitações e respostas de direitos válidos. Um histórico de atividades aprimorado é exibido no modal. |
 
 ## Versão UAT
 
 | **Tipo de problema** | **Componente** | **Nota de versão** |
 |---|---|---|
-| Bug | Mosaico | O bug de produção que fazia com que o mosaico exibisse Caixas cinza no IE11 no UGC. Nós consertamos isto. -SP |
-
+| Bug | Mosaico | Bug de produção que fez com que o Mosaic exibisse Caixas cinza no IE11 no UGC. Corrigimos isso. -SP |
