@@ -1,33 +1,28 @@
 ---
-description: Use as classes CSS disponíveis para criar um estilo diferente para o conteúdo em destaque do conteúdo em seu aplicativo.
-seo-description: Use as classes CSS disponíveis para criar um estilo diferente para o conteúdo em destaque do conteúdo em seu aplicativo.
-seo-title: Usar CSS para estilos de conteúdo em destaque
-solution: Experience Manager
-title: Usar CSS para estilos de conteúdo em destaque
-uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
+description: Use Classes CSS disponíveis para criar estilo com o conteúdo em destaque de forma diferente do conteúdo no seu aplicativo.
+title: Usar CSS para estilizar o conteúdo em destaque
+exl-id: 6829c1b3-407c-45c1-9bed-c78ab8f5b985
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
 
+# Usar CSS para estilizar o conteúdo em destaque{#use-css-to-style-featured-content}
 
-# Usar CSS para estilos de conteúdo em destaque{#use-css-to-style-featured-content}
+Use Classes CSS disponíveis para criar estilo com o conteúdo em destaque de forma diferente do conteúdo no seu aplicativo.
 
-Use as classes CSS disponíveis para criar um estilo diferente para o conteúdo em destaque do conteúdo em seu aplicativo.
+Todas as classes CSS Comment também podem ser aplicadas ao conteúdo em destaque.
 
-Todas as classes CSS de comentários também podem ser aplicadas ao conteúdo em destaque.
-
-As classes a seguir estão disponíveis para uso no conteúdo em destaque.
+As seguintes classes estão disponíveis para uso em conteúdo em destaque.
 
 | Classe | Descrição |
 |---|---|
-| .fyre-feature-content-wrapper | O container div para o leitor. |
-| .fyre-feature-header | A barra de título à esquerda. |
-| .fyre-feature-header-icon | O ícone de preenchimento do cabeçalho. |
-| .fyre-feature-title | O texto do cabeçalho. |
-| .fyre-feature-body | O container div para conteúdo em destaque no leitor. |
-| .fyre-feature-quote | O ícone de citação que inicia cada item de conteúdo. |
-
+| .fyre-featured-content-wrapper | O div do contêiner para o leitor. |
+| .fyre-featured-header | A barra de título à esquerda. |
+| .fyre-featured-header-icon | O ícone de preenchimento do cabeçalho. |
+| .fyre-featured-title | O texto do cabeçalho. |
+| .fyre-featured-body | O div do contêiner para conteúdo em destaque no leitor. |
+| .fyre-featured-quote | O ícone de aspas que inicia cada item de conteúdo. |
