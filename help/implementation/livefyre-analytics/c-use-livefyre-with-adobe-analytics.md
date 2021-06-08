@@ -1,10 +1,10 @@
 ---
 description: Configure o Adobe Analytics e o Gerenciador dinâmico de tags (DTM) para coletar dados dos aplicativos do Livefyre.
+title: Use o Livefyre com Adobe Analytics e o Gerenciador dinâmico de tags (DTM)
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-translation-type: tm+mt
-source-git-commit: 24d016fbb2771487f8105b2ca0bb0d03dd60cfc1
+source-git-commit: cbe23e8c253f1531418f18424e180d1adc16e426
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1027'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Mapeie variáveis de conversão do Livefyre (eVars) para variáveis de conversã
 * Atribua à variável de conversão um tipo
 1. Salve as variáveis de conversão personalizadas.
 
-## Etapa 3: Use o DTM para adicionar seu conjunto de relatórios com eventos do Livefyre {#section_t15_2hd_4cb}
+## Etapa 3: Usar o DTM para adicionar seu conjunto de relatórios com eventos do Livefyre {#section_t15_2hd_4cb}
 
 Adicione o Adobe Analytics ao DTM para fazer com que o Analytics funcione. Para fazer isso, crie uma nova propriedade e ferramenta e adicione o novo conjunto de relatórios com eventos Livefyre à propriedade. Para obter mais informações sobre o DTM, consulte [DTM](https://docs.adobe.com/content/help/en/dtm/using/c-overview.html).
 
@@ -91,7 +91,7 @@ Configure uma regra de carregamento de página para extrair todos os dados. A re
 1. Clique em **[!UICONTROL Save Code]**.
 1. Clique em **[!UICONTROL Save Rule]**.
 
-## Etapa 5: Crie uma regra de chamada direta para construir a configuração de mapeamento do Adobe Analytics para Livefyre {#section_gvp_b1g_pdb}
+## Etapa 5: Crie uma regra de chamada direta para construir a configuração de mapeamento do Adobe Analytics para o Livefyre {#section_gvp_b1g_pdb}
 
 Há outras maneiras de implementar o Livefyre com DTM usando eventos personalizados, campos da interface do usuário do Adobe Analytics no DTM e elementos de dados. Este documento usa o Javascript personalizado para obter o mesmo efeito.
 
@@ -190,7 +190,7 @@ Há outras maneiras de implementar o Livefyre com DTM usando eventos personaliza
 
 1. Clique em **Salvar Regra**.
 
-## Etapa 6: Aprovar alterações para Regra de Carregamento de Página {#section_pxc_11t_ycb}
+## Etapa 6: Aprovar alterações na regra de carregamento de página {#section_pxc_11t_ycb}
 
 1. Vá para a guia **[!UICONTROL Approvals]** .
 1. Clique em **[!UICONTROL Approve]**.
