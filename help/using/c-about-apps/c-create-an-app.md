@@ -2,8 +2,7 @@
 description: Para adicionar um aplicativo ao seu site, primeiro crie um aplicativo no Livefyre Studio.
 title: Criar um aplicativo
 exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 64596886ff960b34cee08b2a91cba5390a593089
 workflow-type: tm+mt
 source-wordcount: '1264'
 ht-degree: 0%
@@ -85,11 +84,9 @@ O Modo de visualização oferece as seguintes opções:
 
 * **[!UICONTROL Preview Options]**: Use o menu suspenso para selecionar um formato de visualização (móvel, tablet ou desktop) e mostrar  **[!UICONTROL Sample Data]** ou os dados de fluxo do aplicativo.
 
-* 
-
->[!NOTE]
->
->Se você desmarcar **[!UICONTROL Sample Data]** e nenhum Fluxo for ativado para o Aplicativo, nenhum conteúdo será exibido no Modo de visualização.
+   >[!NOTE]
+   >
+   >Se você desmarcar **[!UICONTROL Sample Data]** e nenhum Fluxo for ativado para o Aplicativo, nenhum conteúdo será exibido no Modo de visualização.
 
 * **[!UICONTROL Share]**: Abre o aplicativo em uma nova guia do navegador e gera um URL, que pode ser usado para permitir que amigos, colegas ou usuários não-Studio revisem seu aplicativo e o testem em navegadores e dispositivos diferentes.
 
@@ -111,7 +108,7 @@ O App Designer salva automaticamente seu aplicativo depois que você faz uma alt
 >
 >Clicar em **[!UICONTROL Publish]** gera um código incorporado para o aplicativo e atualiza todas as instâncias existentes do aplicativo, se publicadas anteriormente.
 
-## Revisar o histórico do aplicativo {#section_jsk_vmt_bbb}
+## Revisar histórico do aplicativo {#section_jsk_vmt_bbb}
 
 O App Designer salva automaticamente seu aplicativo depois que você faz uma alteração e gera uma nova versão para cada alteração. Você pode usar **[!UICONTROL History]** para abrir um painel listando todas as versões do seu aplicativo. As versões listadas mostrarão o editor de cada versão e sua idade.
 
@@ -146,7 +143,7 @@ A guia Resumo do aplicativo permite:
 * **[!UICONTROL Moderate]**: Abre o ModQ, listando todo o conteúdo que aguarda moderação para o aplicativo.
 * **[!UICONTROL Developer Info]**: Fornece a ID de coleção do aplicativo, a ID de artigo e a ID do site.
 
-## Incorpore um aplicativo em seu site usando o Studio {#section_w3h_1nt_bbb}
+## Incorpore um aplicativo ao seu site usando o Studio {#section_w3h_1nt_bbb}
 
 Gere o código incorporado.
 
