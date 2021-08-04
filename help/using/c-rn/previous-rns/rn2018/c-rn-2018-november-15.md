@@ -2,10 +2,9 @@
 description: Notas de versão para 15 de novembro de 2018.
 title: Notas de versão
 exl-id: 3f904022-b770-4f35-a3b0-790e15748763
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: beb224fdccf68c98fc3eff62b0867f22fa52902b
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '370'
 ht-degree: 6%
 
 ---
@@ -14,7 +13,7 @@ ht-degree: 6%
 
 Notas de versão para 15 de novembro de 2018.
 
-## Novos Recursos {#section_syx_mdt_wcb}
+## Novos recursos {#section_syx_mdt_wcb}
 
 Os seguintes novos recursos foram lançados na versão de produção desta versão:
 
@@ -32,7 +31,7 @@ Os seguintes novos recursos foram lançados na versão de produção desta vers�
 
 Para obter mais informações sobre como solicitar direitos para contas do Instagram, consulte [Enviar solicitação de direitos do Instagram manualmente](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) e [Enviar uma solicitação de direitos do Instagram parcialmente automatizada](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Integração com o Adobe Target.** Adição de integração com o Adobe Target, que permite compartilhar os aplicativos do Livefyre diretamente na Biblioteca de ofertas da Adobe Target. Para obter mais informações sobre como usar o Livefyre com Adobe Target, consulte a [documentação do Target](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Integração com o Adobe Target.** Adição de integração com o Adobe Target, que permite compartilhar os aplicativos do Livefyre diretamente na Biblioteca de ofertas da Adobe Target. Para obter mais informações sobre como usar o Livefyre com Adobe Target, consulte a [documentação do Target](https://experienceleague.adobe.com/docs/livefyre/using/library/livefyre-target.html).
 
 ## Problemas {#section_ehw_ndt_wcb}
 
