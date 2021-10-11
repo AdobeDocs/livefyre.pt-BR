@@ -2,15 +2,14 @@
 description: Personalização das cadeias de texto para as revisões do Livefyre.
 title: Rever cadeias de texto
 exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 1d9088eecf797e1af881cb6be55b3c96284f75e5
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '638'
 ht-degree: 5%
 
 ---
 
-# Revisar sequências de texto{#review-text-strings}
+# Rever cadeias de texto{#review-text-strings}
 
 Personalização das cadeias de texto para as revisões do Livefyre.
 
@@ -31,34 +30,34 @@ Para implementar esse recurso, passe um mapeamento de objeto 1-1 das cadeias de 
 Exemplo:
 
 ```
-var customStrings = { 
-   postAsButton: "New Post As Text", 
-   postEditButton: "New Post Edit Text" }; 
-networkConfig["strings"] = customStrings; fyre.conv.load( 
-   networkConfig, 
-   [convConfig], 
-   function(){} 
+var customStrings = {
+   postAsButton: "New Post As Text",
+   postEditButton: "New Post Edit Text" };
+networkConfig["strings"] = customStrings; fyre.conv.load(
+   networkConfig,
+   [convConfig],
+   function(){}
 );
 ```
 
-## Revisar / Rating Interface {#section_iyv_zj4_xz}
+## Revisar / Interface de Classificação {#section_iyv_zj4_xz}
 
 Cadeias de caracteres disponíveis para a interface de usuário de Revisão e Classificação .
 
 | Elemento | Chave | Texto padrão |
 |--- |--- |--- |
 | Botões | editReviewBtn | Editar revisão |
-|  | reviewBtn | [Análise de escrita](https://d.pr/i/QscA) |
-|  | resenhasClosed | [Revisões Fechadas](https://d.pr/i/zr7M) |
-|  | showReviewBtn | [Mostrar revisão](https://d.pr/i/onxU) |
+|  | reviewBtn | Análise de escrita |
+|  | resenhasClosed | Revisões Fechadas |
+|  | showReviewBtn | Mostrar revisão |
 |  | seguir | Estou interessado |
 |  | shareText | Acabei de escrever uma revisão. Dê uma olhada! |
 | Dicas de ferramentas de classificação | ratingValues | Uma matriz. Padrão = `[‘Poor’, ‘Poor’, ‘Fair’, ‘Fair’, ‘Average’, ‘Average’, ‘Good’, ‘Good’, ‘Excellent’, ‘Excellent’]`; <br>Observação: Os valores na matriz devem ser duplicados para atribuir a metade esquerda e direita de cada estrela o mesmo nome. |
 | Subpartes de classificação | ratingSubpartPlaceholder | Uma matriz. Padrão = `[]` |
 |  | ratingSubparttitles | Uma matriz. Padrão = `[]` |
 |  | reviewStreamTitle | Por padrão, em branco. Título da seção de resumo da revisão. |
-| Misc | averageRating | [Classificação média de usuário](https://d.pr/i/QscA) |
-|  | breakHeader | [Detalhamento da classificação](https://d.pr/i/QscA) |
+| Misc | averageRating | Classificação média de usuário |
+|  | breakHeader | Detalhamento da classificação |
 |  | útil | %s de %s encontrado útil |
 |  | útilPlural | %s de %s encontrado útil |
 |  | outOf | / |
@@ -71,9 +70,9 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 | Classificação | sortBy | Por padrão, em branco. |
-|  | sortHighestRated | [Classificação mais alta](https://d.pr/i/huTd) |
-|  | sortLowestRated | [Classificação mais baixa](https://d.pr/i/huTd) |
-|  | sortManyHelpful | [Mais úteis](https://d.pr/i/huTd) |
+|  | sortHighestRated | Classificação mais alta |
+|  | sortLowestRated | Classificação mais baixa |
+|  | sortManyHelpful | Mais úteis |
 | Erro de fluxo. | showMore | Mostrar mais |
 | Transmitir alta velocidade | newComment | Nova revisão |
 |  | newComments | Novas revisões |
@@ -90,7 +89,7 @@ As sequências estão disponíveis para as informações de autor e conteúdo in
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Quebra de linha | resenhasContentNotFoundMsg | [Esta revisão não está mais visível](https://d.pr/i/svXs) |
+| Quebra de linha | resenhasContentNotFoundMsg | Esta revisão não está mais visível |
 |  | backToComments | Voltar para Revisões |
 
 ## Ações do usuário {#section_tlx_wj4_xz}
@@ -99,12 +98,12 @@ Cadeias de caracteres disponíveis para ações do usuário: marcar, compartilha
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Rodapé do comentário | wasReviewHelpful | [Útil?](https://d.pr/i/Q0mA) |
+| Rodapé do comentário | wasReviewHelpful | Útil? |
 |  | wasReviewHelpfulMobile | Útil? |
-|  | ownIsReviewHelpful | [Considerado útil.](https://d.pr/i/Q0mA) |
-|  | reviewwasHelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | útilDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
-|  | reviewIsNotHelpful | [Não](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | Considerado útil. |
+|  | reviewwasHelpful | Sim |
+|  | útilDivider | &amp;vert; |
+|  | reviewIsNotHelpful | Não |
 | Modal de voto | voteTitle | Esta revisão foi útil? |
 |  | votarDesfavor | Não |
 |  | voteReplyTitle | Essa resposta foi útil? |

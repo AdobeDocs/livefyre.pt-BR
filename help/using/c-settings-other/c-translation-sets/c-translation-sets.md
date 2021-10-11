@@ -2,15 +2,14 @@
 description: Os Conjuntos de Tradução permitem especificar o idioma alternativo para os Aplicativos.
 title: Conjuntos de tradução
 exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 1d9088eecf797e1af881cb6be55b3c96284f75e5
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1294'
 ht-degree: 7%
 
 ---
 
-# Conjuntos de Tradução{#translation-sets}
+# Conjuntos de tradução{#translation-sets}
 
 Os Conjuntos de Tradução permitem especificar o idioma alternativo para os Aplicativos.
 
@@ -28,7 +27,7 @@ O conjunto de tradução da API substitui todos os conjuntos de tradução em qu
 O conjunto de tradução do aplicativo substitui os conjuntos de tradução no nível da rede e no nível do site.
 Os conjuntos de tradução no nível do site substituem os conjuntos de tradução no nível da rede.
 
-## Revisar sequências de texto {#c_review_text_strings}
+## Rever cadeias de texto {#c_review_text_strings}
 
 Personalização das cadeias de texto para as revisões do Livefyre.
 
@@ -49,17 +48,17 @@ Para implementar esse recurso, passe um mapeamento de objeto 1-1 das cadeias de 
 Exemplo:
 
 ```
-var customStrings = { 
-   postAsButton: "New Post As Text", 
-   postEditButton: "New Post Edit Text" }; 
-networkConfig["strings"] = customStrings; fyre.conv.load( 
-   networkConfig, 
-   [convConfig], 
-   function(){} 
+var customStrings = {
+   postAsButton: "New Post As Text",
+   postEditButton: "New Post Edit Text" };
+networkConfig["strings"] = customStrings; fyre.conv.load(
+   networkConfig,
+   [convConfig],
+   function(){}
 );
 ```
 
-## Revisar / Rating Interface {#section_iyv_zj4_xz}
+## Revisar / Interface de Classificação {#section_iyv_zj4_xz}
 
 Cadeias de caracteres disponíveis para a interface de usuário de Revisão e Classificação .
 
@@ -89,9 +88,9 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 | Classificação | sortBy | *Por padrão, em branco.* |
-|  | sortHighestRated | [Classificação mais alta](https://d.pr/i/huTd) |
-|  | sortLowestRated | [Classificação mais baixa](https://d.pr/i/huTd) |
-|  | sortManyHelpful | [Mais úteis](https://d.pr/i/huTd) |
+|  | sortHighestRated | Classificação mais alta |
+|  | sortLowestRated | Classificação mais baixa |
+|  | sortManyHelpful | Mais úteis |
 | Erro de fluxo. | showMore | Mostrar mais |
 | Transmitir alta velocidade | newComment | Nova revisão |
 |  | newComments | Novas revisões |
@@ -108,7 +107,7 @@ As sequências estão disponíveis para as informações de autor e conteúdo in
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Quebra de linha | resenhasContentNotFoundMsg | [Esta revisão não está mais visível](https://d.pr/i/svXs) |
+| Quebra de linha | resenhasContentNotFoundMsg | Esta revisão não está mais visível |
 |  | backToComments | Voltar para Revisões |
 
 ## Ações do usuário {#section_tlx_wj4_xz}
@@ -117,12 +116,12 @@ Cadeias de caracteres disponíveis para ações do usuário: marcar, compartilha
 
 | Elemento | Chave | Texto padrão |
 |---|---|---|
-| Rodapé do comentário | wasReviewHelpful | [Útil?](https://d.pr/i/Q0mA) |
+| Rodapé do comentário | wasReviewHelpful | Útil? |
 |  | wasReviewHelpfulMobile | Útil? |
-|  | ownIsReviewHelpful | [Considerado útil.](https://d.pr/i/Q0mA) |
-|  | reviewwasHelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | útilDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
-|  | reviewIsNotHelpful | [Não](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | Considerado útil. |
+|  | reviewwasHelpful | Sim |
+|  | útilDivider | &amp;vert; |
+|  | reviewIsNotHelpful | Não |
 | Modal de voto | voteTitle | Esta revisão foi útil? |
 |  | votarDesfavor | Não |
 |  | voteReplyTitle | Essa resposta foi útil? |
@@ -178,7 +177,7 @@ Strings disponíveis para mensagens de erro gerais.
 |  | errorTitleMaxChars | Seu título é muito longo. Edite e tente novamente. |
 |  | errorVoteOwnComment | Não pode votar na sua própria revisão |
 
-## Indica as sequências de texto {#c_sidenotes_text_strings}
+## Registra Cadeias de Caracteres de Texto {#c_sidenotes_text_strings}
 
 Personalização das cadeias de texto para Livefyre Sidenotes
 
@@ -200,14 +199,14 @@ Para implementar esse recurso, passe um mapeamento de objeto 1-1 das cadeias de 
 Exemplo:
 
 ```
-var customStrings = { 
-   postAsButton: "New Post As Text", 
-   postEditButton: "New Post Edit Text" 
-}; 
-networkConfig["strings"] = customStrings; fyre.conv.load( 
-   networkConfig, 
-   [convConfig], 
-   function(){} 
+var customStrings = {
+   postAsButton: "New Post As Text",
+   postEditButton: "New Post Edit Text"
+};
+networkConfig["strings"] = customStrings; fyre.conv.load(
+   networkConfig,
+   [convConfig],
+   function(){}
 );
 ```
 
