@@ -2,10 +2,10 @@
 title: Eventos do Livefyre Analytics
 description: Eventos do Livefyre Analytics
 exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 4%
+source-wordcount: '525'
+ht-degree: 5%
 
 ---
 
@@ -95,7 +95,6 @@ Veja a seguir uma lista de variáveis de conversão (eVars) fornecida pelo Livef
 
 Para obter mais informações sobre os tópicos discutidos nesta página, consulte:
 
-* [Gerenciador ](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)[do conjunto de relatóriosDTM](https://experienceleague.adobe.com/docs/livefyre/using/apps/filmstrip/c-filmstrip-app.html?lang=en)
-
-* [Regras](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [Gerenciador do Conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
+* [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)

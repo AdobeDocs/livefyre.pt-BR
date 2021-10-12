@@ -2,10 +2,9 @@
 description: Os Conjuntos de Tradução permitem especificar o idioma alternativo para os Aplicativos.
 title: Conjuntos de tradução
 exl-id: 688138bf-f8e9-4fe5-99e2-2451deefd217
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1302'
 ht-degree: 7%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 7%
 # Conjuntos de tradução {#translation-sets}
 
 Os Conjuntos de Tradução permitem especificar o idioma alternativo para os Aplicativos.
-
-<!-- 
-c_translation_sets.dita
--->
 
 Use as configurações de tradução para localizar aplicativos em vários idiomas ou especificar texto alternativo para vários aplicativos de um local no Studio. Por exemplo, você pode garantir que todos os sites em espanhol usem o idioma espanhol em todos os campos do aplicativo. Você também pode modificar o texto para que todos os campos correspondam à voz e ao toque do site ou da rede.
 
@@ -32,7 +27,7 @@ Os conjuntos de tradução em níveis diferentes se substituem após este padrã
 * O conjunto de tradução do aplicativo substitui os conjuntos de tradução no nível da rede e no nível do site.
 * Os conjuntos de tradução no nível do site substituem os conjuntos de tradução no nível da rede.
 
-## Revisar sequências de texto {#c-review-text-strings}
+## Rever cadeias de texto {#c-review-text-strings}
 
 Personalização das cadeias de texto para as revisões do Livefyre.
 
@@ -63,7 +58,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 );
 ```
 
-## Revisar / Rating Interface {#section_iyv_zj4_xz}
+## Revisar / Interface de Classificação {#section_iyv_zj4_xz}
 
 Cadeias de caracteres disponíveis para a interface de usuário de Revisão e Classificação .
 
@@ -99,9 +94,9 @@ Strings disponíveis para informações e exibição do fluxo de conteúdo.
 |---|---|---|
 | *Classificação* |  |  |
 |  | sortBy | *Por padrão, em branco.* |
-|  | sortHighestRated | [Classificação mais alta](https://d.pr/i/huTd) |
-|  | sortLowestRated | [Classificação mais baixa](https://d.pr/i/huTd) |
-|  | sortManyHelpful | [Mais úteis](https://d.pr/i/huTd) |
+|  | sortHighestRated | Classificação mais alta |
+|  | sortLowestRated | Classificação mais baixa |
+|  | sortManyHelpful | Mais úteis |
 | *Erro de fluxo.* |  |  |
 |  | showMore | Mostrar mais |
 | *Transmitir alta velocidade* |  |  |
@@ -124,7 +119,7 @@ As sequências estão disponíveis para as informações de autor e conteúdo in
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 | *Quebra de linha* |  |  |
-|  | resenhasContentNotFoundMsg | [Esta revisão não está mais visível](https://d.pr/i/svXs) |
+|  | resenhasContentNotFoundMsg | Esta revisão não está mais visível |
 |  | backToComments | Voltar para Revisões |
 
 ## Ações do usuário {#section_tlx_wj4_xz}
@@ -134,12 +129,12 @@ Cadeias de caracteres disponíveis para ações do usuário: marcar, compartilha
 | Elemento | Chave | Texto padrão |
 |---|---|---|
 | *Rodapé do comentário* |  |  |
-|  | wasReviewHelpful | [Útil?](https://d.pr/i/Q0mA) |
+|  | wasReviewHelpful | Útil? |
 |  | wasReviewHelpfulMobile | Útil? |
-|  | ownIsReviewHelpful | [Considerado útil.](https://d.pr/i/Q0mA) |
-|  | reviewwasHelpful | [Sim](https://d.pr/i/Q0mA) |
-|  | útilDivider | [&amp;vert;](https://d.pr/i/Q0mA) |
-|  | reviewIsNotHelpful | [Não](https://d.pr/i/Q0mA) |
+|  | ownIsReviewHelpful | Considerado útil. |
+|  | reviewwasHelpful | Sim |
+|  | útilDivider | &amp;vert; |
+|  | reviewIsNotHelpful | Não |
 | *Modal de voto* |  |  |
 |  | voteTitle | Esta revisão foi útil? |
 |  | votarDesfavor | Não |
@@ -202,7 +197,7 @@ Strings disponíveis para mensagens de erro gerais.
 |  | errorTitleMaxChars | Seu título é muito longo. Edite e tente novamente. |
 |  | errorVoteOwnComment | Não pode votar na sua própria revisão |
 
-## Indica as sequências de texto {#c_sidenotes_text_strings}
+## Registra Cadeias de Caracteres de Texto {#c_sidenotes_text_strings}
 
 Personalização das cadeias de texto para Livefyre Sidenotes
 

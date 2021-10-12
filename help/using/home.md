@@ -2,11 +2,10 @@
 title: Guia do usuário do Livefyre
 description: Guia do usuário do Livefyre
 exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 5%
 
 ---
 
@@ -32,7 +31,5 @@ Para obter informações sobre como implementar e personalizar os aplicativos do
 
 
 * [Use o Livefyre com o Adobe Target](/help/using/c-library/livefyre-target.md)
-
-* [Use o Livefyre com a extensão Livefyre do Adobe Launch](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
-
+* [Use o Livefyre com a extensão Livefyre do Adobe Launch](/help/using/c-library/launch-extension.md)
 * [Notas de versão](c-rn/c-rn.md#c_rn)

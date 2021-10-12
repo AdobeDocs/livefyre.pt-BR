@@ -2,10 +2,9 @@
 description: Use a API de fluxo e do Bootstrap com os aplicativos Livefyre.
 title: Visualizando detalhes da conta
 exl-id: b8458954-3727-4c4d-93dd-d21a4328e069
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -30,11 +29,9 @@ Por exemplo, um aplicativo de amostra tem 120 partes de conteúdo. O conteúdo &
 
 * `Init` O carregará ~120-70 partes de conteúdo em ordem decrescente:  [https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init](https://data.livefyre.com/bs3/v3.1/dharam.fyre.co/384931/NTU1NQ==/init)
 
-* `O.json` O carregará entre 1 e 50 partes do conteúdo em ordem crescente:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json)
-
-* `1.json` O carregará entre 51 e 100 partes do conteúdo em ordem crescente:  [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json)
-
-* `2.json` carregará ~101-120 partes de conteúdo em ordem crescente: [https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json](https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json)
+* `O.json` O carregará entre 1 e 50 partes do conteúdo em ordem crescente:  `https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/0.json`
+* `1.json` O carregará entre 51 e 100 partes do conteúdo em ordem crescente:  `https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/1.json`
+* `2.json` O carregará ~101-120 partes de conteúdo em ordem crescente:`https://data.livefyre.com/bs3/v3.1//dharam.fyre.co/384931/NTU1NQ==/2.json`
 
 [Clique aqui para ver o Fluxograma da Pesquisa de Bootstrap.](https://marketing-resource-help.s3.amazonaws.com/resources/help/en_US/livefyre/bootstrap-poll-flowchart.pdf)
 
@@ -47,7 +44,7 @@ Esse endpoint de pesquisa prolongada transmite conteúdo novo (por exemplo, um u
 
 A solicitação para a API de fluxo deve ser de aproximadamente 30 segundos (pesquisa prolongada), com o tempo limite esperado após 30 segundos, quando nenhum novo conteúdo é transmitido.
 
-Referência da API: [https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get)
+Referência da API: [https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operações:v3.1:collection:atualizações:método=get](https://api.livefyre.com/docs/apis/by-category/collections#operation=urn:livefyre:apis:stream1:operations:v3.1:collection:updates:method=get)
 
 Exemplo de solicitação:
 

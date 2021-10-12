@@ -2,9 +2,9 @@
 description: Configure o Adobe Analytics e o Gerenciador dinâmico de tags (DTM) para coletar dados dos aplicativos do Livefyre.
 title: Use o Livefyre com Adobe Analytics e o Gerenciador dinâmico de tags (DTM)
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1009'
 ht-degree: 1%
 
 ---
@@ -31,14 +31,16 @@ Mapeie variáveis de conversão do Livefyre (eVars) para variáveis de conversã
 
 1. No Gerenciador de conjunto de relatórios, clique em **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**.
 1. Escolha as variáveis de conversão personalizadas (eVars) a serem usadas e mapeie-as para as variáveis de conversão do Livefyre. Para mapear uma variável de conversão do Livefyre para uma variável de conversão personalizada:
-* Ativar a variável de conversão
-* Nomeie a variável de conversão
-* Atribua à variável de conversão um tipo
+
+   * Ativar a variável de conversão
+   * Nomeie a variável de conversão
+   * Atribua à variável de conversão um tipo
+
 1. Salve as variáveis de conversão personalizadas.
 
 ## Etapa 3: Usar o DTM para adicionar seu conjunto de relatórios com eventos do Livefyre {#section_t15_2hd_4cb}
 
-Adicione o Adobe Analytics ao DTM para fazer com que o Analytics funcione. Para fazer isso, crie uma nova propriedade e ferramenta e adicione o novo conjunto de relatórios com eventos Livefyre à propriedade. Para obter mais informações sobre o DTM, consulte [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en).
+Use tags para integrar o Analytics aos eventos do Livefyre. Para fazer isso, crie uma nova propriedade e ferramenta e adicione o novo conjunto de relatórios com eventos Livefyre à propriedade. Para obter mais informações, consulte [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
 
 Não é necessário executar essa etapa se já tiver uma propriedade ou ferramenta configurada para o conjunto de relatórios configurado com eventos do Livefyre.
 
@@ -65,7 +67,7 @@ Configure uma regra de carregamento de página para extrair todos os dados. A re
 1. Clique no botão **[!UICONTROL Create New Rule]**.
 1. Abra a seção **[!UICONTROL Conditions]** clicando no botão **[!UICONTROL Plus]**.
 1. Acione a regra. Escolha os tipos de acionador **[!UICONTROL DOM Ready]** ou **[!UICONTROL Onload]** se desejar atrasar ou implementar a regra de forma assíncrona.
-1. (Opcional) Adicione parâmetros adicionais para limitar as páginas que exibem os aplicativos do Livefyre. Para obter mais informações sobre opções de configuração adicionais, consulte [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en).
+1. (Opcional) Adicione parâmetros adicionais para limitar as páginas que exibem os aplicativos do Livefyre. Para obter mais informações sobre opções de configuração adicionais, consulte [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
 1. Em **[!UICONTROL Javascript/ Third Party Tags]**, clique na guia **[!UICONTROL Non-sequential]** e, em seguida, clique em **[!UICONTROL Add New Script]**.
 1. Selecione **[!UICONTROL Sequential HTML]** como o tipo de script.
 1. Adicione o script a seguir no editor de código e clique em **[!UICONTROL Save Code]**.
@@ -306,6 +308,5 @@ function addAnalyticsHandler() {
 Para obter mais informações sobre os tópicos discutidos nesta página, consulte:
 
 * [Gerenciador do Conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
-* [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)
-* [Regras](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [Visão geral das tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
