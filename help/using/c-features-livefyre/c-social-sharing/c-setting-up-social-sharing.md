@@ -2,8 +2,7 @@
 description: O painel Compartilhamento em redes sociais permite adicionar suas credenciais de aplicativo de rede social.
 title: Configuração do compartilhamento em redes sociais
 exl-id: aa940263-4cec-4ca3-aa74-84749e4cf2d0
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: b1177a52f3c4eb20b684dbf26bf699912937b988
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 2%
@@ -60,9 +59,8 @@ Para ativar o Bitly Peralinks, insira as seguintes informações para a integra�
 * **[!UICONTROL Login:]** Seu nome de usuário final fornecido Bitly. login.
 * **[!UICONTROL API Key:]** Sua chave de API Bitly.
 
-
-
 Aplicativos que usam este recurso:
+
 * [Carrossel](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Bate-papo](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Comentários](/help/using/c-about-apps/c-comments/c-comments.md)
