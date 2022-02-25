@@ -1,14 +1,13 @@
 ---
 description: Forneça UGC específico do produto em pontos específicos da jornada do cliente para aumentar a intenção de compra e a conversão usando o recurso Comércio UGC.
 title: Comércio UGC
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+exl-id: ba95e150-ccb1-4076-b3d5-3f31dbf45761
+source-git-commit: 669a0a7d61dbf0697c2f48fa7feac6eba89d2815
 workflow-type: tm+mt
 source-wordcount: '854'
 ht-degree: 2%
 
 ---
-
 
 # Comércio UGC{#ugc-commerce}
 
@@ -30,25 +29,25 @@ Coloque chamadas para ações do produto junto ao UGC para impulsionar a convers
 * Incorpore AEM aplicativos de visualização do Livefyre que oferecem suporte a recursos de comércio UGC, como o Media Wall e o Mosaic, nas páginas de detalhes do produto.
 * Use códigos de rastreamento de referências configuráveis com uma solução de análise para medir as conversões dos CTAs de produtos colocados em UGC e UGC colocados nas páginas de detalhes do produto.
 
-AEM usuários do Commerce podem integrar facilmente seu catálogo de produtos existente ao Livefyre para impulsionar a participação do usuário nos aplicativos de visualização do Livefyre. Os usuários do Livefyre que não usam AEM Commerce podem importar manualmente seus catálogos de produtos para o Livefyre. Consulte [Fazer upload de produtos para o Livefyre usando o upload de arquivo](/help/using/c-features-livefyre/c-ugc-commerce.md), para obter mais informações.
+AEM usuários do Commerce podem integrar facilmente seu catálogo de produtos existente ao Livefyre para impulsionar a participação do usuário nos aplicativos de visualização do Livefyre. Os usuários do Livefyre que não usam AEM Commerce podem importar manualmente seus catálogos de produtos para o Livefyre. Consulte [Faça upload de produtos para o Livefyre usando o upload de arquivo](/help/using/c-features-livefyre/c-ugc-commerce.md), para obter mais informações.
 
 Aplicativos que usam este recurso:
 
-* [Cartão de recursos](../c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app). Para obter informações sobre como usar o Comércio UGC em um Cartão de Recurso, consulte [Personalizações do Cartão de Recurso](../c-about-apps/c-feature-card-app/c-feature-card-app.md#section_uds_gzm_5y).
+* [Placa de recurso](../c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app). Para obter informações sobre como usar o Comércio UGC em um Cartão de Recurso, consulte [Personalizações da placa de recurso](../c-about-apps/c-feature-card-app/c-feature-card-app.md#section_uds_gzm_5y).
 
-* [](../c-about-apps/c-filmstrip-app/c-filmstrip-app.md#concept_jpc_n2j_jbb). Para obter informações sobre como usar o Comércio UGC em uma Tira de Arquivo, consulte [Personalizações da Tira de Arquivo](../c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md#c_filmstrip_customizations).
+* [](../c-about-apps/c-filmstrip-app/c-filmstrip-app.md#concept_jpc_n2j_jbb). Para obter informações sobre como usar o Comércio UGC em uma Tira de Arquivo, consulte [Personalizações da faixa de filtros](../c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md#c_filmstrip_customizations).
 
 * [Mural de mídia](../c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app). Para obter informações sobre como usar o Comércio UGC em um Mural de mídia, consulte [Personalizações do mural de mídia](../c-about-apps/c-media-wall-app/r-media-wall-customizations.md#r_media_wall_customizations).
 
-* [Mosaic](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app). Para obter informações sobre como usar o Comércio UGC em um Mosaic, consulte [Personalizações do Mosaic](../c-about-apps/c-mosaic-app/c-mosaic-customizations.md#c_mosaic_customizations).
+* [Mosaico](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app). Para obter informações sobre como usar o Comércio UGC em um Mosaic, consulte [Personalizações do Mosaic](../c-about-apps/c-mosaic-app/c-mosaic-customizations.md#c_mosaic_customizations).
 
-## Visão geral: Como usar o botão de ação Chamar para a atividade do Comércio UGC {#section_s2d_tln_n1b}
+## Visão geral: Como usar o botão de ação Chamar para comércio UGC {#section_s2d_tln_n1b}
 
 1. Crie um aplicativo com um botão de ação. Consulte [Adicionar um botão de ação de chamada a um aplicativo](/help/using/c-features-livefyre/c-call-to-action-button.md#task_36190DD1C8204C7793CB7EEA379C2155).
 1. Adicione o catálogo de produtos ao Livefyre. É possível importar conteúdo de uma das duas formas a seguir:
 
-   * [Importe produtos para o Livefyre usando AEM ](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html) Commerce, se você usar AEM Commerce.
-   * [Faça upload de produtos para o ](/help/using/c-features-livefyre/c-ugc-commerce.md) Livefyrese não usar AEM Commerce.
+   * [Importação de produtos para o Livefyre usando AEM Commerce](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html) se você usar AEM Commerce.
+   * [Faça upload de produtos para o Livefyre](/help/using/c-features-livefyre/c-ugc-commerce.md) se você não usar AEM Commerce.
 
 1. Associe produtos ao conteúdo. Você pode fazer isso de uma das quatro maneiras:
 
@@ -65,17 +64,17 @@ Faça upload dos produtos a serem usados com o botão de ação Chamada para adi
 >
 >Fazer upload de um arquivo para uma pasta com arquivos existentes excluirá todos os arquivos dessa pasta e os substituirá pelo novo arquivo.
 
-1. Navegue até **[!UICONTROL Network Settings > Products.]**
-1. Crie um **[!UICONTROL Product Folder]** ou use um **[!UICONTROL Product Folder]** existente.
+1. Navegar para **[!UICONTROL Network Settings > Products.]**
+1. Crie um **[!UICONTROL Product Folder]** ou usar um **[!UICONTROL Product Folder]**.
 
-1. Clique em **[!UICONTROL Product Folder]** para selecioná-lo.
-1. Clique no botão **[!UICONTROL Upload Products]**.
+1. Clique no botão **[!UICONTROL Product Folder]** para selecioná-lo.
+1. Clique no botão **[!UICONTROL Upload Products]** botão.
 1. Faça upload de um arquivo de produto em um dos seguintes formatos:
 
    * Formato de arquivo de produtos Google
    * Formato Livefyre (ver abaixo)
 
-   Faça upload de um arquivo JSON no formato padrão. Você pode baixar um modelo para ver um exemplo do formato padrão. Veja a seguir um exemplo de uma linha de produto em um modelo. Ela segue a sequência `{"key": "value", "key": "value"}, {"key": "value", "key": "value"}`:
+   Faça upload de um arquivo JSON no formato padrão. Você pode baixar um modelo para ver um exemplo do formato padrão. Veja a seguir um exemplo de uma linha de produto em um modelo. Ele segue a sequência `{"key": "value", "key": "value"}, {"key": "value", "key": "value"}`:
 
    ```
    {"id": "1", "title": "Flex RN 2017", "isFolder": false, "description": "Flex RN 2017", "price": "$85", "sku": "sku11111", "summary": "This brand is a member of the Sustainable Apparel Coalition", "features": "Cushioning: Lightweight, flexible response", "url": "www.shopping.com/shoes-flex-rn-2017/product/9", "attributes": [{"type": "color", "value": "blue"}
@@ -97,13 +96,13 @@ Faça upload dos produtos a serem usados com o botão de ação Chamada para adi
 | sku | String   | Unidade de manutenção de estoque (SKU) do produto. |
 | url | String | Link para a página do produto. |
 | ativado | Booleano | Um valor True significa que o produto está ativo. |
-| atributos | Matriz | Tipos e valores que definem o produto (por exemplo, cor, tamanho, etc.). Esta é uma matriz de objetos.</br>**Propriedades:** </br>tipo  </br>Tipo: </br>StringDescription: Cor, tamanho  </br>valor  </br>Tipo: Sequência de  </br>descrição: Verde, XS |
+| atributos | Matriz | Tipos e valores que definem o produto (por exemplo, cor, tamanho, etc.). Esta é uma matriz de objetos.</br>**Propriedades:** </br>type </br>Tipo: String</br>Descrição: Cor, tamanho </br>value </br>Tipo: String </br>Descrição: Verde, XS |
 | específicos | Matriz | Tags que definem categorias de conteúdo (por exemplo, carros, sapatos, etc.). Esta é uma matriz de sequências de caracteres. |
 
 ## ModQ {#section_os1_v4t_n1b}
 
-Você pode associar conteúdo a produtos do seu catálogo de produtos no ModQ, de acordo com seus fluxos de trabalho de moderação existentes. Para obter informações sobre como usar o Comércio UGC com o ModQ, consulte [Moderar conteúdo usando ModQ](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md).
+Você pode associar conteúdo a produtos do seu catálogo de produtos no ModQ, de acordo com seus fluxos de trabalho de moderação existentes. Para obter informações sobre como usar o UGC Commerce com o ModQ, consulte [Moderar conteúdo usando ModQ](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md).
 
 ## Fluxos {#section_qtj_v4t_n1b}
 
-Você pode associar produtos automaticamente ao conteúdo usando regras de fluxo, publicar o conteúdo automaticamente em um aplicativo, salvá-lo na Biblioteca ou Moderá-lo usando o ModQ. Para obter mais informações sobre como usar o Comércio UGC com Regras de fluxo, consulte [Opções de regra de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Você pode associar produtos automaticamente ao conteúdo usando regras de fluxo, publicar o conteúdo automaticamente em um aplicativo, salvá-lo na Biblioteca ou Moderá-lo usando o ModQ. Para obter mais informações sobre como usar o Comércio UGC com regras de fluxo, consulte [Opções de regra de fluxo para todas as regras de fluxo](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

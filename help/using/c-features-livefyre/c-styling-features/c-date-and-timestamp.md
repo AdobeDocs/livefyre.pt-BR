@@ -1,14 +1,13 @@
 ---
 description: Você pode alterar a data e o formato do carimbo de data e hora para atender às suas necessidades.
 title: Data e carimbo de data e hora
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+exl-id: cc1043ae-d8f7-4aee-b54e-7cac5fe9c141
+source-git-commit: 669a0a7d61dbf0697c2f48fa7feac6eba89d2815
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 4%
 
 ---
-
 
 # Data e carimbo de data e hora{#date-and-timestamp}
 
@@ -30,4 +29,3 @@ Aplicativos que usam este recurso:
 * [Resenhas](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Observações](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
